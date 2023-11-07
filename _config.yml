@@ -1,6 +1,6 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+remote_theme: pages-themes/cayman@v0.2.0
+title: MyBlog IT
+description: IT articles
 
 lsi: false
 safe: true
@@ -12,6 +12,9 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # deployment
 host: 0.0.0.0
