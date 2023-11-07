@@ -73,6 +73,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-theme-minimal
+  rouge
 
 BUNDLED WITH
    2.4.21
