@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2023-11-07T19:10:07+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Your Site Title</title><subtitle>Your Site Description
+</subtitle><author><name>Your Name</name></author><entry><title type="html">Comment installer Apache 2.4 (httpd) sous CentOS 7</title><link href="http://0.0.0.0:4000/2023/11/07/test1.html" rel="alternate" type="text/html" title="Comment installer Apache 2.4 (httpd) sous CentOS 7" /><published>2023-11-07T00:00:00+00:00</published><updated>2023-11-07T00:00:00+00:00</updated><id>http://0.0.0.0:4000/2023/11/07/test1</id><content type="html" xml:base="http://0.0.0.0:4000/2023/11/07/test1.html"><![CDATA[<h1 id="prérequis"><span style="color:darkgreen;"><i class="fas fa-caret-right" style="margin-right:10px;"></i>Prérequis</span></h1>
+
+<p><i class="fas fa-check" style="color:green;margin-right:10px;"></i>Aucun</p>
+
+<h1 id="installer-apache"><span style="color:darkgreen;"><i class="fas fa-caret-right" style="margin-right:10px;"></i>Installer Apache</span></h1>
+
+<p>Installer le package Apache <code class="language-plaintext highlighter-rouge">httpd</code> :</p>
+
+<p><span style="color:coral;"><i class="fas fa-laptop-code" style="margin-right:10px;"></i><em>Shell :</em></span></p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>yum <span class="nb">install </span>httpd
+</code></pre></div></div>
+
+<h1 id="vérifier-que-le-serveur-web-est-fonctionnel"><span style="color:darkgreen;"><i class="fas fa-caret-right" style="margin-right:10px;"></i>Vérifier que le serveur Web est fonctionnel</span></h1>
+
+<p>Apache ne démarre pas automatiquement sur CentOS une fois l’installation terminée. Il faut démarrer le processus Apache manuellement :</p>
+
+<p><span style="color:coral;"><i class="fas fa-laptop-code" style="margin-right:10px;"></i><em>Shell :</em></span></p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>systemctl start httpd
+</code></pre></div></div>
+
+<p>Vérifier que le service est en cours d’exécution avec la commande suivante :</p>
+
+<p><span style="color:coral;"><i class="fas fa-laptop-code" style="margin-right:10px;"></i><em>Shell :</em></span></p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>systemctl status httpd
+</code></pre></div></div>
+
+<p>Le statut <code class="language-plaintext highlighter-rouge">"active"</code> est présent lorsque le service est en cours d’exécution :</p>
+
+<p><span style="color:darkseagreen;"><i class="fas fa-desktop" style="margin-right:10px;"></i><em>Sortie :</em></span></p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Redirecting to /bin/systemctl status httpd.service
+● httpd.service - The Apache HTTP Server
+   Loaded: loaded <span class="o">(</span>/usr/lib/systemd/system/httpd.service<span class="p">;</span> enabled<span class="p">;</span> vendor preset: disabled<span class="o">)</span>
+   Active: active <span class="o">(</span>running<span class="o">)</span> since Wed 2019-02-20 01:29:08 UTC<span class="p">;</span> 5s ago
+     Docs: man:httpd<span class="o">(</span>8<span class="o">)</span>
+           man:apachectl<span class="o">(</span>8<span class="o">)</span>
+ Main PID: 1290 <span class="o">(</span>httpd<span class="o">)</span>
+   Status: <span class="s2">"Processing requests..."</span>
+   CGroup: /system.slice/httpd.service
+           ├─1290 /usr/sbin/httpd <span class="nt">-DFOREGROUND</span>
+           ├─1291 /usr/sbin/httpd <span class="nt">-DFOREGROUND</span>
+           ├─1292 /usr/sbin/httpd <span class="nt">-DFOREGROUND</span>
+           ├─1293 /usr/sbin/httpd <span class="nt">-DFOREGROUND</span>
+           ├─1294 /usr/sbin/httpd <span class="nt">-DFOREGROUND</span>
+           └─1295 /usr/sbin/httpd <span class="nt">-DFOREGROUND</span>
+</code></pre></div></div>
+
+<p>Ouvrir votre navigateur et saisir dans la barre d’adresse : <code class="language-plaintext highlighter-rouge">http://your_server_ip</code></p>
+
+<p>La page Web par défaut de CentOS 7 Apache doit apparaître comme ci-dessous :</p>
+
+<p><img src="/assets/img/apps/apache_http_server/apache_http_server_centos8.png =x500" alt="apache_http_server_centos8.png" /></p>
+
+<p>Cette page indique que le serveur web Apache fonctionne correctement. Il contient également des informations de base sur les fichiers importants et les emplacements de répertoires.</p>
+
+<h1 id="activer-apache-au-démarrage-du-système"><span style="color:darkgreen;"><i class="fas fa-caret-right" style="margin-right:10px;"></i>Activer Apache au démarrage du système</span></h1>
+
+<p>Par défaut, le service Apache <code class="language-plaintext highlighter-rouge">httpd</code> n’est pas démarrer automatiquement au démarrage du serveur. Pour y remédier, il faut exécuter la commande suivante :</p>
+
+<p><span style="color:coral;"><i class="fas fa-laptop-code" style="margin-right:10px;"></i><em>Shell :</em></span></p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>systemctl <span class="nb">enable </span>httpd
+</code></pre></div></div>
+
+<p><span style="color:green;"><i class="fas fa-desktop" style="margin-right:10px;"></i><em>Sortie :</em></span></p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Created symlink from /etc/systemd/system/multi-user.target.wants/httpd.service to /usr/lib/systemd/system/httpd.service.
+</code></pre></div></div>]]></content><author><name>Your Name</name></author><category term="app," /><category term="apache," /><category term="httpd," /><category term="centos" /><summary type="html"><![CDATA[Application]]></summary></entry><entry><title type="html">Welcome</title><link href="http://0.0.0.0:4000/2018/07/01/welcome.html" rel="alternate" type="text/html" title="Welcome" /><published>2018-07-01T00:00:00+00:00</published><updated>2018-07-01T00:00:00+00:00</updated><id>http://0.0.0.0:4000/2018/07/01/welcome</id><content type="html" xml:base="http://0.0.0.0:4000/2018/07/01/welcome.html"><![CDATA[<p>If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:</p>
+
+<p>You may want to <a href="https://kitian616.github.io/jekyll-TeXt-theme/docs/en/configuration">config the site</a> or <a href="https://kitian616.github.io/jekyll-TeXt-theme/docs/en/writing-posts">writing a post</a> next. Please feel free to <a href="https://github.com/kitian616/jekyll-TeXt-theme/issues">create an issue</a> or <a href="mailto:kitian616@outlook.com">send me email</a> if you have any questions.</p>
+
+<!--more-->
+
+<hr />
+
+<p>If you like TeXt, don’t forget to give me a star. :star2:</p>
+
+<p><a href="https://github.com/kitian616/jekyll-TeXt-theme/"><img src="https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?label=Stars&amp;style=social" alt="Star This Project" /></a></p>]]></content><author><name>Your Name</name></author><category term="TeXt" /><summary type="html"><![CDATA[If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost: You may want to config the site or writing a post next. Please feel free to create an issue or send me email if you have any questions.]]></summary></entry><entry><title type="html">Post with Header Image</title><link href="http://0.0.0.0:4000/2018/06/01/header-image.html" rel="alternate" type="text/html" title="Post with Header Image" /><published>2018-06-01T00:00:00+00:00</published><updated>2018-06-01T00:00:00+00:00</updated><id>http://0.0.0.0:4000/2018/06/01/header-image</id><content type="html" xml:base="http://0.0.0.0:4000/2018/06/01/header-image.html"><![CDATA[<p>A Post with Header Image, See <a href="https://kitian616.github.io/jekyll-TeXt-theme/samples.html#page-layout">Page layout</a> for more examples.</p>
+
+<!--more-->]]></content><author><name>Your Name</name></author><category term="TeXt" /><summary type="html"><![CDATA[A Post with Header Image, See Page layout for more examples.]]></summary></entry></feed>
