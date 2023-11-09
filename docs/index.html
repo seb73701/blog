@@ -9,11 +9,23 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app">Please wait...</div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      // Website name as it appears in the sidebar.
+      name: 'Docs-IT',
+      // Add the GitHub Corner widget in the top right corner of the site
+      repo: 'seb73701/blog',
+      // Active Loading dialog 
+      el: '#main',
+      // Active sidebar
+      loadSidebar: true,
+      // Add table of contents (TOC) in custom sidebar.
+      subMaxLevel: 3,
+      // Website logo as it appears in the sidebar. You can resize it using CSS.
+      logo: '/_media/icon.svg',
+      // Activate the cover feature. If true, it will load from _coverpage.md
+      coverpage: true,
     }
   </script>
   <!-- Docsify v4 -->
