@@ -19,6 +19,7 @@
 <summary>Cliquez ici pour voir la liste...</summary>
 
 - [Apache HTTP Server](apache_http_server/apache_http_server.md)
+- [Demo](/apps/demo.md)
 
 </details>
 

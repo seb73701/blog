@@ -2,6 +2,12 @@
 ============================================================================= */
 :root {
     --content-max-width                 : 90%;
+    --heading-h1-color                  :#0b87da;
+    --heading-h2-color                  :#0b87da;
+    --heading-h3-color                  :#0b87da;
+    --heading-h4-color                  :#0b87da;
+    --heading-h5-color                  :#0b87da;
+    --heading-h6-color                  :#0b87da;
 }
 
 /* Cover
@@ -12,3 +18,16 @@
     --cover-background-mask-color                      : #212951;
 }
 
+.app-nav li {
+    cursor: pointer;
+}
+
+.color_custom01a { color:#8ecae6; }
+.color_custom01b { color:#219ebc; }
+.color_custom01c { color:#023047; }
+.color_custom01d { color:#ffb703; }
+.color_custom01e { color:#fb8500; }
+.color_black { color:black; }
+.color_hashtag { color:;}
+
+strong { color: #0b87da; }
