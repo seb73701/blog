@@ -1,5 +1,5 @@
-# blog
+![](_media/home_banner.png ':no-zoom')
 
-This page is an example to write a website.
+# <i class="fa-solid fa-house"></i> Bienvenue sur Wik-IT
 
-> This is information here.
+> Vous trouverez ici des articles, des infos et bien plus...

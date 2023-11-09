@@ -1,12 +1,10 @@
-![logo](_media/bg.png)
+<!-- background image -->
 
-# docsify <small>3.5</small>
+![background](_media/bg.png)
 
-> A magical documentation site generator.
+# Wik-IT <small>1.0</small>
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+> Le wiki dédié à l'IT et au développement.
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/seb73701/blog/)
+[Wik-IT](#-bienvenue-sur-wik-it)
