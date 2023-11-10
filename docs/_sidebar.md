@@ -2,7 +2,7 @@
 * [Base de données](/bdd/)
 * [Big Data](/big-data/)
 * [Clouds](/clouds/)
-* [Développement](/developpement/)
+* [Développement](/developpement/developpement.md)
 * [DevOps](/devops/)
 * [Inclassable](/inclassable/)
 * [Intelligence Artificielle](/ia/)
