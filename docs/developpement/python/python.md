@@ -20,6 +20,7 @@
 - <i class="fa-solid fa-file-circle-question"></i> **Changelog** : https://docs.python.org/release/3.12.0/whatsnew/index.html
 - <i class="fa-brands fa-github"></i> **Github** : https://github.com/python
 
+---
 
 ## <i class="fa-regular fa-newspaper"></i> Articles
 

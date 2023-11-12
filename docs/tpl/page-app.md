@@ -1,4 +1,8 @@
-# TEMPLATE - PAGE APPLICATION
+# TEMPLATES
+
+## Applications
+
+### Page présentation Application
 
 ```
 # NOM APPLICATION
@@ -6,7 +10,7 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../_media/home_datacenter.jpg ':size=x250 :no-zoom')
+![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
 
 
 > <i class="fa-solid fa-quote-left"></i> Le logiciel libre **Apache HTTP Server** est un serveur HTTP créé et maintenu au sein de la fondation Apache. 
@@ -19,6 +23,7 @@
 - <i class="fa-solid fa-file-circle-question"></i> **Changelog** : https://downloads.apache.org/httpd/CHANGES_2.4
 - <i class="fa-brands fa-github"></i> **Github** : https://github.com/apache/httpd
 
+---
 
 ## <i class="fa-regular fa-newspaper"></i> Articles
 

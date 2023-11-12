@@ -1,13 +1,35 @@
+/* Base
+============================================================================= */
+:root {
+        /* Strong */
+        /* Theme Blue */
+        /* --strong-color         : #0b87da; */
+        /* Theme Green */
+        --strong-color         : #42b983;
+        --strong-font-weight   : 600;
+}
+
 /* Content
 ============================================================================= */
 :root {
     --content-max-width                 : 90%;
+    --link-text-decoration              : none;
+
+    /* Theme Blue */
     --heading-h1-color                  :#0b87da;
     --heading-h2-color                  :#0b87da;
     --heading-h3-color                  :#0b87da;
     --heading-h4-color                  :#0b87da;
     --heading-h5-color                  :#0b87da;
     --heading-h6-color                  :#0b87da;
+
+    /* Theme Green */
+/*     --heading-h1-color                  :#42b983;
+    --heading-h2-color                  :#42b983;
+    --heading-h3-color                  :#42b983;
+    --heading-h4-color                  :#42b983;
+    --heading-h5-color                  :#42b983;
+    --heading-h6-color                  :#42b983; */
 }
 
 /* Cover
@@ -17,6 +39,20 @@
     /* Background */
     --cover-background-mask-color                      : #212951;
 }
+
+/* Sidebar
+============================================================================= */
+:root {
+    --sidebar-nav-link-text-decoration--active    : none;
+    --sidebar-nav-link-text-decoration--hover     : none;
+}
+
+/* Navbar
+============================================================================= */
+/* :root {
+
+
+} */
 
 .app-nav li {
     cursor: pointer;
@@ -28,6 +64,7 @@
 .color_custom01d { color:#ffb703; }
 .color_custom01e { color:#fb8500; }
 .color_black { color:black; }
-.color_hashtag { color:;}
 
-strong { color: #0b87da; }
+.markdown-section a.anchor:hover {
+    text-decoration: none;
+}
