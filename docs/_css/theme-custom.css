@@ -45,6 +45,7 @@
 :root {
     --sidebar-nav-link-text-decoration--active    : none;
     --sidebar-nav-link-text-decoration--hover     : none;
+    --sidebar-width: 25rem;
 }
 
 /* Navbar
@@ -67,4 +68,29 @@
 
 .markdown-section a.anchor:hover {
     text-decoration: none;
+}
+
+.apps-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.apps-container > div {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 20px;
+    /* font-size: 12px; */
+    border-radius: 20px;
+    border: 2px solid #73AD21;
+    padding: 10px;
+    /* text-shadow: 2px 2px 4px #000000; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.apps-container > div:nth-child(even) {border: 2px solid #0b87da;}
+.apps-container > div:nth-child(even):hover {border: 2px solid red;}
+
+.apps-container > div:hover {
+    border: 2px solid red;
 }
