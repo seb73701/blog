@@ -22,6 +22,9 @@
 - <i class="fa-solid fa-book"></i> **Documentation** : https://httpd.apache.org/docs/
 - <i class="fa-solid fa-file-circle-question"></i> **Changelog** : https://downloads.apache.org/httpd/CHANGES_2.4
 - <i class="fa-brands fa-github"></i> **Github** : https://github.com/apache/httpd
+- <i class="fab fa-blogger-b"></i> **Blog** :
+- <i class="fas fa-comments"></i> **Forum** :
+
 
 ---
 
