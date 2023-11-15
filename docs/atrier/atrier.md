@@ -1,6 +1,17 @@
 # A TRIER
 ---
 
+## Ansible
+
+<details>
+
+- [Securing a Server with Ansible](/atrier/apps/ansible_001.md)
+- [Comment tester un rôle Ansible avec Molecule ?](/atrier/apps/ansible_002.md)
+- [Découvrez ou redécouvrez Ansible-Vault](/atrier/apps/ansible_003.md)
+- [Ensuring a Command Module Task is Repeatable with Ansible](/atrier/apps/ansible_004.md)
+- [Gérer et exécuter en toute simplicité ses projets grâce à AWX](/atrier/apps/ansible_005.md)
+
+</details>
 
 ## Apache HTTP Server
 
