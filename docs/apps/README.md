@@ -12,5 +12,18 @@
   <div><a href="#apps/ansible/ansible.md">Ansible</a></div>
   <div><a href="#apps/apache_activemq/apache_activemq.md">Apache ActiveMQ</a></div>
   <div><a href="#apps/apache_airflow/apache_airflow.md">Apache Airflow</a></div>
+  <div><a href="#apps/apache_cordova/apache_cordova.md">Apache Cordova</a></div>
+  <div><a href="#apps/apache_guacamole/apache_guacamole.md">Apache Guacamole</a></div>
+  <div><a href="#apps/apache_hadoop/apache_hadoop.md">Apache Hadoop</a></div>
+  <div><a href="#apps/apache_hive/apache_hive.md">Apache Hive</a></div>
   <div><a href="#apps/apache_http_server/apache_http_server.md">Apache HTTP Server</a></div>
+  <div><a href="#apps/apache_jmeter/apache_jmeter.md">Apache JMeter</a></div>
+  <div><a href="#apps/apache_kafka/apache_kafka.md">Apache Kafka</a></div>
+  <div><a href="#apps/apache_maven/apache_maven.md">Apache Maven</a></div>
+  <div><a href="#apps/apache_nifi/apache_nifi.md">Apache Nifi</a></div>
+  <div><a href="#apps/apache_pulsar/apache_pulsar.md">Apache Pulsar</a></div>
+  <div><a href="#apps/apache_solr/apache_solr.md">Apache Solr</a></div>
+  <div><a href="#apps/apache_spark/apache_spark.md">Apache Spark</a></div>
+  <div><a href="#apps/apache_superset/apache_superset.md">Apache Superset</a></div>
+  <div><a href="#apps/apache_tomcat/apache_tomcat.md">Apache Tomcat</a></div>
 </div>

@@ -1,7 +1,7 @@
 # A TRIER
 ---
 
-## Ansible
+### Ansible
 
 <details>
 
@@ -13,7 +13,7 @@
 
 </details>
 
-## Apache HTTP Server
+### Apache HTTP Server
 
 <details>
 
@@ -22,5 +22,14 @@
 - [Enable Gzip Compression on Apache Shared Hosting](/atrier/apps/apache_http_server_003)
 - [HTACCESS - Bloquer des IP et des Proxies](/atrier/apps/apache_http_server_004)
 - [Récupérer la liste des urls avec un compteur sur les hits](/atrier/apps/apache_http_server_005)
+
+</details>
+
+### Apache Kafka
+
+<details>
+
+- [Event-driven architecture - Comment se lancer avec Kafka](/atrier/apps/apache_kafka_001.md)
+- [Eviter le chaos dans un environnement Kafkaïen](/atrier/apps/apache_kafka_002.md)
 
 </details>

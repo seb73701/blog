@@ -24,7 +24,8 @@
 - <i class="fa-brands fa-github"></i> **Github** : https://github.com/apache/httpd
 - <i class="fab fa-blogger-b"></i> **Blog** :
 - <i class="fas fa-comments"></i> **Forum** :
-
+- <i class="far fa-question-circle"></i> **FAQ** : 
+- <i class="fas fa-tools"></i> **Plugins** : 
 
 ---
 
