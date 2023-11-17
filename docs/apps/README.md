@@ -26,4 +26,15 @@
   <div><a href="#apps/apache_spark/apache_spark.md">Apache Spark</a></div>
   <div><a href="#apps/apache_superset/apache_superset.md">Apache Superset</a></div>
   <div><a href="#apps/apache_tomcat/apache_tomcat.md">Apache Tomcat</a></div>
+  <div><a href="#apps/apache_zookeeper/apache_zookeeper.md">Apache Zookeeper</a></div>
+  <div><a href="#apps/asterisk/asterisk.md">Asterisk</a></div>
+  <div><a href="#apps/awstats/awstats.md">Awstats</a></div>
+</div>
+
+## B
+
+<div class="apps-container">
+  <div><a href="#apps/backuppc/backuppc.md">BackupPC</a></div>
+  <div><a href="#apps/bacula/bacula.md">Bacula</a></div>
+  <div><a href="#apps/bareos/bareos.md">Bareos</a></div>
 </div>
