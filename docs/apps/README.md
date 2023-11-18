@@ -37,4 +37,26 @@
   <div><a href="#apps/backuppc/backuppc.md">BackupPC</a></div>
   <div><a href="#apps/bacula/bacula.md">Bacula</a></div>
   <div><a href="#apps/bareos/bareos.md">Bareos</a></div>
+  <div><a href="#apps/beats/beats.md">Beats</a></div>
+  <div><a href="#apps/bind9/bind9.md">Bind9</a></div>
+  <div><a href="#apps/bind9/bind9.md">Blender</a></div>
+  <div><a href="#apps/borg/borg.md">Borg</a></div>
+</div>
+
+## C
+
+<div class="apps-container">
+  <div><a href="#apps/cachet/cachet.md">Cachet</a></div>
+  <div><a href="#apps/cacti/cacti.md">Cacti</a></div>
+  <div><a href="#apps/caddy/caddy.md">Caddy</a></div>
+  <div><a href="#apps/centreon/centreon.md">Centreon</a></div>
+  <div><a href="#apps/checkmk/checkmk.md">CheckMK</a></div>
+  <div><a href="#apps/chef/chef.md">Chef</a></div>
+  <div><a href="#apps/chocolatey/chocolatey.md">Chocolatey</a></div>
+  <div><a href="#apps/chrootkit/chrootkit.md">Chrootkit</a></div>
+  <div><a href="#apps/chronograf/chronograf.md">Chronograf</a></div>
+  <div><a href="#apps/circleci/circleci.md">CircleCI</a></div>
+  <div><a href="#apps/clamav/clamav.md">ClamAV</a></div>
+  <div><a href="#apps/clustercontrol/clustercontrol.md">ClusterControl</a></div>
+  <div><a href="#apps/cockpit/cockpit.md">Cockpit</a></div>
 </div>
