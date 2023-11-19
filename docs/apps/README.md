@@ -59,4 +59,12 @@
   <div><a href="#apps/clamav/clamav.md">ClamAV</a></div>
   <div><a href="#apps/clustercontrol/clustercontrol.md">ClusterControl</a></div>
   <div><a href="#apps/cockpit/cockpit.md">Cockpit</a></div>
+  <div><a href="#apps/collectd/collectd.md">Collectd</a></div>
+</div>
+
+## D
+
+<div class="apps-container">
+  <div><a href="#apps/datadog/datadog.md">DataDog</a></div>
+  <div><a href="#apps/defectdojo/defectdojo.md">DefectDojo</a></div>
 </div>
