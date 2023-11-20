@@ -25,6 +25,7 @@
 - <i class="fab fa-blogger-b"></i> **Blog** :
 - <i class="fas fa-comments"></i> **Forum** :
 - <i class="far fa-question-circle"></i> **FAQ** : 
+- <i class="far fa-calendar-alt"></i> **Thèmes** : 
 - <i class="fas fa-tools"></i> **Plugins** : 
 
 ---

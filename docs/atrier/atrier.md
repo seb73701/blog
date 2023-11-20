@@ -33,3 +33,11 @@
 - [Eviter le chaos dans un environnement Kafkaïen](/atrier/apps/apache_kafka_002.md)
 
 </details>
+
+### Elasticsearch
+
+<details>
+
+- [Choisir la bonne architecture pour son cluster elasticsearch](/atrier/apps/elasticsearch_001.md)
+
+</details>

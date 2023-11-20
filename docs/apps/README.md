@@ -5,6 +5,8 @@
 
 ## A
 
+<details>
+
 <div class="apps-container">
   <div><a href="#apps/adobe_acrobat/adobe_acrobat.md">Adode Acrobat</a></div>
   <div><a href="#apps/adobe_photoshop/adobe_photoshop.md">Adode Photoshop</a></div>
@@ -31,7 +33,11 @@
   <div><a href="#apps/awstats/awstats.md">Awstats</a></div>
 </div>
 
+</details>
+
 ## B
+
+<details>
 
 <div class="apps-container">
   <div><a href="#apps/backuppc/backuppc.md">BackupPC</a></div>
@@ -43,7 +49,11 @@
   <div><a href="#apps/borg/borg.md">Borg</a></div>
 </div>
 
+</details>
+
 ## C
+
+<details>
 
 <div class="apps-container">
   <div><a href="#apps/cachet/cachet.md">Cachet</a></div>
@@ -62,9 +72,27 @@
   <div><a href="#apps/collectd/collectd.md">Collectd</a></div>
 </div>
 
+</details>
+
 ## D
+
+<details>
 
 <div class="apps-container">
   <div><a href="#apps/datadog/datadog.md">DataDog</a></div>
   <div><a href="#apps/defectdojo/defectdojo.md">DefectDojo</a></div>
+  <div><a href="#apps/dokuwiki/dokuwiki.md">Dokuwiki</a></div>
+  <div><a href="#apps/dropbox/dropbox.md">Dropbox</a></div>
+  <div><a href="#apps/drupal/drupal.md">Drupal</a></div>
+</div>
+
+</details>
+
+## E
+
+<div class="apps-container">
+  <div><a href="#apps/eclipse/eclipse.md">Eclipse</a></div>
+  <div><a href="#apps/efk_stack/efk_stack.md" title="Elasticsearch + Fluentd + Kibana">EFK Stack</a></div>
+  <div><a href="#apps/elassandra/elassandra.md" title="Elastisearch + Cassandra">Elassandra</a></div>
+  <div><a href="#apps/elasticsearch/elasticsearch.md">Elasticsearch</a></div>
 </div>
