@@ -90,9 +90,60 @@
 
 ## E
 
+<details>
+
 <div class="apps-container">
   <div><a href="#apps/eclipse/eclipse.md">Eclipse</a></div>
   <div><a href="#apps/efk_stack/efk_stack.md" title="Elasticsearch + Fluentd + Kibana">EFK Stack</a></div>
   <div><a href="#apps/elassandra/elassandra.md" title="Elastisearch + Cassandra">Elassandra</a></div>
   <div><a href="#apps/elasticsearch/elasticsearch.md">Elasticsearch</a></div>
+  <div><a href="#apps/elk_stack/elk_stack.md" title="Elasticsearch + Logstash + Kibana">ELK Stack</a></div>
+  <div><a href="#apps/exim/exim.md">Exim</a></div>
 </div>
+
+</details>
+
+## F
+
+<details>
+
+<div class="apps-container">
+  <div><a href="#apps/ffmpeg/ffmpeg.md">FFmpeg</a></div>
+  <div><a href="#apps/filebeat/filebeat.md">Filebeat</a></div>
+</div>
+
+</details>
+
+## G
+
+<details>
+
+<div class="apps-container">
+  <div><a href="#apps/gitlab/gitlab.md">Gitlab</a></div>
+  <div><a href="#apps/glusterfs/glusterfs.md">GlusterFS</a></div>
+  <div><a href="#apps/grafana/grafana.md">Grafana</a></div>
+  <div><a href="#apps/graylog/graylog.md">Graylog</a></div>
+</div>
+
+</details>
+
+## H
+
+<details>
+
+<div class="apps-container">
+  <div><a href="#apps/haproxy/haproxy.md">Haproxy</a></div>
+  <div><a href="#apps/harbor/harbor.md">Harbor</a></div>
+</div>
+
+</details>
+
+## J
+
+<details>
+
+<div class="apps-container">
+  <div><a href="#apps/jira/jira.md">Jira</a></div>
+</div>
+
+</details>

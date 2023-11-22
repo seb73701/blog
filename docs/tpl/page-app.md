@@ -27,6 +27,7 @@
 - <i class="far fa-question-circle"></i> **FAQ** : 
 - <i class="far fa-calendar-alt"></i> **Thèmes** : 
 - <i class="fas fa-tools"></i> **Plugins** : 
+- <i class="far fa-calendar-alt"></i> **Live Demo** : 
 
 ---
 
