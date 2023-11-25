@@ -5,7 +5,7 @@
 
 ## A
 
-<details>
+
 
 <div class="apps-container">
   <div><a href="#apps/adobe_acrobat/adobe_acrobat.md">Adode Acrobat</a></div>
@@ -33,11 +33,11 @@
   <div><a href="#apps/awstats/awstats.md">Awstats</a></div>
 </div>
 
-</details>
+
 
 ## B
 
-<details>
+
 
 <div class="apps-container">
   <div><a href="#apps/backuppc/backuppc.md">BackupPC</a></div>
@@ -49,11 +49,11 @@
   <div><a href="#apps/borg/borg.md">Borg</a></div>
 </div>
 
-</details>
+
 
 ## C
 
-<details>
+
 
 <div class="apps-container">
   <div><a href="#apps/cachet/cachet.md">Cachet</a></div>
@@ -72,11 +72,11 @@
   <div><a href="#apps/collectd/collectd.md">Collectd</a></div>
 </div>
 
-</details>
+
 
 ## D
 
-<details>
+
 
 <div class="apps-container">
   <div><a href="#apps/datadog/datadog.md">DataDog</a></div>
@@ -86,11 +86,11 @@
   <div><a href="#apps/drupal/drupal.md">Drupal</a></div>
 </div>
 
-</details>
+
 
 ## E
 
-<details>
+
 
 <div class="apps-container">
   <div><a href="#apps/eclipse/eclipse.md">Eclipse</a></div>
@@ -101,49 +101,65 @@
   <div><a href="#apps/exim/exim.md">Exim</a></div>
 </div>
 
-</details>
+
 
 ## F
 
-<details>
+
 
 <div class="apps-container">
   <div><a href="#apps/ffmpeg/ffmpeg.md">FFmpeg</a></div>
   <div><a href="#apps/filebeat/filebeat.md">Filebeat</a></div>
+  <div><a href="#apps/fluentd/fluentd.md">Fluentd</a></div>
+  <div><a href="#apps/foreman/foreman.md">Foreman</a></div>
+  <div><a href="#apps/freeipa/freeipa.md">FreeIPA</a></div>
+  <div><a href="#apps/fusioninventory/fusioninventory.md">FusionInventory</a></div>
 </div>
 
-</details>
+
 
 ## G
 
-<details>
+
 
 <div class="apps-container">
+  <div><a href="#apps/gatling/gatling.md">Gatling</a></div>
+  <div><a href="#apps/gimp/gimp.md">Gimp</a></div>
+  <div><a href="#apps/git/git.md">Git</a></div>
+  <div><a href="#apps/gitea/gitea.md">Gitea</a></div>
   <div><a href="#apps/gitlab/gitlab.md">Gitlab</a></div>
+  <div><a href="#apps/goaccess/goaccess.md">GoAccess</a></div>
+  <div><a href="#apps/gogs/gogs.md">Gogs</a></div>
+  <div><a href="#apps/google_analytics/google_analytics.md">Google Analytics</a></div>
+  <div><a href="#apps/google_authentificator/google_authentificator.md">Google Authentificator</a></div>
+  <div><a href="#apps/google_calendar/google_calendar.md">Google Calendar</a></div>
+  <div><a href="#apps/google_chrome/google_chrome.md">Google Chrome</a></div>
+  <div><a href="#apps/glpi/glpi.md">GLPI</a></div>
   <div><a href="#apps/glusterfs/glusterfs.md">GlusterFS</a></div>
+  <div><a href="#apps/gns3/gns3.md">GNS3</a></div>
   <div><a href="#apps/grafana/grafana.md">Grafana</a></div>
   <div><a href="#apps/graylog/graylog.md">Graylog</a></div>
 </div>
 
-</details>
+
 
 ## H
 
-<details>
+
 
 <div class="apps-container">
   <div><a href="#apps/haproxy/haproxy.md">Haproxy</a></div>
   <div><a href="#apps/harbor/harbor.md">Harbor</a></div>
 </div>
 
-</details>
+
 
 ## J
 
-<details>
+
 
 <div class="apps-container">
   <div><a href="#apps/jira/jira.md">Jira</a></div>
 </div>
 
-</details>
+
