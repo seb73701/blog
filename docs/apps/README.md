@@ -134,6 +134,15 @@
   <div><a href="#apps/google_authentificator/google_authentificator.md">Google Authentificator</a></div>
   <div><a href="#apps/google_calendar/google_calendar.md">Google Calendar</a></div>
   <div><a href="#apps/google_chrome/google_chrome.md">Google Chrome</a></div>
+  <div><a href="#apps/google_docs/google_docs.md">Google Docs</a></div>
+  <div><a href="#apps/google_forms/google_forms.md">Google Forms</a></div>
+  <div><a href="#apps/google_gmail/google_gmail.md">Google Gmail</a></div>
+  <div><a href="#apps/google_keep/google_keep.md">Google Keep</a></div>
+  <div><a href="#apps/google_maps/google_maps.md">Google Maps</a></div>
+  <div><a href="#apps/google_meet/google_meet.md">Google Meet</a></div>
+  <div><a href="#apps/google_photos/google_photos.md">Google Photos</a></div>
+  <div><a href="#apps/google_sheets/google_sheets.md">Google Sheets</a></div>
+  <div><a href="#apps/google_slides/google_slides.md">Google Slides</a></div>
   <div><a href="#apps/glpi/glpi.md">GLPI</a></div>
   <div><a href="#apps/glusterfs/glusterfs.md">GlusterFS</a></div>
   <div><a href="#apps/gns3/gns3.md">GNS3</a></div>
