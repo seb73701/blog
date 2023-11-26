@@ -111,6 +111,7 @@
 - [Urls IcingaWeb (Dashboards)](/atrier/apps/icingaweb_009.md)
 - [Création d'une sonde "check_ping_vpn" pour Linux](/atrier/apps/icingaweb_010.md)
 - [Schéma de la base de données Icinga2 (MySQL)](/atrier/apps/icingaweb_011.md)
+- [Execute IcingaDirector manually](/atrier/apps/icingaweb_012.md)
 
 
 
