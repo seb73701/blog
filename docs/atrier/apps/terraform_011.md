@@ -872,3 +872,9 @@ The reason you need to put so much thought into isolation, locking, and state is
 A common concern of using the recommended file layout is that it leads to code duplication. If you want to run the web server cluster in both staging and production, how do you avoid having to copy and paste a lot of code between stage/services/webserver-cluster and prod/services/webserver-cluster? The answer is that you need to use Terraform modules, which are the main topic of [Part 4 of the series, How to create reusable infrastructure with Terraform modules](https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d).
   
 source : https://blog.gruntwork.io/how-to-manage-terraform-state-28f5697e68fa
+
+[Part.4 - How to create reusable infrastructure with Terraform modules](https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d)
+[Part.5 - Terraform tips & tricks: loops, if-statements, and pitfalls](https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9)
+[Part.6 - How to use Terraform as a team](https://blog.gruntwork.io/how-to-use-terraform-as-a-team-251bc1104973)
+
+source : https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.b6sun4nkn

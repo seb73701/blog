@@ -167,6 +167,8 @@
 <div class="apps-container">
   <div><a href="#apps/icinga/icinga.md">Icinga</a></div>
   <div><a href="#apps/icingaweb/icingaweb.md">IcingaWeb</a></div>
+  <div><a href="#apps/imagemagick/imagemagick.md">ImageMagick</a></div>
+  <div><a href="#apps/inkscape/inkscape.md">Inkscape</a></div>
 </div>
 
 
@@ -175,13 +177,61 @@
 
 
 <div class="apps-container">
+  <div><a href="#apps/jaeger/jaeger.md">Jaeger</a></div>
+  <div><a href="#apps/jekyll/jekyll.md">Jekyll</a></div>
+  <div><a href="#apps/jenkins/jenkins.md">Jenkins</a></div>
   <div><a href="#apps/jira/jira.md">Jira</a></div>
 </div>
 
+
+## K
+
+<div class="apps-container">
+  <div><a href="#apps/kapacitor/kapacitor.md">Kapacitor</a></div>
+  <div><a href="#apps/kdenlive/kdenlive.md">Kdenlive</a></div>
+  <div><a href="#apps/keepalived/keepalived.md">Keepalived</a></div>
+  <div><a href="#apps/keepass/keepass.md">KeePass</a></div>
+  <div><a href="#apps/keycloak/keycloak.md">Keycloak</a></div>
+  <div><a href="#apps/kibana/kibana.md">Kibana</a></div>
+</div>
+
+
+## L
+
+<div class="apps-container">
+  <div><a href="#apps/letsencrypt/letsencrypt.md">Let's Encrypt</a></div>
+  <div><a href="#apps/librenms/librenms.md">LibreNMS</a></div>
+  <div><a href="#apps/libreoffice/libreoffice.md">LibreOffice</a></div>
+  <div><a href="#apps/lighttpd/lighttpd.md">Lighttpd</a></div>
+</div>
 
 
 ## M
 
 <div class="apps-container">
   <div><a href="#apps/microsoft_iis/microsoft_iis.md">Microsoft IIS</a></div>
+</div>
+
+## N
+
+<div class="apps-container">
+  <div><a href="#apps/nginx/nginx.md">Nginx</a></div>
+</div>
+
+## R
+
+<div class="apps-container">
+  <div><a href="#apps/redmine/redmine.md">Redmine</a></div>
+</div>
+
+## V
+
+<div class="apps-container">
+  <div><a href="#apps/vault_hashicorp/vault_hashicorp.md">Vault Hashicorp</a></div>
+</div>
+
+## W
+
+<div class="apps-container">
+  <div><a href="#apps/wikijs/wikijs.md">Wiki.JS</a></div>
 </div>
