@@ -1,4 +1,4 @@
-# ARTICLES A TRIER
+# APPS A TRIER
 ---
 
 ### Ansible
@@ -8,6 +8,12 @@
 - [Découvrez ou redécouvrez Ansible-Vault](/atrier/apps/ansible_003.md)
 - [Ensuring a Command Module Task is Repeatable with Ansible](/atrier/apps/ansible_004.md)
 - [Gérer et exécuter en toute simplicité ses projets grâce à AWX](/atrier/apps/ansible_005.md)
+- [Ansible replace line in file – Ansible Replace Examples | Devops Junction](https://www.middlewareinventory.com/blog/ansible-replace-line-in-file-ansible-replace-examples/#Ansible_Replace_Examples)
+- [Build a lab in 36 seconds with Ansible](https://www.redhat.com/sysadmin/build-VM-fast-ansible)
+- [debops.icinga](https://docs.debops.org/en/latest/ansible/roles/icinga/index.html)
+- [Deploy and remove a web server with Ansible](https://www.redhat.com/sysadmin/ansible-callback-plugins)
+- [Use Ansible to test containers in OpenShift 4](https://www.redhat.com/sysadmin/ansible-containers-openshift-4)
+
 
 ### Apache HTTP Server
 
@@ -21,6 +27,20 @@
 
 - [Event-driven architecture - Comment se lancer avec Kafka](/atrier/apps/apache_kafka_001.md)
 - [Eviter le chaos dans un environnement Kafkaïen](/atrier/apps/apache_kafka_002.md)
+- [Apache Kafka and Debezium | DevNation Tech Talk](https://www.youtube.com/watch?v=QYbXDp4Vu-8)
+- [How to Load Balance in Kafka](https://medium.com/@saamsa.grp/how-to-load-balance-in-kafka-811a46ff178)
+- [How to Handle Duplicate Messages and Message Ordering in Kafka](https://betterprogramming.pub/how-to-handle-duplicate-messages-and-message-ordering-in-kafka-82e2fef82025)
+- [Kafka v. RabbitMQ — a comparison](https://lornajane.medium.com/kafka-v-rabbitmq-a-comparison-be6f538534ef)
+- [KubeMQ: A Modern Alternative to Kafka](https://medium.com/geekculture/kubemq-a-modern-alternative-to-kafka-9b3257168845)
+- [Level-up your gaming telemetry using Kafka Streams | DevNation Tech Talk](https://developers.redhat.com/devnation/tech-talks/gaming-telemetry-kafka?sc_cid=7013a000002q3W5AAI)
+- [Redis vs Kafka vs RabbitMQ](https://medium.com/@mertcanarguc/redis-vs-kafka-vs-rabbitmq-e935ebbc7ec)
+- [Scaling Kafka Consumer for Billions of Events](https://medium.com/paypal-tech/kafka-consumer-benchmarking-c726fbe4000)
+- [Simplify Kafka authentication with Node.js](https://developers.redhat.com/articles/2021/11/11/simplify-kafka-authentication-nodejs?sc_cid=7013a000002pytNAAQ)
+- [You Really Can Replace Kafka with a Database](https://todd-hubers.medium.com/you-really-can-replace-kafka-with-a-database-9e82a7c248a6)
+- [Getting started with Kafka](https://medium.com/geekculture/getting-started-with-kafka-c0e94ae4d81b)
+- [Bringing Kafka based architecture to the next level using simple PostgreSQL tables](https://sixfold.medium.com/bringing-kafka-based-architecture-to-the-next-level-using-simple-postgresql-tables-415f1ff6076d)
+- [Application modernization patterns with Apache Kafka, Debezium, and Kubernetes](https://developers.redhat.com/articles/2021/06/14/application-modernization-patterns-apache-kafka-debezium-and-kubernetes?sc_cid=7013a000002q3X8AAI)
+
 
 ### Arduino IDE
 - [How to Install Arduino IDE on Ubuntu 20.04](https://linoxide.com/how-to-install-arduino-ide-on-ubuntu-20-04/)
@@ -62,6 +82,21 @@
 
 - [GitHub Actions en action](/atrier/apps/git_001.md)
 - [Git Cheat Sheet](/atrier/apps/git_002.md)
+- [A Git cheatsheet that all coders need](https://towardsdatascience.com/a-git-cheatsheet-that-all-coders-need-bf8ad4d91576)
+- [Git Commands That You Must Know](https://medium.com/javarevisited/git-commands-that-you-must-know-7ff17fab7482)
+- [Top 30 Git Commands You Should Know To Master Git CLI](https://levelup.gitconnected.com/top-30-git-commands-you-should-know-to-master-git-cli-f04e041779bc)
+- [Git commands you must know](https://towardsdev.com/git-commands-you-must-know-d217bf710502)
+- [Git Cheat Sheet with 40+ commands & concepts](https://tapajyoti-bose.medium.com/git-cheat-sheet-with-40-commands-concepts-ab1b9d973e96)
+- [Use Git like a senior engineer](https://levelup.gitconnected.com/use-git-like-a-senior-engineer-ef6d741c898e)
+
+### Github
+
+- [CI/CD with GitHub Actions](https://cwsites.medium.com/ci-cd-with-github-actions-c0998601ee3a)
+- [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [Beautify Your GitHub Profile like a Pro](https://tapajyoti-bose.medium.com/beautify-your-github-profile-like-a-pro-2f7922895953)
+- [Create GitHub Readme.md](https://taylancanh.medium.com/create-github-readme-md-71475a03e289)
+- [First Step towards Git and Github](https://medium.com/@sanjayofficial94/first-step-towards-git-and-github-bcb5107362e9)
+
 
 
 ### Gitlab
@@ -157,6 +192,11 @@
 - [Introduction et premiers pas avec JIRA](/atrier/apps/jira_001.md)
 
 
+### JQ
+
+- [A simple tutorial of JQ by Ivan Lausuch](https://hackmd.io/@il-suse/BJ_RoR8u_)
+- [How to Use JQ to Process JSON on the Command Line](https://www.linode.com/docs/guides/using-jq-to-process-json-on-the-command-line/)
+- [jq Manual (development version)](https://stedolan.github.io/jq/manual/)
 
 ### Keepass
 
@@ -1020,6 +1060,7 @@
 + [Déverrouiller la protection de forme dans Visio](https://syskb.com/deverrouiller-la-protection-de-forme-dans-visio/)
 
 ### Microsoft Visual Studio Code
+- [9 Visual Studio Code Extensions That Make Programming Easier.](https://medium.com/geekculture/9-visual-studio-code-extensions-that-make-programming-easier-6bbdacc15b6)
 - [Arrange Selection](https://marketplace.visualstudio.com/items?itemName=Wupb.arrange-selection)
 - [Manage TODO List in VSCode](https://medium.com/@EclecticCoder/manage-todo-list-in-vscode-beb53774d776)
 - [Development Containers in Education: A Guide for Instructors](https://code.visualstudio.com/blogs/2020/07/27/containers-edu)
@@ -1562,6 +1603,7 @@
 + [How I create multi-layer videos with talking head, slides, sound and simple effects with OBS Studio](https://technology.amis.nl/2020/05/30/how-i-create-multi-layer-videos-with-talking-head-slides-sound-and-simple-effects-with-obs-studio/)
 + [Composing a Video from multiple sources (MP4, PowerPoint, image, text) using OBS](https://technology.amis.nl/2020/06/01/composing-a-video-from-multiple-sources-mp4-powerpoint-image-text-using-obs/)
 + [How to Record or Stream Your Computer Screen Using OBS Studio](https://www.makeuseof.com/tag/record-screen-stream-online-obs/)
+- [Advanced OBS settings: What they are and how to use them](https://blog.mobcrush.com/advanced-obs-settings-what-they-are-and-how-to-use-them-3bffd9995030)
 
 ### OCS Inventory NG
 + [CentOS 8 : Installer OCS Inventory pour l'inventaire du parc](https://www.linuxtricks.fr/wiki/centos-8-installer-ocs-inventory-pour-l-inventaire-du-parc)
@@ -2295,6 +2337,7 @@
 
 ### Puppet
 
+- [Puppet - Facter & Facts](https://www.tutorialspoint.com/puppet/puppet_facter_facts.htm)
 - [Tirez le meilleur parti de votre gestionnaire de configuration Puppet](/atrier/apps/puppet_001.md)
 - [Introduction aux déploiements et configurations automatisés avec Puppet](/atrier/apps/puppet_002.md)
 - [Supervision distribuée avec Monit (et Puppet)](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-180/supervision-distribuee-avec-monit-et-puppet)
@@ -3015,7 +3058,7 @@
 + [Implementing RNN in TensorFlow for spam prediction [Tutorial]](https://hub.packtpub.com/implement-rnn-tensorflow-spam-prediction-tutorial/)
 
 
-# Terminalizor
+### Terminalizor
 + [Terminalizer – Record Your Linux Terminal and Generate Animated GIF](https://www.tecmint.com/terminalizer-record-your-linux-terminal-in-gif/)
 
 ### Terminator 
