@@ -187,6 +187,10 @@
 
 
 
+### Jenkins
+
+
+
 ### Jira
 
 - [Introduction et premiers pas avec JIRA](/atrier/apps/jira_001.md)
@@ -1164,6 +1168,9 @@
 + [How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin)
 + [How to Install Visual Studio Code Server on Debian 10](https://www.howtoforge.com/how-to-install-visual-studio-code-server-on-debian-10/)
 + [VS Code (Code – OSS), mon éditeur de code](https://www.armandphilippot.com/vscode-code-oss-editeur/)
+- [How To Refactor Code in Visual Studio Code](https://betterprogramming.pub/how-to-refactor-code-in-visual-studio-code-884dc85a066a)
+
+
 
 ### Microsoft Word
 - [How to Create Your Business Cards in Microsoft Word](https://www.makeuseof.com/create-business-card-microsoft-word/)
