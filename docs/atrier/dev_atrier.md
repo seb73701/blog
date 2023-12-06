@@ -523,6 +523,7 @@
 - [Golang — 1 Minute guide to Useful Tips and Libraries in 2022](https://blog.canopas.com/1-min-guide-to-golang-development-best-practices-in-2022-b50d846fd6c)
 - [Options Pattern in Golang](https://levelup.gitconnected.com/options-pattern-in-golang-9a0384a9d8db)
 - [Golang — 1 Minute guide to Useful Tips and Libraries in 2022](https://blog.canopas.com/1-min-guide-to-golang-development-best-practices-in-2022-b50d846fd6c)
+- [Write an Agent Command-Line Interface](https://medium.com/pragmatic-programmers/write-an-agent-command-line-interface-ef6f85a9ec04)
 
 ## HTML
 
@@ -659,6 +660,7 @@
 - [Say Goodbye to Loops in Python, and Welcome Vectorization!](https://medium.com/codex/say-goodbye-to-loops-in-python-and-welcome-vectorization-e4df66615a52)
 - [5 Python Automation Scripts I Use Every Day](https://thegrayarea.tech/5-python-automation-scripts-i-use-every-day-74c4313f2b47) (Lock)
 - [Say Goodbye to Loops in Python, and Welcome Vectorization!](https://medium.com/codex/say-goodbye-to-loops-in-python-and-welcome-vectorization-e4df66615a52) (Lock)
+- [Fugue and DuckDB: Fast SQL Code in Python](https://towardsdatascience.com/fugue-and-duckdb-fast-sql-code-in-python-e2e2dfc0f8eb)
 
 
 
@@ -702,6 +704,7 @@
 
 ## SQL
 
+- [Advanced SQL for Data Professionals](https://levelup.gitconnected.com/advanced-sql-for-data-professionals-e0ef0740e8e1)
 - [Your SQL is Bad (You Should Feel Bad)](https://blog.devgenius.io/write-sql-like-google-your-sql-is-bad-you-should-feel-bad-4fbacd1fbd3)
 - [SQL Like a Pro: Please Stop Using Distinct!!](https://jmarquesdatabeyond.medium.com/sql-like-a-pro-please-stop-using-distinct-31bdb6481256)
 - [Master SQL Queries (in 5 minutes)](https://rajansahu713.medium.com/master-sql-queries-in-5-minutes-ca417519b469)

@@ -12,3 +12,31 @@
 - [Improve UDP performance in RHEL 8.5](https://developers.redhat.com/articles/2021/11/05/improve-udp-performance-rhel-85?sc_cid=7013a000002pxeoAAA)
 - [Comment Utiliser La Commande Ss Pour Surveiller Les Connexions Réseau Sur Un Système Linux](https://www.dz-techs.com/fr/ss-command-monitor-network-connections-linux#lwptoc8)
 - [Comment utiliser la commande ss sous Linux](https://azurplus.fr/comment-utiliser-la-commande-ss-sous-linux/)
+- [Hardening filesystem Centos/RHEL 8](https://unixcop.com/hardening-filesystem-centos-rhel-8/)
+- [How To Add Swap on FreeBSD Unix Systems](https://www.cyberciti.biz/faq/create-a-freebsd-swap-file/)
+- [How to activate your no-cost Red Hat Enterprise Linux subscription](https://developers.redhat.com/blog/2021/02/10/how-to-activate-your-no-cost-red-hat-enterprise-linux-subscription?sc_cid=7013a000002q3X8AAI)
+- [HowTosOS_Protection](https://wiki.centos.org/HowTos/OS_Protection)
+- [Les connexions sockets avec la commande ss](https://www.it-connect.fr/les-connexions-sockets-avec-la-commande-ss/)
+- [Linux Command Library](https://linuxcommandlibrary.com/basic/oneliners.html)
+- [Linux security baseline](https://docs.microsoft.com/en-us/azure/governance/policy/samples/guest-configuration-baseline-linux)
+- [Multipath TCP on RHEL 8: From one to many subflows](https://developers.redhat.com/articles/2021/10/20/multipath-tcp-rhel-8-one-many-subflows?sc_cid=7013a000002pwANAAY)
+- [ss : 10 exemples pour monitorer son réseau](https://sysreseau.net/10-exemples-commande-ss-pour-monitorer-le-reseau/)
+- [ss(8) — Linux manual page](https://man7.org/linux/man-pages/man8/ss.8.html)
+- [Top 7 Security Hardening Tips for CentOS 8 / RHEL 8 Server](https://www.linuxtechi.com/harden-secure-centos-8-rhel-8-server/)
+- [The ultimate terminal](https://kevinkreuzer.medium.com/the-ultimate-terminal-8033ff80d631)
+- [Netcat, l’histoire d’un couteau suisse pour le réseau](https://connect.ed-diamond.com/Linux-Pratique/lp-123/netcat-l-histoire-d-un-couteau-suisse-pour-le-reseau)
+- [Basez votre supervision sur des logs de qualité avec Rsyslog](https://connect.ed-diamond.com/Linux-Pratique/lphs-047/basez-votre-supervision-sur-des-logs-de-qualite-avec-rsyslog)
+- [Beautify Your Terminal Using These Tools](https://javascript.plainenglish.io/beautify-your-terminal-using-these-tools-649ff228547d)
+- [How to Use SSH Config File to Boost Your Productivity](https://betterprogramming.pub/use-ssh-config-file-to-boost-your-productivity-b3867ce8cbfe)
+- [SSH config file for OpenSSH client](https://www.ssh.com/academy/ssh/config)
+- [Journalisez les actions de vos utilisateurs avec Auditd](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmfhs-093/journalisez-les-actions-de-vos-utilisateurs-avec-auditd)
+- [partition mount weakness centos 7](https://www.google.com/search?q=partition+mount+weakness+centos+7&rlz=1C1GCEV_en&tbs=qdr%3Ay&oq=Partition+Mounting+Weakness&sclient=gws-wiz-serp)
+
+
+
+## WINDOWS
+
+- [LINUX VERSION 8 ON WINDOWS SUBSYSTEM FOR LINUX](https://blogs.iuvotech.com/linux-version-8-on-windows-subsystem-for-linux)
+- [Windows Terminal : ajouter une session SSH](https://www.it-connect.fr/windows-terminal-ajouter-une-session-ssh/)
+- [Sais tu comment optimiser et Sécuriser Windows ?](https://quick-tutoriel.com/optimiser-et-securiser-windows/)
+- [Sais tu comment optimiser et Sécuriser Windows (2) ?](https://quick-tutoriel.com/optimiser-et-securiser-windows-2/)

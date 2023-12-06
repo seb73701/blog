@@ -21,7 +21,7 @@
 * [<i class="fa-solid fa-inbox"></i> Apps à trier](/atrier/atrier.md)
 * [<i class="fa-solid fa-inbox"></i> Dev à trier](/atrier/dev_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> OS à trier](/atrier/os_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> Cloudss à trier](/atrier/clouds_atrier.md)
+* [<i class="fa-solid fa-inbox"></i> Clouds à trier](/atrier/clouds_atrier.md)
 * [<i class="fa-solid fa-file-code"></i> Templates](/tpl/page-app.md)
 * [<i class="fa-solid fa-book"></i> Glossaire](/glossaire/)
 * [<i class="fa-solid fa-globe"></i> Sites](/sites/)
