@@ -48,12 +48,25 @@
 ### AutoKey
 - [How to Use AutoKey to Automate Repetitive Tasks on Linux](https://www.makeuseof.com/use-autokey-to-automate-repetitive-tasks-on-linux/)
 
+### Bareos
+
+- [Effectuez vos sauvegardes avec Bareos](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-212/effectuez-vos-sauvegardes-avec-bareos)
+
+
 ### Bitwarden
 - [Bitwarden, le gestionnaire de mots de passe montant. Présentation et installation](https://domopi.eu/bitwarden-le-gestionnaire-de-mots-de-passe-montant-presentation-et-installation/)
 - [Comment gérer ses mots de passe avec Bitwarden ?](https://www.it-connect.fr/comment-gerer-ses-mots-de-passe-avec-bitwarden/)
 - [How to Install Bitwarden Password Manager on Debian 11](https://www.howtoforge.com/how-to-install-bitwarden-password-manager-on-debian-11/)
 - [How to Self-Host Using Bitwarden](https://linuxhint.com/self-host-using-bitwarden/)
 - [Stockez vos mots de passe dans un coffre fort sécurisé avec Bitwarden](https://blog.libreon.fr/stockez-vos-mot-de-passe-dans-un-coffre-fort-securise-avec-bitwarden/)
+
+
+
+
+### Blender
+
+- [How I made a Robot’s face with Blender 3D for my short story](https://bootcamp.uxdesign.cc/how-i-made-a-robots-face-with-blender-3d-for-my-short-story-blender3d-rendering-free-software-technology-b1cf75532994)
+
 
 ### BlueStack
 - [How Do I Zoom In and Out on My Bluestacks Emulator?](https://linuxhint.com/zoom-in-out-bluestacks-emulator/)
@@ -88,6 +101,9 @@
 - [Git commands you must know](https://towardsdev.com/git-commands-you-must-know-d217bf710502)
 - [Git Cheat Sheet with 40+ commands & concepts](https://tapajyoti-bose.medium.com/git-cheat-sheet-with-40-commands-concepts-ab1b9d973e96)
 - [Use Git like a senior engineer](https://levelup.gitconnected.com/use-git-like-a-senior-engineer-ef6d741c898e)
+- [You can’t review every Pull Request. Do these 7 things instead.](https://curtiseinsmann.medium.com/you-cant-review-every-pull-request-do-these-7-things-instead-a62f19361d6d)
+
+
 
 ### Github
 
@@ -117,8 +133,26 @@
 - [How to Monitor System Resources with Glances on Ubuntu 20.04](https://www.howtoforge.com/how-to-monitor-system-resources-with-glances-ubuntu-20-04/)
 
 
+### Google
+
+- [Connaissez-vous ces 20 easter eggs dans Google ?](https://www.clubic.com/pro/entreprises/google/actualite-418743-connaissez-vous-ces-20-easter-eggs-dans-google.html?_ope=eyJndWlkIjoiMTNmOTVmMWQ3MTY4MWZmMDIxZjBlYzkyMzQ2NmFmNGYifQ%3D%3D)
+
+
+
+### Google Calendar
+- [9 Little-Known Google Calendar Tips That Can Help You Dominate Your Daily Productivity](https://betterhumans.pub/9-little-known-google-calendar-tips-that-can-help-you-dominate-your-daily-productivity-bc4d48c675a3)
+
+
 ### Google Chat
 - [How to Create a Room in Google Chat](https://www.makeuseof.com/how-to-create-room-google-chat/)
+
+### Google Chrome
+
+- [10 Chrome Extensions every designer must have(2022)](https://uxplanet.org/10-chrome-extensions-every-designer-must-have-8ba8bc313b60)
+- [12 essential chrome extensions every designer should know about.](https://uxplanet.org/12-essential-chrome-extensions-every-designer-should-know-about-a8e2402f8bb7)
+- [My Chrome Extensions as a Web Developer](https://medium.com/@laka9/my-chrome-extensions-as-a-web-developer-21f0c60586ec)
+- [My Chrome Extensions as a Web Developer](https://medium.com/@laka9/my-chrome-extensions-as-a-web-developer-21f0c60586ec) (Lock)
+
 
 
 ### Google Contacts
@@ -126,6 +160,8 @@
 
 ### Google Data Studio
 - [The 9 Best Features of Google Data Studio for Data Analysis and Visualization](https://www.makeuseof.com/best-features-google-data-studio-data-analysis-visualization/)
+- [Data Visualization — Google Data Studio](https://medium.com/@adrian10ian/data-visualization-google-data-studio-b03f6d3113f3)
+- [How to Create a Marketing Dashboard Using Google Data Studio? A Step-by-Step Guide](https://medium.com/dataflohq/how-to-create-a-marketing-dashboard-using-google-data-studio-a-step-by-step-guide-d3120f7b3258)
 
 
 ### Google Forms
@@ -135,6 +171,12 @@
 
 ### Google Jamboard
 - [The 7 Best Google Jamboard Features You Can Use for Remote Learning](https://www.makeuseof.com/google-jamboard-features-remote-learning/)
+
+
+### Google Sheets
+
+- [2023 Habits Tracker in Google Sheets — with Free Template](https://medium.com/google-sheets-geeks/2023-habits-tracker-in-google-sheets-with-free-template-93ccf375f002) (Lock)
+
 
 
 ### Google Tasks
@@ -187,13 +229,23 @@
 
 
 
+### ImageMagick
+
+- [How to Install ImageMagick on CentOS 8](https://linuxways.net/centos/how-to-install-imagemagick-on-centos-8/)
+- [Install ImageMagick (Image Manipulation) Tool on RHEL/CentOS and Fedora](https://www.tecmint.com/install-imagemagick-in-linux/)
+
+
+
 ### Jenkins
 
+- [Deploy Helm charts with Jenkins CI/CD in Red Hat OpenShift 4](https://developers.redhat.com/articles/2021/05/24/deploy-helm-charts-jenkins-cicd-red-hat-openshift-4?sc_cid=7013a000002q3X8AAI)
+- [A developer's guide to CI/CD and GitOps with Jenkins Pipelines](https://developers.redhat.com/articles/2022/01/13/developers-guide-cicd-and-gitops-jenkins-pipelines?sc_cid=7013a000002q9UTAAY#)
 
 
 ### Jira
 
 - [Introduction et premiers pas avec JIRA](/atrier/apps/jira_001.md)
+- [JIRA for designers — the basics](https://uxdesign.cc/jira-for-designers-the-basics-85d18a42a0cc)
 
 
 ### JQ
@@ -205,6 +257,17 @@
 ### Keepass
 
 - [mettez du DevOps dans votre KeePass](/atrier/apps/keepass_001.md)
+
+### Ketchup
+
+- [Designing with ketchup](https://uxdesign.cc/designing-with-ketchup-290067480428)
+
+### Keycloak
+
+- [A deep dive into Keycloak | DevNation Tech Talk](https://www.youtube.com/watch?v=ZxpY_zZ52kU)
+- [Securing apps and services with Keycloak authentication | DevNation Tech Talk](https://www.youtube.com/watch?v=mdZauKsMDiI)
+
+
 
 ### LimeSurvey (Sondage)
 + [How to Install LimeSurvey on Ubuntu 18.04 LTS](https://www.howtoforge.com/tutorial/how-to-install-limesurvey-on-ubuntu-1804/)
@@ -525,6 +588,9 @@
 + [How to Create a Flowchart in Excel](https://www.makeuseof.com/tag/create-flowchart-excel/)
 + [Comment générer un nombre aléatoire dans une cellule Excel](https://syskb.com/comment-generer-un-nombre-aleatoire-dans-une-cellule-excel/)
 + [3 Crazy Excel Formulas That Do Amazing Things](https://www.makeuseof.com/tag/3-crazy-excel-formulas-that-do-amazing-things/)
+- [Data Analysis with Microsoft Excel](https://medium.com/codex/data-analysis-with-microsoft-excel-d40e8cef39f2)
+- [Why you should (probably) build your 1st dashboard in Excel](https://datastudio.medium.com/why-you-should-probably-build-your-1st-dashboard-in-excel-87e667eeac7)
+- [I bet you didn’t know that Excel could do this](https://datastudio.medium.com/i-bet-you-didnt-know-that-excel-could-do-this-6e677b048dae)
 
 
 
@@ -1064,6 +1130,9 @@
 + [Déverrouiller la protection de forme dans Visio](https://syskb.com/deverrouiller-la-protection-de-forme-dans-visio/)
 
 ### Microsoft Visual Studio Code
+- [VS Code Extensions For Data Engineering](https://levelup.gitconnected.com/vs-code-extensions-for-data-engineering-66839673ea0f)
+- [7 Promising VS Code Extensions Introduced in 2021](https://betterprogramming.pub/new-vs-code-extensions-released-2021-ee34a0b3a03f)
+
 - [9 Visual Studio Code Extensions That Make Programming Easier.](https://medium.com/geekculture/9-visual-studio-code-extensions-that-make-programming-easier-6bbdacc15b6)
 - [Arrange Selection](https://marketplace.visualstudio.com/items?itemName=Wupb.arrange-selection)
 - [Manage TODO List in VSCode](https://medium.com/@EclecticCoder/manage-todo-list-in-vscode-beb53774d776)
@@ -1168,6 +1237,8 @@
 + [How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin)
 + [How to Install Visual Studio Code Server on Debian 10](https://www.howtoforge.com/how-to-install-visual-studio-code-server-on-debian-10/)
 + [VS Code (Code – OSS), mon éditeur de code](https://www.armandphilippot.com/vscode-code-oss-editeur/)
+- [How To Refactor Code in Visual Studio Code](https://betterprogramming.pub/how-to-refactor-code-in-visual-studio-code-884dc85a066a)
+- [Improve Your Development Experience With These 5 VS Code Extensions](https://medium.com/@vietjs/improve-your-development-experience-with-these-5-vs-code-extensions-86f2c0cd4f9)
 - [How To Refactor Code in Visual Studio Code](https://betterprogramming.pub/how-to-refactor-code-in-visual-studio-code-884dc85a066a)
 
 
@@ -1611,6 +1682,9 @@
 + [Composing a Video from multiple sources (MP4, PowerPoint, image, text) using OBS](https://technology.amis.nl/2020/06/01/composing-a-video-from-multiple-sources-mp4-powerpoint-image-text-using-obs/)
 + [How to Record or Stream Your Computer Screen Using OBS Studio](https://www.makeuseof.com/tag/record-screen-stream-online-obs/)
 - [Advanced OBS settings: What they are and how to use them](https://blog.mobcrush.com/advanced-obs-settings-what-they-are-and-how-to-use-them-3bffd9995030)
+- [Advanced OBS settings: What they are and how to use them](https://blog.mobcrush.com/advanced-obs-settings-what-they-are-and-how-to-use-them-3bffd9995030)
+
+
 
 ### OCS Inventory NG
 + [CentOS 8 : Installer OCS Inventory pour l'inventaire du parc](https://www.linuxtricks.fr/wiki/centos-8-installer-ocs-inventory-pour-l-inventaire-du-parc)
@@ -2105,6 +2179,8 @@
 + [Using Postman to Explore the Triathlon API](https://dzone.com/articles/using-postman-to-explore-the-triathlon-api)
 + [Audit your AWS infrastructure with Postman](http://blog.getpostman.com/2017/12/19/audit-your-aws-infrastructure-with-postman/)
 + [Testing RESTful Web Services with Postman](https://hub.packtpub.com/testing-restful-web-services-with-postman/)
+- [Using Postman for API Testing](https://medium.com/pragmatic-programmers/using-postman-for-api-testing-9753aa92b96)
+- [How Postman Engineering handles a million concurrent connections](https://medium.com/better-practices/how-postman-engineering-handles-a-million-concurrent-connections-15c8807f6393)
 
 
 ### PowerDNS
@@ -2230,7 +2306,10 @@
 + [Monitoring S.M.A.R.T. Metrics with Prometheus and PMM](https://www.percona.com/blog/2018/09/03/monitoring-smart-metrics-with-prometheus-and-pmm/)
 + [Service discovery avec Netbox et Prometheus](https://enix.io/fr/blog/service-discovery-avec-netbox-et-prometheus/)
 + [Getting Started on Monitoring with Prometheus and Grafana](https://technology.amis.nl/2018/09/25/getting-started-on-monitoring-with-prometheus-and-grafana/)
-
+- [How to install Prometheus in Debian 11 or Ubuntu 20.04](https://www.how2shout.com/linux/how-to-install-prometheus-in-debian-11-or-ubuntu-20-04/)
+- [Kubernetes monitoring with Prometheus, the ultimate guide](https://sysdig.com/blog/kubernetes-monitoring-prometheus/)
+- [Prometheus by Example](https://codeburst.io/prometheus-by-example-4804ab86e741)
+- [Prometheus: Fill in Data for New Recording Rules](https://jessicagreben.medium.com/prometheus-fill-in-data-for-new-recording-rules-30a14ccb8467)
 
 
 
@@ -2884,6 +2963,9 @@
 + [The 15 Best Spotify Playlists for the Summer](https://www.makeuseof.com/tag/best-spotify-playlists-summer/)
 + [Ecouter Spotify depuis un navigateur Web - Tous les navigateurs web](https://www.pcastuces.com/pratique/astuces/5393.htm?xtor=RSS-3)
 + [How to Install Spotify on Ubuntu 18.04](https://linuxize.com/post/how-to-install-spotify-on-ubuntu-18-04/)
+- [Spotify Wrapped: Data Visualization and Machine Learning on Your Top Songs](https://towardsdatascience.com/spotify-wrapped-data-visualization-and-machine-learning-on-your-top-songs-1d3f837a9b27)
+
+
 
 ### Squid (Proxy)
 + [How to Install and Configure Squid Proxy on Ubuntu 20.04](https://linuxize.com/post/how-to-install-and-configure-squid-proxy-on-ubuntu-20-04/)
@@ -2962,6 +3044,13 @@
 
 ### Syslog-NG
 + [https://www.unix-experience.fr/system/syslog_ng/)[SYSLOG-NG]
+
+
+### Tableau
+
+- [Log4j Vulnerability in Tableau — How to Fix / Workaround [unofficial]](https://medium.com/starschema-blog/log4j-vulnerability-in-tableau-how-to-fix-workaround-unofficial-f6bf63320f13)
+- [Creating Powerful Animated Visualizations in Tableau](https://towardsdatascience.com/creating-powerful-animated-visualizations-in-tableau-ff30a0d861c2)
+
 
 ### Tarantool 
 + [Tarantool Queues (Part 2): Authenticate This](https://dzone.com/articles/tarantool-queues-part-two-authenticate-this)
@@ -3185,6 +3274,8 @@
 + [Infra as code, démarrer Terraform avec OVH](https://www.ovh.com/fr/blog/%e2%80%afinfra-as-code%e2%80%af-terraform-et-ovh/)
 + [Infrastructure As Code sous AWS avec Terraform ](http://www.morot.fr/infrastructure-as-code-sous-aws-avec-terraform-publie-dans-glmf-216/)
 + [An in-depth look at 100% Zero Downtime deployments with Terraform](https://checklyhq.com/blog/2018/08/an-in-depth-look-at-100-zero-downtime-deployments-with-terraform/)
+- [Infrastructure as code with Terraform CDK](https://medium.com/flat-pack-tech/infrastructure-as-code-with-terraform-cdk-a7c278327e67)
+- [Terraform — Different Ways to Authenticate With Azure With Example Project](https://medium.com/bb-tutorials-and-thoughts/terraform-different-ways-to-authenticate-with-azure-with-example-project-5bb224e9bbcf)
 
 
 ### Tesseract OCR
@@ -3319,6 +3410,11 @@
 
 ### Unison
 + [Setting up Unison File Synchronization between two Servers on Debian 10 (Buster)](https://www.howtoforge.com/tutorial/unison-file-sync-between-two-servers-on-debian-10/)
+
+
+### Unity
+
+- [Create A White Noise Shader With Shader Graph In Unity](https://vintay.medium.com/create-a-white-noise-shader-with-shader-graph-in-unity-220dd9d24e92)
 
 
 
