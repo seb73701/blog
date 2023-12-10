@@ -18,11 +18,26 @@
 * [<i class="fa-brands fa-docker"></i> Virtualisation](/virtualisation/)
 
 ---
-* [<i class="fa-solid fa-inbox"></i> Apps à trier](/atrier/atrier.md)
-* [<i class="fa-solid fa-inbox"></i> Dev à trier](/atrier/dev_atrier.md)
+
+## A TRIER
+
+* [<i class="fa-solid fa-inbox"></i> APPS à trier](/atrier/atrier.md)
+* [<i class="fa-solid fa-inbox"></i> BDD à trier](/atrier/bdd_atrier.md)
+* [<i class="fa-solid fa-inbox"></i> CLOUDS à trier](/atrier/clouds_atrier.md)
+* [<i class="fa-solid fa-inbox"></i> DEV à trier](/atrier/dev_atrier.md)
+* [<i class="fa-solid fa-inbox"></i> DEVOPS à trier](/atrier/devops_atrier.md)
+* [<i class="fa-solid fa-inbox"></i> JOBS à trier](/atrier/job_atrier.md)
+* [<i class="fa-solid fa-inbox"></i> MONITORING à trier](/atrier/monit_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> OS à trier](/atrier/os_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> Clouds à trier](/atrier/clouds_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> Virtualisation à trier](/atrier/virt_atrier.md)
+* [<i class="fa-solid fa-inbox"></i> RESEAUX  à trier](/atrier/reso_atrier.md)
+* [<i class="fa-solid fa-inbox"></i> RESEAUX SOCIAUX à trier](/atrier/reso_sociaux_atrier.md)
+* [<i class="fa-solid fa-inbox"></i> SECURITE à trier](/atrier/secu_atrier.md)
+* [<i class="fa-solid fa-inbox"></i> VIRTUALISATION à trier](/atrier/virt_atrier.md)
+
+---
+
+## AUTRES
+
 * [<i class="fa-solid fa-file-code"></i> Templates](/tpl/page-app.md)
 * [<i class="fa-solid fa-book"></i> Glossaire](/glossaire/)
 * [<i class="fa-solid fa-globe"></i> Sites](/sites/)

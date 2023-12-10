@@ -1,6 +1,12 @@
 # APPS A TRIER
 ---
 
+### Android Studio Setup
+
+- [My Most Productive Android Studio Setup](https://betterprogramming.pub/my-productive-android-studio-setup-9dd3774a3b91)
+- [My Most Productive Android Studio Setup](https://betterprogramming.pub/my-productive-android-studio-setup-9dd3774a3b91)
+
+
 ### Ansible
 
 - [Securing a Server with Ansible](/atrier/apps/ansible_001.md)
@@ -66,6 +72,7 @@
 ### Blender
 
 - [How I made a Robot’s face with Blender 3D for my short story](https://bootcamp.uxdesign.cc/how-i-made-a-robots-face-with-blender-3d-for-my-short-story-blender3d-rendering-free-software-technology-b1cf75532994)
+- [Some gears in Blender](https://medium.com/counterarts/some-gears-in-blender-1h-challenge-5faa8de7bccf)
 
 
 ### BlueStack
@@ -102,7 +109,10 @@
 - [Git Cheat Sheet with 40+ commands & concepts](https://tapajyoti-bose.medium.com/git-cheat-sheet-with-40-commands-concepts-ab1b9d973e96)
 - [Use Git like a senior engineer](https://levelup.gitconnected.com/use-git-like-a-senior-engineer-ef6d741c898e)
 - [You can’t review every Pull Request. Do these 7 things instead.](https://curtiseinsmann.medium.com/you-cant-review-every-pull-request-do-these-7-things-instead-a62f19361d6d)
-
+- [Stop Using Branches for Deploying to Different GitOps Environments](https://medium.com/containers-101/stop-using-branches-for-deploying-to-different-gitops-environments-7111d0632402)
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [The pains of GitOps 1.0](https://codefresh.io/blog/pains-gitops-1-0/)
+- [Stop Using Branches for Deploying to Different GitOps Environments](https://medium.com/containers-101/stop-using-branches-for-deploying-to-different-gitops-environments-7111d0632402)
 
 
 ### Github
@@ -199,6 +209,12 @@
 
 ### Grav CMS
 - [How to Install Grav CMS with Nginx on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-grav-cms-on-ubuntu-20-04/)
+
+
+
+### Hugo
+
+- [Displaying Shell Command Code Blocks in Hugo](https://medium.com/pragmatic-programmers/displaying-shell-command-code-blocks-in-hugo-d50691096772)
 
 
 
@@ -1132,7 +1148,6 @@
 ### Microsoft Visual Studio Code
 - [VS Code Extensions For Data Engineering](https://levelup.gitconnected.com/vs-code-extensions-for-data-engineering-66839673ea0f)
 - [7 Promising VS Code Extensions Introduced in 2021](https://betterprogramming.pub/new-vs-code-extensions-released-2021-ee34a0b3a03f)
-
 - [9 Visual Studio Code Extensions That Make Programming Easier.](https://medium.com/geekculture/9-visual-studio-code-extensions-that-make-programming-easier-6bbdacc15b6)
 - [Arrange Selection](https://marketplace.visualstudio.com/items?itemName=Wupb.arrange-selection)
 - [Manage TODO List in VSCode](https://medium.com/@EclecticCoder/manage-todo-list-in-vscode-beb53774d776)
@@ -1240,6 +1255,11 @@
 - [How To Refactor Code in Visual Studio Code](https://betterprogramming.pub/how-to-refactor-code-in-visual-studio-code-884dc85a066a)
 - [Improve Your Development Experience With These 5 VS Code Extensions](https://medium.com/@vietjs/improve-your-development-experience-with-these-5-vs-code-extensions-86f2c0cd4f9)
 - [How To Refactor Code in Visual Studio Code](https://betterprogramming.pub/how-to-refactor-code-in-visual-studio-code-884dc85a066a)
+- [12 Unusual VS Code Extensions You Definitely Need As a Developer](https://javascript.plainenglish.io/12-unusual-vs-code-extensions-you-definitely-need-as-a-developer-71a7f745d5e)
+- [Increase Your Productivity with VSCode Snippets](https://towardsdatascience.com/increase-your-productivity-with-vscode-snippets-6055c6fa7b4f)
+- [Remote debugging on Kubernetes using VS Code](https://developers.redhat.com/articles/2021/12/13/remote-debugging-kubernetes-using-vs-code?sc_cid=7013a000002q6gWAAQ)
+- [The Best VS Code Extensions to Supercharge Your Git](https://betterprogramming.pub/the-best-vs-code-extensions-to-supercharge-your-git-5d5ab3f64f64)
+- [VS Code Extensions That Will Make You Code Faster! – 2021](https://medium.com/@kurucaner/vs-code-extensions-that-will-make-you-code-faster-6dce866ee708)
 
 
 
@@ -2079,6 +2099,11 @@
 
 ### Phabricator (code review, repository hosting and browsing, monitoring tool,  bug tracker)
 + [How to Install Phabricator on Ubuntu 16.04](https://www.rosehosting.com/blog/how-to-install-phabricator-on-ubuntu-16-04/)
+
+
+## Photorec
+
+- [Utilisez et étendez PhotoRec pour récupérer vos données perdues](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-210/utilisez-et-etendez-photorec-pour-recuperer-vos-donnees-perdues)
 
 
 ### phpMyAdmin
@@ -3327,6 +3352,7 @@
 ### Tomb
 
 - [Garder ses secrets avec Tomb](/atrier/apps/tomb_001.md)
+- [Garder ses secrets avec Tomb](https://connect.ed-diamond.com/Linux-Pratique/lphs-048/garder-ses-secrets-avec-tomb)
 
 ### Tor
 + [Mise en place d’un relais Tor sous Debian 8](https://supras.io/mise-en-place-dun-relais-tor-sous-debian-8/)

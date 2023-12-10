@@ -42,5 +42,7 @@
 - [Append-only backups with borg to another VPS or dedicated server](https://www.howtoforge.com/append-only-backups-with-borg-to-another-vps-or-dedicated-server/)
 - [Backing Up VM Files with BORG](https://opensourceforu.com/2020/02/backing-up-vm-files-with-borg/)
 - [Retour d’expérience avec Borg comme outil de sauvegarde](https://blog.genma.fr/?Retour-d-experience-avec-Borg-comme-outil-de-sauvegarde)
+- [Ne procrastinez plus vos sauvegardes grâce à Borg](https://connect.ed-diamond.com/Linux-Pratique/LP-098/Ne-procrastinez-plus-vos-sauvegardes-grace-a-Borg3)
+
 
 </details>

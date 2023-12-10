@@ -68,5 +68,7 @@
 - [The Complete Apache Spark Collection [Tutorials and Articles]](https://dzone.com/articles/the-complete-apache-spark-collection-tutorials-and)
 - [Tips and Best Practices to Take Advantage of Spark 2.x](https://dzone.com/articles/tips-and-best-practices-to-take-advantage-of-spark)
 - [Topology-Based Event Correlation With Apache Spark Streaming](https://dzone.com/articles/topology-based-event-correlation-with-apache-spark)
+- [Stop using Spark for ML!](https://towardsdatascience.com/stop-using-spark-for-ml-59496927ef93)
+
 
 </details>

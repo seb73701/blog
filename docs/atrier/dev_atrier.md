@@ -460,6 +460,28 @@
 - [11 Incredible ChatGPT Chrome Extensions That Will Immediately Give You an Edge and Help You Win](https://medium.com/illumination/11-incredible-chatgpt-chrome-extensions-that-will-immediately-give-you-an-edge-and-help-you-win-f691716ba5dd) (Lock)
 - [20 Amazing ChatGPT Prompts: 10x Your Productivity Today](https://medium.com/@productivitybee/20-amazing-chatgpt-prompts-10x-your-productivity-today-3b306e455dc5) (Lock)
 - [ChatGPT Alternatives for Prompt Engineering](https://levelup.gitconnected.com/chatgpt-alternatives-for-prompt-engineering-ad977eb0e1b2) (Lock)
+- [7 visuals that will save your next meeting](https://uxdesign.cc/7-visuals-that-will-save-your-next-meeting-32a7ef127cf0)
+- [Error 404 pages that will blow your mind](https://medium.com/@snoolink/error-404-pages-that-will-blow-your-mind-fc248a54d670)
+- [Streamlining Diagram Creation With Draw.io and GIT](https://medium.com/geekculture/streamlining-diagram-creation-with-draw-io-and-git-b1c8f1d17024) (Lock)
+- [Generating Knowledge Graphs with Wikipedia](https://towardsdatascience.com/generating-knowledge-graphs-with-wikipedia-ec17030a40f6) (Lock)
+- [Orchestrating Data/ML Workflows at Scale With Netflix Maestro](https://netflixtechblog.com/orchestrating-data-ml-workflows-at-scale-with-netflix-maestro-aaa2b41b800c)
+- [25 tools & resources you will love (and probably never heard of)](https://medium.com/@maximetopolov/25-tools-resources-you-will-love-and-probably-never-heard-of-765709f2868a)
+- [This is what I can do in just 4 hours](https://medium.com/@choudry.yeswanth/this-is-what-i-can-do-in-just-4-hours-7e96ab8cfa28)
+- [Data Warehouse Automation](https://medium.com/@nathan.ganesh/data-warehouse-automation-5615723ea642)
+- [Data Engineer Blog 0x0012 (2022–01–22)](https://ogramos.medium.com/data-engineer-blog-0x0012-2022-01-15-df19d4c7a40a)
+- [Building machine learning models in the cloud](https://developers.redhat.com/articles/2021/11/16/building-machine-learning-models-cloud?sc_cid=7013a000002pytNAAQ)
+- [Learning the Role of Description Formats](https://medium.com/pragmatic-programmers/learning-the-role-of-description-formats-6bdb76915fad)
+- [Making environment variables accessible in front-end containers](https://developers.redhat.com/blog/2021/03/04/making-environment-variables-accessible-in-front-end-containers?sc_cid=7013a000002q3X8AAI)
+- [Deploying with Heroku](https://medium.com/pragmatic-programmers/deploying-with-heroku-e14e740adee6)
+- [Running Tests Locally with Newman](https://medium.com/pragmatic-programmers/running-tests-locally-with-newman-748f93aac564)
+- [Standing on principles](https://nickschwabxd.medium.com/standing-on-principles-e96ecbb36e07)
+- [Stop thinking about flows, start thinking about objects](https://uxdesign.cc/stop-thinking-about-flows-start-thinking-about-objects-16143c1b8b1f)
+- [Stop using console.log](https://medium.com/@benlmsc/stop-using-console-log-d281a900dedb)
+- [The Complete Data Engineering Interview Guide for beginners](https://levelup.gitconnected.com/the-complete-data-engineering-roadmap-for-beginners-bc68733bc0b2)
+- [The Complete Data Engineering Interview Guide for beginners](https://medium.com/@niteshx22/the-complete-data-engineering-roadmap-for-beginners-bc68733bc0b2)
+- [The Startup Marketing Checklist](https://draft.dev/learn/marketing-checklist)
+- [Top 5 free beginner-level Graphic Design courses on Youtube if you don't know where to start.](https://medium.muz.li/top-5-free-beginner-level-graphic-design-courses-on-youtube-if-you-dont-know-where-to-start-3cfb896d7713)
+- [Top 6 Machine Learning Algorithms for Classification](https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501)
 
 
 
@@ -539,6 +561,8 @@
 - [Les secrets des algorithmes à haute fréquence en Java (et autre)](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-184/les-secrets-des-algorithmes-a-haute-frequence-en-java-et-autre)
 - [Microservices Shared Libraries — Design and Best Practices](https://medium.com/duda/shared-libraries-design-and-best-practices-710774ae0bdc)
 - [Cleaning up massive UIViewController by separating view.](https://yermukhanbet.medium.com/cleaning-up-massive-uiviewcontroller-by-separating-view-c1a83000faa8)
+- [Can your logging cause outage ?](https://deepanshu-bansal.medium.com/can-your-logging-cause-outage-b68818145bea)
+- [JVM performance monitoring with JMC agent](https://developers.redhat.com/articles/2021/11/16/jvm-performance-monitoring-jmc-agent?sc_cid=7013a000002pzmBAAQ)
 
 
 ## JAVASCRIPT
@@ -590,6 +614,9 @@
 
 ## PYTHON
 
+- [Comparing Documents With Similarity Metrics](https://towardsdatascience.com/comparing-documents-with-similarity-metrics-e486bc678a7d)
+- [Fabric, le couteau suisse de l’automatisation](https://connect.ed-diamond.com/Linux-Pratique/lp-122/fabric-le-couteau-suisse-de-l-automatisation)
+- [Calendar Heatmaps : A perfect way to display your time-series quantitative data](https://medium.com/analytics-vidhya/calendar-heatmaps-a-perfect-way-to-display-your-time-series-quantitative-data-ad36bf81a3ed)
 - [6 Pandas Mistakes that Silently Tell You Are a Rookie](https://towardsdatascience.com/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d)
 - [Top 5 PySpark tips and tricks for beginners](https://medium.com/@mark.averchenko/top-5-pyspark-tips-and-tricks-for-beginners-240acd1b7407)
 - [How to Use Pandas for Big Data](https://towardsdatascience.com/how-to-use-pandas-for-big-data-50650945b5c6)
@@ -661,6 +688,8 @@
 - [5 Python Automation Scripts I Use Every Day](https://thegrayarea.tech/5-python-automation-scripts-i-use-every-day-74c4313f2b47) (Lock)
 - [Say Goodbye to Loops in Python, and Welcome Vectorization!](https://medium.com/codex/say-goodbye-to-loops-in-python-and-welcome-vectorization-e4df66615a52) (Lock)
 - [Fugue and DuckDB: Fast SQL Code in Python](https://towardsdatascience.com/fugue-and-duckdb-fast-sql-code-in-python-e2e2dfc0f8eb)
+- [Scrape Twitter Without Limits Using Twint](https://medium.datadriveninvestor.com/scrape-twitter-without-limits-using-twint-92509f2503cd)
+- [How I Created an End-To-End Personal Data Project (Fantasy Premier League)](https://medium.com/@andrej.trajk/how-i-created-an-end-to-end-personal-data-project-fantasy-premier-league-91a587dfa578)
 
 
 
