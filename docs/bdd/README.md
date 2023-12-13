@@ -17,7 +17,7 @@
 <div class="bdd-container">
   <div><a href="#bdd/clickhouse/clickhouse.md">Clickhouse</a></div>
   <div><a href="#bdd/cockroachdb/cockroachdb.md">CockroachDB</a></div>
-  <div><a href="#bdd/couchebase/couchbase.md">CouchBase</a></div>
+  <div><a href="#bdd/couchbase/couchbase.md">CouchBase</a></div>
 </div>
 
 ## F
