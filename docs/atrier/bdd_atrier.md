@@ -2,7 +2,7 @@
 
 ## APACHE CASSANDRA
 
-- [Cassandra](#bdd/apache_cassandra_temp_001.md)
+- [Cassandra](../atrier/bdd/apache_cassandra_temp_001.md)
 
 
 ## GOKU

@@ -20,16 +20,10 @@
   <div><a href="#bdd/couchbase/couchbase.md">CouchBase</a></div>
 </div>
 
-## F
-
-<div class="bdd-container">
-  <div><a href="#bdd/firebase/firebase.md">Firebase</a></div>
-</div>
-
 ## G
 
 <div class="bdd-container">
-  <div><a href="#bdd/galera/galera.md">Galera</a></div>
+  <div><a href="#bdd/galera_cluster/galera_cluster.md">Galera Cluster</a></div>
 </div>
 
 ## I
@@ -37,6 +31,14 @@
 <div class="bdd-container">
   <div><a href="#bdd/influxdb/influxdb.md">InfluxDB</a></div>
 </div>
+
+## K
+
+<div class="bdd-container">
+  <div><a href="#bdd/kairosdb/kairosdb.md">KairosDB</a></div>
+</div>
+
+
 
 ## M
 
