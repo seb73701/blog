@@ -48,12 +48,6 @@
   <div><a href="#bdd/mysql/mysql.md">MySQL</a></div>
 </div>
 
-## N
-
-<div class="bdd-container">
-  <div><a href="#bdd/neo4j/neo4j.md">Neo4j</a></div>
-</div>
-
 ## O
 
 <div class="bdd-container">
@@ -64,7 +58,7 @@
 ## P
 
 <div class="bdd-container">
-  <div><a href="#bdd/percona_database_server/percona_database_server.md">Percona Database Server</a></div>
+  <div><a href="#bdd/percona_server_mysql/percona_server_mysql.md">Percona Server for MySQL</a></div>
   <div><a href="#bdd/percona_xtradb_cluster/percona_xtradb_cluster.md">Percona XtraDB Cluster</a></div>
   <div><a href="#bdd/postgresql/postgresql.md">PostgreSQL</a></div>
 </div>
@@ -72,10 +66,8 @@
 ## R
 
 <div class="bdd-container">
-  <div><a href="#bdd/ravendb/ravendb.md">RavenDB</a></div>
   <div><a href="#bdd/redis/redis.md">Redis</a></div>
   <div><a href="#bdd/rethinkdb/rethinkdb.md">RethinkDB</a></div>
-  <div><a href="#bdd/riak/riak.md">Riak</a></div>
 </div>
 
 ## S
