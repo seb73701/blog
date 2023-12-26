@@ -28,6 +28,13 @@
 - [Enable Gzip Compression on Apache Shared Hosting](/atrier/apps/apache_http_server_003)
 - [HTACCESS - Bloquer des IP et des Proxies](/atrier/apps/apache_http_server_004)
 - [Récupérer la liste des urls avec un compteur sur les hits](/atrier/apps/apache_http_server_005)
+- [Parsing Apache Logs](https://www.loggly.com/ultimate-guide/parsing-apache-logs/)
+- [Troubleshoot with Apache Logs](https://www.loggly.com/ultimate-guide/troubleshoot-with-apache-logs/)
+- [Monitoring Apache Logs](https://www.loggly.com/ultimate-guide/monitoring-apache-logs/)
+- [Centralizing Apache Logs](https://www.loggly.com/ultimate-guide/centralizing-apache-logs/)
+- [Apache Logging Basics](https://www.loggly.com/ultimate-guide/apache-logging-basics/)
+- [Access and Error Logs](https://www.loggly.com/ultimate-guide/access-and-error-logs/)
+
 
 ### Apache Kafka
 

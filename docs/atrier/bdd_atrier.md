@@ -31,6 +31,11 @@
 - [MySQL – Finding First day and Last day of a Month](https://blog.sqlauthority.com/2014/04/09/mysql-finding-first-day-and-last-day-of-a-month/)
 
 
+```shell
+mysql -e "STOP SLAVE; SET GLOBAL sql_slave_skip_counter = 1; START SLAVE;"
+mysql -e "SHOW SLAVE STATUS \G;"
+``````
+
 
 
 ## POSTGRESQL

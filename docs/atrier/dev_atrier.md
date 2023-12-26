@@ -563,6 +563,9 @@
 - [Cleaning up massive UIViewController by separating view.](https://yermukhanbet.medium.com/cleaning-up-massive-uiviewcontroller-by-separating-view-c1a83000faa8)
 - [Can your logging cause outage ?](https://deepanshu-bansal.medium.com/can-your-logging-cause-outage-b68818145bea)
 - [JVM performance monitoring with JMC agent](https://developers.redhat.com/articles/2021/11/16/jvm-performance-monitoring-jmc-agent?sc_cid=7013a000002pzmBAAQ)
+- [Parsing Java Logs](https://www.loggly.com/ultimate-guide/parsing-java-logs/)
+- [Troubleshooting With Java Logs](https://www.loggly.com/ultimate-guide/troubleshooting-with-java-logs/)
+- [Java Logging Basics](https://www.loggly.com/ultimate-guide/java-logging-basics/)
 
 
 ## JAVASCRIPT

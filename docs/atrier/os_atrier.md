@@ -31,6 +31,8 @@
 - [SSH config file for OpenSSH client](https://www.ssh.com/academy/ssh/config)
 - [Journalisez les actions de vos utilisateurs avec Auditd](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmfhs-093/journalisez-les-actions-de-vos-utilisateurs-avec-auditd)
 - [partition mount weakness centos 7](https://www.google.com/search?q=partition+mount+weakness+centos+7&rlz=1C1GCEV_en&tbs=qdr%3Ay&oq=Partition+Mounting+Weakness&sclient=gws-wiz-serp)
+- [Managing Journal Size](https://www.loggly.com/ultimate-guide/managing-journal-size/)
+- [File Locking in Linux](https://linuxhandbook.com/file-locking/)
 
 
 
@@ -40,3 +42,6 @@
 - [Windows Terminal : ajouter une session SSH](https://www.it-connect.fr/windows-terminal-ajouter-une-session-ssh/)
 - [Sais tu comment optimiser et Sécuriser Windows ?](https://quick-tutoriel.com/optimiser-et-securiser-windows/)
 - [Sais tu comment optimiser et Sécuriser Windows (2) ?](https://quick-tutoriel.com/optimiser-et-securiser-windows-2/)
+- [Windows Logging Basics](https://www.loggly.com/ultimate-guide/windows-logging-basics/)
+- [Troubleshooting with Windows Logs](https://www.loggly.com/ultimate-guide/troubleshooting-with-windows-logs/)
+- [Centralizing Windows Logs](https://www.loggly.com/ultimate-guide/centralizing-windows-logs/)
