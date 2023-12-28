@@ -1,3 +1,5 @@
+# Comment installer Python3 sur Rocky Linux 8
+
 # <span style="color:darkgreen;"><i class="fas fa-caret-right" style="margin-right:10px;"></i>Prérequis
 
 <i class="fas fa-check" style="color:green;margin-right:10px;"></i>Avoir une VM avec un système d'exploitation sous Rocky Linux 8

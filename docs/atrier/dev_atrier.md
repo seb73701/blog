@@ -1,6 +1,8 @@
 # DEV A TRIER
 
-# DEVELOPPEMENT
+## DEVELOPPEMENT
+
+<details>
 
 - [20 Amazing GitHub Repositories Every Developer Should Follow](https://towardsdatascience.com/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351)
 - [11 ML Algorithms You Should Know](https://medium.com/codex/11-ml-algorithms-you-should-know-in-2021-8fecbd3a2a1a)
@@ -483,59 +485,72 @@
 - [Top 5 free beginner-level Graphic Design courses on Youtube if you don't know where to start.](https://medium.muz.li/top-5-free-beginner-level-graphic-design-courses-on-youtube-if-you-dont-know-where-to-start-3cfb896d7713)
 - [Top 6 Machine Learning Algorithms for Classification](https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501)
 
+</details>
 
-
-
-
-
-
+----
 
 ## ANGULAR
 
-- [Angular — things I immediately do when create a new application](https://medium.com/nerd-for-tech/angular-things-i-immediately-do-when-create-a-new-application-635a740b7027)
-- [Angular: DON'T Call Functions Inside The Template Anymore](https://javascript.plainenglish.io/angular-dont-call-a-function-inside-the-template-anymore-e74ebf499bb8)
-- [How Micro Frontend changes the Future of Angular?](https://itnext.io/how-micro-frontend-changes-the-future-of-angular-bb4deb2cfdad)
-- [Real-Time Charts with Plotly.js in Angular](https://javascript.plainenglish.io/real-time-charts-with-plotly-js-in-angular-4a46c4c56eb5)
-- [[Angular] Must-have Utils to Improve your code](https://kelly-kh-woo.medium.com/angular-must-have-utils-to-improve-your-code-2b355bebe6f2)
-- [Angular — Micro-Frontend](https://blog.devgenius.io/angular-micro-frontend-4dad619c4277)
-- [Angular Authentication: Best Practices](https://nikosanif.medium.com/angular-authentication-best-practices-c9ae090f1bc0)
+<details>
 
 
+
+</details>
+
+----
 
 ## BASH
 
-- [5 Modern Bash Scripting Techniques That Only A Few Programmers Know](https://levelup.gitconnected.com/5-modern-bash-scripting-techniques-that-only-a-few-programmers-know-4abb58ddadad)
-- [Bash Else If – elif](https://www.tutorialkart.com/bash-shell-scripting/bash-else-if/)
+<details>
 
+- [Analyse des arguments de ligne de commande et attribution de valeurs](atrier/dev/bash_001.md)
+- [Lire des valeurs depuis un fichier de configuration](atrier/dev/bash_002.md)
+- [Exemple script bash : OS Detect](atrier/dev/bash_003.md)
+- [BASH](atrier/dev/bash_004.md)
+
+</details>
+
+----
 
 ## CSS
 
-- [11 CSS One-Liners That Are Insanely Useful](https://javascript.plainenglish.io/11-css-one-liners-that-are-insanely-useful-8a2878200474)
-- [3D CSS: Interactive SNES Controller](https://codepen.io/alvaromontoro/pen/PoEgRPG)
-- [CSS Is Finally Getting If/Else Statements!](https://kentondejong.medium.com/css-is-finally-getting-if-else-statements-3fabcec72a1f)
-- [How I made Google’s data grid scroll 10x faster with one line of CSS](https://medium.com/@johan.isaksson/how-i-made-googles-data-grid-scroll-10x-faster-with-one-line-of-css-78cb1e8d9cb1)
-- [Incredible CSS Layouts Generators You Should Know!](https://medium.com/geekculture/incredible-css-layouts-generators-you-should-know-16c87090c5a1)
-- [How to Create a Floating Action Button with Pure CSS Positioning](https://javascript.plainenglish.io/how-to-create-a-floating-action-button-with-pure-css-positioning-e52ba498083f)
-- [9 Awesome CSS Tools That You Should Use in 2022](https://blog.devgenius.io/9-awesome-css-tools-that-you-should-use-in-2022-2155eed03c4c)
-- [Parallax Powered by CSS Custom Properties](https://blog.prototypr.io/parallax-powered-by-css-custom-properties-a926481cc54e)
-- [Intro to CSS Grid Part 1: When Flexbox Just Isn’t Cutting It](https://medium.com/@redlisa125/intro-to-css-grid-part-1-when-flexbox-just-isnt-cutting-it-cd58e4867aae)
-- [CSS Beauty…](https://medium.com/codex/css-beauty-de40e965c452)
-- [10 Powerful CSS Properties That You Probably Don’t know](https://blog.devgenius.io/10-powerful-css-properties-that-you-probably-dont-know-1c0c3c2d9406)
-- [Best Tailwind CSS templates](https://medium.com/@casperrubaek/beautiful-feature-packed-vue-tailwind-css-admin-templates-for-saas-web-apps-10d54a3b35bd)
-- [A beginners guide to Grid System](https://medium.com/@designwithabishek/a-beginners-guide-to-grid-system-57045b3f7035)
-- [PX or REM in CSS? Just Use REM](https://levelup.gitconnected.com/px-or-rem-in-css-just-use-rem-470c01882021)
-- [10 GitHub Repositories to Become a CSS Master](https://levelup.gitconnected.com/10-github-repositories-to-become-a-css-master-ff0811fbf3d9) (Lock)
-- [How to Underline Text with CSS & Customize the Style](https://jonlehman.medium.com/how-to-underline-text-with-css-customize-the-style-dce7f8541bbd)
-- [Tailwind CSS - The Top 5+ Component Libraries](https://medium.com/@Emmanouil_Gaitanakis/tailwind-css-the-top-5-component-libraries-975e7fb253a6)
-- [Best Tailwind CSS templates](https://medium.com/@casperrubaek/beautiful-feature-packed-vue-tailwind-css-admin-templates-for-saas-web-apps-10d54a3b35bd)
+<details>
 
++ [Cercles Palpitants](atrier/dev/css_001.md)
++ [Cercles rotatifs](atrier/dev/css_002.md)
++ [Coins qui s'agrandissent](atrier/dev/css_003.md)
++ [Faire des bulles (de belles bulles animées)](atrier/dev/css_004.md)
++ [Flèche coulissante](atrier/dev/css_005.md)
++ [Fondu et agrandissement](atrier/dev/css_006.md)
++ [Hamburger Icône - Croix](atrier/dev/css_007.md)
++ [Icône de menu tournante](atrier/dev/css_008.md)
++ [Neige qui tombe](atrier/dev/css_009.md)
++ [Oiseaux en vol](atrier/dev/css_010.md)
++ [Surlignage grandissant](atrier/dev/css_011.md)
++ [Transition de couleurs](atrier/dev/css_012.md)
++ [Souligner depuis le centre](atrier/dev/css_013.md)
++ [Une molette qui roule](atrier/dev/css_014.md)
++ [Créer un titre animé avec un arrière-plan en fondu](atrier/dev/css_015.md)
++ [Maîtriser les sélecteurs CSS](atrier/dev/css_016.md)
+
+</details>
+
+----
 
 ## FLUTTER
+
+<details>
 
 - [Flutter design: make your theme homogeneous](https://medium.com/flutter-community/flutter-design-make-your-theme-homogeneous-13ddeffb186f)
 - [7 Flutter Open Source Projects to Become a Better Flutter Developer](https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer-b4a10f7e561f)
 
+</details>
+
+----
+
 ## GO
+
+<details>
 
 - [7 Code Patterns in Go I Can’t Live Without](https://betterprogramming.pub/7-code-patterns-in-go-i-cant-live-without-f46f72f58c4b)
 - [Code Challenge: using maps in Go to find a non repeating element in a slice](https://medium.com/@mirhasanov/code-challenge-using-maps-in-go-to-find-a-non-repeating-element-in-a-slice-eb7b4a61e231)
@@ -547,7 +562,13 @@
 - [Golang — 1 Minute guide to Useful Tips and Libraries in 2022](https://blog.canopas.com/1-min-guide-to-golang-development-best-practices-in-2022-b50d846fd6c)
 - [Write an Agent Command-Line Interface](https://medium.com/pragmatic-programmers/write-an-agent-command-line-interface-ef6f85a9ec04)
 
+</details>
+
+----
+
 ## HTML
+
+<details>
 
 - [11 HTML One-Liners That Are Insanely Useful](https://javascript.plainenglish.io/11-html-one-liners-that-are-insanely-useful-3b62f4e57a06)
 - [Goodbye HTML. Hello Canvas!](https://javascript.plainenglish.io/goodbye-html-hello-canvas-part-1-92f750961666)
@@ -556,7 +577,13 @@
 - [Goodbye HTML. Hello Canvas!](https://javascript.plainenglish.io/goodbye-html-hello-canvas-part-1-92f750961666)
 - [How To Create a Responsive Image Grid Gallery with HTML & CSS — Flexbox](https://medium.com/@codefoxx/how-to-create-a-responsive-image-grid-gallery-with-html-css-flexbox-1a4ea78f1ab3)
 
+</details>
+
+----
+
 ## JAVA
+
+<details>
 
 - [Les secrets des algorithmes à haute fréquence en Java (et autre)](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-184/les-secrets-des-algorithmes-a-haute-frequence-en-java-et-autre)
 - [Microservices Shared Libraries — Design and Best Practices](https://medium.com/duda/shared-libraries-design-and-best-practices-710774ae0bdc)
@@ -567,8 +594,13 @@
 - [Troubleshooting With Java Logs](https://www.loggly.com/ultimate-guide/troubleshooting-with-java-logs/)
 - [Java Logging Basics](https://www.loggly.com/ultimate-guide/java-logging-basics/)
 
+</details>
+
+----
 
 ## JAVASCRIPT
+
+<details>
 
 - [4 JavaScript Concepts That Every Developer Should Know](https://javascript.plainenglish.io/4-javascript-concepts-that-every-developer-should-know-a20f0d4c9dd8)
 - [6 ways to clean up your code in JavaScript](https://medium.com/@ignacioojan/6-ways-to-clean-up-your-code-in-javascript-20908f0a2467)
@@ -588,14 +620,23 @@
 - [9 Awesome JavaScript Projects for your Resume](https://levelup.gitconnected.com/9-awesome-javascript-projects-for-your-resume-6dcf4645da4b)
 - [JavaScript Cheat Sheet](https://towardsdev.com/javascript-cheat-sheet-a317e758b982)
 
+</details>
 
+----
 
 ## NEXT.JS
 
+<details>
+
 - [Component First Development with Next.js](https://johnclarke73.medium.com/component-first-development-with-next-js-28aba0cadecb)
 
+</details>
+
+----
 
 ## NODE.JS
+
+<details>
 
 - [Clean architecture - making Node.js API shine!](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)
 - [Create a Graph Database and API With PostgreSQL and Node.js](https://betterprogramming.pub/create-a-graph-database-and-api-with-postgresql-and-node-js-d7bddcc00bbb)
@@ -607,99 +648,74 @@
 - [What is faster — Tomcat or Node.js with Express?](https://medium.com/codex/what-is-faster-tomcat-or-node-js-with-express-602a829b49b6)
 - [Managing Your Project with npm](https://medium.com/pragmatic-programmers/managing-your-project-with-npm-6b875727b8d0)
 
+</details>
 
+----
 
 ## PHP
+
+<details>
 
 - [PHP Design Patterns — Adapter](https://fabiohiroki.medium.com/php-design-patterns-adapter-dce46dc74a2a)
 - [Starting with Microservices in PHP](https://medium.com/nerd-for-tech/starting-with-microservices-in-php-6e3c411f3d27)
 
+</details>
+
+----
 
 ## PYTHON
 
-- [Comparing Documents With Similarity Metrics](https://towardsdatascience.com/comparing-documents-with-similarity-metrics-e486bc678a7d)
-- [Fabric, le couteau suisse de l’automatisation](https://connect.ed-diamond.com/Linux-Pratique/lp-122/fabric-le-couteau-suisse-de-l-automatisation)
-- [Calendar Heatmaps : A perfect way to display your time-series quantitative data](https://medium.com/analytics-vidhya/calendar-heatmaps-a-perfect-way-to-display-your-time-series-quantitative-data-ad36bf81a3ed)
-- [6 Pandas Mistakes that Silently Tell You Are a Rookie](https://towardsdatascience.com/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d)
-- [Top 5 PySpark tips and tricks for beginners](https://medium.com/@mark.averchenko/top-5-pyspark-tips-and-tricks-for-beginners-240acd1b7407)
-- [How to Use Pandas for Big Data](https://towardsdatascience.com/how-to-use-pandas-for-big-data-50650945b5c6)
-- [JupyterLab Desktop App — A Game Changer for Using Notebooks? Probably Not](https://towardsdatascience.com/jupyterlab-desktop-app-a-game-changer-for-using-notebooks-probably-not-e6918b4d54a1)
-- [Microservice Authentication with Django](https://medium.com/@akiva10b/microservice-infrastructure-with-django-8f985e86a057)
-- [Creating a better dashboard with Python, Dash, and Plotly](https://towardsdatascience.com/creating-a-better-dashboard-with-python-dash-and-plotly-80dfb4269882)
-- [10 Handy Automation Scripts You Should Try Using Python](https://medium.com/pythoneers/10-handy-automation-scripts-you-should-try-using-python-fc9450116938)
-- [Stop Using “or” to Check Multiple Conditions in Python](https://betterprogramming.pub/stop-using-or-to-check-multiple-conditions-in-python-404d31f2b569)
-- [How to Create Python range() in JavaScript](https://betterprogramming.pub/using-python-range-in-javascript-1e58c7bd339c)
-- [Data Visualization in Python](https://medium.com/@siddhardhan23/data-visualization-in-python-a90ddb706b23)
-- [5 Advanced Tips on Python Functions](https://towardsdatascience.com/5-advanced-tips-on-python-functions-1a0918017965)
-- [Automate WhatsApp Messages with Python Instantly!](https://levelup.gitconnected.com/automate-whatsapp-messages-with-python-instantly-3e08d6600612)
-- [How to Automatically Generate Python Code for Spreadsheet Operations?](https://python.plainenglish.io/how-to-automatically-generate-python-code-for-spreadsheet-operations-ca3f59474971)
-- [5 Python Use Cases That Only a Few Programmers Know](https://levelup.gitconnected.com/5-python-use-cases-that-only-a-few-programmers-know-35e25ddf13d4)
-- [Top 10 Python Frameworks for Web Development in 2022](https://enlear.academy/top-10-python-frameworks-for-web-development-in-2022-22b37bb03c02)
-- [Face Mesh Detection with Python and OpenCV — Complete Project](https://python.plainenglish.io/face-mesh-detection-with-python-and-opencv-complete-project-359d81d6a712)
-- [3 Python Packages to Try in 2022](https://medium.com/trymito/3-python-packages-to-try-in-2022-6126e37b111f)
-- [5 Must-Know Python Concepts for Experienced Developers](https://betterprogramming.pub/must-know-python-concepts-for-experienced-developers-4554ceea3d95)
-- [8 YouTube Channels That You Should Follow As A Python Developer](https://levelup.gitconnected.com/8-youtube-channels-that-you-should-follow-as-a-python-developer-6c4f725f72ca)
-- [The Viz for Social Good Community — An Analysis Using Python & Tableau](https://towardsdatascience.com/the-viz-for-social-good-community-an-analysis-using-python-tableau-63d19ed8376d)
-- [5% of 666 Python repos had comma typos (including Tensorflow, and PyTorch, Sentry, and V8)](https://blog.devgenius.io/5-of-666-python-repos-had-comma-typos-including-tensorflow-and-pytorch-sentry-and-v8-7bc3ad9a1bb7)
-- [Creating Beautiful Topography Maps with Python](https://towardsdatascience.com/creating-beautiful-topography-maps-with-python-efced5507aa3)
-- [Python Packages I can’t Live Without](https://medium.com/pythoneers/python-packages-i-cant-live-without-e329e6b753ce)
-- [20 Python Interview Questions To Challenge Your Knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
-- [Random Forest in Python](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
-- [20 Python Interview Questions To Challenge Your Knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
-- [15 Useful OpenSource Data Quality Python Libraries](https://medium.com/@leensro/15-useful-opensource-data-quality-python-libraries-f1abc8ff9f38)
-- [Python ETL Pipeline: The Incremental data load Techniques](https://blog.devgenius.io/python-etl-pipeline-the-incremental-data-load-techniques-20bdedaae8f)
-- [Bye-bye Jupyter Notebook. Hello DataSpell!](https://medium.com/geekculture/bye-bye-jupyter-notebook-hello-dataspell-d1eaa590235b)
-- [3 Python Packages that will change Data Science](https://medium.com/trymito/3-python-packages-that-will-change-data-science-957955cf4571)
-- [Beautiful, Customisable Dashboards with Python, Plotly & Dash](https://medium.com/codex/beautiful-customisable-dashboards-with-python-plotly-dash-bacde9fd29f5)
-- [Everything About Pandas- 100 Code Snippets and Tricks](https://medium.com/analytics-vidhya/everything-about-pandas-100-code-snippets-and-tricks-443e5ae59e81)
-- [9 Fabulous Python Tricks That Make Your Code More Elegant](https://medium.com/techtofreedom/9-fabulous-python-tricks-that-make-your-code-more-elegant-bf01a6294908)
-- [Graph Visualization using Python](https://medium.com/@nelsonjoseph123/graph-visualization-using-python-bbd9a593c533)
-- [7 Useful Python Libraries You Should Use in Your Next Project](https://medium.com/geekculture/7-useful-python-libraries-you-should-use-in-your-next-project-538547811de6)
-- [An Introduction to Text Summarization using the TextRank Algorithm (with Python implementation)](https://medium.com/analytics-vidhya/an-introduction-to-text-summarization-using-the-textrank-algorithm-with-python-implementation-2370c39d0c60)
-- [Cartoonize yourself using Python and AI](https://levelup.gitconnected.com/cartoonize-yourself-using-python-and-ai-24fdd4913206)
-- [Yes, You Can Easily Scrape Websites with Pandas. Here’s How.](https://medium.com/geekculture/yes-you-can-easily-scrape-websites-with-pandas-heres-how-f833157781d5)
-- [Create Interactive Reports with Python](https://towardsdev.com/create-interactive-reports-with-quarto-d8175538a57d)
-- [Easily Replicate Your Company Palette For Python Data Viz](https://levelup.gitconnected.com/easily-replicate-your-company-palette-for-python-data-viz-426b7487d5e4)
-- [Automate Data Pipeline for Front End Dashboards in Python](https://medium.com/@itsdaniyalm/automate-data-pipeline-for-front-end-dashboards-in-python-321d9c0db098)
-- [4 Best open-source python IDEs](https://medium.com/datasciencemustneededskills/summary-5c62ff867128)
-- [Build powerful APIs with Python’s FastAPI](https://medium.com/geekculture/build-powerful-apis-with-pythons-fastapi-714b17e69bb6)
-- [How to Extract Data From 100’s PDFs in 2 Minutes Using Python?](https://medium.com/swlh/reading-100s-of-pdf-files-in-2-minutes-bf57b57ed7d2)
-- [Python For Everyday Automation](https://medium.com/codex/python-for-everyday-automation-2e54cbf5c5e1)
-- [Build Your Own Search Engine Using Python](https://python.plainenglish.io/build-your-own-search-engine-in-python-part-1-2-the-engine-3b060e49eb84)
-- [Build Your Own Search Engine Using Python part 2](https://python.plainenglish.io/build-your-own-search-engine-using-python-part-2-abdb6fe3e10b)
-- [Web Scraping Amazon Reviews with Python and Beautiful Soup](https://python.plainenglish.io/web-scraping-amazon-reviews-with-python-and-beautiful-soup-2ca41ebd2876)
-- [How to Start Coding in Python](https://python.plainenglish.io/how-to-start-coding-in-python-5a56cf8b8e26)
-- [Visualization Tools with Python](https://medium.com/mlearning-ai/visualization-tools-with-python-2d6c6a0d7a02)
-- [Build a GUI for Any API easily in Python Using Streamlit](https://python.plainenglish.io/build-a-gui-for-any-api-easily-in-python-using-streamlit-15cd21560689)
-- [7 Visualizations with Python to Express Changes in Rank over Time](https://towardsdatascience.com/7-visualizations-with-python-to-express-changes-in-rank-over-time-71c1f11d7e4b)
-- [Multi-dimensional Data Visualization with Plotly (3D-7D)](https://reneelin2019.medium.com/multi-dimensional-data-visualization-with-plotly-3d-7d-10f3c2d01e84)
-- [10 Mini Automation Projects in Python](https://python.plainenglish.io/10-mini-automation-projects-in-python-5a2bb90f6550)
-- [Data Visualization 101- Python for Data Analysis](https://medium.com/@kaancukurx/data-visualization-101-python-for-data-analysis-40d1e1bd0e5c)
-- [Predicting The FIFA World Cup 2022 With a Simple Model using Python](https://towardsdatascience.com/predicting-the-fifa-world-cup-2022-with-a-simple-model-using-python-6b34bdd4f2a5)
-- [10 Python Scripts for Automating Your Daily Problems](https://python.plainenglish.io/10-python-scripts-for-automating-your-daily-problems-91df7fedebab)
-- [Predictive Maintenance in Python — Exploratory Analysis and Visualization](https://medium.com/@dreamferus/predictive-maintenance-in-python-exploratory-analysis-and-visualization-de363d5a39de)
-- [Creating an Awesome Web App With Python and Streamlit](https://python.plainenglish.io/creating-an-awesome-web-app-with-python-and-streamlit-728fe100cf7)
-- [Exploratory Data Analysis in Python — A Step-by-Step Process](https://towardsdatascience.com/exploratory-data-analysis-in-python-a-step-by-step-process-d0dfa6bf94ee)
-- [How to create front end dashboards in Python using pieSparrow](https://medium.com/@itsdaniyalm/how-to-create-front-end-dashboards-in-python-using-piesparrow-6c1cfd9ec4a0)
-- [Web Scraping Football Matches [EPL] With Python](https://medium.com/@obalanatosin16/web-scraping-football-matches-epl-with-python-9fe96b0f47c4)
-- [How to Scrape Everything from Twitter Using Python](https://python.plainenglish.io/how-to-scrape-everything-from-twitter-using-python-b91eae5e4614)
-- [Make Awesome Maps in Python and Geopandas](https://betterprogramming.pub/make-awesome-maps-in-python-and-geopandas-c8b3c887b284)
-- [Building an All-In-One Audio Analysis Toolkit in Python](https://towardsdatascience.com/building-an-all-in-one-audio-analysis-toolkit-in-python-e849a0e2129e)
-- [4 Clustering Model Algorithms in Python and Which is the Best](https://medium.com/grabngoinfo/4-clustering-model-algorithms-in-python-and-which-is-the-best-7f3431a6e624)
-- [Web Scraping Amazon Reviews with Python and Beautiful Soup](https://python.plainenglish.io/web-scraping-amazon-reviews-with-python-and-beautiful-soup-2ca41ebd2876)
-- [Say Goodbye to Loops in Python, and Welcome Vectorization!](https://medium.com/codex/say-goodbye-to-loops-in-python-and-welcome-vectorization-e4df66615a52)
-- [5 Python Automation Scripts I Use Every Day](https://thegrayarea.tech/5-python-automation-scripts-i-use-every-day-74c4313f2b47) (Lock)
-- [Say Goodbye to Loops in Python, and Welcome Vectorization!](https://medium.com/codex/say-goodbye-to-loops-in-python-and-welcome-vectorization-e4df66615a52) (Lock)
-- [Fugue and DuckDB: Fast SQL Code in Python](https://towardsdatascience.com/fugue-and-duckdb-fast-sql-code-in-python-e2e2dfc0f8eb)
-- [Scrape Twitter Without Limits Using Twint](https://medium.datadriveninvestor.com/scrape-twitter-without-limits-using-twint-92509f2503cd)
-- [How I Created an End-To-End Personal Data Project (Fantasy Premier League)](https://medium.com/@andrej.trajk/how-i-created-an-end-to-end-personal-data-project-fantasy-premier-league-91a587dfa578)
+<details>
 
+- [32 Advanced Techniques for Better Python Code](atrier/dev/python_001.md)
+- [50 astuces pour Python](atrier/dev/python_002.md)
+- [50 commandes Python essentielles](atrier/dev/python_003.md)
+- [Comment installer Python3 sur Rocky Linux 8](atrier/dev/python_004.md)
+- [Le côté fonctionnel classique de Python](atrier/dev/python_005.md)
+- [Création d'un environnement de travail pour Python3](atrier/dev/python_007.md)
+- [Notions de base (opérateurs, variables, instructions)](atrier/dev/python_008.md)
+- [Notions de base - Les types de données](atrier/dev/python_009.md)
+- [Comment installer la librairie "matplotlib" sur Windows 10](atrier/dev/python_010.md)
+- [Make Your Python Program Bug-Free: 8 Essential Tips](atrier/dev/python_011.md)
+- [Train multiple Time Series Forecasting Models in one line of Python Code](atrier/dev/python_012.md)
+- [Most popular Python packages in 2021](atrier/dev/python_013.md)
+- [10 Examples to Master Distribution Plots with Python Seaborn](atrier/dev/python_014.md)
+- [6 Python Projects You Can Finish in a Weekend](atrier/dev/python_015.md)
+- [7 Must-Try GUI Libraries in Python](atrier/dev/python_016.md)
+- [12 Unique Python Project Ideas for Your Resume](atrier/dev/python_017.md)
+- [5 Common Anti-Patterns in Python](atrier/dev/python_018.md)
+- [12 Python Snippets That Will Boost Your Productivity](atrier/dev/python_019.md)
+- [Web Scraping Football Matches From The World Cups 1930 to 2022 with Python](atrier/dev/python_020.md)
+- [Comment installer la librairie "pygame" sur Windows 10](atrier/dev/python_021.md)
+- [10 Python Hacks in 30 Seconds](atrier/dev/python_022.md)
+- [10 Python Scripts for Everyday Automation](atrier/dev/python_023.md)
+- [Visualization Tools with Python](atrier/dev/python_024.md)
+- [Accélération de Python avec Numba](atrier/dev/python_025.md)
+- [Coloration syntaxique de votre code avec Pygments](atrier/dev/python_026.md)
+- [Améliorez votre processus de prise de décision avec Jupyter !](atrier/dev/python_027.md)
+- [10 Powerful Python One-Liners](atrier/dev/python_028.md)
+- [5 Useful Python One-Liners That Can Be Understood By Beginners](atrier/dev/python_029.md)
+- [Apprendre les slots Python](atrier/dev/python_030.md)
+- [FastAPI](atrier/dev/python_031.md)
+- [Comment installer Python 3 sur Windows 10](atrier/dev/python_032.md)
+- [You’ll Never Walk Alone: Use Pygwalker to Visualize Data in Jupyter Notebook](atrier/dev/python_033.md)
+- [Building Secure Python Applications: Best Practices and Security Considerations](atrier/dev/python_034.md)
+- [What Can You Do with Python? Top Application Examples](atrier/dev/python_035.md)
+- [5 Python Automation Scripts I Use Every Day](atrier/dev/python_036.md)
+- [Structure du langage - Les Variables](atrier/dev/python_037.md)
+- [Scheduling All Kinds of Recurring Jobs with Python](atrier/dev/python_038.md)
+- [3 Tools to Track and Visualize the Execution of your Python Code](atrier/dev/python_039.md)
+- [5 Ways To Remove Spaces of a Python String](atrier/dev/python_040.md)
+- [How to Generate Automated PDF Documents with Python](atrier/dev/python_041.md)
+- [String Interning in Python: A Hidden Gem That Makes Your Code Faster](atrier/dev/python_042.md)
 
+</details>
 
-
-
+----
 
 ## REACT
+
+<details>
 
 - [8 awesome React projects on Github](https://medium.com/@guoze8888/8-awesome-react-projects-on-github-d8dde1405b55)
 - [How to Add a React Component to Active Admin](https://betterprogramming.pub/how-to-add-a-react-component-to-active-admin-9fe6151033eb)
@@ -723,18 +739,33 @@
 - [A designer’s guide to React](https://uxdesign.cc/a-designers-guide-to-react-d5a8867f214)
 - [8 React Open-Source projects to learn and become a React.js Developer](https://medium.datadriveninvestor.com/8-react-open-source-projects-to-learn-and-become-a-react-js-developer-8376107730c4)
 
+</details>
 
+----
 
 ## REGEX
 
+<details>
+
 - [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
 
+</details>
+
+----
 
 ## RUST
 
+<details>
+
 - [An Introduction to Programming in Rust](https://betterprogramming.pub/an-introduction-to-programming-in-rust-76181db9665c)
 
+</details>
+
+----
+
 ## SQL
+
+<details>
 
 - [Advanced SQL for Data Professionals](https://levelup.gitconnected.com/advanced-sql-for-data-professionals-e0ef0740e8e1)
 - [Your SQL is Bad (You Should Feel Bad)](https://blog.devgenius.io/write-sql-like-google-your-sql-is-bad-you-should-feel-bad-4fbacd1fbd3)
@@ -745,14 +776,25 @@
 - [10 Core SQL Concepts Every Developer Needs to Know](https://medium.com/geekculture/10-core-sql-concepts-every-developer-needs-to-know-10ed6d1ebb67)
 - [5 Portfolio-Worthy SQL Project Ideas for Beginners](https://medium.com/learning-sql/5-portfolio-worthy-sql-project-ideas-for-beginners-c4bfb1ca4b92)
 
+</details>
+
+----
+
 ## THREE.JS
+
+<details>
 
 - [What is WebGL and Why Use Three.js?](https://javascript.plainenglish.io/what-is-webgl-and-why-use-three-js-82ef9db2ae39)
 - [Build Basic 3D Scenes with Three.js](https://javascript.plainenglish.io/three-js-lesson-1-building-basic-3d-scenes-with-three-js-e06d05c28feb)
 - [3D on the Web with Three.js](https://medium.com/@jeffbushdesign/3d-web-with-three-js-762957b45fea)
 
+</details>
+
+----
 
 ## TYPESCRIPT
+
+<details>
 
 - [3 tips I wish someone had given me when I started my adventure with TypeScript](https://medium.com/@kubiak.maciej/3-tips-i-wish-someone-had-given-me-when-i-started-my-adventure-with-typescript-ddec0073862a)
 - [6 TypeScript Code Patterns To Make Your Code More Robust](https://betterprogramming.pub/6-typescript-code-patterns-to-make-your-code-more-robust-bbe54354f39f)
@@ -763,16 +805,26 @@
 - [Clean Code in TypeScript](https://javascript.plainenglish.io/clean-code-in-typescript-a183d43f3bf0)
 - [Clean Code in TypeScript](https://javascript.plainenglish.io/clean-code-in-typescript-a183d43f3bf0)
 
+</details>
+
+----
 
 ## VUE.JS
+
+<details>
 
 - [Building Mobile Apps With Capacitor And Vue.js](https://medium.com/@smashingmag/building-mobile-apps-with-capacitor-and-vue-js-944b22ec4780)
 - [Top 10 Vue UI Framework You Did not Know as Frond End Developer](https://jay315.medium.com/top-10-vue-ui-framework-you-did-not-know-as-frond-end-developer-cece140a6c76)
 - [7 Most Starred Vue.js Libraries You Should Know](https://javascript.plainenglish.io/7-most-starred-vue-js-libraries-you-should-know-dcd2ef801847)
 
+</details>
+
+----
 
 ## YAML
 
+<details>
+
 - [YAML](https://fr.wikipedia.org/wiki/YAML)
 
-
+</details>

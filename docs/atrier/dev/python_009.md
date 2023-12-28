@@ -1,3 +1,5 @@
+# Notions de base - Les types de données
+
 # <span style="color:darkgreen;"><i class="fas fa-caret-right" style="margin-right:10px;"></i>Introduction</span>
 
 Avec Python, tout est objet, au sens informatique du terme, y compris les types de données (les nombres, les chaînes de caractères, les fonctions...).

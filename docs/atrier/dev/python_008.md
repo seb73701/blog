@@ -1,3 +1,5 @@
+# Notions de base (opérateurs, variables, instructions)
+
 # <span style="color:darkgreen;"><i class="fas fa-caret-right" style="margin-right:10px;"></i>Les opérateurs</span>
   
 Python dispose de tous les opérateurs dont le langage moderne a besoin.
