@@ -489,15 +489,7 @@
 
 ----
 
-## ANGULAR
 
-<details>
-
-
-
-</details>
-
-----
 
 ## BASH
 
@@ -602,35 +594,13 @@
 
 <details>
 
-- [4 JavaScript Concepts That Every Developer Should Know](https://javascript.plainenglish.io/4-javascript-concepts-that-every-developer-should-know-a20f0d4c9dd8)
-- [6 ways to clean up your code in JavaScript](https://medium.com/@ignacioojan/6-ways-to-clean-up-your-code-in-javascript-20908f0a2467)
-- [9 Top JS Gaming Engines and Libraries for 2020](https://blog.bitsrc.io/9-top-js-gaming-engines-and-libraries-for-2020-81707d9f095)
-- [Design Patterns in JavaScript: Behavioral](https://medium.com/globant/design-patterns-in-javascript-behavioral-3c8f53aaa7c0)
-- [JavaScript APIs Every Web Developer Should Know](https://javascript.plainenglish.io/javascript-apis-every-web-developer-should-know-fa9b36cc1ecf)
-- [Javascript Gamepad API](https://www.javascripture.com/Gamepad)
-- [Part 1: Deploying full-stack JavaScript applications to the Developer Sandbox for Red Hat OpenShift](https://developers.redhat.com/developer-sandbox/activities/deploying-full-stack-javascript-applications-to-the-sandbox/part1?sc_cid=7013a000002q9UTAAY)
-- [Welcome to the 3D world: My ThreeJs journey](https://uxdesign.cc/welcome-to-the-3d-world-my-threejs-journey-68a7fccdf1d3)
-- [Debouncing in JavaScript](https://medium.com/pragmatic-programmers/debouncing-in-javascript-4c6dd704695a)
-- [Lazy Loading JavaScript Modules With ConditionerJS](https://medium.com/@smashingmag/lazy-loading-javascript-modules-with-conditionerjs-23774916b1de)
-- [7 JS clean coding tips every developer should know](https://medium.com/front-end-weekly/7-js-clean-coding-tips-every-developer-should-know-6fe7beffae6)
-- [12 Important JavaScript Functions Every Web Developer Should Know](https://javascript.plainenglish.io/12-important-javascript-functions-every-web-developer-should-know-e488c4bbf521)
-- [Manage JavaScript Environment Variables with dotenv](https://medium.com/@rdeprey/manage-javascript-environment-variables-with-dotenv-4d33ac9c9009)
-- [Creating a custom color selector in JavaScript](https://uxdesign.cc/creating-a-custom-color-selector-in-javascript-bfb124fea40d)
-- [Using Design Patterns in JavaScript -The Ultimate Guide](https://medium.com/syncfusion/using-design-patterns-in-javascript-the-ultimate-guide-c79fd0aa30d5)
-- [9 Awesome JavaScript Projects for your Resume](https://levelup.gitconnected.com/9-awesome-javascript-projects-for-your-resume-6dcf4645da4b)
-- [JavaScript Cheat Sheet](https://towardsdev.com/javascript-cheat-sheet-a317e758b982)
+- [JsItBad : détecter du JavaScript malveillant sans l’exécuter](atrier/dev/javascript_001.md)
 
 </details>
 
 ----
 
-## NEXT.JS
 
-<details>
-
-- [Component First Development with Next.js](https://johnclarke73.medium.com/component-first-development-with-next-js-28aba0cadecb)
-
-</details>
 
 ----
 
@@ -638,15 +608,9 @@
 
 <details>
 
-- [Clean architecture - making Node.js API shine!](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)
-- [Create a Graph Database and API With PostgreSQL and Node.js](https://betterprogramming.pub/create-a-graph-database-and-api-with-postgresql-and-node-js-d7bddcc00bbb)
-- [Electron: Node.js à la conquête du desktop](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmfhs-085/electron-node.js-a-la-conquete-du-desktop)
-- [How Node.js uses the V8 JavaScript engine to run your code](https://developers.redhat.com/articles/2021/12/09/how-nodejs-uses-v8-javascript-engine-run-your-code?sc_cid=7013a000002q3W5AAI)
-- [How To Create a Signup Confirmation Email With Node.js](https://betterprogramming.pub/how-to-create-a-signup-confirmation-email-with-node-js-c2fea602872a)
-- [How to install Node js & NPM on Debian 11 Bullseye](https://www.how2shout.com/linux/how-to-install-node-js-npm-on-debian-11-bullseye/)
-- [Modernisez votre code Node.js avec EcmaScript 2015](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmfhs-085/modernisez-votre-code-node.js-avec-ecmascript-2015)
-- [What is faster — Tomcat or Node.js with Express?](https://medium.com/codex/what-is-faster-tomcat-or-node-js-with-express-602a829b49b6)
-- [Managing Your Project with npm](https://medium.com/pragmatic-programmers/managing-your-project-with-npm-6b875727b8d0)
+- [Web scraping avec Node.js](atrier/dev/nodejs_001.md)
+- [Downgrade Package Node.js](atrier/dev/nodejs_002.md)
+- [Comment mettre en place un projet AWS lambda en Node.js](atrier/dev/nodejs_003.md)
 
 </details>
 
@@ -713,35 +677,6 @@
 
 ----
 
-## REACT
-
-<details>
-
-- [8 awesome React projects on Github](https://medium.com/@guoze8888/8-awesome-react-projects-on-github-d8dde1405b55)
-- [How to Add a React Component to Active Admin](https://betterprogramming.pub/how-to-add-a-react-component-to-active-admin-9fe6151033eb)
-- [Why should we use Functional Component rather than Class Component in React?](https://medium.com/@rshshetty/why-should-we-use-functional-component-rather-than-class-component-in-react-acdd05527dcc)
-- [4 React Patterns That Show You Know Your Stuff](https://javascript.plainenglish.io/4-react-patterns-that-show-you-know-your-stuff-e16077ef60f3)
-- [11 Must-Use Tools for React Development](https://javascript.plainenglish.io/11-must-use-tools-for-react-development-36c3b6ba2218)
-- [Custom Hook in React for calling API — useApi](https://javascript.plainenglish.io/custom-hook-in-react-js-for-calling-api-useapi-7de24b42729c)
-- [Finally a better react.js folder structure](https://medium.com/@kumarvinoth/finally-a-better-react-js-folder-structure-821a2210835)
-- [How did I re-render: Performance and Best Practices for React Components](https://medium.com/@bhavyasaggi/how-did-i-re-render-performance-and-best-practices-for-react-components-43bb5d85491c)
-- [How to Make Custom Pagination In React JS with Hooks](https://akd3257.medium.com/how-to-make-custom-pagination-in-react-js-with-hooks-3b36bfa7caf6)
-- [React Hooks](https://bswathibhat.medium.com/react-hooks-388ad313cde7)
-- [ReactJS Best Practices](https://medium.com/@AzilenTech/reactjs-best-practices-6ff8ca41a1b5)
-- [Real-Life Use-Cases for useCallback and useMemo React Hooks](https://javascript.plainenglish.io/real-life-use-cases-for-usecallback-and-usememo-7fa6f787b7e0)
-- [Scrollable Single-Page Site Navigation with React Custom Hooks](https://medium.com/geekculture/scrollable-single-page-site-navigation-with-react-custom-hooks-4e7af716f6b1)
-- [Building a Basic Header With MaterialUI and React](https://betterprogramming.pub/building-a-basic-header-with-materialui-and-react-js-d650f75b4b0a)
-- [How to Install Intercom into a ReactJS App](https://medium.com/codex/how-to-install-intercom-into-a-reactjs-app-98aaf4a83d31)
-- [Making My Own URL Shortener From Scratch](https://awstip.com/making-my-own-url-shortener-from-scratch-c5bc962feec1)
-- [This Pattern Will Make Your React Hooks Cleaner](https://betterprogramming.pub/this-pattern-will-make-your-react-hooks-cleaner-ca9deba5d58d)
-- [React best practices and patterns to reduce code](https://devsmitra.medium.com/react-best-practices-and-patterns-to-reduce-code-3170f1913b26)
-- [ReactJS — Separating logic using Higher-Order Component (HOC)](https://louisz.medium.com/reactjs-separating-logic-using-higher-order-component-hoc-e809d7c80e85)
-- [A designer’s guide to React](https://uxdesign.cc/a-designers-guide-to-react-d5a8867f214)
-- [8 React Open-Source projects to learn and become a React.js Developer](https://medium.datadriveninvestor.com/8-react-open-source-projects-to-learn-and-become-a-react-js-developer-8376107730c4)
-
-</details>
-
-----
 
 ## REGEX
 

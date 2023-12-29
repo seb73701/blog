@@ -8,6 +8,7 @@
 - [BATCH](developpement/batch/batch.md)
 - [CSS3](developpement/css/css.md)
 - [HTML5]()
+- [JavaScript](developpement/javascript/javascript.md)
 - [Python](developpement/python/python.md)
 
 
