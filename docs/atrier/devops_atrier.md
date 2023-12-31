@@ -1,5 +1,6 @@
 # DEVOPS A TRIER
 
+- [Using GitOps for Databases](https://medium.com/containers-101/using-gitops-for-databases-f09a027184bb)
 - [7 Best Practices for Building Performant Microservices](https://azeynalli1990.medium.com/7-best-practices-for-building-performant-microservices-c1ecca7bfd32)
 - [The Role of DevOps](https://medium.com/pragmatic-programmers/the-role-of-devops-33a2171c004d)
 - [The Role of DevOps](https://medium.com/pragmatic-programmers/the-role-of-devops-33a2171c004d)

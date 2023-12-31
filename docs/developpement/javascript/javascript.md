@@ -23,6 +23,7 @@
 - [jQuery](developpement/javascript/jquery.md)
 - [Node.js](developpement/javascript/nodejs.md)
 - [React](developpement/javascript/react.md)
+- [Reveal.js](developpement/javascript/revealjs.md)
 
 ----
 

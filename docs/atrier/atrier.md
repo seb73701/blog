@@ -3197,6 +3197,7 @@
 
 ### Terraform
 
+- [A Terraform, AKS and Application Gateway Tutorial — Part 6](https://medium.com/@rhodrifreer/a-terraform-aks-and-application-gateway-tutorial-part-6-e5d34332f8f7)
 - [Tester ses modules Terraform avec Terratest](/atrier/apps/terraform_001.md)
 - [Terraform State Move - Refactoring Terraform Against Existing Infrastructure](/atrier/apps/terraform_002.md)
 - [Utilisez Terraform pour vos projets Docker](/atrier/apps/terraform_003.md)

@@ -636,11 +636,12 @@
 + [Everything You Need to Know About Azure Infrastructure – October 2018 Edition](https://www.petri.com/everything-you-need-to-know-about-azure-infrastructure-october-2018-edition)
 + [Creating triggers in Azure Functions [Tutorial]](https://hub.packtpub.com/creating-triggers-in-azure-functions-tutorial/)
 + [Azure Tips and Tricks](https://www.youtube.com/channel/UCi00MP5k2uxC3ZFxylwQtuA)
-
++ [Azure Service Operator v2](https://azure.github.io/azure-service-operator/)
 
 
 ## AWS
 
+- [AWS: Getting started with Karpenter for autoscaling in EKS, and its installation with Helm](https://rtfm.co.ua/en/aws-getting-started-with-karpenter-for-autoscaling-in-eks-and-its-installation-with-helm/)
 - [Amazon EventBridge](https://aws.plainenglish.io/amazon-eventbridge-158b941e3926)
 - [Aurora Hash Join Optimization (with a Gentle Reminder on Lab Features)](https://www.percona.com/blog/2018/01/31/aurora-hash-join-optimization-a-gentle-reminder-on-lab-features/)
 - [Automatic Scaling with Amazon Aurora Serverless](https://severalnines.com/database-blog/automatic-scaling-amazon-aurora-serverless)

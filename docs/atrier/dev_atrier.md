@@ -585,6 +585,8 @@
 - [Parsing Java Logs](https://www.loggly.com/ultimate-guide/parsing-java-logs/)
 - [Troubleshooting With Java Logs](https://www.loggly.com/ultimate-guide/troubleshooting-with-java-logs/)
 - [Java Logging Basics](https://www.loggly.com/ultimate-guide/java-logging-basics/)
+- [Setting Java Heap Size Inside a Docker Container](https://medium.com/nordnet-tech/setting-java-heap-size-inside-a-docker-container-b5a4d06d2f46)
+
 
 </details>
 

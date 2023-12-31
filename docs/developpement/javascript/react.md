@@ -342,5 +342,6 @@
 - [ReactJS — Separating logic using Higher-Order Component (HOC)](https://louisz.medium.com/reactjs-separating-logic-using-higher-order-component-hoc-e809d7c80e85)
 - [A designer’s guide to React](https://uxdesign.cc/a-designers-guide-to-react-d5a8867f214)
 - [8 React Open-Source projects to learn and become a React.js Developer](https://medium.datadriveninvestor.com/8-react-open-source-projects-to-learn-and-become-a-react-js-developer-8376107730c4)
+- [ReactJS - How to Use Conditional Rendering in JSX](https://dzone.com/articles/reactjs-how-to-use-conditional-rendering-in-jsx)
 
 </details>

@@ -45,3 +45,8 @@
 - [Windows Logging Basics](https://www.loggly.com/ultimate-guide/windows-logging-basics/)
 - [Troubleshooting with Windows Logs](https://www.loggly.com/ultimate-guide/troubleshooting-with-windows-logs/)
 - [Centralizing Windows Logs](https://www.loggly.com/ultimate-guide/centralizing-windows-logs/)
+
+
+## ANDROID
+
+- [Android 14 : vous allez être bluffé par les fonds d'écran générés par l'intelligence artificielle ! Voici comment les activer](https://www.clubic.com/actualite-506470-android-14-vous-allez-etre-bluffe-par-les-fonds-d-ecran-generes-par-l-intelligence-artificielle-voici-comment-les-activer.html)
