@@ -29,6 +29,8 @@
 
 <details>
 
+- [Flutter design: make your theme homogeneous](https://medium.com/flutter-community/flutter-design-make-your-theme-homogeneous-13ddeffb186f)
+- [7 Flutter Open Source Projects to Become a Better Flutter Developer](https://medium.com/geekculture/7-flutter-open-source-projects-to-become-a-better-flutter-developer-b4a10f7e561f)
 - [Avoid Project Failure With Custom Flutter Packages](https://dzone.com/articles/avoid-project-failure-with-custom-flutter-packages)
 - [How to Implement Flutter Barcode Scanner From Scratch](https://dzone.com/articles/how-to-implement-flutter-barcode-scanner-from-scra)
 - [Build Great Windows Desktop Apps With Flutter](https://dzone.com/articles/build-great-windows-desktop-apps-with-flutter)

@@ -3,24 +3,24 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/developpement/go/go-logo-white.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i> Le logiciel libre **Apache HTTP Server** est un serveur HTTP créé et maintenu au sein de la fondation Apache. 
-> 
-> C’est le serveur HTTP le plus populaire du World Wide Web. Il est distribué selon les termes de la licence Apache. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> Build simple, secure, scalable systems with **Go**
+>
+> - An open-source programming language supported by Google
+> - Easy to learn and great for teams
+> - Built-in concurrency and a robust standard library
+> - Large ecosystem of partners, communities, and tools <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://httpd.apache.org/
-- <i class="fa-solid fa-book"></i> **Documentation** : https://httpd.apache.org/docs/
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : https://downloads.apache.org/httpd/CHANGES_2.4
-- <i class="fa-brands fa-github"></i> **Github** : https://github.com/apache/httpd
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://go.dev/
+- <i class="fa-solid fa-book"></i> **Documentation** : https://go.dev/doc
+- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : https://go.dev/doc/devel/release
+- <i class="fa-brands fa-github"></i> **Github** : https://github.com/golang/go
+- <i class="fab fa-blogger-b"></i> **Blog** : https://go.dev/blog
+- <i class="fas fa-tools"></i> **Plugins** : https://pkg.go.dev/
+
 
 ---
 
@@ -36,6 +36,15 @@
 
 <details>
 
+- [7 Code Patterns in Go I Can’t Live Without](https://betterprogramming.pub/7-code-patterns-in-go-i-cant-live-without-f46f72f58c4b)
+- [Code Challenge: using maps in Go to find a non repeating element in a slice](https://medium.com/@mirhasanov/code-challenge-using-maps-in-go-to-find-a-non-repeating-element-in-a-slice-eb7b4a61e231)
+- [How to Go From Project Manager to Project Leader](https://medium.com/swlh/how-to-go-from-project-manager-to-project-leader-4ea7c09f4102)
+- [Quest Newbie: Beat Saber — Go Native or PCVR Version?](https://darkuni.medium.com/quest-newbie-beat-saber-go-native-or-pcvr-version-33d42b268a77)
+- [Want to Create REST APIs Without Any Server? Go Serverless](https://betterprogramming.pub/create-rest-apis-without-any-server-a4059f8ab443)
+- [Golang — 1 Minute guide to Useful Tips and Libraries in 2022](https://blog.canopas.com/1-min-guide-to-golang-development-best-practices-in-2022-b50d846fd6c)
+- [Options Pattern in Golang](https://levelup.gitconnected.com/options-pattern-in-golang-9a0384a9d8db)
+- [Golang — 1 Minute guide to Useful Tips and Libraries in 2022](https://blog.canopas.com/1-min-guide-to-golang-development-best-practices-in-2022-b50d846fd6c)
+- [Write an Agent Command-Line Interface](https://medium.com/pragmatic-programmers/write-an-agent-command-line-interface-ef6f85a9ec04)
 - [1 min guide to Golang development best practices in 2022](https://blog.canopas.com/1-min-guide-to-golang-development-best-practices-in-2022-b50d846fd6c)
 - [3 ways to copy files in Go](https://opensource.com/article/18/6/copying-files-go)
 - [5 Useful Golang Modules Developers Should Know in 2021](https://medium.com/better-programming/5-useful-golang-modules-developers-should-know-in-2021-340ed21177e5)
