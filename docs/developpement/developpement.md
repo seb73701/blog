@@ -30,6 +30,6 @@
 
 - [Agile]()
 - [Scrum]()
- 
+- [UML](developpement/uml/uml.md)
 
 ## Web Design (UX)
