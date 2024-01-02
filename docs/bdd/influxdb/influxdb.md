@@ -41,6 +41,7 @@
 
 <details>
 
+- [How to analyze time-series data with Python and InfluxDB](https://www.redhat.com/sysadmin/analyze-time-series-data-influxdb-python)
 - [How To Install InfluxDB on CentOS 8 / RHEL 8](https://computingforgeeks.com/how-to-install-influxdb-on-rhel-8-centos-8/)
 - [InfluxDB – Mémos](https://memos.nadus.fr/influxdb-memos/)
 - [Sending InfluxDB Line Protocol to QuestDB](https://dzone.com/articles/sending-influxdb-line-protocol-to-questdb)

@@ -22,6 +22,8 @@
 - [Python](developpement/python/python.md)
 - [Ruby](developpement/ruby/ruby.md)
 - [SQL](developpement/sql/sql.md)
+- [XML](developpement/xml/xml.md)
+- [YAML](developpement/yaml/yaml.md)
 
 
 

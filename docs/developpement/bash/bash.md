@@ -38,6 +38,17 @@
 
 <details>
 
+- [How to create documents with Bash scripts](https://www.redhat.com/sysadmin/bash-here-documents)
+- [Audit user accounts for never-expiring passwords with a Bash script](https://www.redhat.com/sysadmin/find-non-expiring-passwords)
+- [Bash command line exit codes demystified](https://www.redhat.com/sysadmin/exit-codes-demystified)
+- [Using Bash for automation](https://www.redhat.com/sysadmin/using-bash-automation)
+- [How to handle complex dated and timed tasks in Bash](https://www.redhat.com/sysadmin/bash-timed-tasks)
+- [Edit sshd_config using a Bash script](https://www.redhat.com/sysadmin/bash-script-configure-ssh)
+- [Adding arguments and options to your Bash scripts](https://www.redhat.com/sysadmin/arguments-options-bash-scripts)
+- [Bash scripting: Moving from backtick operator to $ parentheses](https://www.redhat.com/sysadmin/backtick-operator-vs-parens)
+- [Bash scripting: How to write data to text files](https://www.redhat.com/sysadmin/scripting-writing-text-file)
+- [Sysadmin university: How to document code and scripts in Linux](https://www.redhat.com/sysadmin/document-code-scripts)
+- [13 resources for learning to write better Bash code](https://www.redhat.com/sysadmin/learn-bash-scripting)
 - [5 Modern Bash Scripting Techniques That Only A Few Programmers Know](https://levelup.gitconnected.com/5-modern-bash-scripting-techniques-that-only-a-few-programmers-know-4abb58ddadad)
 - [Bash Else If – elif](https://www.tutorialkart.com/bash-shell-scripting/bash-else-if/)
 - [Bash Shell Scripting for beginners (Part 2)](https://fedoramagazine.org/bash-shell-scripting-for-beginners-part-2/)

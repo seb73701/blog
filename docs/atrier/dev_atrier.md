@@ -3360,20 +3360,14 @@
 
 ## BASH
 
-<details>
-
 - [Analyse des arguments de ligne de commande et attribution de valeurs](atrier/dev/bash_001.md)
 - [Lire des valeurs depuis un fichier de configuration](atrier/dev/bash_002.md)
 - [Exemple script bash : OS Detect](atrier/dev/bash_003.md)
 - [BASH](atrier/dev/bash_004.md)
 
-</details>
-
 ----
 
 ## CSS
-
-<details>
 
 - [Cercles Palpitants](atrier/dev/css_001.md)
 - [Cercles rotatifs](atrier/dev/css_002.md)
@@ -3392,80 +3386,50 @@
 - [Créer un titre animé avec un arrière-plan en fondu](atrier/dev/css_015.md)
 - [Maîtriser les sélecteurs CSS](atrier/dev/css_016.md)
 
-</details>
-
 ----
 
 ## HTML
 
-<details>
-
 - [Affichez des textes en dégradé simplement avec HTML et CSS](atrier/dev/html_001.md)
-
-</details>
 
 ----
 
 ## JAVASCRIPT
 
-<details>
-
 - [JsItBad : détecter du JavaScript malveillant sans l’exécuter](atrier/dev/javascript_001.md)
-
-</details>
 
 ----
 
 ## JSON
 
-<details>
-
 - [A beginner’s guide to JSON, the data format for the internet](atier/dev/json_001.md)
-
-</details>
 
 ----
 
 ## MARKDOWN
-
-<details>
 
 - [Template 1](atrier/dev/markdown_001.md)
 - [Template 2](atrier/dev/markdown_002.md)
 - [Template 3](atrier/dev/markdown_003.md)
 - [Sortable tables and typed columns](atrier/dev/markdown_004.md)
 
-</details>
-
 ----
 
-
-
 ## NODE.JS
-
-<details>
 
 - [Web scraping avec Node.js](atrier/dev/nodejs_001.md)
 - [Downgrade Package Node.js](atrier/dev/nodejs_002.md)
 - [Comment mettre en place un projet AWS lambda en Node.js](atrier/dev/nodejs_003.md)
 
-</details>
-
 ----
 
 ## PERL
 
-<details>
-
 - [Mettre à jour la liste des CPAN Mirror Network](atrier/dev/perl_001.md)
-
-</details>
 
 ----
 
 ## PHP
-
-<details>
 
 - [PHP](atrier/dev/php_001.md)
 - [Installer PHP 7.x sous CentOS / RHEL 7](atrier/dev/php_002.md)
@@ -3474,13 +3438,9 @@
 - [Trouver la version de PHP installée](atrier/dev/php_005.md)
 - [Déboguez vos codes PHP](atrier/dev/php_006.md)
 
-</details>
-
 ----
 
 ## POWERSHELL
-
-<details>
 
 - [Get-Date : Manipuler la date en PowerShell](atrier/dev/powershell_001.md)
 - [Trouver la version de powershell](atrier/dev/powershell_002.md)
@@ -3488,13 +3448,9 @@
 - [[ PowerShell ] - Passer des arguments a un script](atrier/dev/powershell_004.md)
 - [[ PowerShell ] - Template de script](atrier/dev/powershell_005.md)
 
-</details>
-
 ----
 
 ## PYTHON
-
-<details>
 
 - [32 Advanced Techniques for Better Python Code](atrier/dev/python_001.md)
 - [50 astuces pour Python](atrier/dev/python_002.md)
@@ -3538,72 +3494,32 @@
 - [How to Generate Automated PDF Documents with Python](atrier/dev/python_041.md)
 - [String Interning in Python: A Hidden Gem That Makes Your Code Faster](atrier/dev/python_042.md)
 
-</details>
-
 ----
 
 
 ## REGEX
 
-<details>
-
 - [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
-
-</details>
 
 ----
 
-
 ## SQL
-
-<details>
 
 - [Créer une nouvelle table avec la structure d'une autre table](atrier/dev/sql_001.md)
 - [Tricks for Advanced SQL Querying](atrier/dev/sql_002.md)
 - [You Should Use This to Visualize SQL Joins Instead of Venn Diagrams](atrier/dev/sql_003.md)
 
-</details>
-
-----
-
-## THREE.JS
-
-<details>
-
-- [What is WebGL and Why Use Three.js?](https://javascript.plainenglish.io/what-is-webgl-and-why-use-three-js-82ef9db2ae39)
-- [Build Basic 3D Scenes with Three.js](https://javascript.plainenglish.io/three-js-lesson-1-building-basic-3d-scenes-with-three-js-e06d05c28feb)
-- [3D on the Web with Three.js](https://medium.com/@jeffbushdesign/3d-web-with-three-js-762957b45fea)
-
-</details>
-
 ----
 
 ## TYPESCRIPT
 
-<details>
-
 - [Déployer un backend TypeScript full-serverless avec SAM](atrier/dev/typescript_001.md)
-
-</details>
 
 ----
 
 ## VUE.JS
 
-<details>
-
-- [Building Mobile Apps With Capacitor And Vue.js](https://medium.com/@smashingmag/building-mobile-apps-with-capacitor-and-vue-js-944b22ec4780)
-- [Top 10 Vue UI Framework You Did not Know as Frond End Developer](https://jay315.medium.com/top-10-vue-ui-framework-you-did-not-know-as-frond-end-developer-cece140a6c76)
-- [7 Most Starred Vue.js Libraries You Should Know](https://javascript.plainenglish.io/7-most-starred-vue-js-libraries-you-should-know-dcd2ef801847)
-
-</details>
-
-----
-
-## YAML
-
-<details>
-
-- [YAML](https://fr.wikipedia.org/wiki/YAML)
-
-</details>
+- [Building an interactive web portfolio with Vue + Three.js — Part Three: Implementing Three.js](atrier/dev/vuejs_001.md)
+- [Building an interactive web portfolio with Vue + Three.js — Part One: Introduction and Setup](atrier/dev/vuejs_002.md)
+- [Building an interactive web portfolio with Vue + Three.js — Part Two: Vue Basics](atrier/dev/vuejs_003.md)
+- [Créer un Stepper en VueJS](atrier/dev/vuejs_004.md)

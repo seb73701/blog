@@ -12,6 +12,17 @@
 
 ### Ansible
 
+- [Easing into automation with Ansible](https://www.redhat.com/sysadmin/easing-automation-ansible)
+- [Build a lab in 36 seconds with Ansible](https://www.redhat.com/sysadmin/build-VM-fast-ansible)
+- [Automate container and pod deployments with Podman and Ansible](https://www.redhat.com/sysadmin/ansible-podman-container-deployment)
+- [How to encrypt Bash shell variables with Ansible Vault](https://www.redhat.com/sysadmin/ansible-vault-bash-encrypt)
+- [Handle exceptions in Ansible Playbooks with block and rescue](https://www.redhat.com/sysadmin/ansible-block-rescue)
+- [Ansible: IT automation for everybody](https://www.redhat.com/sysadmin/ansible-it-automation-everybody)
+- [6 troubleshooting skills for Ansible playbooks](https://www.redhat.com/sysadmin/troubleshoot-ansible-playbooks)
+- [Speed up your Ansible playbooks, create quick containers, and more tips for sysadmins](https://www.redhat.com/sysadmin/top-sysadmin-articles-january-2022)
+- [No wizardry needed to use Ansible's magic variable 'hostvars'](https://www.redhat.com/sysadmin/hostvars-magic-variable-ansible)
+- [Find mistakes in your playbooks with Ansible Lint](https://www.redhat.com/sysadmin/ansible-lint)
+- [How to cache Ansible facts with Redis](https://www.redhat.com/sysadmin/ansible-fact-cache-redis)
 - [Securing a Server with Ansible](/atrier/apps/ansible_001.md)
 - [Comment tester un rôle Ansible avec Molecule ?](/atrier/apps/ansible_002.md)
 - [Découvrez ou redécouvrez Ansible-Vault](/atrier/apps/ansible_003.md)
@@ -22,7 +33,7 @@
 - [debops.icinga](https://docs.debops.org/en/latest/ansible/roles/icinga/index.html)
 - [Deploy and remove a web server with Ansible](https://www.redhat.com/sysadmin/ansible-callback-plugins)
 - [Use Ansible to test containers in OpenShift 4](https://www.redhat.com/sysadmin/ansible-containers-openshift-4)
-
+- [How to customize your Ansible logs](https://www.redhat.com/sysadmin/ansible-logs-customize)
 
 ### Apache HTTP Server
 
@@ -60,6 +71,22 @@
 
 ### Arduino IDE
 - [How to Install Arduino IDE on Ubuntu 20.04](https://linoxide.com/how-to-install-arduino-ide-on-ubuntu-20-04/)
+
+### ArgoCD
+
+- [How to deploy single sign-on as code using GitOps](https://developers.redhat.com/articles/2023/04/10/how-deploy-single-sign-code-using-gitops)
+- [Dynamically scale the Argo CD application controller with OpenShift GitOps 1.10](https://developers.redhat.com/articles/2023/09/26/dynamically-scale-argo-cd-application-controller-openshift-gitops-110)
+- [Manage namespaces in multitenant clusters with Argo CD, Kustomize, and Helm](https://developers.redhat.com/articles/2022/04/13/manage-namespaces-multitenant-clusters-argo-cd-kustomize-and-helm)
+- [Multiple sources for Argo CD applications](https://developers.redhat.com/articles/2023/02/20/multiple-sources-argo-cd-applications)
+- [3 patterns for deploying Helm charts with Argo CD](https://developers.redhat.com/articles/2023/05/25/3-patterns-deploying-helm-charts-argocd)
+- [From code to production with OpenShift Pipelines and Argo CD](https://developers.redhat.com/blog/2020/09/10/from-code-to-production-with-openshift-pipelines-and-argo-cd)
+- [Serverless, Tekton, and Argo CD: How to craft modern CI/CD workflows | DevNation Tech Talk](https://developers.redhat.com/devnation/tech-talks/serverless-tekton-argocd)
+- [Argo CD and Tekton: Match made in Kubernetes heaven](https://developers.redhat.com/blog/2020/11/03/argo-cd-and-tekton-match-made-in-kubernetes-heaven)
+- [Welcome to the Argo CD Tutorial](https://redhat-scholars.github.io/argocd-tutorial/argocd-tutorial/index.html?sc_cid=7013a000002q0QMAAY)
+- [Prevent auto-reboot during Argo CD sync with machine configs](https://developers.redhat.com/articles/2021/12/20/prevent-auto-reboot-during-argo-cd-sync-machine-configs)
+- [Multiple sources for Argo CD applications](https://developers.redhat.com/articles/2023/02/20/multiple-sources-argo-cd-applications)
+- [Automate CI/CD on pull requests with Argo CD ApplicationSets](https://developers.redhat.com/articles/2022/04/05/automate-cicd-pull-requests-argo-cd-applicationsets)
+
 
 ### AutoKey
 - [How to Use AutoKey to Automate Repetitive Tasks on Linux](https://www.makeuseof.com/use-autokey-to-automate-repetitive-tasks-on-linux/)
@@ -123,7 +150,8 @@
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [The pains of GitOps 1.0](https://codefresh.io/blog/pains-gitops-1-0/)
 - [Stop Using Branches for Deploying to Different GitOps Environments](https://medium.com/containers-101/stop-using-branches-for-deploying-to-different-gitops-environments-7111d0632402)
-
+- [Clean up your Git repository with this Linux tool](https://www.redhat.com/sysadmin/clean-git-repository)
+- [Merge changes with git diff and patch](https://www.redhat.com/sysadmin/git-diff-patch-commands)
 
 ### Github
 
@@ -132,7 +160,7 @@
 - [Beautify Your GitHub Profile like a Pro](https://tapajyoti-bose.medium.com/beautify-your-github-profile-like-a-pro-2f7922895953)
 - [Create GitHub Readme.md](https://taylancanh.medium.com/create-github-readme-md-71475a03e289)
 - [First Step towards Git and Github](https://medium.com/@sanjayofficial94/first-step-towards-git-and-github-bcb5107362e9)
-
+- [Build multi-architecture container images on GitHub Actions](https://developers.redhat.com/articles/2023/12/08/build-multi-architecture-container-images-github-actions)
 
 
 ### Gitlab
@@ -151,7 +179,7 @@
 ### Glances
 - [How to Monitor Linux System with Glances Command](https://www.linuxtechi.com/monitor-linux-system-glances-command/)
 - [How to Monitor System Resources with Glances on Ubuntu 20.04](https://www.howtoforge.com/how-to-monitor-system-resources-with-glances-ubuntu-20-04/)
-
+- [Monitor and troubleshoot applications with Glances and InfluxDB](https://www.redhat.com/sysadmin/monitoring-glances-influxdb)
 
 ### Google
 
@@ -266,7 +294,7 @@
 
 - [Deploy Helm charts with Jenkins CI/CD in Red Hat OpenShift 4](https://developers.redhat.com/articles/2021/05/24/deploy-helm-charts-jenkins-cicd-red-hat-openshift-4?sc_cid=7013a000002q3X8AAI)
 - [A developer's guide to CI/CD and GitOps with Jenkins Pipelines](https://developers.redhat.com/articles/2022/01/13/developers-guide-cicd-and-gitops-jenkins-pipelines?sc_cid=7013a000002q9UTAAY#)
-
+- [Automate your Git host key verification setup in Jenkins](https://developers.redhat.com/articles/2023/09/28/automate-your-git-host-key-verification-setup-jenkins)
 
 ### Jira
 
@@ -279,6 +307,12 @@
 - [A simple tutorial of JQ by Ivan Lausuch](https://hackmd.io/@il-suse/BJ_RoR8u_)
 - [How to Use JQ to Process JSON on the Command Line](https://www.linode.com/docs/guides/using-jq-to-process-json-on-the-command-line/)
 - [jq Manual (development version)](https://stedolan.github.io/jq/manual/)
+
+### Keepalived
+
+- [Using Keepalived for managing simple failover in clusters](https://www.redhat.com/sysadmin/ha-cluster-linux)
+
+
 
 ### Keepass
 
@@ -1882,6 +1916,7 @@
 + (https://www.unixarena.com/series/pacemaker-corosync/]
 + [Clusters from Scratch](http://clusterlabs.org/pacemaker/doc/en-US/Pacemaker/2.0/html-single/Clusters_from_Scratch/index.html)
 + [20 Red Hat Clustering (Pacemaker) Interview Questions and Answers](https://www.linuxtechi.com/redhat-clustering-pacemaker-interview-questions-answers/)
+- [How to set up a Pacemaker cluster for high availability Linux](https://www.redhat.com/sysadmin/rhel-pacemaker-cluster)
 
 ### Packer (automatiser la création d’images systèmes)
 + [Packer, automatiser la création d’images systèmes](https://myvmworld.fr/packer-automatiser-creation-dimages-systemes/)
@@ -2249,6 +2284,9 @@
 + [How to Install ProjectSend with Apache and Let's Encrypt SSL on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-projectsend-with-nginx-on-ubuntu-20-04/)
 
 ### Prometheus
+
+- [5 steps to build a self-healing server with Alertmanager](https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager#the_concepts_of_event_driven_and_self_healing)
+- [How to set up and experiment with Prometheus remote-write](https://developers.redhat.com/articles/2023/11/30/how-set-and-experiment-prometheus-remote-write)
 - [Prometheus by Example](https://codeburst.io/prometheus-by-example-4804ab86e741)
 - [Prometheus Blackbox: What? Why? How?](https://dzone.com/articles/prometheus-blackbox-what-why-how)
 - [Prometheus at Scale – Part 1](https://dzone.com/articles/prometheus-at-scale-part-one)
@@ -3357,8 +3395,10 @@
 
 ### Tmux 
 + [Getting started with Tmux](https://linuxize.com/post/getting-started-with-tmux/)
-  
-
+- [A beginner's guide to tmux](https://www.redhat.com/sysadmin/introduction-tmux-linux)
+- [Using Irssi inside a Linux tmux session](https://www.redhat.com/sysadmin/irssi-inside-tmux)
+- [Tips for using tmux](https://www.redhat.com/sysadmin/tips-using-tmux)
+- [Using SSH and Tmux for screen sharing](https://www.redhat.com/sysadmin/ssh-tmux-screen-sharing)
 
 ### Tomb
 

@@ -41,6 +41,8 @@
 
 <details>
 
+- [Load balancing, threading, and scaling in Node.js](https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs)
+- [CI/CD best practices in Node.js](https://developers.redhat.com/articles/2023/11/01/cicd-best-practices-nodejs)
 - [Clean architecture - making Node.js API shine!](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)
 - [Create a Graph Database and API With PostgreSQL and Node.js](https://betterprogramming.pub/create-a-graph-database-and-api-with-postgresql-and-node-js-d7bddcc00bbb)
 - [Electron: Node.js à la conquête du desktop](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmfhs-085/electron-node.js-a-la-conquete-du-desktop)

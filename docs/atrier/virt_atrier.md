@@ -1,7 +1,7 @@
 # VIRTUALISATION A TRIER
 
 - [Build lightweight and secure container images using RHEL UBI](https://developers.redhat.com/articles/2021/11/30/build-lightweight-and-secure-container-images-using-rhel-ubi?sc_cid=7013a000002q20YAAQ)
-
+- [8 Linux virsh subcommands for managing VMs on the command line](https://www.redhat.com/sysadmin/virsh-subcommands)
 
 ## KUBERNETES
 
@@ -28,7 +28,10 @@
 - https://github.com/open-source-labs/Docketeer
 - https://github.com/rajibmitra/pod-mutator
 - https://github.com/gruberdev/local-gitops
-
+- [3 ways to install a database with Helm charts](https://developers.redhat.com/articles/2022/04/07/3-ways-install-database-helm-charts)
+- [Our top Kubernetes articles for developers in 2023](https://developers.redhat.com/articles/2023/12/12/top-kubernetes-articles-2023#)
+- [Working with Kubernetes in Podman Desktop](https://developers.redhat.com/articles/2023/11/06/working-kubernetes-podman-desktop)
+- [How the odo CLI simplifies Kubernetes development](https://developers.redhat.com/articles/2023/11/20/how-odo-cli-simplifies-kubernetes-development)
 
 ## Openshift
 
@@ -42,3 +45,14 @@
 
 - [Podman: A Linux tool for working with containers and pods](https://www.youtube.com/watch?v=bJDI_QuXeCE)
 - [Run containers on Linux without sudo in Podman](https://opensource.com/article/22/1/run-containers-without-sudo-podman)
+- [My 5 favorite Linux container images](https://www.redhat.com/sysadmin/top-container-images)
+- [Unlock WebAssembly workloads with Podman on macOS and Windows](https://developers.redhat.com/articles/2023/12/06/unlock-webassembly-workloads-podman-macos-and-windows)
+- [How to install and use Podman Desktop on Windows](https://developers.redhat.com/articles/2023/09/27/how-install-and-use-podman-desktop-windows)
+- [How to use Podman to get information about your containers](https://www.redhat.com/sysadmin/container-information-podman)
+- [Top 10 container guides for sysadmins](https://www.redhat.com/sysadmin/containers-articles-2021)
+- [Create fast, easy, and repeatable containers with Podman and shell scripts](https://www.redhat.com/sysadmin/create-containers-podman-quickly)
+- [How to replace Docker with Podman on a Mac, revisited](https://www.redhat.com/sysadmin/replace-docker-podman-mac-revisited)
+- [Deploying a multi-container application using Podman and Quadlet](https://www.redhat.com/sysadmin/multi-container-application-podman-quadlet)
+- [How to run containers on Mac with Podman](https://www.redhat.com/sysadmin/run-containers-mac-podman)
+- [How to build a container lab in five minutes](https://www.redhat.com/sysadmin/build-container-lab-quickly)
+- [5 cool features to automate Podman containers and pods](https://www.redhat.com/sysadmin/podman-features-3)

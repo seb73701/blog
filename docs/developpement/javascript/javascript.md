@@ -24,7 +24,9 @@
 - [Node.js](developpement/javascript/nodejs.md)
 - [React](developpement/javascript/react.md)
 - [Reveal.js](developpement/javascript/revealjs.md)
+- [Three.js](developpement/javascript/threejs.md)
 - [TypeScript](developpement/javascript/typescript.md)
+- [Vue.js](developpement/javascript/vuejs.md)
 
 ----
 
