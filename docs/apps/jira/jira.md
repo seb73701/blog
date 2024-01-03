@@ -25,20 +25,29 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Introduction et premiers pas avec JIRA](/atrier/apps/jira_001.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes
 
 <details>
 
-- [Free Jira Plugins To Use in 2021 (Updated Guide)](https://dzone.com/articles/free-jira-plugins-to-use-in-2021-updated-guide)
 - [A JIRA Tutorial for Software Developers: Get The Most out of JIRA](https://dzone.com/articles/a-jira-tutorial-for-software-developers-get-the-mo)
 - [Best Ways to Track Time in Jira](https://dzone.com/articles/best-ways-to-track-time-in-jira)
+- [Free Jira Plugins To Use in 2021 (Updated Guide)](https://dzone.com/articles/free-jira-plugins-to-use-in-2021-updated-guide)
 - [How to automatically add Jira issue ID to the commit message](https://blog.sleeplessbeastie.eu/2019/11/25/how-to-automatically-add-jira-issue-id-to-the-commit-message/)
 - [How to Install Jira Agile Project Management Tool on CentOS 8](https://www.howtoforge.com/how-to-install-jira-on-centos-8/)
 - [How to Install Jira Agile Project Management Tool on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-jira-agile-project-management-tool-on-ubuntu-20-04/)
 - [How to Install JIRA on Ubuntu Linux](https://linoxide.com/tools/install-jira-on-ubuntu-linux/)
 - [Integrating Jenkins with Bitbucket and Jira: A Tutorial](https://opensourceforu.com/2020/01/integrating-jenkins-with-bitbucket-and-jira-a-tutorial/)
+- [JIRA for designers — the basics](https://uxdesign.cc/jira-for-designers-the-basics-85d18a42a0cc)
 - [Jira Is a Microcosm of What's Broken in Software Development](https://dzone.com/articles/jira-is-a-microcosm-of-whats-broken-in-software-de)
 - [Managing Teams and Projects in Jira, From Idea to Execution](https://www.digitalocean.com/community/tech_talks/managing-teams-and-projects-in-jira-from-idea-to-execution)
 - [The Quickest & Easiest Way To Automate JIRA](https://medium.com/geekculture/the-quickest-easiest-way-to-automate-jira-916e7ede003e)

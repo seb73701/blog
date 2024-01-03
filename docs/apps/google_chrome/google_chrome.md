@@ -43,7 +43,9 @@
 <details>
 
 - [10 astuces de la Chrome Dev Tool que vous ne connaissez peut-être pas](https://cedriclegallo.fr/posts/201707/10-astuces-de-la-chrome-dev-tool-que-vous-ne-connaissez-peut-tre-pas/)
+- [10 Chrome Extensions every designer must have(2022)](https://uxplanet.org/10-chrome-extensions-every-designer-must-have-8ba8bc313b60)
 - [10 Fixes to Make Chrome Use Less Disk Space](https://www.makeuseof.com/fixes-chrome-less-disk-space/)
+- [12 essential chrome extensions every designer should know about.](https://uxplanet.org/12-essential-chrome-extensions-every-designer-should-know-about-a8e2402f8bb7)
 - [23 Website Permissions to Change in Google Chrome for Better Browsing](https://www.makeuseof.com/tag/website-permissions-change-chrome/)
 - [6 Ways to Fix the “Download Failed Network Error” on Chrome](https://www.makeuseof.com/ways-to-fix-download-failed-network-error-chrome/)
 - [7 Essential Privacy Settings for Chrome OS and Google Chrome](https://www.makeuseof.com/tag/privacy-settings-chrome-os-google-chrome/)
@@ -167,6 +169,7 @@
 - [Keyboard Shortcuts for Google Chrome](https://linuxhint.com/keyboard_shortcuts_google_chrome/)
 - [La méthode geek pour économiser de la RAM avec Google Chrome](http://www.windows8facile.fr/google-chrome-economiser-ram/)
 - [Methods to fix profile error occurred on Google Chrome](https://linuxhint.com/fix-profile-error-on-google-chrome/)
+- [My Chrome Extensions as a Web Developer](https://medium.com/@laka9/my-chrome-extensions-as-a-web-developer-21f0c60586ec)
 - [Navigator's Guide: Deployment Solution with Configuration Management](https://www.digitalocean.com/community/tutorials/navigator-s-guide-deployment-solution-with-configuration-management)
 - [Navigator's Guide: High Availability](https://www.digitalocean.com/community/tutorials/navigator-s-guide-high-availability)
 - [Navigator's Guide: Modular Infrastructure Configuration](https://www.digitalocean.com/community/tutorials/navigator-s-guide-modular-infrastructure-configuration)

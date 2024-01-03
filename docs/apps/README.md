@@ -29,6 +29,7 @@
   <div><a href="#apps/apache_superset/apache_superset.md">Apache Superset</a></div>
   <div><a href="#apps/apache_tomcat/apache_tomcat.md">Apache Tomcat</a></div>
   <div><a href="#apps/apache_zookeeper/apache_zookeeper.md">Apache Zookeeper</a></div>
+  <div><a href="#apps/argocd/argocd.md">Argo CD</a></div>
   <div><a href="#apps/asterisk/asterisk.md">Asterisk</a></div>
   <div><a href="#apps/awstats/awstats.md">Awstats</a></div>
 </div>
@@ -126,6 +127,7 @@
   <div><a href="#apps/git/git.md">Git</a></div>
   <div><a href="#apps/gitea/gitea.md">Gitea</a></div>
   <div><a href="#apps/gitlab/gitlab.md">Gitlab</a></div>
+  <div><a href="#apps/glances/glances.md">Glances</a></div>
   <div><a href="#apps/goaccess/goaccess.md">GoAccess</a></div>
   <div><a href="#apps/gogs/gogs.md">Gogs</a></div>
   <div><a href="#apps/google/google.md">Google</a></div>
@@ -155,8 +157,6 @@
 
 
 ## H
-
-
 
 <div class="apps-container">
   <div><a href="#apps/haproxy/haproxy.md">Haproxy</a></div>
@@ -203,6 +203,7 @@
   <div><a href="#apps/librenms/librenms.md">LibreNMS</a></div>
   <div><a href="#apps/libreoffice/libreoffice.md">LibreOffice</a></div>
   <div><a href="#apps/lighttpd/lighttpd.md">Lighttpd</a></div>
+  <div><a href="#apps/logstash/logstash.md">Logstash</a></div>
 </div>
 
 

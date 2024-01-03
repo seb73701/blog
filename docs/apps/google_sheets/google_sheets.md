@@ -27,10 +27,13 @@
 <details>
 
 - [15 Helpful Spreadsheet Templates to Help Manage Your Finances](https://www.makeuseof.com/tag/10-helpful-spreadsheet-templates-help-manage-finances/)
+- [2023 Habits Tracker in Google Sheets — with Free Template](https://medium.com/google-sheets-geeks/2023-habits-tracker-in-google-sheets-with-free-template-93ccf375f002)
 - [4 Ways to Find the Best Google Sheets Templates](https://www.makeuseof.com/tag/find-google-sheets-templates/)
 - [4 Ways to Remove Duplicates in Google Sheets](https://www.makeuseof.com/ways-to-remove-duplicates-in-google-sheets/)
+- [6 Crazy Google Sheets Formulas That Are Extremely Useful](https://www.makeuseof.com/crazy-google-sheets-formulas-extremely-useful/)
 - [6 Google Spreadsheet Tricks That Are Easy to Learn and Remember](https://www.makeuseof.com/tag/google-spreadsheet-tricks/)
 - [8 Vital Google Sheets Add-Ons for Better Spreadsheets](https://www.makeuseof.com/tag/google-sheets-add-ons-spreadsheets/)
+- [9 Google Sheets Apps That'll Make Your Life Easier](https://www.makeuseof.com/google-sheets-apps-that-make-life-easier/)
 - [Google Sheets: Every Keyboard Shortcut You Need for Windows and Mac](https://www.makeuseof.com/google-sheets-windows-mac-keyboard-shortcuts/)
 - [How to Add Sparklines in Google Sheets to Display Minimalist Data](https://www.makeuseof.com/how-to-add-sparklines-in-google-sheets/)
 - [How to Automate Repetitive Tasks in Google Sheets With Macros](https://www.makeuseof.com/tag/automate-tasks-macros-google-sheets/)
@@ -47,11 +50,9 @@
 - [How to Sync Data From Coda to Google Sheets (and Vice Versa) With Google Apps Script](https://dzone.com/articles/how-to-sync-data-from-coda-to-google-sheets-and-vi)
 - [How to Track Your Expenses Using Google Sheets](https://www.makeuseof.com/track-expenses-using-google-sheets/)
 - [How to Use Conditional Formatting in Google Sheets](https://www.makeuseof.com/conditional-formatting-google-sheets/)
+- [How to Use Filter Views in Google Sheets](https://www.makeuseof.com/use-filter-views-google-sheets/)
+- [How to Use the Google Translate Function in Google Sheets](https://www.makeuseof.com/use-google-translate-function-google-sheets/)
 - [Implementing Data-Driven Testing Using Google Sheets](https://dzone.com/articles/implementing-data-driven-testing-using-google-shee)
 - [The Best Google Search Cheat Sheet: Tips, Operators, and Commands to Know](https://www.makeuseof.com/tag/best-google-search-tips-pdf/)
-- [6 Crazy Google Sheets Formulas That Are Extremely Useful](https://www.makeuseof.com/crazy-google-sheets-formulas-extremely-useful/)
-- [How to Use the Google Translate Function in Google Sheets](https://www.makeuseof.com/use-google-translate-function-google-sheets/)
-- [9 Google Sheets Apps That'll Make Your Life Easier](https://www.makeuseof.com/google-sheets-apps-that-make-life-easier/)
-- [How to Use Filter Views in Google Sheets](https://www.makeuseof.com/use-filter-views-google-sheets/)
 
 </details>

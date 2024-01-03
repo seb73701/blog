@@ -13,7 +13,7 @@
 ## GRAPHQL
 
 - [What is GraphQL?](https://saracemal.medium.com/what-is-graphql-3fca5bd75709)
-- [What is GraphQL?](https://saracemal.medium.com/what-is-graphql-3fca5bd75709)
+
 
 
 
@@ -25,6 +25,7 @@
 
 
 ## MYSQL
+
 - [5.4.3 The General Query Log](https://dev.mysql.com/doc/refman/8.0/en/query-log.html)
 - [Enable or disable General Log for sql query in MySQL.](https://smarttechways.com/2021/05/27/enable-or-disable-general-log-for-sql-query-in-mysql/)
 - [Howto MySQL : questions fréquentes et erreurs courantes](https://wiki.evolix.org/HowtoMySQL/Troubleshooting)
@@ -34,32 +35,25 @@
 ```shell
 mysql -e "STOP SLAVE; SET GLOBAL sql_slave_skip_counter = 1; START SLAVE;"
 mysql -e "SHOW SLAVE STATUS \G;"
-``````
+```
 
 
 
 ## POSTGRESQL
+
 - [Architecture & fichiers de PostgreSQL](https://public.dalibo.com/exports/formation/manuels/formations/dba2/dba2.handout.html)
 - [Fast Key-Value Store With PostgreSQL](https://databasedive.com/fast-key-value-store-with-postgresql-ebac3cd76d9b)
-- [PostgreSQL Performances - Configuration du système et de l’instance](https://public.dalibo.com/exports/formation/manuels/formations/perf1/perf1.handout.html#g%C3%A9rer-les-connexions)
 - [Getting Started With PostgreSQL and Sequelize in 4 Minutes](https://dinma.medium.com/getting-started-with-postgresql-and-sequelize-in-4-minutes-bcd918390167)
+- [PostgreSQL Performances - Configuration du système et de l’instance](https://public.dalibo.com/exports/formation/manuels/formations/perf1/perf1.handout.html#g%C3%A9rer-les-connexions)
 
 
 
 ## SQL SERVER
 - [SQL Server Advanced Functions](https://towardsdev.com/sql-server-advanced-functions-b18fb871c8e1)
-- [SQL Server Advanced Functions](https://towardsdev.com/sql-server-advanced-functions-b18fb871c8e1)
-
 
 
 ---
 
-- [Best Databases for Serverless](https://medium.com/upstash/best-databases-for-serverless-c9680f08ab71)
-- [How to choose the right database for your service](https://medium.com/wix-engineering/how-to-choose-the-right-database-for-your-service-97b1670c5632)
-- [Should I Use MongoDB or PostgreSQL?](https://medium.com/geekculture/should-i-use-mongodb-or-postgresql-ba2c1bb8b768)
-+ [An Introduction to Document-Oriented Databases](https://www.digitalocean.com/community/conceptual_articles/an-introduction-to-document-oriented-databases)
-+ [Rule-Based Query Optimization](https://dzone.com/articles/rule-based-query-optimization)
-+ [CouchDB vs. MariaDB: Which Is Better?](https://dzone.com/articles/couchdb-vs-mariadb-which-is-better)
 - [10 Best Practices for Data Migration](https://dzone.com/articles/10-best-practices-for-data-migration)
 - [10 Common Database Security Issues](https://dzone.com/articles/10-common-database-security-issues)
 - [14 SQL Jobs and Opportunities](https://dzone.com/articles/sql-jobs-and-opportunities-career-path-for-sql)
@@ -76,6 +70,7 @@ mysql -e "SHOW SLAVE STATUS \G;"
 - [A Review of Graph Databases](https://dzone.com/articles/a-review-of-graph-databases)
 - [A Strategy for Implementing Database Source Control](https://dzone.com/articles/a-strategy-for-implementing-database-source-contro)
 - [An Introduction to Data Lakes](https://severalnines.com/database-blog/introduction-data-lakes)
+- [An Introduction to Document-Oriented Databases](https://www.digitalocean.com/community/conceptual_articles/an-introduction-to-document-oriented-databases)
 - [An Introduction to Time Series Databases](https://severalnines.com/database-blog/introduction-time-series-databases)
 - [An Overview of Cluster-to-Cluster Replication](https://severalnines.com/database-blog/overview-cluster-cluster-replication)
 - [An Overview of PostgreSQL & MySQL Cross Replication](https://severalnines.com/blog/overview-postgresql-mysql-cross-replication)
@@ -88,14 +83,15 @@ mysql -e "SHOW SLAVE STATUS \G;"
 - [Base de données : le top 15 des DBaaS pour les développeurs](https://www.silicon.fr/base-donnees-top-15-dbaas-developpeurs-223631.html?inf_by=5c1cb3fc671db8cc6f8b4ddd)
 - [Basic Administration Comparison Between Oracle, MSSQL, MySQL, PostgreSQL](https://severalnines.com/database-blog/basic-administration-comparison-between-oracle-mssql-mysql-postgresql)
 - [Benchmarking Manual Database Deployments vs Automated Deployments](https://severalnines.com/blog/benchmarking-manual-database-deployments-vs-automated-deployments)
+- [Best Databases for Serverless](https://medium.com/upstash/best-databases-for-serverless-c9680f08ab71)
 - [Best Practices for Archiving Your Database in the Cloud](https://severalnines.com/database-blog/best-practices-archiving-your-database-cloud)
 - [Big Database (Part 1): Scalability](https://dzone.com/articles/big-database-1-scalability)
 - [Big Database (Part 2): Database Architecture](https://dzone.com/articles/big-database-2-database-architecture)
 - [Cassandra vs. MongoDB vs. Hbase: A Comparison of NoSQL Databases](https://logz.io/blog/nosql-database-comparison/)
 - [Choosing the Right Database for Your Applications](https://dzone.com/articles/choosing-the-right-database-for-your-applications)
+- [Cluster-Wide Database Maintenance and Why You Need It](https://severalnines.com/database-blog/cluster-wide-database-maintenance-and-why-you-need-it)
 - [ClusterControl Tips & Tricks - Best Practices for Database Backups](https://severalnines.com/blog/clustercontrol-tips-tricks-best-practices-database-backups)
 - [Clustered Database Node Failure and its Impact on High Availability](https://severalnines.com/database-blog/clustered-database-node-failure-and-its-impact-high-availability)
-- [Cluster-Wide Database Maintenance and Why You Need It](https://severalnines.com/database-blog/cluster-wide-database-maintenance-and-why-you-need-it)
 - [Comparing 3 open source databases: PostgreSQL, MariaDB, and SQLite](https://opensource.com/article/19/1/open-source-databases)
 - [Comparing Data At-Rest Encryption Features for MariaDB, MySQL and Percona Server for MySQL](https://www.percona.com/blog/2018/08/23/comparing-data-at-rest-encryption-features-for-mariadb-mysql-and-percona-server-for-mysql/)
 - [Comparing Postgres JSONB With NoSQL](https://dzone.com/articles/comparing-postgres-jsonb-with-nosql)
@@ -104,6 +100,7 @@ mysql -e "SHOW SLAVE STATUS \G;"
 - [Concise Guide to Data Migration](https://dzone.com/articles/concise-guide-to-data-migration)
 - [Consistency in Databases](https://dzone.com/articles/consistency-in-databases)
 - [Convincing Your Team to Adopt TDD](https://dzone.com/articles/convincing-your-team-to-adopt-tdd)
+- [CouchDB vs. MariaDB: Which Is Better?](https://dzone.com/articles/couchdb-vs-mariadb-which-is-better)
 - [Cours complet pour apprendre les différents types de bases de données et le langage SQL](https://sgbd.developpez.com/tutoriels/cours-complet-bdd-sql/)
 - [Data Democratization and How to Get Started?](https://dzone.com/articles/data-democratization-and-how-to-get-started)
 - [Data Structures and Their Applications](https://dzone.com/articles/data-structures-and-their-applications)
@@ -144,6 +141,7 @@ mysql -e "SHOW SLAVE STATUS \G;"
 - [How Database Indexing Actually Works](https://betterprogramming.pub/how-database-indexing-actually-works-ba6e19e75169)
 - [How to Approach Data Migration in 3 Stages](https://dzone.com/articles/how-to-approach-data-migration-in-3-stages)
 - [How to Choose Between an RDBMS and a NoSQL Database](https://opensourceforu.com/2018/04/how-to-choose-between-an-rdbms-and-a-nosql-database/)
+- [How to choose the right database for your service](https://medium.com/wix-engineering/how-to-choose-the-right-database-for-your-service-97b1670c5632)
 - [How To Connect to a Managed Database on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-connect-to-managed-database-ubuntu-18-04)
 - [How to Deploy Open Source Databases](https://severalnines.com/database-blog/how-deploy-open-source-databases)
 - [How to Easy Manage Database Updates and Security Patches](https://severalnines.com/database-blog/how-easy-manage-database-updates-and-security-patches)
@@ -192,8 +190,10 @@ mysql -e "SHOW SLAVE STATUS \G;"
 - [Relational to NoSQL: CRM Application Data Visibility](https://dzone.com/articles/relational-to-nosql-crm-application-data-visibilit)
 - [Relational to NoSQL: CRM Application Data Visibility](https://dzone.com/articles/relational-to-nosql-crm-application-data-visibilit)
 - [Replication from Percona Server for MySQL to PostgreSQL using pg_chameleon](https://www.percona.com/blog/2018/08/17/replication-from-percona-server-for-mysql-to-postgresql-using-pg_chameleon/)
+- [Rule-Based Query Optimization](https://dzone.com/articles/rule-based-query-optimization)
 - [Searching JSON: Comparing Text Search in Couchbase and MongoDB](https://dzone.com/articles/searching-json-comparing-text-search-in-couchbase-3)
 - [Settling the Myth of Transparent HugePages for Databases](https://www.percona.com/blog/2019/03/06/settling-the-myth-of-transparent-hugepages-for-databases/)
+- [Should I Use MongoDB or PostgreSQL?](https://medium.com/geekculture/should-i-use-mongodb-or-postgresql-ba2c1bb8b768)
 - [Simplify Database Migration by Using Object Relational Mapping](https://opensourceforu.com/2019/07/simplify-database-migration-by-using-object-relational-mapping/)
 - [SQL to NoSQL: 7 Metrics to Compare Query Languages](https://dzone.com/articles/sql-to-nosql-how-would-you-choose)
 - [SQL vs. NoSQL: What's the Best Database for Your Next Project?](https://www.makeuseof.com/sql-vs-nosql-whats-the-best-database-for-your-next-project/)

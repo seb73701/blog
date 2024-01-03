@@ -32,6 +32,7 @@
 - [How to Install Android Studio in Ubuntu 20.04](https://linuxhint.com/install_android_studio_ubuntu/)
 - [How to install Android Studio on Ubuntu 16.04 Xenial Xerus Linux](https://linuxconfig.org/how-to-install-android-studio-on-ubuntu-16-04-xenial-xerus-linux)
 - [How to Install Android Studio on Ubuntu 18.04](https://linuxize.com/post/how-to-install-android-studio-on-ubuntu-18-04/)
+- [My Most Productive Android Studio Setup](https://betterprogramming.pub/my-productive-android-studio-setup-9dd3774a3b91)
 - [Setup VMware for Developing Android Apps with Android Studio](https://linuxhint.com/vmware_android_apps_studio/)
 
 </details>

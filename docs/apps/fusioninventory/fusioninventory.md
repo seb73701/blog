@@ -49,6 +49,7 @@
 
 - [Composants de switchs avec FusionInventory](https://david.durieux.family/fr/composants-de-switchs-avec-fusioninventory.html)
 - [Fusion Inventory : comment forcer un inventaire ?](https://www.it-connect.fr/fusion-inventory-comment-forcer-un-inventaire/)
+- [FusionInventory - état actuel et futur](https://david.durieux.family/fr/fusioninventory_futur.html)
 - [Installation de l’agent FusionInventory 2.4 sur Fedora 27](https://www.dsfc.net/logiciel-libre/glpi/installation-agent-fusioninventory-2-4-fedora-27/)
 
 </details>

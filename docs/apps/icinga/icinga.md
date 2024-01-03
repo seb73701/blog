@@ -26,6 +26,18 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Configuration de l'API REST d'Icinga 2](/atrier/apps/icinga_001.md)
+- [Erreurs de dépendances à l'installation du plugin nagios-plugins-all](/atrier/apps/icinga_005.md)
+- [Installation et configuration de l'IDO (Icinga Data Output) MySQL](/atrier/apps/icinga_002.md)
+- [Installation Icinga2 (master) sur Rocky 8](/atrier/apps/icinga_003.md)
+- [installation_icinga2_sur_centos_8](/atrier/apps/icinga_004.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes
@@ -64,6 +76,7 @@
 - [How to Install and Configure Icinga 2 / Icinga Web 2 on CentOS 7 and RHEL 7](https://www.linuxtechi.com/install-configure-icinga2-centos-7-rhel-7/)
 - [How to Install Icinga 2 and Icinga Web 2 on CentOS 7](https://www.vultr.com/docs/how-to-install-icinga-2-and-icinga-web-2-on-centos-7)
 - [How to Install Icinga 2 Monitoring Software on Debian 10](https://www.howtoforge.com/how-to-install-icinga-2-on-debian-10/)
+- [How to Install Icinga 2 Monitoring Software on Debian 11](https://www.howtoforge.com/how-to-install-icinga-2-monitoring-software-on-debian-11/)
 - [How to Install Icinga 2 Monitoring Software on Ubuntu 20.04 LTS](https://www.howtoforge.com/how-to-install-icinga-2-monitoring-on-ubuntu-20-04/)
 - [How to Install Icinga 2 Monitoring Tool on CentOS 8](https://www.howtoforge.com/how-to-install-icinga-2-monitoring-tool-on-centos-8/)
 - [How to Install Icinga 2 Monitoring Tool on Debian 9.2](https://www.howtoforge.com/tutorial/how-to-install-icinga2-on-debian-9/)
@@ -168,6 +181,5 @@
 - https://wiki.drakonix.net/index.php/Handbook:Surveillance
 - https://www.it-connect.fr/supervision-comment-checker-letat-de-la-synchronisation-wsus/
 - https://www.itzgeek.com/tag/icinga
-- [How to Install Icinga 2 Monitoring Software on Debian 11](https://www.howtoforge.com/how-to-install-icinga-2-monitoring-software-on-debian-11/)
 
 </details>

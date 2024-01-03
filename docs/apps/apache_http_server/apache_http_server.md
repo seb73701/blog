@@ -23,6 +23,17 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Comment installer Apache 2.4 (httpd) sous CentOS 7](/atrier/apps/apache_http_server_001)
+- [Comment installer le serveur Web Apache sur CentOS 8](/atrier/apps/apache_http_server_002)
+- [Enable Gzip Compression on Apache Shared Hosting](/atrier/apps/apache_http_server_003)
+- [HTACCESS - Bloquer des IP et des Proxies](/atrier/apps/apache_http_server_004)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes
@@ -34,6 +45,7 @@
 - [[Apache] Ne pas logguer les accès à /server-status](https://www.guillaume-leduc.fr/apache-ne-pas-logguer-les-acces-server-status.html)
 - [13 Apache Web Server Security and Hardening Tips](https://www.tecmint.com/apache-security-tips/)
 - [25 Useful Apache ‘.htaccess’ Tricks to Secure and Customize Websites](https://www.tecmint.com/apache-htaccess-tricks/)
+- [Access and Error Logs](https://www.loggly.com/ultimate-guide/access-and-error-logs/)
 - [Activer et configurer le server-status Apache (mod_status)](http://www.blog.florian-bogey.fr/activer-et-configurer-le-server-status-apache-mod_status.html)
 - [Activer la fonction Server-Status sur un serveur Apache CentOS](https://quick-tutoriel.com/activer-la-fonction-server-status-sur-un-serveur-apache-centos/)
 - [Ansible Playbook to Install and Setup Apache on Ubuntu](https://linoxide.com/ansible-playbook-to-install-and-setup-apache-on-ubuntu/)
@@ -49,12 +61,14 @@
 - [Apache Configuration Error AH00558: Could not reliably determine the server's fully qualified domain name](https://www.digitalocean.com/community/tutorials/apache-configuration-error-ah00558-could-not-reliably-determine-the-server-s-fully-qualified-domain-name)
 - [Apache Configuration Error AH02572: Failed to configure at least one certificate and key](https://www.digitalocean.com/community/tutorials/apache-configuration-error-ah02572-failed-to-configure-at-least-one-certificate-and-key)
 - [Apache HTTP Server 2.4](https://www.softwarecollections.org/en/scls/rhscl/httpd24/)
+- [Apache Logging Basics](https://www.loggly.com/ultimate-guide/apache-logging-basics/)
 - [Apache Network Error AH00072: make_sock: could not bind to address](https://www.digitalocean.com/community/tutorials/apache-network-error-ah00072-make_sock-could-not-bind-to-address)
 - [Apache Virtual Hosting: IP Based and Name Based Virtual Hosts in RHEL/CentOS/Fedora](https://www.tecmint.com/apache-ip-based-and-name-based-virtual-hosting/)
 - [Apache with Let’s Encrypt Certificates on CentOS 8](https://www.cyberciti.biz/faq/apache-with-lets-encrypt-certificates-on-centos-8/)
 - [Apache: How to Enable Multiple SSL On One IP Using SNI and Virtual Host](https://dzone.com/articles/apache-enable-multiple-ssl-on-one-ip-using-sni-thr-1)
 - [Apache2 : Ajouter un VirtualHost](https://hehackedmy.wordpress.com/apache2-ajouter-un-virtualhost/)
 - [CentOS : Configurer un VirtualHost pour Apache (httpd)](https://www.it-connect.fr/centos-configurer-un-virtualhost-pour-apache-httpd/)
+- [Centralizing Apache Logs](https://www.loggly.com/ultimate-guide/centralizing-apache-logs/)
 - [Changer le port d’écoute d’Apache 2](https://www.it-connect.fr/changer-le-port-decoute-dapache2/)
 - [Comment bloquer certaines IP au niveau de mon site avec un htaccess ?](https://docs.ovh.com/fr/hosting/mutualise-htaccess-comment-bloquer-certaines-ip-au-niveau-de-mon-site/)
 - [Comment cacher la version de son serveur web Apache ?](https://www.it-connect.fr/cacher-la-version-de-son-serveur-web-apache2/)
@@ -169,12 +183,15 @@
 - [Logguer l’IP/hôte distant quand on utilise mod_proxy](https://www.tartarefr.eu/logguer-liphote-distant-quand-on-utilise-mod_proxy/)
 - [Make changes to static content with response body substitutions](https://www.ctrl.blog/entry/mod_substitute.html)
 - [Mettre en place l'en-tête Feature-Policy sur son site web](https://www.justegeek.fr/mettre-en-place-len-tete-feature-policy-sur-son-site-web/)
+- [Monitoring Apache Logs](https://www.loggly.com/ultimate-guide/monitoring-apache-logs/)
 - [Monitoring your Web Application on Apache with Logz.io](https://logz.io/blog/monitoring-your-web-application-on-apache-with-logz-io/)
+- [Parsing Apache Logs](https://www.loggly.com/ultimate-guide/parsing-apache-logs/)
 - [Protect Apache Against Brute Force or DDoS Attacks Using Mod_Security and Mod_evasive Modules](https://www.tecmint.com/protect-apache-using-mod_security-and-mod_evasive-on-rhel-centos-fedora/)
 - [Quelques astuces .htaccess](https://lehollandaisvolant.net/?d=2021/05/04/22/18/42-quelques-astuces-htaccess)
 - [Quelques astuces .htaccess](https://lehollandaisvolant.net/?d=2021/05/04/22/18/42-quelques-astuces-htaccess)
 - [Quelques secrets sur .htaccess](https://www.jbnet.fr/developpement/apache/quelques-secrets-sur-htaccess.html)
 - [Recommended Steps To Harden Apache HTTP on FreeBSD 12.0](https://www.digitalocean.com/community/tutorials/recommended-steps-to-harden-apache-http-on-freebsd-12-0)
+- [Récupérer la liste des urls avec un compteur sur les hits](/atrier/apps/apache_http_server_005)
 - [Redirect HTTP to HTTPS in Apache](https://linuxize.com/post/redirect-http-to-https-in-apache/)
 - [Restreindre l’accès à un fichier via .htaccess](https://www.jbnet.fr/developpement/apache/restreindre-lacces-a-un-fichier-via-htaccess.html)
 - [Sécurité : Contrebande de HTTP, Apache Traffic Server](https://makina-corpus.com/blog/metier/2018/securite-contrebande-de-http-apache-traffic-server)
@@ -186,6 +203,7 @@
 - [Statistiques du serveur web Apache via mod_status](https://www.it-connect.fr/statistiques-du-serveur-web-apache-via-mod_status/)
 - [Tentatives de connexion à répétition](https://www.dsfc.net/infrastructure/securite/tentatives-de-connexion-a-repetition/)
 - [Tout sur le fichier .htaccess](https://docs.ovh.com/fr/hosting/mutualise-tout-sur-le-fichier-htaccess/)
+- [Troubleshoot with Apache Logs](https://www.loggly.com/ultimate-guide/troubleshoot-with-apache-logs/)
 - [Trouver la configuration optimale d'Apache : bonnes pratiques et analyses](https://bearstech.com/societe/blog/trouver-la-configuration-optimale-dApache-bonnes-pratiques-et-analyses/)
 - [Tutoriel pour apprendre à installer et à optimiser Apache2](https://buzut.developpez.com/tutoriels/installer-optimiser-apache2/)
 - [Useful Commands to Manage Apache Web Server in Linux](https://www.tecmint.com/manage-apache-web-server-in-linux/)

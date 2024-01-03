@@ -35,6 +35,14 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Choisir la bonne architecture pour son cluster elasticsearch](/atrier/apps/elasticsearch_001.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes

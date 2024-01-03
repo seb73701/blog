@@ -37,8 +37,6 @@
 
 <details>
 
-- [Visualize Airflow Workflows Without Airflow](https://dzone.com/articles/visualize-airflow-workflows-without-airflow)
-- [Introduction to Apache Airflow: get started in 5 minutes](https://medium.com/codex/introduction-to-apache-airflow-get-started-in-5-minutes-3c9e24f12888)
 - [A Complete Guide to Setting up a Local Development environment for Airflow (Docker, PyCharm, and tests)](https://medium.com/ninjavan-tech/setting-up-a-complete-local-development-environment-for-airflow-docker-pycharm-and-tests-3577ddb4ca94)
 - [Airflow : Zero to One](https://medium.com/analytics-vidhya/airflow-zero-to-one-c65221588af1)
 - [Airflow for Data Scientists](https://medium.com/@statworx_blog/airflow-for-data-scientists-6262f5a8b8cd)
@@ -57,6 +55,7 @@
 - [Handling API Errors with Airflow](https://medium.com/stashaway-engineering/handling-api-errors-with-airflow-79738868d663)
 - [How Apache Airflow Distributes Jobs on Celery workers](https://medium.com/sicara/using-airflow-with-celery-workers-54cb5212d405)
 - [How to Use Airflow without Headaches](https://towardsdatascience.com/how-to-use-airflow-without-headaches-4e6e37e6c2bc)
+- [Introduction to Apache Airflow: get started in 5 minutes](https://medium.com/codex/introduction-to-apache-airflow-get-started-in-5-minutes-3c9e24f12888)
 - [Omada and Apache Airflow](https://medium.com/omada-health-tech/omada-and-apache-airflow-cd8e66445097)
 - [Quick & Easy Alerting for Apache Airflow](https://medium.com/unruly-engineering/quick-easy-alerting-for-apache-airflow-53c3f1ba2ca)
 - [Quick & Easy Alerting for Apache Airflow](https://medium.com/unruly-engineering/quick-easy-alerting-for-apache-airflow-53c3f1ba2ca)
@@ -64,6 +63,7 @@
 - [Scaling DAG Creation With Apache Airflow](https://towardsdatascience.com/scaling-dag-creation-with-apache-airflow-a7b34ba486ac)
 - [Turning Airflow into a full self service Data Platform](https://danielrcarletti.medium.com/turning-airflow-into-a-full-self-service-data-platform-b67eccdd3445)
 - [Upgrading Airflow with Zero Downtime](https://medium.com/flatiron-engineering/upgrading-airflow-with-zero-downtime-8df303760c96)
+- [Visualize Airflow Workflows Without Airflow](https://dzone.com/articles/visualize-airflow-workflows-without-airflow)
 - [We’re All Using Airflow Wrong and How to Fix It](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)
 
 

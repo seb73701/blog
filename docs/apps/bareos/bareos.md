@@ -43,7 +43,7 @@
 
 <details>
 
-- [EFFECTUEZ VOS SAUVEGARDES AVEC BAREOS](https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMF-212/Effectuez-vos-sauvegardes-avec-Bareos)
+- [Effectuez vos sauvegardes avec Bareos](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-212/effectuez-vos-sauvegardes-avec-bareos)
 - [How to Setup Bareos Backup Solution on Ubuntu 18.04 LTS](https://www.howtoforge.com/how-to-setup-bareos-backup-solution-on-ubuntu-1804/)
 
 </details>

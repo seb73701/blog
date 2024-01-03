@@ -21,6 +21,18 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Comment tester un rôle Ansible avec Molecule ?](/atrier/apps/ansible_002.md)
+- [Découvrez ou redécouvrez Ansible-Vault](/atrier/apps/ansible_003.md)
+- [Ensuring a Command Module Task is Repeatable with Ansible](/atrier/apps/ansible_004.md)
+- [Gérer et exécuter en toute simplicité ses projets grâce à AWX](/atrier/apps/ansible_005.md)
+- [Securing a Server with Ansible](/atrier/apps/ansible_001.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes
@@ -39,6 +51,7 @@
 - [5 everyday sysadmin tasks to automate with Ansible](https://opensource.com/article/21/3/ansible-sysadmin)
 - [5 tips for choosing an Ansible collection that's right for you](https://opensource.com/article/21/3/ansible-collections)
 - [5 ways to process JSON data in Ansible](https://opensource.com/article/21/4/process-json-data-ansible)
+- [6 troubleshooting skills for Ansible playbooks](https://www.redhat.com/sysadmin/troubleshoot-ansible-playbooks)
 - [7 things you can do with Ansible right now](https://opensource.com/article/20/9/ansible)
 - [7 Tips To Turbo-charge Your Ansible](https://shadow-soft.com/turbo-charge-your-ansible/)
 - [A Beginner’s Guide and Tutorial to Ansible Playbooks, Variables, and Inventory Files](https://linuxhint.com/begineers_guide_tutorial_ansible/)
@@ -122,6 +135,7 @@
 - [Ansible pour les provisionner tous !](https://blog.touret.info/2019/06/25/ansible-pour-les-provisionner-tous/)
 - [Ansible reboot a Debian/Ubuntu Linux for kernel update and wait for it](https://www.cyberciti.biz/faq/ansible-reboot-debian-ubuntu-linux-for-kernel-update-waitforit/)
 - [Ansible reboot Linux machine or server with playbooks](https://www.cyberciti.biz/faq/ansible-reboot-linux-machine-or-server-with-playbooks/)
+- [Ansible replace line in file – Ansible Replace Examples | Devops Junction](https://www.middlewareinventory.com/blog/ansible-replace-line-in-file-ansible-replace-examples/#Ansible_Replace_Examples)
 - [Ansible search( ) Test](http://www.oznetnerd.com/ansible-search-test/)
 - [ANSIBLE SECURITY AUTOMATION IS OUR ANSWER TO THE LACK OF INTEGRATION ACROSS THE IT INDUSTRY](https://www.ansible.com/blog/ansible-security-automation) (video)
 - [Ansible security automation resource modules](https://www.ansible.com/blog/ansible-security-automation-resource-modules)
@@ -147,6 +161,7 @@
 - [Ansible, PostgreSQL et les extensions](https://blog.kharec.info/post/ansible-postgresql-extensions/)
 - [Ansible: Could not find aptitude. Please ensure it is installed Error and Solution](https://www.cyberciti.biz/faq/ansible-could-not-find-aptitude-please-ensure-it-is-installed/)
 - [Ansible: IT automation for everybody](https://www.redhat.com/sysadmin/ansible-it-automation-everybody)
+- [Ansible: IT automation for everybody](https://www.redhat.com/sysadmin/ansible-it-automation-everybody)
 - [Ansible: Les variables](https://ungeek.fr/ansible-variables/)
 - [Ansible: loop, subelements, dictionnary](https://utux.fr/index.php?article161/ansible-loop-subelements-dictionnary)
 - [Ansible: Making Things Happen](https://www.linuxjournal.com/content/ansible-making-things-happen)
@@ -157,6 +172,7 @@
 - [ANSIBLED : DÉPÔT PYTHON PRIVÉ](https://blog.wescale.fr/2017/08/09/ansibled-depot-python-prive/)
 - [ANSIBLED : ROLLING UPGRADE D'UN AUTOSCALING GROUP AWS](https://blog.wescale.fr/2016/08/31/ansibled-rolling-upgrade-dun-autoscaling-group-aws/)
 - [Automate App Monitoring with Ansible Platform & Dynatrace](https://www.ansible.com/blog/automate-app-monitoring-with-ansible-platform-dynatrace)
+- [Automate container and pod deployments with Podman and Ansible](https://www.redhat.com/sysadmin/ansible-podman-container-deployment)
 - [Automate the Install of MariaDB 10.4 using Ansible on RHEL 8](https://www.youtube.com/watch?v=GcY9DV1QXg8) <span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>
 - [Automate virtual machine deployment with Ansible: Automation](https://www.redhat.com/sysadmin/deployment-ansible-automation)
 - [Automate virtual machine deployment with Ansible: Design](https://www.redhat.com/sysadmin/deployment-ansible-design)
@@ -190,6 +206,8 @@
 - [Blueprinting Your Infrastructure](https://hub.packtpub.com/blueprinting-your-infrastructure/)
 - [Bringing Order to the Cloud: Day 2 Operations in AWS with Ansible](https://www.ansible.com/blog/bringing-order-to-the-cloud-day-2-operations-in-aws-with-ansible)
 - [Build a lab in 36 seconds with Ansible](https://www.redhat.com/sysadmin/build-VM-fast-ansible)
+- [Build a lab in 36 seconds with Ansible](https://www.redhat.com/sysadmin/build-VM-fast-ansible)
+- [Build a lab in 36 seconds with Ansible](https://www.redhat.com/sysadmin/build-VM-fast-ansible)
 - [BUILD A QUICK CI SYSTEM USING RED HAT ANSIBLE TOWER WITH GITHUB ACTIONS](https://www.ansible.com/blog/build-a-quick-ci-system-using-red-hat-ansible-tower-with-github-actions)
 - [Building, saving, and loading container images with Ansible](https://www.redhat.com/sysadmin/container-images-ansible)
 - [Centralize your Automation Logs with Ansible Tower and Splunk Enterprise](https://www.ansible.com/blog/centralize-your-automation-logs-with-ansible-tower-and-splunk-enterprise)
@@ -214,12 +232,14 @@
 - [Creating Multiple Users/Tenants](https://hub.packtpub.com/creating-multiple-userstenants/)
 - [Création d'associations exécutant des manuels stratégiques Ansible](https://docs.aws.amazon.com/fr_fr/systems-manager/latest/userguide/systems-manager-state-manager-ansible.html)
 - [De Dockerfile à Ansible Containers](http://www.adaltas.com/fr/2017/10/25/de-dockerfile-a-ansible-containers/)
+- [debops.icinga](https://docs.debops.org/en/latest/ansible/roles/icinga/index.html)
 - [Débuter avec Ansible pour gérer votre infrastructure](https://blog.stephane-robert.info/post/introduction-ansible/)
 - [Découverte d'Ansible par un nul](https://www.corentin-hatte.eu/blog/decouverte-ansible-par-un-nul)
 - [Découverte de Ansible](https://ungeek.fr/decouverte-ansible/)
 - [Deep dive into Ansible ad hoc commands](https://www.redhat.com/sysadmin/ansible-ad-hoc-commands)
 - [Define ssh key per host using ansible_ssh_private_key_file](https://www.cyberciti.biz/faq/define-ssh-key-per-host-using-ansible_ssh_private_key_file/)
 - [Déploiement et automatisation avec Ansible partie 1](https://linuxfr.org/users/skhaen/journaux/deploiement-et-automatisation-avec-ansible-partie-1)
+- [Deploy and remove a web server with Ansible](https://www.redhat.com/sysadmin/ansible-callback-plugins)
 - [Deploy and remove a web server with Ansible](https://www.redhat.com/sysadmin/ansible-callback-plugins)
 - [DÉPLOYER DES VM VMWARE AVEC ANSIBLE – PART 2](https://blog.zwindler.fr/2017/11/14/deployer-vm-vmware-ansible-part-2/)
 - [Deploying & Configuring MongoDB Shards with Ansible](https://severalnines.com/database-blog/deploying-configuring-mongodb-shards-ansible)
@@ -241,6 +261,7 @@
 - [DevOps Series Using Ansible to Set Up HAProxy as a Load Balancer for Nginx](https://opensourceforu.com/2019/03/devops-series-using-ansible-to-set-up-haproxy-as-a-load-balancer-for-nginx/)
 - [DevOps Series: Provisioning with Ansible](https://opensourceforu.com/2017/12/devops-series-provisioning-ansible/)
 - [Easing into automation with Ansible](https://www.redhat.com/sysadmin/easing-automation-ansible)
+- [Easing into automation with Ansible](https://www.redhat.com/sysadmin/easing-automation-ansible)
 - [Écrire ses propres filtres Ansible](https://blog.stephane-robert.info/post/ansible-plugin-filters/)
 - [Écrire un module Ansible sur mesure](https://vincent.bernat.ch/fr/blog/2020-ecrire-module-ansible)
 - [Écrire, Exécuter et Debugger des playbooks Ansible](https://blog.stephane-robert.info/post/ecriture-de-playbooks-ansible/)
@@ -252,6 +273,7 @@
 - [Filter JSON Data in Ansible Using json_query](https://blog.networktocode.com/post/ansible-filtering-json-query/)
 - [Filtrer et manipuler les données avec Ansible](https://blog.stephane-robert.info/post/ansible-filtres-advanced-3/)
 - [Filtrer et rechercher des données au format Json](https://blog.stephane-robert.info/post/ansible-filtres-advanced-2/)
+- [Find mistakes in your playbooks with Ansible Lint](https://www.redhat.com/sysadmin/ansible-lint)
 - [FIND THE RIGHT AMI EVERYTIME: MAKE YOUR AWS APPLICATION WORK IN ANY REGION](https://www.ansible.com/blog/find-the-right-ami-everytime-make-your-aws-application-work-in-any-region)
 - [First Configuration After Ansible Installation Getting Started With Ansible](https://arkit.co.in/first-configuration-ansible/)
 - [Formation Ansible : créer un utilisateur avec le module user](https://xavki.blog/formation-ansible-creer-user/)
@@ -267,6 +289,7 @@
 - [Getting started with Ansible](https://www.redhat.com/sysadmin/getting-started-ansible)
 - [Guide: Building a Self-Contained Ansible & GNS3 Lab](http://www.oznetnerd.com/guide-building-a-self-contained-ansible-gns3-lab/)
 - [Hack Your Workspace](https://dzone.com/articles/hack-your-workspace)
+- [Handle exceptions in Ansible Playbooks with block and rescue](https://www.redhat.com/sysadmin/ansible-block-rescue)
 - [How Ansible got started and grew](https://opensource.com/article/21/2/ansible-origin-story)
 - [How Do Ansible Tags Work?](https://www.percona.com/blog/2020/04/27/how-do-ansible-tags-work/)
 - [How to access ansible facts regardless of the target limits](https://sleeplessbeastie.eu/2021/01/04/how-to-access-ansible-facts-regardless-of-the-target-limits/)
@@ -274,6 +297,7 @@
 - [HOW TO ADD APPROVAL STEPS TO ANSIBLE TOWER WORKFLOWS](https://www.ansible.com/blog/how-to-add-approval-steps-to-ansible-tower-workflows)
 - [How to Automate Migration from Standalone MySQL to Galera Cluster using Ansible](https://severalnines.com/database-blog/how-automate-migration-standalone-mysql-galera-cluster-using-ansible)
 - [How to Build Ansible Inventory in JSON Format](https://linuxhint.com/ansible_inventory_json_format/)
+- [How to cache Ansible facts with Redis](https://www.redhat.com/sysadmin/ansible-fact-cache-redis)
 - [How to combine group variables by parsing group configuration files](https://sleeplessbeastie.eu/2021/01/25/how-to-combine-group-variables-by-parsing-group-configuration-files/)
 - [How to combine group variables with specific names](https://sleeplessbeastie.eu/2021/02/01/how-to-combine-group-variables-with-specific-names/)
 - [How to Configure Ansible Managed Nodes and Run ad-hoc Commands – Part 3](https://www.tecmint.com/configure-ansible-managed-nodes-and-run-ad-hoc-commands/)
@@ -286,6 +310,7 @@
 - [How to create dynamic configuration files using Ansible templates](https://www.redhat.com/sysadmin/ansible-templates-configuration)
 - [How to Create Encrypted Password for Ansible User Module on the Raspberry PI](https://www.youtube.com/watch?v=oQADYTEU-rQ) <span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>
 - [How to Create Templates in Ansible to Create Configurations On Managed Nodes – Part 7](https://www.tecmint.com/create-ansible-templates-to-create-configuration-for-nodes/ )
+- [How to customize your Ansible logs](https://www.redhat.com/sysadmin/ansible-logs-customize)
 - [How To Define and Use Handlers in Ansible Playbooks](https://www.digitalocean.com/community/tutorials/how-to-define-and-use-handlers-in-ansible-playbooks)
 - [How To Define Tasks in Ansible Playbooks](https://www.digitalocean.com/community/tutorials/how-to-define-tasks-in-ansible-playbooks)
 - [How To Deploy a Static HTML Website with Ansible on Ubuntu 20.04 (Nginx)](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-static-html-website-with-ansible-on-ubuntu-20-04-nginx)
@@ -295,6 +320,7 @@
 - [How to Download Files Using the Ansible get_url Module](https://linuxhint.com/download-files-ansible-get_url-module/)
 - [How to dynamically define Ansible SSH user](https://sleeplessbeastie.eu/2021/03/10/how-to-dynamically-define-ansible-ssh-user/)
 - [How to Enable EPEL Repository on CentOS with Ansible](https://linuxhint.com/enable_epel_rep_centos_ansible/)
+- [How to encrypt Bash shell variables with Ansible Vault](https://www.redhat.com/sysadmin/ansible-vault-bash-encrypt)
 - [How To Execute Ansible Playbooks to Automate Server Setup](https://www.digitalocean.com/community/cheatsheets/how-to-execute-ansible-playbooks-to-automate-server-setup)
 - [How to find and replace text/IP address with Ansible](https://www.cyberciti.biz/faq/how-to-find-and-replace-textip-address-with-ansible/)
 - [How to Fix “Shared connection to x.x.xx closed” Ansible Error](https://www.tecmint.com/fix-shared-connection-to-x-x-xx-closed-ansible-error/)
@@ -449,6 +475,7 @@
 - [Monitoring d’un playbook Ansible](https://fgtech.medium.com/monitoring-dun-playbook-ansible-650e3e222f86)
 - [My first day using Ansible](https://opensource.com/article/20/10/first-day-ansible)
 - [My Top 5 Ansible Tips and Tricks](https://www.packetflow.co.uk/my-5-top-ansible-tips-and-tricks/)
+- [No wizardry needed to use Ansible's magic variable 'hostvars'](https://www.redhat.com/sysadmin/hostvars-magic-variable-ansible)
 - [Now Available: Red Hat-Maintained Content Collections on Automation Hub](https://www.ansible.com/blog/now-available-the-new-ansible-content-collections-on-automation-hub)
 - [Official Ansible Roles for NGINX and NGINX Plus Out Now](https://www.nginx.com/blog/official-ansible-galaxy-nginx-roles-out-now/)
 - [Out-of-band management with Redfish and Ansible](https://opensource.com/article/17/9/out-band-management-redfish-and-ansible)
@@ -484,6 +511,7 @@
 - [Solving Continuous Delivery (CD) headaches with Ansible](https://shadow-soft.com/continuous-delivery-ansible/)
 - [SORTIE D’ANSIBLE 2.7 ET MA PREMIÈRE CONTRIBUTION](https://blog.zwindler.fr/2018/10/10/sortie-dansible-2-7-et-ma-premiere-contribution/)
 - [Speed Up Ansible](https://dzone.com/articles/speed-up-ansible)
+- [Speed up your Ansible playbooks, create quick containers, and more tips for sysadmins](https://www.redhat.com/sysadmin/top-sysadmin-articles-january-2022)
 - [SUMMARY OF AUTHENTICATION METHODS FOR RED HAT ANSIBLE TOWER](https://www.ansible.com/blog/summary-of-authentication-methods-in-red-hat-ansible-tower)
 - [Supprimer les fichiers inutilisés d'un dossier avec Ansible](https://blog.karolak.fr/2021/07/15/ansible-supprimer-fichiers-inutilies/)
 - [Synchroniser des tables MySQL avec un module Ansible sur mesure](https://vincent.bernat.ch/fr/blog/2020-synchro-tables-mysql-ansible)
@@ -512,6 +540,7 @@
 - [Unit Testing Ansible Code with Molecule and Docker Containers](https://opensourceforu.com/2018/01/unit-testing-ansible-code-molecule-docker-containers/)
 - [Updating Structured Data in Ansible & Jinja](http://blog.networktocode.com/post/Updating_Structured_Data_in_Ansible_Jinja/)
 - [Use Ansible Tags to Organise your Plays & Tasks](http://www.oznetnerd.com/use-ansible-tags-organise-plays-tasks/)
+- [Use Ansible to test containers in OpenShift 4](https://www.redhat.com/sysadmin/ansible-containers-openshift-4)
 - [Using Ansible Automation Webhooks for GitOps](https://www.redhat.com/sysadmin/ansible-webhooks-gitops)
 - [Using Ansible for deploying serverless applications](https://opensource.com/article/17/8/ansible-serverless-applications)
 - [Using Ansible for Managing VMware Infrastructure](https://opensourceforu.com/2017/12/using-ansible-for-managing-vmware-infrastructure/)

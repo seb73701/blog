@@ -20,6 +20,14 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Génération automatique de réponses à un questionnaire Google Form](/atrier/apps/google_forms_001.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes
@@ -29,9 +37,9 @@
 - [10 Advanced Google Forms Tips and Tricks](https://www.makeuseof.com/tag/10-advanced-tips-tricks-for-google-forms/)
 - [How to Collect Contact Info Using Google Forms on Mobile Devices](https://www.makeuseof.com/tag/google-forms-collect-contact-info-mobile-device/)
 - [How to Create a Free Website Contact Form With Google Forms](https://www.makeuseof.com/tag/website-contact-form-google-forms/)
-- [One Way to Improve Google Form Response Rates](https://www.makeuseof.com/tag/improve-google-form-response-rates/)
-- [The Best Guide to Google Forms You’ll Ever Find](https://www.makeuseof.com/tag/best-guide-google-forms/)
-- [The 12 Finest Google Forms Alternatives You Should Try](https://www.makeuseof.com/tag/finest-14-google-forms-alternatives-try/)
 - [How to Create a Google Form](https://www.makeuseof.com/how-to-create-a-google-form/)
+- [One Way to Improve Google Form Response Rates](https://www.makeuseof.com/tag/improve-google-form-response-rates/)
+- [The 12 Finest Google Forms Alternatives You Should Try](https://www.makeuseof.com/tag/finest-14-google-forms-alternatives-try/)
+- [The Best Guide to Google Forms You’ll Ever Find](https://www.makeuseof.com/tag/best-guide-google-forms/)
 
 </details>

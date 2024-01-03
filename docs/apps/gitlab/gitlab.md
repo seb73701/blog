@@ -36,29 +36,32 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+</details>
+
+- [Un environnement par branche avec GitLab](/atrier/apps/gitlab_001.md)
+- [Un environnement par branche avec GitLab](/atrier/apps/gitlab_002.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes
 
 <details>
 
-- [Gitlab - Valider son CI et lancer son éxécution localement](https://blog.stephane-robert.info/post/gitlab-valider-ci-yml/)
-- [Bonnes pratiques Gitlab CI](https://chezsoi.org/lucas/blog/bonnes-pratiques-gitlab-ci.html)
-- [Générer dynmaniquement des pipelines Gitlab](https://blog.stephane-robert.info/post/gitlab-pipeline-dynamique/)
-- [How to Install GitLab on Debian 11](https://www.howtoforge.com/how-to-install-gitlab-on-debian-11/)
-- [How to run an ansible playbook using GitLab CI/CD?](https://medium.com/geekculture/how-to-run-an-ansible-playbook-using-gitlab-ci-cd-2135f76d7f1e)
-- [How to run terraform script using GitLab CI/CD?](https://medium.com/geekculture/how-to-run-terraform-script-using-gitlab-ci-cd-b6f448ab0232)
-- [Gérer des environnements avec Gitlab CI](https://blog.stephane-robert.info/post/gitlab-environement/)
-- [Gitlab : astuces pour optimiser votre IC](https://www.ginkonote.com/fr/utilisateurs/flo/articles/gitlab-astuces-pour-optimiser-votre-ic@debian-server)
-- [Builder simplement des images Docker avec Gitlab-CI (sans DinD)](http://memorandom.blog/builder-simplement-des-images-docker-avec-gitlab-ci-sans-dind/)
-- [Bonnes pratiques Gitlab CI](https://chezsoi.org/lucas/blog/bonnes-pratiques-gitlab-ci.html)
 - [[Gitlab] Retour d'expérience pour un usage personnel](https://www.pofilo.fr/post/20210729-essai-gitlab/)
-- [How to Install GitLab on Ubuntu 20.04](https://linoxide.com/how-to-install-gitlab-on-ubuntu-20-04/)
 - [[Sunny Tech 2019] Je gère mon entreprise et mes projets avec GitLab](https://www.youtube.com/watch?v=gJKUN9m5844) <span style="color:red;"><i class="fab fa-youtube fa-lg"></i></span>
 - [Accélérer vos CI Gitlab avec les DAG](https://blog.stephane-robert.info/post/dag-needs-gitlab-ci/)
 - [Accélérer vos pipelines d’Intégration Continue grâce au graphe orienté acyclique (DAG)](https://lydra.fr/accelerer-vos-pipeline-d-integration-continue-grace-au-graphe-oriente-acyclique-dag/)
 - [Analysis of Merge Requests in GitLab Using PVS-Studio For C#](https://dzone.com/articles/analysis-of-merge-requests-in-gitlab-using-pvs-stu)
 - [Basics of Gitlab Installation in a Debian System](https://dzone.com/articles/basics-of-gitlab-installation-in-a-debian-system)
+- [Bonnes pratiques Gitlab CI](https://chezsoi.org/lucas/blog/bonnes-pratiques-gitlab-ci.html)
+- [Bonnes pratiques Gitlab CI](https://chezsoi.org/lucas/blog/bonnes-pratiques-gitlab-ci.html)
+- [Builder simplement des images Docker avec Gitlab-CI (sans DinD)](http://memorandom.blog/builder-simplement-des-images-docker-avec-gitlab-ci-sans-dind/)
 - [CI/CD: Setting up GitLab Runners on AWS using CoreOS & Terraform](http://www.oznetnerd.com/ci-cd-setting-up-gitlab-runners-on-aws-using-coreos-terraform/)
 - [Comment configurer et sécuriser son dépôt GitLab ?](https://lydra.fr/comment-configurer-et-securiser-son-depot-gitlab/)
 - [Comment faire un miroir de GitLab vers Github ?](https://lydra.fr/comment-faire-un-miroir-de-gitlab-vers-github/)
@@ -78,7 +81,11 @@
 - [Démarrer l’intégration continue avec Gitlab CI/CD](https://blog.stephane-robert.info/post/introduction-gitlab-ci/)
 - [Déployer automatiquement sur Github Pages avec Github Actions](https://blog.flozz.fr/2020/09/21/deployer-automatiquement-sur-github-pages-avec-github-actions/)
 - [Déployer automatiquement un blog avec GitlabCI](https://www.youtube.com/watch?v=DHschLMuDqY) <span style="color:red;"><i class="fab fa-youtube fa-lg"></i></span>
+- [Générer dynmaniquement des pipelines Gitlab](https://blog.stephane-robert.info/post/gitlab-pipeline-dynamique/)
+- [Gérer des environnements avec Gitlab CI](https://blog.stephane-robert.info/post/gitlab-environement/)
 - [Gérer Gitlab via son API REST](https://blog.stephane-robert.info/post/gitlab-api/)
+- [Gitlab - Valider son CI et lancer son éxécution localement](https://blog.stephane-robert.info/post/gitlab-valider-ci-yml/)
+- [Gitlab : astuces pour optimiser votre IC](https://www.ginkonote.com/fr/utilisateurs/flo/articles/gitlab-astuces-pour-optimiser-votre-ic@debian-server)
 - [GitLab 10.6 Includes Native Integration into Google Kubernetes Engine (GKE)](https://dzone.com/articles/gitlab-106-includes-native-integration-into-google)
 - [GitLab 10.7 Released With Open Source Web IDE and SAST for Go and C/C++](https://dzone.com/articles/gitlab-107-released-with-open-source-web-ide-and-s)
 - [GitLab CI : Intégré comme jamais](https://vinceops.me/gitlab-ci-cd/)
@@ -96,9 +103,13 @@
 - [How to Install and Configure GitLab on Ubuntu 18.04 LTS](https://www.howtoforge.com/tutorial/how-to-install-and-configure-gitlab-on-ubuntu-1804/)
 - [How To Install and Configure GitLab on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-gitlab-on-ubuntu-18-04)
 - [How to Install GitLab on Debian 10 (Buster)](https://www.linuxtechi.com/install-gitlab-on-debian-10-buster/)
+- [How to Install GitLab on Debian 11](https://www.howtoforge.com/how-to-install-gitlab-on-debian-11/)
 - [How to Install GitLab on Ubuntu 18.04](https://www.rosehosting.com/blog/how-to-install-gitlab-on-ubuntu-18-04/)
+- [How to Install GitLab on Ubuntu 20.04](https://linoxide.com/how-to-install-gitlab-on-ubuntu-20-04/)
 - [How to Install Gitlab Server with Docker on Ubuntu 18.04 LTS](https://www.howtoforge.com/how-to-install-gitlab-server-with-docker-on-ubuntu-1804/)
 - [How to Install GitLab with Docker on Ubuntu 20.04 LTS](https://www.howtoforge.com/how-to-install-gitlab-with-docker-on-ubuntu-2004/)
+- [How to run an ansible playbook using GitLab CI/CD?](https://medium.com/geekculture/how-to-run-an-ansible-playbook-using-gitlab-ci-cd-2135f76d7f1e)
+- [How to run terraform script using GitLab CI/CD?](https://medium.com/geekculture/how-to-run-terraform-script-using-gitlab-ci-cd-b6f448ab0232)
 - [How To Set Up a Continuous Deployment Pipeline with GitLab CI/CD on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-continuous-deployment-pipeline-with-gitlab-ci-cd-on-ubuntu-18-04)
 - [How to set up Gitlab for Continuous Integration and Deployment on CentOS](https://www.howtoforge.com/how-to-set-up-gitlab-server-for-ci-cd-operation-on-centos/)
 - [How to simplify your smart home configuration with GitLab CI/CD](https://about.gitlab.com/2018/08/02/using-the-gitlab-ci-slash-cd-for-smart-home-configuration-management/)

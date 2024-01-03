@@ -33,6 +33,7 @@
 - [A Guide to Google Tools: Tips and Tricks You Can’t Live Without](https://www.makeuseof.com/tag/guide-google-tools-tips-tricks-cant-live-without/)
 - [Au revoir Google](https://www.camilleroux.com/2019/05/15/au-revoir-google/)
 - [Comment quitter définitivement le monde de Google en 24 heures ?](https://geek-mexicain.net/comment-quitter-definitivement-le-monde-de-google-en-24-heures)
+- [Connaissez-vous ces 20 easter eggs dans Google ?](https://www.clubic.com/pro/entreprises/google/actualite-418743-connaissez-vous-ces-20-easter-eggs-dans-google.html)
 - [Empêcher Google de vous suivre à la trace](https://www.pcastuces.com/pratique/internet/google_vie_privee/page1.htm?xtor=RSS-4)
 - [Forget Your Password: How to Securely Sign In to Google With Your Phone](https://www.makeuseof.com/google-prompts-sign-in-to-google-using-phone/)
 - [Google : comment gérer son historique Web et de localisation ?](https://www.it-connect.fr/google-comment-gerer-son-historique-web-et-de-localisation/)

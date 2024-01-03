@@ -26,14 +26,19 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Intégration des alertes de Nagios dans Grafana](/atrier/apps/grafana_001.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes
 
 <details>
-
-- [InfluxDB, Grafana et Glances, le monitoring qui brille](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-209/influxdb-grafana-et-glances-le-monitoring-qui-brille)
-- [Intégration des alertes de Nagios dans Grafana](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-248/integration-des-alertes-de-nagios-dans-grafana)
 
 - [Alerting Engine and Rules Guide on Grafana](https://www.thegeekslearn.com/alerting-engine-and-rules-guide-on-grafana/)
 - [Best Practices for Monitoring Kubernetes using Grafana](https://logz.io/blog/best-practices-for-monitoring-kubernetes-using-grafana/)
@@ -56,14 +61,13 @@
 - [Further customizing a Grafana Custom Plugin in React](https://technology.amis.nl/2020/01/16/further-customizing-a-grafana-custom-plugin-in-react/)
 - [Gatling, Graphite, Grafana : votre application sous haute surveillance !](https://blog.netapsys.fr/gatling-graphite-grafana-votre-application-sous-haute-surveillance/)
 - [GRAFANA – GUIDE COMPLET : PARAMÈTRES AVANCÉS DE SINGLESTAT](https://les-enovateurs.com/grafana-parametres-avances-singlestat/)
-- [Grafana & Prometheus: A Match Made in Heaven?](https://logz.io/blog/prometheus-and-grafana-a-match-made-in-heaven/)
 - [Grafana : Superviser tous vos serveurs et périphériques avec classe](https://www.tech2tech.fr/grafana-superviser-tous-vos-serveurs-et-peripheriques/)
+- [Grafana & Prometheus: A Match Made in Heaven?](https://logz.io/blog/prometheus-and-grafana-a-match-made-in-heaven/)
 - [Grafana 6.2 released with improved security, enhanced provisioning, Bar Gauge panel, lazy loading and more](https://hub.packtpub.com/grafana-6-2-released-with-improved-security-enhanced-provisioning-bar-gauge-panel-lazy-loading-and-more/)
 - [Grafana Dashboard with Log Analytics Data](https://www.ciraltos.com/grafana-dashboard-with-log-analytics-data/)
 - [Grafana Plugin for Instana APM](https://dzone.com/articles/grafana-plugin-for-instana-apm)
 - [Grafana Templates for Elasticsearch, Prometheus and InfluxDB](https://logz.io/blog/grafana-templates-elasticsearch-prometheus-influxdb/)
 - [Grafana Tutorial: Getting Started with Installation & Configuration](https://logz.io/blog/grafana-tutorial/)
-- [Grafana vs. Graphite](https://logz.io/blog/grafana-vs-graphite/)
 - [Grafana vs. Graphite](https://logz.io/blog/grafana-vs-graphite/)
 - [Grafana vs. Kibana: The Key Differences to Know](https://logz.io/blog/grafana-vs-kibana/)
 - [Grafana: An Open Source Visualisation and Query Processing Platform for Data Scientists and Researchers](https://opensourceforu.com/2020/05/grafana-an-open-source-visualisation-and-query-processing-platform-for-data-scientists-and-researchers/)
@@ -83,13 +87,9 @@
 - [How to use the CloudWatch Datasource in Grafana](https://sysadmins.co.za/how-to-use-the-cloudwatch-datasource-in-grafana/)
 - [How to Visualize Your Data With Grafana [Q+A]](https://dzone.com/articles/percona-live-europe-featured-talks-visualize-your)
 - [How We Monitor Elasticsearch with Graphite & Grafana](https://logz.io/blog/monitor-elasticsearch-graphite-grafana/)
-- [http://docs.grafana.org/reference/templating/](http://docs.grafana.org/reference/templating/)
-- [https://dashboard.sitespeed.io/?orgId=1](https://dashboard.sitespeed.io/?orgId=1)
-- [https://github.com/cybertec-postgresql/pgwatch2/tree/master/grafana_dashboards](https://github.com/cybertec-postgresql/pgwatch2/tree/master/grafana_dashboards)
-- [https://github.com/grafana/grafana/blob/master/public/app/partials/signup_invited.html](https://github.com/grafana/grafana/blob/master/public/app/partials/signup_invited.html)
-- [https://github.com/search?q=grafana+theme](https://github.com/search?q=grafana+theme)
-- [Installation de Grafana](:applications:grafana:installation_grafana)
+- [InfluxDB, Grafana et Glances, le monitoring qui brille](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-209/influxdb-grafana-et-glances-le-monitoring-qui-brille)
 - [Integrating Logz.io with Grafana](https://logz.io/blog/grafana-integration/)
+- [Intégration des alertes de Nagios dans Grafana](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-248/integration-des-alertes-de-nagios-dans-grafana)
 - [Intro to Grafana Plugin Development](https://www.percona.com/blog/2020/06/02/intro-to-grafana-plugin-development/)
 - [Introduction to Grafana Loki - Julien Pivotto](https://www.youtube.com/watch?v=MgrmQs9hhPM) (video)
 - [Kubernetes in Production: The Ultimate Guide to Monitoring Resource Metrics with Grafana](https://www.replex.io/blog/kubernetes-in-production-the-ultimate-guide-to-monitoring-resource-metrics-with-grafana)
@@ -99,6 +99,7 @@
 - [Logz.io Infrastructure Monitoring: Building Grafana Visualizations](https://logz.io/blog/logz-io-infrastructure-monitoring-grafana-visualizations/)
 - [Logz.io Infrastructure Monitoring: Building Visualizations in Dashboards](https://logz.io/blog/prometheus-dashboards-infrastructure-monitoring/)
 - [Logz.io Infrastructure Monitoring: Grafana and Kibana are Better Together](https://logz.io/blog/logz-io-infrastructure-monitoring-grafana-kibana-together/)
+- [Mise en place d’un Grafana pour gérer les métriques de CleverCloud](https://blog.kbdev.io/dev/2021/08/24/grafana-clevercloud.html)
 - [Monitor Your Infrastructure With InfluxDB and Grafana on Kubernetes](https://dzone.com/articles/monitor-your-infrastructure-with-influxdb-and-graf)
 - [Monitorer son domicile avec jeedom et grafana](https://carmagnole.ovh/tuto-monitorer-son-domicile-avec-jeedom-et-grafana.htm)
 - [Monitorez vos serveurs avec Grafana! Création du tableau de bord](https://blog.itnetwork.fr/blog-post/2018/12/06/grafana-partie-3-creation-tableau-de-bord.html)
@@ -124,6 +125,10 @@
 - [What’s New in Logz.io with Infrastructure Monitoring? Upgrading to Grafana 7](https://logz.io/blog/infrastructure-monitoring-grafana-7-update/)
 - [Why You Want Easy-to-Setup Grafana Dashboards](https://dzone.com/articles/why-you-want-easy-to-setup-grafana-dashboards)
 - [Writing a Grafana backend using the Simple JSON datasource & Flask](http://www.oznetnerd.com/writing-a-grafana-backend-using-the-simple-json-datasource-flask/#more-936698)
-- [Mise en place d’un Grafana pour gérer les métriques de CleverCloud](https://blog.kbdev.io/dev/2021/08/24/grafana-clevercloud.html)
+- http://docs.grafana.org/reference/templating/
+- https://dashboard.sitespeed.io/?orgId=1
+- https://github.com/cybertec-postgresql/pgwatch2/tree/master/grafana_dashboards
+- https://github.com/grafana/grafana/blob/master/public/app/partials/signup_invited.html
+- https://github.com/search?q=grafana+theme
 
 </details>

@@ -3,9 +3,9 @@
 * [<i class="fa-brands fa-sellsy"></i> Big Data](/big-data/)
 * [<i class="fa-solid fa-cloud"></i> Clouds](/clouds/)
 * [<i class="fa-solid fa-code"></i> Développement](/developpement/developpement.md)
-* [<i class="fa-solid fa-infinity"></i> DevOps](/devops/)
+* [<i class="fa-solid fa-infinity"></i> DevOps](/devops/devops.md)
 * [<i class="fa-solid fa-flask"></i> Inclassable](/inclassable/)
-* [<i class="fa-solid fa-brain"></i> Intelligence Artificielle](/ia/)
+* [<i class="fa-solid fa-brain"></i> Intelligence Artificielle](/ia/ia.md)
 * [<i class="fa-solid fa-robot"></i> IoT](/iot/)
 * [<i class="fa-solid fa-gamepad"></i> Jeux](/jeux/)
 * [<i class="fa-brands fa-github-alt"></i> Projets Github](/projets-github/)
@@ -19,25 +19,36 @@
 
 ---
 
-## A TRIER
+
+<details>
+<summary>A trier</summary>
 
 * [<i class="fa-solid fa-inbox"></i> APPS à trier](/atrier/atrier.md)
 * [<i class="fa-solid fa-inbox"></i> BDD à trier](/atrier/bdd_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> CLOUDS à trier](/atrier/clouds_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> DEV à trier](/atrier/dev_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> DEVOPS à trier](/atrier/devops_atrier.md)
+* [<i class="fa-solid fa-inbox"></i> INCLASSABLE à trier](/atrier/inclassable_atrier.md)
+* [<i class="fa-solid fa-inbox"></i> IOT à trier](/atrier/iot_atrier.md)
+* [<i class="fa-solid fa-inbox"></i> JEUX à trier](/atrier/jeux_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> JOBS à trier](/atrier/job_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> MONITORING à trier](/atrier/monit_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> OS à trier](/atrier/os_atrier.md)
+* [<i class="fa-solid fa-inbox"></i> RASPBERRY PI  à trier](/atrier/raspberry_pi_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> RESEAUX  à trier](/atrier/reso_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> RESEAUX SOCIAUX à trier](/atrier/reso_sociaux_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> SECURITE à trier](/atrier/secu_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> VIRTUALISATION à trier](/atrier/virt_atrier.md)
 
+</details>
+
 ---
 
-## AUTRES
+<details>
+<summary>Autres</summary>
 
 * [<i class="fa-solid fa-file-code"></i> Templates](/tpl/page-app.md)
 * [<i class="fa-solid fa-book"></i> Glossaire](/glossaire/)
 * [<i class="fa-solid fa-globe"></i> Sites](/sites/)
+
+</details>

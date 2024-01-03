@@ -24,14 +24,20 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Listing Hosts](/atrier/apps/foreman_001.md)
+
+<details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes
 
 <details>
 
-- [Foreman - Listing hosts](/apps/foreman/temp1)
-- [How to Install Katello 3.2 on CentOS 7](https://hostpresto.com/community/tutorials/how-to-install-katello-3-2-on-centos-7/)
 - [API Documentation](https://theforeman.org/api/1.7/apidoc/v2.html)
 - [API Foreman](https://theforeman.org/api/1.8/index.html)
 - [Automatisierte Updates mit Foreman Distributed Lock Manager](https://www.netways.de/blog/2019/07/12/foreman-distributed-lock-manager/)
@@ -40,6 +46,7 @@
 - [How can I add a class to a host using the API?](https://groups.google.com/forum/#!topic/foreman-users/JTeXPtKrUG8)
 - [How to get started with the Foreman sysadmin tool](https://opensource.com/article/17/8/system-management-foreman)
 - [How to Install and Configure Foreman 1.16 on Debian 9 / Ubuntu 16.04 Server](https://www.linuxtechi.com/install-configure-foreman-1-16-debian-9-ubuntu-16-04/)
+- [How to Install Katello 3.2 on CentOS 7](https://hostpresto.com/community/tutorials/how-to-install-katello-3-2-on-centos-7/)
 - [Managing a R&D Lab with Foreman](https://www.slideshare.net/roidelapluie/managing-a-rd-lab-with-foreman-64021861)
 - [Managing deb content in Foreman](https://opensource.com/article/21/3/linux-foreman)
 

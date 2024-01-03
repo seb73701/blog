@@ -24,6 +24,25 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Création d'un Thème Personnalisé](/atrier/apps/icingaweb_002.md)
+- [Création d'une sonde "check_ping_vpn" pour Linux](/atrier/apps/icingaweb_010.md)
+- [Execute IcingaDirector manually](/atrier/apps/icingaweb_012.md)
+- [IcingaWeb2 - IDO via ProxySQL](/atrier/apps/icingaweb_006.md)
+- [installation_d_icingaweb_2_sous_centos_8](/atrier/apps/icingaweb_001.md)
+- [Liste des autorisations dans IcingaWeb2](/atrier/apps/icingaweb_005.md)
+- [Mise à jour du module Director](/atrier/apps/icingaweb_007.md)
+- [Personnalisation logo de la page "Connexion"](/atrier/apps/icingaweb_004.md)
+- [Personnalisation logo du Dashboard](/atrier/apps/icingaweb_003.md)
+- [Requêtes Icinga pour Dashboard Grafana](/atrier/apps/icingaweb_008.md)
+- [Schéma de la base de données Icinga2 (MySQL)](/atrier/apps/icingaweb_011.md)
+- [Urls IcingaWeb (Dashboards)](/atrier/apps/icingaweb_009.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes
@@ -32,7 +51,6 @@
 
 - [Business Processes in Icinga 2](https://www.unixe.de/business-processes-in-icinga-2/)
 - [Comment utiliser Grafana dans icingaweb2](https://community.capensis.org/t/comment-utiliser-grafana-dans-icingaweb2/146)
-
 - [Dark Theme for Icinga Web 2](https://github.com/lazaroblanc/icingaweb2-dark-theme)
 - [How to add your first host using icinga2 director](https://blog.sleeplessbeastie.eu/2018/01/25/how-to-add-first-node-using-icinga2-director/)
 - [How to install director module for icingaweb2](https://blog.sleeplessbeastie.eu/2018/01/22/how-to-install-director-module-for-icingaweb2/)
