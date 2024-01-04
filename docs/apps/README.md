@@ -46,7 +46,8 @@
   <div><a href="#apps/bareos/bareos.md">Bareos</a></div>
   <div><a href="#apps/beats/beats.md">Beats</a></div>
   <div><a href="#apps/bind9/bind9.md">Bind9</a></div>
-  <div><a href="#apps/bind9/bind9.md">Blender</a></div>
+  <div><a href="#apps/bitwarden/bitwarden.md">Bitwarden Password Manager</a></div>
+  <div><a href="#apps/blender/blender.md">Blender</a></div>
   <div><a href="#apps/borg/borg.md">Borg</a></div>
 </div>
 
@@ -151,6 +152,8 @@
   <div><a href="#apps/grafana/grafana.md">Grafana</a></div>
   <div><a href="#apps/grafana_loki/grafana_loki.md">Grafana Loki</a></div>
   <div><a href="#apps/grafana_tempo/grafana_tempo.md">Grafana Tempo</a></div>
+  <div><a href="#apps/graphite/graphite.md">Graphite</a></div>
+  <div><a href="#apps/grav_cms/grav_cms.md">Grav CMS</a></div>
   <div><a href="#apps/graylog/graylog.md">Graylog</a></div>
 </div>
 

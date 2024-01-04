@@ -6,33 +6,6 @@
 
 
 
-### AutoKey
-- [How to Use AutoKey to Automate Repetitive Tasks on Linux](https://www.makeuseof.com/use-autokey-to-automate-repetitive-tasks-on-linux/)
-
-
-
-
-### Bitwarden
-- [Bitwarden, le gestionnaire de mots de passe montant. Présentation et installation](https://domopi.eu/bitwarden-le-gestionnaire-de-mots-de-passe-montant-presentation-et-installation/)
-- [Comment gérer ses mots de passe avec Bitwarden ?](https://www.it-connect.fr/comment-gerer-ses-mots-de-passe-avec-bitwarden/)
-- [How to Install Bitwarden Password Manager on Debian 11](https://www.howtoforge.com/how-to-install-bitwarden-password-manager-on-debian-11/)
-- [How to Self-Host Using Bitwarden](https://linuxhint.com/self-host-using-bitwarden/)
-- [Stockez vos mots de passe dans un coffre fort sécurisé avec Bitwarden](https://blog.libreon.fr/stockez-vos-mot-de-passe-dans-un-coffre-fort-securise-avec-bitwarden/)
-
-
-
-
-### BlueStack
-- [How Do I Zoom In and Out on My Bluestacks Emulator?](https://linuxhint.com/zoom-in-out-bluestacks-emulator/)
-
-### DaVinci Resolve
-- [How to Use Scene Cut Detection in DaVinci Resolve](https://www.makeuseof.com/how-to-use-scene-cut-detection-davinci-resolve/)
-
-
-
-### ExifTool
-- [Géolocalisation a posteriori de photographies](https://www.palabritudes.net/2021/07/20/geolocalisation-photographies.html)
-
 
 
 ### GitOps
@@ -40,33 +13,6 @@
 - [Configuring Red Hat Ansible Automation Platform with GitOps](https://www.redhat.com/en/blog/configuring-red-hat-ansible-automation-platform-gitops)
 - [Introduction to GitOps (LFS169)](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/)
 - [POURQUOI VOUS DEVRIEZ PASSER À GITOPS](https://blog.revolve.team/2020/01/13/pourquoi-gitops/)
-
-
-### Google Contacts
-- [6 Tips and Tricks to Make Better Use of Google Contacts](https://www.makeuseof.com/google-contacts-tips-and-tricks/)
-
-### Google Data Studio
-- [The 9 Best Features of Google Data Studio for Data Analysis and Visualization](https://www.makeuseof.com/best-features-google-data-studio-data-analysis-visualization/)
-- [Data Visualization — Google Data Studio](https://medium.com/@adrian10ian/data-visualization-google-data-studio-b03f6d3113f3)
-- [How to Create a Marketing Dashboard Using Google Data Studio? A Step-by-Step Guide](https://medium.com/dataflohq/how-to-create-a-marketing-dashboard-using-google-data-studio-a-step-by-step-guide-d3120f7b3258)
-
-### Google Jamboard
-- [The 7 Best Google Jamboard Features You Can Use for Remote Learning](https://www.makeuseof.com/google-jamboard-features-remote-learning/)
-
-### Google Tasks
-- [5 Tips to Use Google Tasks Effectively](https://www.makeuseof.com/tips-use-google-tasks-effectively/)
-
-
-### GPing
-- [Avoir le retour sous forme graphique d'un ping avec GPing](https://blog.shevarezo.fr/post/2021/05/05/ping-graphique-gping)
-
-
-### Graphite
-- [How to Install Graphite and Graphite Web on Ubuntu 20.04](https://linoxide.com/install-graphite-ubuntu/)
-
-### Grav CMS
-- [How to Install Grav CMS with Nginx on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-grav-cms-on-ubuntu-20-04/)
-
 
 
 ### Hugo
@@ -78,10 +24,6 @@
 - [A simple tutorial of JQ by Ivan Lausuch](https://hackmd.io/@il-suse/BJ_RoR8u_)
 - [How to Use JQ to Process JSON on the Command Line](https://www.linode.com/docs/guides/using-jq-to-process-json-on-the-command-line/)
 - [jq Manual (development version)](https://stedolan.github.io/jq/manual/)
-
-### Ketchup
-
-- [Designing with ketchup](https://uxdesign.cc/designing-with-ketchup-290067480428)
 
 
 ### LimeSurvey (Sondage)
@@ -102,34 +44,6 @@
 - [Scan your Linux security with Lynis](https://opensource.com/article/20/5/linux-security-lynis)
 - [Lynis : l’outil d’audit pour les systèmes Unix/linux](https://homputersecurity.com/2017/03/09/lynis-loutil-daudit-pour-les-systemes-unixlinux/)
 
-### Magento
-- [Migration to Magento 2: What Are the Steps for Magento Migration?](https://dzone.com/articles/migration-to-magento-2-what-are-the-steps-for-mage)
-- [How to Install Magento 2 on CentOS 8](https://www.rosehosting.com/blog/how-to-install-magento-2-on-centos-8/)
-- [Declarative Schema: Simplifying Magneto Development](https://dzone.com/articles/how-has-declarative-schema-simplified-the-lives-of)
-- [Why Magento? All You Need To Know](https://dzone.com/articles/why-magento-all-you-need-to-know)
-- [Why Magento? All You Need To Know](https://dzone.com/articles/why-magento-all-you-need-to-know)
-- [How to Install Magento with Nginx on Debian 10](https://www.rosehosting.com/blog/how-to-install-magento-with-nginx-on-debian-10/)
-- [How to Install Magento 2 with Nginx and Let's Encrypt SSL on Ubuntu 20.04 LTS](https://www.howtoforge.com/tutorial/how-to-install-magento-with-nginx-on-ubuntu/)
-- [Magento E-Commerce Platform installation with Apache2 and Let's Encrypt on Ubuntu 20.04](https://www.howtoforge.com/magento-e-commerce-platform-installation-with-apache2-and-lets-encrypt-on-ubuntu-2004/)
-- [Magento Security Guide: Threats and Safety Measures](https://www.scnsoft.com/blog/magento-security)
-- [Configuration d’une boutique Magento à partir de la version 2.2](https://blog.sodifrance.fr/configuration-dune-boutique-magento-a-partir-de-la-version-2-2/)
-- [Mise en place d’un thème Magento 2](https://blog.sodifrance.fr/mise-en-place-dun-theme-magento-2/)
-- [Utilisation des classes Proxy Magento 2](https://blog.sodifrance.fr/utilisation-des-classes-proxy-magento-2/)
-- [Ajouter un nouveau type de produit dans Magento 2](https://blog.sodifrance.fr/ajouter-un-nouveau-type-de-produit-dans-magento-2/)
-- [How to Install Magento on Ubuntu 18.04](https://www.rosehosting.com/blog/how-to-install-magento-on-ubuntu-18-04/)
-- [An Auto-Scalable Magento Cluster in Containers](https://dzone.com/articles/an-auto-scalable-magento-cluster-in-containers)
-- [How to Install Magento 2 with Varnish, Apache and Pound as SSL Termination](https://www.rosehosting.com/blog/how-to-install-magento-2-with-varnish-apache-and-pound-as-ssl-termination/)
-- [How to Install Magento 2 with Nginx and Letsencrypt on Ubuntu 18.04](https://www.howtoforge.com/tutorial/how-to-install-magento-with-nginx-on-ubuntu/)
-- [How to Install and Configure Magento 2 on Ubuntu 18.04](https://linoxide.com/tools/install-magento-ubuntu/)
-- [Magento – Changer le moteur de la table « oauth_nonce » de MyISAM à INNODB](https://www.jbnet.fr/ecommerce/magento/magento-changer-le-moteur-de-la-table-oauth_nonce-de-myisam-a-innodb.html)
-- [Magento – Changer le moteur de la table « oauth_nonce » de MyISAM à INNODB](https://www.jbnet.fr/ecommerce/magento/magento-changer-le-moteur-de-la-table-oauth_nonce-de-myisam-a-innodb.html)
-- [5 Essential Magento Performance Tips Most Developers Neglect](https://dzone.com/articles/5-essential-magento-performance-tips-most-develope)
-- [Configure Magento 2 to use Varnish on CentOS 7](https://linuxize.com/post/configure-magento-2-to-use-varnish-on-centos-7/)
-- [Install Magento 2 on CentOS 7](https://linuxize.com/post/install-magento-2-on-centos-7/)
-- [How to Install Magento 2 on Ubuntu 18.04](https://linuxize.com/post/how-to-install-magento-2-on-ubuntu-18-04/)
-- [How to migrate from Magento 1 to Magento 2. A comprehensive guide](https://hub.packtpub.com/how-to-migrate-from-magento-1-to-magento-2-a-comprehensive-guide/)
-- [How to Install Magento on CentOS 8](https://www.howtoforge.com/tutorial/how-to-install-magento-on-centos-8/)
-- [Leveraging Vue.JS for a Headless Magento Store](https://dzone.com/articles/leveraging-vuejs-for-a-headless-magento-store)
 
 ### Mail
 - [Comment éviter que vos mails arrivent en SPAM chez les destinataires](https://www.tutos-informatique.com/mails-en-spam/)
@@ -933,6 +847,7 @@
 - [Déverrouiller la protection de forme dans Visio](https://syskb.com/deverrouiller-la-protection-de-forme-dans-visio/)
 
 ### Microsoft Visual Studio Code
+- [How to Fix the "zsh: command not found: code" Error in macOS Terminal](https://www.makeuseof.com/fix-zsh-command-not-found-code-error-mac-terminal/)
 - [VS Code Extensions For Data Engineering](https://levelup.gitconnected.com/vs-code-extensions-for-data-engineering-66839673ea0f)
 - [7 Promising VS Code Extensions Introduced in 2021](https://betterprogramming.pub/new-vs-code-extensions-released-2021-ee34a0b3a03f)
 - [9 Visual Studio Code Extensions That Make Programming Easier.](https://medium.com/geekculture/9-visual-studio-code-extensions-that-make-programming-easier-6bbdacc15b6)
@@ -1332,8 +1247,6 @@
 - [How to install, configure and use Nessus Vulnerability Scanner on CentOS 8](https://www.howtoforge.com/how-to-install-configure-and-use-nessus-vulnerability-scanner-on-centos-8/)
 
 
-### NetBeans
-- [How to Install Netbeans on Ubuntu 18.04](https://linuxize.com/post/how-to-install-netbeans-on-ubuntu-18-04/)
 
 
 ### NetCrunch

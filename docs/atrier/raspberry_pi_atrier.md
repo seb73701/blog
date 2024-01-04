@@ -1,6 +1,7 @@
 # RASPBERRY PI A TRIER
 
 # Articles
+- [How to Install Python Packages in Raspberry Pi OS Bookworm](https://www.makeuseof.com/raspberry-pi-os-bookworm-install-python-packages/)
 - [What Is a Raspberry Pi? Here's What You Need to Know](https://www.makeuseof.com/what-is-raspberry-pi/)
 - [The 10 Best Raspberry Pi Zero 2 W Projects](https://www.makeuseof.com/tag/10-best-raspberry-pi-zero-projects-far/)
 - [Setting Up Wi-Fi on Raspberry Pi](https://www.makeuseof.com/tag/setting-wireless-networking-raspberry-pi/)
