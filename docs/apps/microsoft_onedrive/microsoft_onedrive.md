@@ -3,22 +3,22 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/apps/microsoft_onedrive/microsoft_office_onedrive_2019.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Microsoft OneDrive** est un ensemble de services en ligne : stockage et applications Word, Excel, PowerPoint et OneNote, dont les fonctionnalités sont toutefois réduites par rapport aux logiciels installés sur un ordinateur. Ce service a été créé en 2007 et a porté les noms Windows Live Folders, Windows Live SkyDrive, SkyDrive et enfin son nom actuel depuis janvier 2014.
+>
+> Le service peut s'utiliser de deux manières : à travers un navigateur web, en téléchargeant des fichiers sur un serveur, en les récupérant sur son ordinateur au besoin et en les partageant avec des amis ou avec tous les internautes ; ou à travers le logiciel **OneDrive** qui permet une synchronisation entre **OneDrive** et les supports informatiques compatibles.
+>
+> Ce service est une manifestation du concept de cloud computing. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://www.microsoft.com/fr-fr/microsoft-365/onedrive/onedrive-for-business
+- <i class="fa-solid fa-book"></i> **Documentation** : https://support.microsoft.com/fr-fr/onedrive
+- <i class="fab fa-blogger-b"></i> **Blog** : https://www.microsoft.com/en-us/microsoft-365/blog/product/onedrive/?sort-by=newest-oldest&date=any
+- <i class="fas fa-comments"></i> **Forum** : https://techcommunity.microsoft.com/t5/onedrive/ct-p/OneDriveforBusiness?country=fr&culture=fr-fr
+- <i class="far fa-question-circle"></i> **FAQ** : https://learn.microsoft.com/fr-fr/answers/tags/211/office-onedrive
+
 
 ---
 

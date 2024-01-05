@@ -3,22 +3,23 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/apps/microsoft_excel/microsoft_office_excel_2019.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Microsoft Excel** est un logiciel tableur de la suite bureautique Microsoft Office développé et distribué par l'éditeur Microsoft. La version la plus récente est **Excel** 2021.
+>
+> Il est destiné à fonctionner sur les systèmes d'exploitation Microsoft Windows, Mac OS X et Android. Le logiciel **Excel** intègre des fonctions de calcul numérique, de représentation graphique, d'analyse de données et de programmation, laquelle utilise les macros écrites dans le langage VBA (Visual Basic for Applications)2. Il est notamment utilisé pour la comptabilité, la finance, la logistique, la gestion de bases de données et le suivi des stocks.
+>
+> La dernière version date de 2021 et fait partie de la suite Microsoft Office 2021, elle est incluse dans l'abonnement à Microsoft 365. **Excel** 2021 comporte de nouvelles fonctionnalités telles que des nouvelles fonctions, des nouveaux types graphiques, une amélioration globale de l'interface utilisateur ainsi que la possibilité de publier via Power BI. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://www.microsoft.com/fr-fr/microsoft-365/excel
+- <i class="fa-solid fa-book"></i> **Documentation** : https://support.microsoft.com/fr-fr/excel
+- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : https://learn.microsoft.com/en-us/officeupdates/current-channel
+- <i class="fab fa-blogger-b"></i> **Blog** : https://techcommunity.microsoft.com/t5/excel-blog/bg-p/ExcelBlog
+- <i class="fas fa-comments"></i> **Forum** : https://techcommunity.microsoft.com/t5/excel/bd-p/ExcelGeneral
+- <i class="far fa-question-circle"></i> **FAQ** : https://www.microsoft.com/fr-fr/microsoft-365/microsoft-365-for-home-and-school-faq
+
 
 ---
 

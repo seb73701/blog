@@ -3,22 +3,25 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/apps/microsoft_outlook/microsoft_office_outlook_2018.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Microsoft Outlook** (officiellement **Microsoft Office Outlook**) est un gestionnaire d'informations personnelles et un client de courrier électronique propriétaire édité par Microsoft. Ce logiciel informatique fait partie de la suite bureautique Microsoft Office.
+>
+> Il permet aussi de gérer des groupes dont les membres font partie d'un même projet, département, service ou simplement la même entreprise ou organisation.
+>
+> Bien qu'il soit principalement utilisé en tant qu'application de courrier électronique, il propose aussi un calendrier et un gestionnaire de tâche et de contact.
+>
+> Il peut être utilisé de manière autonome, mais il a aussi la possibilité de fonctionner conjointement à Microsoft Exchange Server pour fournir des fonctions étendues pour une utilisation multi-utilisateurs dans une organisation, telles que le partage des boîtes de courriels, des calendriers et des emplois du temps des réunions.
+>
+> La dernière version en date est la version 2019 ; elle fait partie de la suite Microsoft Office 2019 et est incluse dans l'abonnement à Microsoft 365. Office 365 s’appelle désormais Microsoft 365. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://www.microsoft.com/fr-fr/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook
+- <i class="fa-solid fa-book"></i> **Documentation** : https://support.microsoft.com/fr-fr/outlook
+- <i class="fab fa-blogger-b"></i> **Blog** : https://techcommunity.microsoft.com/t5/outlook-blog/bg-p/Outlook
+- <i class="fas fa-comments"></i> **Forum** : https://techcommunity.microsoft.com/t5/outlook/ct-p/Outlook
+
 
 ---
 

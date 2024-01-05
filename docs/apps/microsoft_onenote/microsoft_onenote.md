@@ -3,22 +3,18 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/apps/microsoft_onenote/microsoft_office_onenote_2019.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Microsoft OneNote** (appelé précédemment **Microsoft Office OneNote**) est un programme informatique de prise de notes. Ce programme offre de nombreuses fonctions, comme l'insertion de texte, d'images, de sons, de l'écriture manuscrite et même des captures d'écrans. Il fait partie de la suite Microsoft Office 2016 et est compris dans l'abonnement Office 365.
+>
+> Lors de sa parution, **OneNote** était un logiciel indépendant de Microsoft Office. Ainsi, **OneNote** 2003 n'était inclus dans aucune des versions de Microsoft Office 2003. Mais au fur et à mesure des versions, il devient un des composants de la suite logicielle, au point que **OneNote** est intégré à toutes les versions de Microsoft Office 2013 lors de sa sortie. La version la plus récente est comprise dans Office 2019 et Microsoft 365. En Mars 2014, **OneNote** 2013 devient disponible gratuitement au téléchargement, d'abord dans une édition limitée, puis dans sa version complète. Depuis 2015, Microsoft propose une autre édition gratuite mais allégée appelée "**OneNote** pour Windows 10" installable depuis le Microsoft Store. Cette dernière n'offre pas le stockage de 15 gigaoctets dans Microsoft OneDrive. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://support.microsoft.com/fr-fr/onenote
+- <i class="fa-solid fa-book"></i> **Documentation** : https://support.microsoft.com/fr-fr/office/prise-en-main-de-onenote-e768fafa-8f9b-4eac-8600-65aa10b2fe97
+- <i class="fab fa-blogger-b"></i> **Blog** : https://go.microsoft.com/fwlink/p/?LinkID=2203150&clcid=0x409&culture=en-us&country=us
+- <i class="fas fa-comments"></i> **Forum** : https://answers.microsoft.com/fr-fr/msoffice/forum/msoffice_onenote?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=all&isFilterExpanded=true&page=1
 
 ---
 

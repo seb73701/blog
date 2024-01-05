@@ -3,22 +3,21 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/apps/microsoft_office_o365/microsoft_365_2022.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Microsoft 365**, anciennement **Office 365**, est la marque désignant un abonnement à la dernière version de **Microsoft Office** et à un ensemble de services Cloud, par opposition aux licences dites perpétuelles qui s'installent pour une durée indéterminée sur un seul ordinateur à la fois. En mars 2023, le nombre d'abonnés à **Microsoft 365** est de plus de 400 millions.
+>
+> **Microsoft 365** est constitué de la suite Office (Word, Excel, PowerPoint, Outlook, OneNote, Publisher et Access), ainsi que d'un ensemble de services en ligne tels que OneDrive, Exchange Online, SharePoint Online, Teams et Yammer. La suite Office permet le travail en mode déconnecté à l'instar d'une suite perpétuelle, ce qui la distingue de Office Online, qui s'utilise depuis un navigateur Web. Le principe de **Microsoft 365** est d'être mis à jour au fur et à mesure des nouvelles versions d'Office.
+>
+> Le 21 avril 2020, les offres pour particuliers et TPE/PME d'**Office 365** ont été renommées **Microsoft 365** afin de mettre l'accent sur les fonctionnalités et services de productivité extérieurs à la suite Office. La désignation **Office 365** est cependant toujours utilisée sur les offres destinées aux établissements scolaires, et sur certaines pour les entreprises. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://support.microsoft.com/fr-fr/microsoft-365
+- <i class="fa-solid fa-book"></i> **Documentation** : https://learn.microsoft.com/fr-fr/microsoft-365/?view=o365-worldwide
+- <i class="fab fa-blogger-b"></i> **Blog** : https://www.microsoft.com/fr-fr/microsoft-365/blog/
+- <i class="fas fa-comments"></i> **Forum** : https://techcommunity.microsoft.com/t5/microsoft-365/bd-p/microsoft-365
+- <i class="far fa-question-circle"></i> **FAQ** : https://www.microsoft.com/fr-fr/microsoft-365/microsoft-365-for-home-and-school-faq?ocid=cmmzb259zys&rtc=1
 
 ---
 

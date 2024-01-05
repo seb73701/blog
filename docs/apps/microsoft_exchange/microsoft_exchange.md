@@ -3,22 +3,21 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/apps/microsoft_exchange/microsoft_exchange_2019.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Microsoft Exchange Server** est un groupware (logiciel de groupe de travail) pour serveur de messagerie électronique créé par Microsoft, pour concurrencer Lotus Domino d'IBM.
+>
+> **Microsoft Exchange** est très utilisé dans les entreprises, 52 % du marché des plates-formes de messagerie et de collaboration d'entreprise en 2008. C'est un produit de la gamme des serveurs Microsoft, conçu pour la messagerie électronique, mais aussi pour la gestion d'agenda, de contacts et de tâches, qui assure le stockage des informations et permet des accès à partir de clients mobiles (Outlook Mobile Access, Exchange Active Server Sync) et de clients web (navigateurs tels que Internet Explorer, Mozilla Firefox, Safari).
+>
+> Suivant la vague du cloud computing, **Microsoft Exchange** est, depuis 2009, disponible au travers d'une offre SaaS appelée Microsoft Online Services sous le nom d'Exchange Online. Cette offre a désormais été remplacée par Microsoft Office 365. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://www.microsoft.com/fr-fr/microsoft-365/exchange/email
+- <i class="fa-solid fa-book"></i> **Documentation** : https://learn.microsoft.com/fr-FR/exchange/
+- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : https://social.technet.microsoft.com/forums/office/home?category=exchangeserver
+- <i class="fab fa-blogger-b"></i> **Blog** : https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange?country=fr&culture=fr-fr
+- <i class="fas fa-comments"></i> **Forum** : https://social.technet.microsoft.com/forums/office/home?category=exchangeserver
 
 ---
 

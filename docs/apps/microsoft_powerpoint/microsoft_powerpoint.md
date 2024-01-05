@@ -3,22 +3,19 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/apps/microsoft_powerpoint/microsoft_office_powerpoint_2019.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Microsoft PowerPoint** est un logiciel de présentation édité par Microsoft. Il fait partie de la suite Microsoft Office. **Microsoft PowerPoint** fonctionne sous Windows et Mac OS.
+>
+> La version la plus récente est **PowerPoint** 2021. Elle fait partie de la suite Office 2021 et du service Microsoft 365. Depuis avril 2014, l'application **PowerPoint** est disponible sur iPad, iPhone, Windows Phone et Android. Cela entre dans la logique « Office Mobile » de Microsoft de rendre ses logiciels disponibles sur le plus grand nombre de supports (ordinateurs, tablettes, smartphones). **PowerPoint** est le programme de présentation le plus utilisé dans le monde. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://www.microsoft.com/fr-fr/microsoft-365/powerpoint
+- <i class="fa-solid fa-book"></i> **Documentation** : https://support.microsoft.com/en-us/powerpoint
+- <i class="fab fa-blogger-b"></i> **Blog** : https://go.microsoft.com/fwlink/?linkid=2220258&clcid=0x40c&culture=fr-fr&country=fr
+- <i class="fas fa-comments"></i> **Forum** : https://answers.microsoft.com/fr-fr/msoffice/forum/msoffice_powerpoint?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=all&isFilterExpanded=true&page=1
+
 
 ---
 
