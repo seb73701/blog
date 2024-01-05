@@ -213,7 +213,26 @@
 ## M
 
 <div class="apps-container">
+  <div><a href="#apps/microsoft_access/microsoft_access.md">Microsoft Access</a></div>
+  <div><a href="#apps/microsoft_authentificator/microsoft_authentificator.md">Microsoft Authentificator</a></div>
+  <div><a href="#apps/microsoft_edge/microsoft_edge.md">Microsoft Edge</a></div>
+  <div><a href="#apps/microsoft_excel/microsoft_excel.md">Microsoft Excel</a></div>
+  <div><a href="#apps/microsoft_exchange/microsoft_exchange.md">Microsoft Exchange</a></div>
+  <div><a href="#apps/microsoft_forms/microsoft_forms.md">Microsoft Forms</a></div>
   <div><a href="#apps/microsoft_iis/microsoft_iis.md">Microsoft IIS</a></div>
+  <div><a href="#apps/microsoft_office_o365/microsoft_office_o365.md">Microsoft Office / O365</a></div>
+  <div><a href="#apps/microsoft_onedrive/microsoft_onedrive.md">Microsoft OneDrive</a></div>
+  <div><a href="#apps/microsoft_onenote/microsoft_onenote.md">Microsoft OneNote</a></div>
+  <div><a href="#apps/microsoft_outlook/microsoft_outlook.md">Microsoft Outlook</a></div>
+  <div><a href="#apps/microsoft_powerpoint/microsoft_powerpoint.md">Microsoft Powerpoint</a></div>
+  <div><a href="#apps/microsoft_sharepoint/microsoft_sharepoint.md">Microsoft Sharepoint</a></div>
+  <div><a href="#apps/microsoft_skype/microsoft_skype.md">Microsoft Skype</a></div>
+  <div><a href="#apps/microsoft_sway/microsoft_sway.md">Microsoft Sway</a></div>
+  <div><a href="#apps/microsoft_teams/microsoft_teams.md">Microsoft Teams</a></div>
+  <div><a href="#apps/microsoft_todo/microsoft_todo.md">Microsoft To Do</a></div>
+  <div><a href="#apps/microsoft_visio/microsoft_visio.md">Microsoft Visio</a></div>
+  <div><a href="#apps/microsoft_visual_studio_code/microsoft_visual_studio_code.md">Microsoft Visual Studio Code</a></div>
+  <div><a href="#apps/microsoft_word/microsoft_word.md">Microsoft Word</a></div>
 </div>
 
 ## N

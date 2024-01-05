@@ -70,6 +70,14 @@
     text-decoration: none;
 }
 
+article#main.markdown-section > h1 {
+    border-left: darkred 5px solid;
+    padding-left: 10px;
+    font-weight: bolder;
+}
+
+article#main.markdown-section > details { border-left: darkcyan 3px solid; padding-left: 10px; }
+
 .apps-container, .bdd-container {
     display: flex;
     flex-wrap: wrap;
