@@ -3,22 +3,28 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/apps/microsoft_visual_studio_code/visual_studio_code_icon.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Visual Studio Code** est un éditeur de code extensible développé par Microsoft pour Windows, Linux et macOS.
+>
+> Les fonctionnalités incluent la prise en charge du débogage, la mise en évidence de la syntaxe, la complétion intelligente du code (IntelliSense.), les snippets, la refactorisation du code et Git intégré. Les utilisateurs peuvent modifier le thème, les raccourcis clavier, les préférences et installer des extensions qui ajoutent des fonctionnalités supplémentaires.
+>
+> Le code source de **Visual Studio Code** provient du projet logiciel libre et open source **VS Code** de Microsoft publié sous la licence MIT permissive, mais les binaires compilés constituent un freeware, c'est-à-dire un logiciel gratuit pour toute utilisation mais propriétaire.
+>
+> Dans le sondage auprès des développeurs réalisé par Stack Overflow en 2023, **Visual Studio Code** a été classé comme l'outil d'environnement de développement (IDE) le plus populaire, avec plus de 73 % des 86 544 répondants déclarant l'utiliser. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://code.visualstudio.com/
+- <i class="fa-solid fa-book"></i> **Documentation** : https://code.visualstudio.com/docs
+- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : https://code.visualstudio.com/updates/
+- <i class="fa-brands fa-github"></i> **Github** : https://github.com/microsoft/vscode
+- <i class="fab fa-blogger-b"></i> **Blog** : https://code.visualstudio.com/blogs
+- <i class="fas fa-comments"></i> **Forum** : https://stackoverflow.com/questions/tagged/vscode
+- <i class="far fa-question-circle"></i> **FAQ** : https://code.visualstudio.com/docs/supporting/faq
+- <i class="far fa-calendar-alt"></i> **Thèmes** : https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs
+- <i class="fas fa-tools"></i> **Plugins** : https://marketplace.visualstudio.com/VSCode
+- <i class="far fa-calendar-alt"></i> **Live Demo** : https://vscode.dev/
 
 ---
 

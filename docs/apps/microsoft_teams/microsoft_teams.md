@@ -3,22 +3,18 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/apps/microsoft_teams/microsoft_office_teams_2018.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Microsoft Teams** est une application de communication collaborative propriétaire en mode SaaS officiellement lancée par Microsoft en novembre 20165.
+>
+> Le service s'intègre à la suite Microsoft 365 en remplacement de Skype for Business et propose des extensions pouvant être intégrées à des produits autres que ceux de Microsoft. Il est actuellement disponible dans 181 pays et est traduit en 25 langues. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software
+- <i class="fa-solid fa-book"></i> **Documentation** : https://support.microsoft.com/fr-fr/teams
+- <i class="fab fa-blogger-b"></i> **Blog** : https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bg-p/MicrosoftTeamsBlog
+- <i class="fas fa-comments"></i> **Forum** : https://answers.microsoft.com/lang/msteams/forum
 
 ---
 

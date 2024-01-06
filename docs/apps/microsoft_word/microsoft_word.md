@@ -3,22 +3,26 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/apps/microsoft_word/microsoft_office_word_2019.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Microsoft Word** est un logiciel de traitement de texte publié par Microsoft. La version la plus récente est **Word** 2021.
+> 
+> **Word** a été intégré en tant qu’élément de la suite Microsoft Office depuis 1993, même s’il était également vendu seul ou inclus dans la suite Microsoft Works.
+> 
+> Depuis 2003, la version de **Word** a vu son appellation changer du fait qu’il fasse partie intégrante de la suite Microsoft Office ; Microsoft a donc décidé de le renommer **Microsoft Office Word** au lieu de **Microsoft Word**.
+>
+> La dernière version en date est la version 2019 ; elle fait partie de la suite Microsoft Office 2019 et est incluse dans l'abonnement à Microsoft 365.
+>
+> Un logiciel de traitement de texte couvre deux notions, assez différentes en pratique : un éditeur de textes interactif et un compilateur pour un langage de mise en forme de textes (notions qui sont précisées dans Traitement de texte).
+>
+> Au cours de son évolution, **Word** a intégré l’outil de dessin qui permet d’effectuer des opérations de publication, comme l’ajout de graphiques (diagrammes, graphiques économiques, formes géométriques, illustrations, équations) aux documents. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://www.microsoft.com/fr-fr/microsoft-365/word
+- <i class="fa-solid fa-book"></i> **Documentation** : https://support.microsoft.com/fr-fr/word
+- <i class="fab fa-blogger-b"></i> **Blog** : https://www.microsoft.com/fr-fr/microsoft-365/blog/
+- <i class="fas fa-comments"></i> **Forum** : https://techcommunity.microsoft.com/t5/word/ct-p/Word
 
 ---
 

@@ -3,22 +3,15 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/apps/microsoft_sway/microsoft_office_sway_2019.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Sway** est une application web proposée par Microsoft Office, pour créer et partager un panneau web interactif, adaptable à tout type d'écrans. Les utilisateurs peuvent ajouter du contenu directement depuis l'application, OneDrive, certains réseaux sociaux, mais également d'autres sources web. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://sway.cloud.microsoft/
+- <i class="fa-solid fa-book"></i> **Documentation** : https://support.microsoft.com/fr-fr/sway
+- <i class="far fa-question-circle"></i> **FAQ** : https://support.microsoft.com/fr-fr/office/forum-aux-questions-sur-sway-d550100d-74c1-48b5-94dd-de8cc9b694e9
 
 ---
 

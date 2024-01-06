@@ -3,22 +3,16 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/apps/microsoft_skype/skype_logo_2019.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Skype** est un logiciel propriétaire qui permet aux utilisateurs de passer des appels téléphoniques ou vidéo via Internet, ainsi que le partage d'écran. Les appels d’utilisateur à utilisateur sont gratuits, tandis que ceux vers les lignes téléphoniques fixes et les téléphones mobiles sont payants. Il existe des fonctionnalités additionnelles comme la messagerie instantanée, le transfert de fichiers et la visioconférence. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://www.skype.com/
+- <i class="fa-solid fa-book"></i> **Documentation** : https://support.skype.com/fr/skype/all/
+- <i class="fab fa-blogger-b"></i> **Blog** : https://blogs.skype.com/
+- <i class="fas fa-comments"></i> **Forum** : https://techcommunity.microsoft.com/t5/skype-for-business/ct-p/SkypeForBusiness
 
 ---
 
