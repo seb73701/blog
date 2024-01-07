@@ -213,6 +213,7 @@
 ## M
 
 <div class="apps-container">
+  <div><a href="#apps/memcached/memcached.md">Memcached</a></div>
   <div><a href="#apps/microsoft_access/microsoft_access.md">Microsoft Access</a></div>
   <div><a href="#apps/microsoft_authentificator/microsoft_authentificator.md">Microsoft Authentificator</a></div>
   <div><a href="#apps/microsoft_edge/microsoft_edge.md">Microsoft Edge</a></div>
@@ -233,13 +234,37 @@
   <div><a href="#apps/microsoft_visio/microsoft_visio.md">Microsoft Visio</a></div>
   <div><a href="#apps/microsoft_visual_studio_code/microsoft_visual_studio_code.md">Microsoft Visual Studio Code</a></div>
   <div><a href="#apps/microsoft_word/microsoft_word.md">Microsoft Word</a></div>
+  <div><a href="#apps/mozilla_firefox/mozilla_firefox.md">Mozilla Firefox</a></div>
 </div>
 
 ## N
 
 <div class="apps-container">
+  <div><a href="#apps/nagios/nagios.md">Nagios</a></div>
+  <div><a href="#apps/nextcloud/nextcloud.md">NextCloud</a></div>
   <div><a href="#apps/nginx/nginx.md">Nginx</a></div>
+  <div><a href="#apps/nirsoft/nirsoft.md">Nirsoft</a></div>
 </div>
+
+## O
+
+<div class="apps-container">
+  <div><a href="#apps/obs_studio/obs_studio.md">OBS Studio</a></div>
+</div>
+
+
+## P
+
+<div class="apps-container">
+  <div><a href="#apps/percona_pmm/percona_pmm.md">Percona Monitoring and Management (PMM)</a></div>
+  <div><a href="#apps/percona_server_mongodb/percona_server_mongodb.md">Percona Server for MongoDB</a></div>
+  <div><a href="#apps/percona_server_mysql/percona_server_mysql.md">Percona Server for MySQL</a></div>
+  <div><a href="#apps/percona_toolkit/percona_toolkit.md">Percona Toolkit</a></div>
+  <div><a href="#apps/percona_xtrabackup/percona_xtrabackup.md">Percona XtraBackup</a></div>
+  <div><a href="#apps/percona_xtradb_cluster/percona_xtradb_cluster.md">Percona XtraDB Cluster</a></div>
+  <div><a href="#apps/prometheus/prometheus.md">Prometheus</a></div>
+</div>
+
 
 ## R
 
