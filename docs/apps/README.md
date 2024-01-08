@@ -262,7 +262,10 @@
   <div><a href="#apps/percona_toolkit/percona_toolkit.md">Percona Toolkit</a></div>
   <div><a href="#apps/percona_xtrabackup/percona_xtrabackup.md">Percona XtraBackup</a></div>
   <div><a href="#apps/percona_xtradb_cluster/percona_xtradb_cluster.md">Percona XtraDB Cluster</a></div>
+  <div><a href="#apps/phpmyadmin/phpmyadmin.md">PhpMyAdmin</a></div>
+  <div><a href="#apps/postman/postman.md">Postman</a></div>
   <div><a href="#apps/prometheus/prometheus.md">Prometheus</a></div>
+  <div><a href="#apps/proxysql/proxysql.md">ProxySQL</a></div>
 </div>
 
 
@@ -297,4 +300,11 @@
 <div class="apps-container">
   <div><a href="#apps/wikijs/wikijs.md">Wiki.JS</a></div>
   <div><a href="#apps/wordpress/wordpress.md">Wordpress</a></div>
+</div>
+
+
+## Z
+
+<div class="apps-container">
+  <div><a href="#apps/zabbix/zabbix.md">Zabbix</a></div>
 </div>
