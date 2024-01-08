@@ -266,12 +266,14 @@
   <div><a href="#apps/postman/postman.md">Postman</a></div>
   <div><a href="#apps/prometheus/prometheus.md">Prometheus</a></div>
   <div><a href="#apps/proxysql/proxysql.md">ProxySQL</a></div>
+  <div><a href="#apps/puppet/puppet.md">Puppet</a></div>
 </div>
 
 
 ## R
 
 <div class="apps-container">
+  <div><a href="#apps/rabbitmq/rabbitmq.md">RabbitMQ</a></div>
   <div><a href="#apps/redmine/redmine.md">Redmine</a></div>
 </div>
 
