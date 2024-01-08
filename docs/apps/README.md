@@ -272,6 +272,20 @@
   <div><a href="#apps/redmine/redmine.md">Redmine</a></div>
 </div>
 
+## S
+
+<div class="apps-container">
+  <div><a href="#apps/selenium/selenium.md">Selenium</a></div>
+</div>
+
+
+## T
+
+<div class="apps-container">
+  <div><a href="#apps/terraform/terraform.md">Terraform</a></div>
+</div>
+
+
 ## V
 
 <div class="apps-container">
@@ -282,4 +296,5 @@
 
 <div class="apps-container">
   <div><a href="#apps/wikijs/wikijs.md">Wiki.JS</a></div>
+  <div><a href="#apps/wordpress/wordpress.md">Wordpress</a></div>
 </div>
