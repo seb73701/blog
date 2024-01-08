@@ -300,7 +300,9 @@
 ## W
 
 <div class="apps-container">
+  <div><a href="#apps/webmin/webmin.md">Webmin</a></div>
   <div><a href="#apps/wikijs/wikijs.md">Wiki.JS</a></div>
+  <div><a href="#apps/wireshark/wireshark.md">Wireshark</a></div>
   <div><a href="#apps/wordpress/wordpress.md">Wordpress</a></div>
 </div>
 

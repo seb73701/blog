@@ -1433,33 +1433,6 @@
 - [How to Install and Configure VNC on CentOS 7](https://linuxize.com/post/how-to-install-and-configure-vnc-on-centos-7/)
  
 
-
-### Webmin
-- [How to Install Webmin on Rocky Linux 8](https://linoxide.com/how-to-install-webmin-on-rocky-linux-8/)
-- [How to Install Webmin on Ubuntu 20.04](https://www.tecmint.com/install-webmin-on-ubuntu/)
-- [How to Install Webmin on Fedora Linux](https://www.tecmint.com/install-webmin-on-fedora-linux/)
-- [How to Install Webmin System Administration Tool on RHEL 8](https://www.tecmint.com/install-webmin-in-rhel-8/)
-- [How to install Webmin and secure it with Let's Encrypt SSL on Ubuntu 20.04 LTS](https://www.howtoforge.com/tutorial/ubuntu-webmin-installation/)
-- [Install and Use Webmin in Ubuntu 20.04](https://linuxhint.com/install_and_use_webmin_ubuntu/)
-- [How to Install Webmin on Ubuntu 20.04](https://linuxize.com/post/how-to-install-webmin-on-ubuntu-20-04/)
-- [How to Install Webmin on Ubuntu 20.04](https://linoxide.com/linux-how-to/install-webmin-on-ubuntu-20-04/)
-- [How To Install Webmin on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-20-04)
-- [How To Install Webmin on Debian 10](https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-debian-10)
-- [How to Install Webmin on CentOS 8](https://www.howtoforge.com/how-to-install-webmin-on-centos-8/)
-- [How To Install Webmin on CentOS 8](https://linuxize.com/post/how-to-install-webmin-on-centos-8/)
-- [How To Install Webmin on Debian 10 Linux](https://linuxize.com/post/how-to-install-webmin-on-debian-10/)
-- [How to Configure and Install Webmin on Ubuntu](https://linoxide.com/tools/how-configure-install-webmin-ubuntu/)
-- [How To Install Webmin on Ubuntu 18.04](https://www.rosehosting.com/blog/how-to-install-webmin-on-ubuntu-18-04/)
-- [How To Install Webmin on Debian 9](https://linuxize.com/post/how-to-install-webmin-on-debian-9/)
-- [How to Manage CentOS 7 Server with Webmin](https://www.howtoforge.com/tutorial/how-to-manage-centos-7-server-with-webmin/)
-- [How to Install and Configure Webmin on Debian 9 and Ubuntu Server](https://www.linuxtechi.com/install-configure-webmin-debian-9-ubuntu-server/)
-- [How To Install Webmin on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-18-04)
-- [How to Install Webmin on Debian 9](https://www.rosehosting.com/blog/how-to-install-webmin-on-debian-9/)
-- [How To Install Webmin on Debian 9](https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-debian-9)
-- [How To Install Webmin on Ubuntu 18.04](https://linuxize.com/post/how-to-install-webmin-on-ubuntu-18-04/)
-- [How To Install Webmin on CentOS 7](https://linuxize.com/post/how-to-install-webmin-on-centos-7/)
-- [Comment installer Webmin sur Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-20-04-fr)
-
 ### Wekan 
 - [How to create better documentation with a kanban board](https://opensource.com/article/17/11/kanban-boards-card-sorting)
 - [Get started with Wekan, an open source kanban board](https://opensource.com/article/19/1/productivity-tool-wekan)
@@ -1468,8 +1441,6 @@
 - [How to import Restya board into Wekan](https://blog.sleeplessbeastie.eu/2020/07/17/how-to-import-restya-board-into-wekan/)
 - [Wekan Trello-like Kanban](https://www.howtoforge.com/tutorial/ubuntu-wekan-installation/)
 - [How to Install and Configure Wekan Trello-like Kanban on CentOS 7](https://www.howtoforge.com/tutorial/centos-wekan-installation/)
-
-
 
 ### WikiJS
 
@@ -1499,33 +1470,6 @@
 - [How to Set Up WireGuard VPN on Ubuntu 18.04](https://linuxize.com/post/how-to-set-up-wireguard-vpn-on-ubuntu-18-04/)
 - [How to Set Up WireGuard VPN on CentOS 8](https://linuxize.com/post/how-to-set-up-wireguard-vpn-on-centos-8/)
 
-### Wireshark 
-- [What Is Wireshark and How Can You Use It to Secure Your Network?](https://www.makeuseof.com/what-is-wireshark/)
-- [10 Tips On How to Use Wireshark to Analyze Packets in Your Network](https://www.tecmint.com/wireshark-network-traffic-analyzer-for-linux/)
-- [Why does Wireshark say no interfaces found](https://linuxhint.com/wireshark-detecting-no-interfaces/)
-- [A Guide to the Wireshark Command Line Interface “tshark”](https://linuxhint.com/wireshark-command-line-interface-tshark/)
-- [Using Wireshark to Examine FTP Traffic](https://linuxhint.com/examine-ftp-wireshark/)
-- [Is Your Network Secure? How to Analyze Network Traffic With Wireshark](https://www.makeuseof.com/network-secure-analyse-network-traffic-wireshark/)
-- [WireShark in-depth Tutorial](https://linuxhint.com/wireshark-in-depth-tutorial/)
-- [Use Wireshark at the Linux command line with TShark](https://opensource.com/article/20/1/wireshark-linux-tshark)
-- [How to Install Wireshark Package in Kali Linux 2020.1](https://linuxhint.com/install_wireshark_package_kali_linux/)
-- [How to Install and Configure Wireshark on Ubuntu 20.04](https://linuxhint.com/install_configure_wireshark_ubuntu/)
-- [An introduction to Wireshark](https://www.redhat.com/sysadmin/introduction-wireshark)
-- [What Is Wireshark Network Traffic and Packet Analyzer?](https://www.poftut.com/what-is-wireshark-network-traffic-and-packet-analyzer/)
-- [How to Install and Use Wireshark on Debian 9 / Ubuntu 16.04 / 17.10](https://www.linuxtechi.com/install-use-wireshark-debian-9-ubuntu/)
-- [Visualising response time of a web server using Wireshark](https://opensourceforu.com/2017/10/visualising-response-time-web-server-using-wireshark/)
-- [Beginning with Wireshark, the top-rated packet sniffer](https://opensourceforu.com/2017/08/beginners-guide-wireshark-top-rated-packet-sniffer/)
-- [How I use Wireshark](https://jvns.ca/blog/2018/06/19/what-i-use-wireshark-for/)
-- [Using statistical tools in Wireshark for packet analysis](https://hub.packtpub.com/statistical-tools-in-wireshark-for-packet-analysis/)
-- [Wireshark for analyzing issues and malicious emails in POP, IMAP, and SMTP [Tutorial]](https://hub.packtpub.com/wireshark-analyze-malicious-emails-in-pop-imap-smtp/)
-- [[Mémo] Installation de Wireshark, Ubuntu 12](https://www.guillaume-leduc.fr/memo-installation-de-wireshark-ubuntu-12.html)
-- [How to install Wireshark in Debian](https://linuxhint.com/install_wireshark_debian/)
-- [How to use Wireshark Basics](https://linuxhint.com/wireshark_basics_how_to_use/)
-- [UDP Wireshark Analysis](https://linuxhint.com/udp_wireshark_analysis/)
-- [OSI Network Layer Analysis via Wireshark](https://linuxhint.com/osi_network_layer_analsysis_wireshark/)
-- [ARP Packet Analysis with Wireshark](https://linuxhint.com/arp_packet_analysis_wireshark/)
-- [TCP Packet Capture Analysis](https://linuxhint.com/tcp_packet_capture_analysis/)
-- [Packet Filter Analysis for ICMP in Wireshark](https://linuxhint.com/pack_filter_icmp_wireshark/)
 
 
 ### Xamarin
@@ -1533,9 +1477,6 @@
 - [Xamarin: The Perfect Option for Developing User-Centric Applications](https://dzone.com/articles/xamarin-explore-why-it-is-the-perfect-option-for-d)
 - [How To Optimize and Reduce Android Apps Size in Xamarin](https://dzone.com/articles/how-to-optimize-and-reduce-android-apps-size-in-xa)
 - [Building a Mobile App with Xamarin](https://opensourceforu.com/2019/05/building-a-mobile-app-with-xamarin/)
-
-### WSO2 
-- [How to Protect Your APIs With Self-Contained Access Tokens (JWT)](https://dzone.com/articles/how-to-protect-your-apis-with-self-contained-acces)
   
 
 ### Yarn 
@@ -1544,10 +1485,6 @@
 - [How to install Yarn on CentOS 7](https://linuxize.com/post/how-to-install-yarn-on-centos-7/)
 - [How to install Yarn on Ubuntu 18.04](https://linuxize.com/post/how-to-install-yarn-on-ubuntu-18-04/)
 
-
-
-### Zato 
-- [Load-Balancing Zato HTTP and WebSockets with Docker in AWS](https://dzone.com/articles/load-balancing-zato-http-and-websockets-with-docke)
 
 
 ### Zimbra
@@ -1560,9 +1497,7 @@
 - [Upgrade Zimbra Collaboration Suite 8.7 to 8.8 on Ubuntu](https://www.howtoforge.com/tutorial/upgrade-zimbra-collaboration-suite-88-on-ubuntu/)
 - [How to Install Zimbra Collaboration Suite 8.8 on Ubuntu](https://www.howtoforge.com/tutorial/install-zimbra-collaboration-suite-88-on-ubuntu/)
  
- 
-### Zimbra Collection
-- [Setting Up Zimbra Collaboration Suite (ZCS) on RHEL/CentOS 7/8](https://www.tecmint.com/install-zimbra-collaboration-suite-on-centos-rhel/)
+
  
 
   
