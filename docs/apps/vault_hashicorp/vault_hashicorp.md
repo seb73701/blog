@@ -18,7 +18,13 @@
 - <i class="fab fa-blogger-b"></i> **Blog** : https://www.hashicorp.com/blog
 - <i class="fas fa-comments"></i> **Forum** : https://discuss.hashicorp.com/c/vault
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
 
+<details open>
+
+- [Vault, vos secrets vous remercieront](/atrier/apps/vault_hashicorp_001.md)
+
+</details>
 
 ## <i class="fa-regular fa-newspaper"></i> Articles
 

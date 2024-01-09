@@ -164,13 +164,6 @@
 ### MRTG
 - [MRTG Installation and Configuration RHEL7 Step by Step Guide](https://arkit.co.in/mrtg-installation-rhel7/)
 
-  
-### n8n
-- [Créer un workflow simple sur n8n : envoi de la météo du jour via Pushbullet](https://blog.shevarezo.fr/post/2021/01/13/n8n-creer-workflow-envoi-meteo-pushbullet)
-
-
-### Neoload
-- [Web Service Testing Using Neoload](https://dzone.com/articles/web-service-testing-using-neoload)
 
 ### Neos CMS
 - [How to Install NEOS CMS on CentOS 7](https://www.howtoforge.com/tutorial/centos-neos-cms-apache-installation/)
@@ -1123,79 +1116,13 @@
  
 
 
-### TigerVNC 
-- [How to Install TigerVNC on Fedora 27](https://linoxide.com/linux-how-to/install-tigervnc-fedora-27/)
-- [How to Install and Configure TigerVNC on Arch Linux](https://linoxide.com/linux-how-to/install-configure-tigervnc-arch-linux/)
 
-
-
-
-### TinyProxy
-- [How To Install And Setup TinyProxy On Your Linux Server](https://linuxhint.com/install-tinyproxy-linux/)
-
-### Tmux 
-- [Getting started with Tmux](https://linuxize.com/post/getting-started-with-tmux/)
-- [A beginner's guide to tmux](https://www.redhat.com/sysadmin/introduction-tmux-linux)
-- [Using Irssi inside a Linux tmux session](https://www.redhat.com/sysadmin/irssi-inside-tmux)
-- [Tips for using tmux](https://www.redhat.com/sysadmin/tips-using-tmux)
-- [Using SSH and Tmux for screen sharing](https://www.redhat.com/sysadmin/ssh-tmux-screen-sharing)
 
 ### Tomb
 
 - [Garder ses secrets avec Tomb](/atrier/apps/tomb_001.md)
-- [Garder ses secrets avec Tomb](https://connect.ed-diamond.com/Linux-Pratique/lphs-048/garder-ses-secrets-avec-tomb)
 
-### Tor
-- [Mise en place d’un relais Tor sous Debian 8](https://supras.io/mise-en-place-dun-relais-tor-sous-debian-8/)
 
-### Traefik
-
-- [Routage de services avec Traefik](/atrier/apps/traefik_001.md)
-- [Utiliser Traefik en mode binaire](https://computerz.solutions/utiliser-traefik-en-mode-binaire/)
-- [Traefik Proxy - Introduction](https://video.tferdinand.net/videos/watch/playlist/098163e4-1af0-45d8-b2fe-01a019b28d8b?playlistPosition=1)
-- [Traefik. Concept term explanation](https://gainanov.pro/eng-blog/devops/docker-traefik-concept-terms-explanation/)
-- [How to Setup Traefik for Docker Containers on Ubuntu 20.04](https://www.linuxtechi.com/setup-traefik-docker-containers-ubuntu/)
-- [TRAEFIK - 1. INTRODUCTION](https://www.youtube.com/watch?v=28xCGx3fgSI)
-- [Traefik : Elasticsearch, Kibana, FileBeat et Logstash pour stocker vos logs](https://www.grottedubarbu.fr/traefik-elasticsearch-filebeat-logstash-kibana/)
-- [Stocker ses logs Traefik avec Filebeat, ElasticSearch et Kibana](https://www.grottedubarbu.fr/traefik-filebeat-elasticsearch-kibana/)
-- [Traefik 2.3 : HTTP Provider](https://www.grottedubarbu.fr/traefik-2-3-http-provider/)
-- [Traefik 2 : Les Middlewares en quelques exemples](https://www.grottedubarbu.fr/traefik-2-middleware-par-l-exemple/)
-- [Traefik v2 : Ma première fois ...](https://www.grottedubarbu.fr/traefik-v2-exemple-basique/)
-- [Traefik, un reverse proxy pour microservices](https://www.grottedubarbu.fr/traefik-reverse-proxy/)
-- [Traefik : À la découverte des configurations](https://www.grottedubarbu.fr/first-traefik-yml/)
-- [[Traefik] Tutoriel et retour d'expérience](https://www.pofilo.fr/post/20200926-traefik-retour-experience/)
-- [De l'audimetrie de Traefik libre avec Matomo](https://tferdinand.net/de-l-audimetrie-de-traefik-libre-avec-matomo/)
-- [TRAEFIK - 9. PROVIDER DOCKER : RESEAUX ET USEBINDPORTIP](https://www.youtube.com/watch?v=WXc2qOdOgzY)
-- [Pris dans le Traefik](https://blog.levassb.ovh/post/traefik/)
-- [Utiliser prometheus pour monitorer vos ingress Traefik](https://blog.stephane-robert.info/post/monitoring-traefik-prometheus/)
-- [ET JE SUIS PASSÉ À HTTPS AVEC DOCKER ET TRAEFIK](https://www.it-wars.com/posts/performance/docker-traefik-letsencrypt/)
-- [Traefik 2 - Reverse proxy dans Kubernetes](https://blog.wescale.fr/2020/03/06/traefik-2-reverse-proxy-dans-kubernetes/)
-- [Traefik 2 - Configuration du TLS (Rang A- sur SSLLabs)](https://tferdinand.net/traefik-2-configuration-du-tls/)
-- [Petit guide de migration de Traefik 1 à Traefik 2](https://tferdinand.net/petit-guide-de-migration-de-traefik1-a-traefik2/)
-- [Extraction des accesslogs Traefik et création de dashboard](https://tferdinand.net/extraction-des-accesslogs-traefik-et-creation-de-dashboard/)
-- [Traefik 2.3 - ECS - Fargate : Reverse proxy serverless dans AWS](https://blog.wescale.fr/2020/07/29/traefik-2-3-ecs-fargate-reverse-proxy-serverless-dans-aws/)
-- [Traefik 2.3 : Vers les plugins et au-delà!](https://tferdinand.net/traefik-2-3-vers-les-plugins-et-au-dela/)
-- [How to Install and Use Traefik as a Reverse Proxy with Docker on CentOS 8](https://www.howtoforge.com/how-to-install-and-use-traefik-as-a-reverse-proxy-with-docker-on-centos-8/)
-- [How To Use Traefik v2 as a Reverse Proxy for Docker Containers on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-use-traefik-v2-as-a-reverse-proxy-for-docker-containers-on-ubuntu-20-04)
-- [How To Use Traefik as a Reverse Proxy for Docker Containers on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-use-traefik-as-a-reverse-proxy-for-docker-containers-on-ubuntu-20-04)
-- [Traefik 2.3 : Vers les plugins et au-delà!](https://tferdinand.net/traefik-2-3-vers-les-plugins-et-au-dela/)
-- [Traefik 2.3 : HTTP Provider](https://www.grottedubarbu.fr/traefik-2-3-http-provider/)
-- [Traefik - certificat wildcard avec Let's Encrypt](https://computerz.solutions/traefik-ssl-wildcard-letsencrypt/)
-- [Traefik 2.3 : Des nouveautés ?](https://www.grottedubarbu.fr/traefik-2-3rc2/)
-- [Traefik 2 - Reverse proxy dans Kubernetes](https://blog.wescale.fr/2020/03/06/traefik-2-reverse-proxy-dans-kubernetes/)
-- [Traefik 2 - Configuration du TLS (Rang A- sur SSLLabs)](https://tferdinand.net/traefik-2-configuration-du-tls/)
-- [Kubernetes Ingress Controller Traefik v2.1 (via CRD)](https://xorhak.io/kubernetes-ingress-controller-traefik-v2-1/)
-- [Traefik v2 : configuration TLS personnalisée](https://computerz.solutions/traefik-v2-dynamique-ssl/)
-- [Traefik v2, un vrai reverse proxy](https://catlife.drycat.fr/~/XataZ/traefik-v2-un-vrai-reverse-proxy)
-- [Auto-générer un certificat et configurer Traefik pour utiliser le SSL en Local](https://medium.com/@demily.clement/auto-g%C3%A9n%C3%A9rer-un-certificat-et-configurer-traefik-pour-utiliser-le-ssl-en-local-9b66206e8fb6)
-- [Docker Guide: Installing Traefik - a Modern Reverse Proxy for Microservices](https://www.howtoforge.com/tutorial/ubuntu-docker-traefik-proxy/)
-- [Et je suis passé à https avec Docker et Traefik](https://www.it-wars.com/posts/performance/docker-traefik-letsencrypt/) (ouvrir avec firefox)
-- [Traefik et Docker](https://blog.wecoprod.com/traefik-docker/)
-- [How To Use Traefik as a Reverse Proxy for Docker Containers on Debian 9](https://www.digitalocean.com/community/tutorials/how-to-use-traefik-as-a-reverse-proxy-for-docker-containers-on-debian-9)
-- [How To Use Traefik as a Reverse Proxy for Docker Containers on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-use-traefik-as-a-reverse-proxy-for-docker-containers-on-centos-7)
-- [Exposing Kubernetes Services to the internet using Traefik Ingress Controller](https://technology.amis.nl/2019/03/08/exposing-kubernetes-services-to-the-internet-using-traefik-ingress-controller/)
-- [UTILISER TRAEFIK COMME REVERSE PROXY](https://blog.eleven-labs.com/fr/utiliser-traefik-comme-reverse-proxy/)
-- [[docker-compose] Traefik 2.0, le reverse-proxy pour tous vos containers](https://computerz.solutions/docker-compose-traefik/)
 
 ### Travis CI
 - [Travis CI to GitHub Actions: What to Know About Migration](https://dzone.com/articles/travis-ci-to-github-actions-what-to-know-about-mig)
@@ -1235,40 +1162,7 @@
 
 
 
-### Varnish
-- [How To Speed Up Static Web Pages with Varnish Cache Server on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-speed-up-static-web-pages-with-varnish-cache-server-on-ubuntu-20-04)
-- [How to Speed Up Apache with Varnish Cache on CentOS 7](https://www.tecmint.com/install-varnish-cache-on-centos-7-for-apache/)
-- [How to Speed Up Nginx with Varnish Cache on CentOS 7](https://www.tecmint.com/install-varnish-cache-for-nginx-on-centos-7/)
-- [How to restart service on every configuration change](https://sleeplessbeastie.eu/2021/01/20/how-to-restart-service-on-every-configuration-change/)
-- [Install Varnish Cache 6 for Apache/Nginx on CentOS 8](https://www.howtoforge.com/install-varnish-cache-6-for-apache-nginx-on-centos-8/)
-- [How to log specific Varnish requests](https://blog.sleeplessbeastie.eu/2020/12/18/how-to-log-specific-varnish-requests/)
-- [How to use virtual memory filesystem to store Varnish Shared memory Log](https://blog.sleeplessbeastie.eu/2020/12/14/how-to-use-virtual-memory-filesystem-to-store-varnish-shared-memory-log/)
-- [How to Install and Setup Varnish Cache 6 with Nginx on CentOS 8](https://www.howtoforge.com/how-to-install-and-setup-varnish-cache-6-with-nginx-on-centos-8/)
-- [Varnish and BBR: Lower Latency OTT Video Delivery](https://dzone.com/articles/varnish-and-bbr-lower-latency-ott-video-delivery)
-- [The Best Way to Completely Purge a Varnish Cache](https://dzone.com/articles/the-best-way-to-completely-purge-a-varnish-cache)
-- [How To Configure Varnish In Apache With Magento 2](https://dzone.com/articles/how-to-configure-varnish-in-apache-with-magento-2)
-- [How To Install Varnish Cache 6 for Nginx on CentOS/RHEL 8](https://www.tecmint.com/install-varnish-cache-for-nginx-on-centos-rhel-8/)
-- [How to Install Varnish Cache for Apache on CentOS/RHEL 8](https://www.tecmint.com/install-varnish-cache-for-apache-on-centos-rhel-8/)
-- [How To Enable HTTPS for Varnish Cache using Hitch on CentOS-RHEL 8](https://www.tecmint.com/enable-https-for-varnish-cache-on-centos/)
-- [How to set up Varnish cache on Ubuntu 18.04](https://linuxhint.com/varnish_cache_ubuntu_1804/)
-- [How to speed up Apache with Varnish HTTP cache on Ubuntu 18.04 LTS](https://www.howtoforge.com/how-to-install-and-configure-varnish-with-apache-on-ubuntu-1804/)
-- [Retour d’expérience sur un débuggage Varnish](https://blog.sodifrance.fr/retour-dexperience-sur-un-debuggage-varnish/)
-- [Optimize Website Speed With Varnish Cache](https://dzone.com/articles/optimize-website-speed-with-varnish-cache)
-- [Varnish and Docker: First Contact](https://dzone.com/articles/varnish-and-docker-first-contact)
-- [The Key to Cache: An Intro to Varnish](http://blog.catchpoint.com/2017/09/29/key-cache-intro-varnish/)
-- [How to speed up Apache with Varnish HTTP cache on Ubuntu 16.04 LTS](https://www.howtoforge.com/tutorial/how-to-install-and-configure-varnish-with-apache-on-ubuntu-1604/)
-- [How to Install Varnish Reverse Proxy with Nginx on Ubuntu 16.04 LTS](https://www.howtoforge.com/tutorial/ubuntu-nginx-varnish/)
-- [How to install and configure Varnish cache on Ubuntu Linux 16.04 LTS](https://www.cyberciti.biz/faq/how-to-install-and-configure-varnish-cache-on-ubuntu-linux-16-04-lts/)
-- [Varnish and Security](https://dzone.com/articles/varnish-and-security)
-- [Varnish: same hash, different results? Check the Vary header!](https://ma.ttias.be/varnish-hash-different-results-check-vary-header/)
-- [Varnishlog: show the hash() data in output](https://ma.ttias.be/varnishlog-show-hash-data-output/)
-- [Varnish et Drupal : gérer un cache anonyme étendu](https://makina-corpus.com/blog/metier/2018/varnish-et-drupal-gerer-un-cache-anonyme-etendu)
-- [How to install and configure Varnish cache on Ubuntu Linux 16.04 LTS](https://www.cyberciti.biz/faq/how-to-install-and-configure-varnish-cache-on-ubuntu-linux-16-04-lts/)
 
-
-### Vault Hashicorp
-
-- [Vault, vos secrets vous remercieront](/atrier/apps/vault_hashicorp_001.md)
 
 ### Veeam Agent ##
 - [Veeam Agent – Sauvegarder gratuitement votre ordinateur](https://www.tutos-informatique.com/veeam-sauvegarde-gratuite/)
@@ -1344,59 +1238,7 @@
 - [Comment chiffrer une clé USB avec VeraCrypt](https://syskb.com/chiffrement-veracrypt-usb/)
 - [How to change the PIM of a VeraCrypt volume](https://www.ghacks.net/2018/11/26/how-to-change-the-pim-of-a-veracrypt-volume/)
 
-### Visual TOM (VTOM)
-- https://thomas-asnar.github.io/
-- [API VTOM webaccess (update)](https://thomas-asnar.github.io/api-vtom-web-access-v6/)
-- [Purge log VTOM en fin de traitement](https://thomas-asnar.github.io/purge-log-vtom-fin-job/)
-- [tremote vtcopy transfert via VTOM](https://thomas-asnar.github.io/tremote-vtcopy-script/)
-- [vtplan VTOM](https://thomas-asnar.github.io/vtplan/)
-- [Date d'exploitation VTOM ne bascule pas](https://thomas-asnar.github.io/date-exploitation-vtom/)
-- [Formules VTOM](https://thomas-asnar.github.io/formule-vtom/)
-- [Ouvrir les DBF (ne concerne que les versions < v6.1 VTOM)](https://thomas-asnar.github.io/border-line-VTOM/)
-- [Restaurer votre pg_dump_sgbd.backup en un fichier SQL exploitable](https://thomas-asnar.github.io/border-line-VTOM/)
-- [vtexport, vthtools, vtstools, vtping …](https://thomas-asnar.github.io/border-line-VTOM/)
-- [plus dangereux, vtaddaccount](https://thomas-asnar.github.io/border-line-VTOM/)
-- [Accéder aux stats directement depuis la base VTOM](https://thomas-asnar.github.io/border-line-VTOM/)
-- [vthttpd -dump et requêtes SQL - tlist ameliore - vtexport.xml to csv](https://thomas-asnar.github.io/vthttpd-dump-requete-sql/)
-- [Filtrer directement un fichier XML avec un fichier XSL et sortie en texte (pour du csv)](https://thomas-asnar.github.io/vthttpd-dump-requete-sql/)
-- [Parser le vtexport XML VTOM en “pur” Java (un peu long)](https://thomas-asnar.github.io/vthttpd-dump-requete-sql/)
-- [Statuts dans le vtexport](https://thomas-asnar.github.io/status-vtexport/)
-- [FAQ VTOM Dates - Dec](https://thomas-asnar.github.io/faq-date-december/)
-- [Ultimate tlist filter VTOM ! Filtre XSL du vtexport XML](https://thomas-asnar.github.io/filtre-xsl-vtexport-xml/)
-- [Les variables d'environnement avec VTOM](https://thomas-asnar.github.io/variables-environnement-avec-vtom/)
-- [V6 VTOM Full PostgreSQL](https://thomas-asnar.github.io/V6-VTOM-full-postgresql/)
-- [Aligner les tabulations dans les logs VTOM - Police Courrier New](https://thomas-asnar.github.io/aligner-logs-vtom/)
-- [Représentation graphique Nom - Commentaire](https://thomas-asnar.github.io/representation-graphique-commentaire/)
-- [Les collections VTOM V6 (et les clichés ou snaphots pour les intimes)](https://thomas-asnar.github.io/border-line-2-vtom-psql-collections/)
-- [Extraire les clichés au format XML (tiens ça me rappelle les consignes ça !)](https://thomas-asnar.github.io/border-line-2-vtom-psql-collections/)
-- [Docker première approche - déploiement serveur VTOM test](https://thomas-asnar.github.io/docker-installation-serveur-vtom-test/)
-- [Port 30004 encore en LISTENING malgré l'arrêt du client VTOM](https://thomas-asnar.github.io/port-30004-listening-error/)
-- [VTOM version 5.8](https://thomas-asnar.github.io/vtom-5-8-nouvelle-version/)
-- [Toutes les options du tengine](https://thomas-asnar.github.io/options-tengine-vtom/)
-- [VTOM export consigne html - Docker et python](https://thomas-asnar.github.io/export-consignes-vtom-html-docker/)
-- [Priorité queue batch VTOM](https://thomas-asnar.github.io/priorite-queue-batch-vtom/)
-- [Ecrire sa queue batch VTOM (cygwin, php, perl, sap)](https://thomas-asnar.github.io/ecrire-sa-queue-batch-vtom-cygwin-php-perl/)
-- [Mise en forme des logs d'exécution VTOM - insérer de la data XML dans un fichier XSL directement](https://thomas-asnar.github.io/logs-execution-vtom-xml-xsl-embarque/)
-- [Horaires cron pour les cycliques VTOM](https://thomas-asnar.github.io/horaires-cron-cycliques-vtom/)
-- [Consignes VTOM perso](https://thomas-asnar.github.io/consignes-vtom-perso/)
-- [Psexec et VTOM sur Windows 2008 r2 x64](https://thomas-asnar.github.io/psexec-et-vtom-sur-windows-2008-r2-x64/)
-- [Modification mot de passe en masse sur les clients VTOM](https://thomas-asnar.github.io/modification-mot-de-passe-en-masse-sur-les-clients-vtom/)
-- [Accéder à la base de données VTOM PostgreSQL](https://thomas-asnar.github.io/base-de-donnees-vtom-postgres-sql/)
-- [Bug v5.6 - Formule avec date sous format jj-mm-aaaa](https://thomas-asnar.github.io/bug-v5-6-formule-avec-date-sous-format-jj-mm-aaaa/)
-- [Comment faire un XOR VTOM logique](https://thomas-asnar.github.io/xor-vtom/)
-- [Service agent vtom dans /etc/init.d/ et chkconfig](https://thomas-asnar.github.io/service-agent-vtom-initd-chkconfig/)
-- [Impossible de changer les Queues d'exécution sous Windows](https://thomas-asnar.github.io/vtom-impossible-de-changer-les-queues-d-execution-sous-windows/)
-- [Comment exécuter un script powershell avec VTOM](https://thomas-asnar.github.io/comment-executer-un-script-powershell-avec-vtom/)
-- [tlist amélioré affichage script paramètres et autres champs](https://thomas-asnar.github.io/vtom-tlist-ameliore-affichage-script-parametres-et-autres-champs/)
-- [API VTOM webaccess](https://thomas-asnar.github.io/api-vtom-web-access/)
-- [Héberger une page web depuis vthttpd web access VTOM](https://thomas-asnar.github.io/heberger-page-site-web-vthttpd-webacess-vtom/)
-- [Compter le nombre de traitements VTOM par client](https://thomas-asnar.github.io/vtom-compter-nombre-traitements-par-machine/)
-- [Extraction des crontabs de tous les utilisateurs en local ou à distance](https://thomas-asnar.github.io/extraire-crontab-serveurs-distants/)
-- [Pas de retour tsend client vtom unix](https://thomas-asnar.github.io/pas-de-retour-tsend-client-vtom-unix/)
-- [IHM VTOM via un tunnel ssh](https://thomas-asnar.github.io/IHM-VTOM-tunnel-ssh-DMZ/)
-- [VTOM ajouter une ressource en mode commande](https://thomas-asnar.github.io/vtaddjob-vtom-ajouter-une-ressource/)
-- [Corrélation entre les jobs VTOM et les policy netbackup](https://thomas-asnar.github.io/correlation-entre-jobs-vtom-et-policy-netbackup/)
-- [Mise en forme des logs d'exécution VTOM - insérer de la data XML dans un fichier XSL directement](https://thomas-asnar.github.io/logs-execution-vtom-xml-xsl-embarque/)
+
 
 ### VLC media player
 - [Comment découper une séquence vidéo avec VLC](https://syskb.com/decouper-recadrer-sequence-video-vlc/)
@@ -1487,17 +1329,5 @@
 
 
 
-### Zimbra
-- [How to install Zimbra on Ubuntu 18.04 LTS](https://linuxhint.com/how-to-install-zimbra-on-ubuntu-18-04-lts/)
-- [Install Zimbra Collaboration Suite (ZCS) on CentOS 8](https://linuxhint.com/install-zimbra-collaboration-suite-zcs-on-centos-8/)
-- [Zimbra : Envoi de mails via un relais SMTP authentifié](https://blog.devarieux.net/2016/06/relais-smtp-authentifie-zimbra.html)
-- [How to Install Zimbra Mail Server on CentOS 8 / RHEL 8](https://www.linuxtechi.com/install-zimbra-mail-server-centos-8-rhel-8/)
-- [Installation d’un cluster Zimbra à 6 serveurs](http://www.morot.fr/installation-dun-cluster-zimbra-a-6-serveurs/) 
-- [Howto Zimbra](https://wiki.evolix.org/HowtoZimbra)
-- [Upgrade Zimbra Collaboration Suite 8.7 to 8.8 on Ubuntu](https://www.howtoforge.com/tutorial/upgrade-zimbra-collaboration-suite-88-on-ubuntu/)
-- [How to Install Zimbra Collaboration Suite 8.8 on Ubuntu](https://www.howtoforge.com/tutorial/install-zimbra-collaboration-suite-88-on-ubuntu/)
- 
-
- 
 
   

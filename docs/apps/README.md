@@ -288,12 +288,15 @@
 
 <div class="apps-container">
   <div><a href="#apps/terraform/terraform.md">Terraform</a></div>
+  <div><a href="#apps/tmux/tmux.md">Tmux</a></div>
+  <div><a href="#apps/traefik_proxy/traefik_proxy.md">Traefik Proxy</a></div>
 </div>
 
 
 ## V
 
 <div class="apps-container">
+  <div><a href="#apps/varnish/varnish.md">Varnish</a></div>
   <div><a href="#apps/vault_hashicorp/vault_hashicorp.md">Vault Hashicorp</a></div>
 </div>
 
