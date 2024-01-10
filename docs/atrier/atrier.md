@@ -629,16 +629,6 @@
 ### Robocopy 
 - [Comment éviter les problèmes d’accents avec Robocopy](https://syskb.com/comment-eviter-les-problemes-daccents-avec-robocopy/)
 
-### RoundCube
-- [How to Install Roundcube Webmail on CentOS/RHEL 8/7](https://www.tecmint.com/install-roundcube-webmail-on-centos-7/)
-- [Héberger un webmail simple avec Roundcube sous CentOS 7](https://blog.microlinux.fr/roundcube-centos-7/)
-- [Héberger un webmail simple avec Roundcube sous CentOS 7](https://www.microlinux.fr/roundcube-centos-7/)
-- [Installation et configuration de Roundcube sur Debian](https://www.guillaume-leduc.fr/installation-et-configuration-de-roundcube-sur-debian.html)
-- [How to Install RoundCube Webmail on Debian 9](https://www.rosehosting.com/blog/how-to-install-roundcube-webmail-on-debian-9/)
-- [How To Secure Roundcube on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-secure-roundcube-on-ubuntu-16-04)
-- [How to Install Roundcube Webmail on Ubuntu 18.04](https://linoxide.com/linux-how-to/install-roundcube-webmail-ubuntu/)
-- [How to Install Latest Roundcube Webmail on Ubuntu 18.04 LTS](https://www.howtoforge.com/tutorial/ubuntu-roundcube-latest/)
-- [Install and configure Roundcube Webmail](https://linuxize.com/post/install-and-configure-roundcube-webmail/)
 
 ### Rspamd 
 - [Install and integrate Rspamd](https://linuxize.com/post/install-and-integrate-rspamd/)
@@ -656,10 +646,6 @@
 ### Rufus
 - [Using Rufus to Create Persistent Storage for Debian Live USB](https://linuxhint.com/rufus-persistent-storage-debian-live-usb/)
 
-### RunDeck
-- [Installation d'un logiciel d'automatisation de tâche serveurs Rundeck](https://www.ksh-linux.info/systeme/rundeck/installation)
-- [Installation d'un logiciel d'automatisation de tâche serveurs Rundeck](https://www.ksh-linux.info/systeme/rundeck/installation)
-- [Superviser vos jobs rundeck](https://journaldunadminlinux.fr/monitoring-superviser-vos-jobs-rundeck/)
   
 ### Runecast Analyzer
 - [Runecast Analyzer 2.1 with simplified reporting](https://nolabnoparty.com/en/runecast-analyzer-2-1-with-simplified-reporting/)
@@ -675,15 +661,6 @@
 ### Scrapy (WebScraping)
 - [Installer Scrapy sous Windows](https://blog.lecacheur.com/2017/12/28/installer-scrapy-sous-windows/)
   
-
-### Seafile
-- [How To Sync and Share Your Files with Seafile on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-sync-and-share-your-files-with-seafile-on-ubuntu-20-04)
-- [How to Install Seafile to Sync and Share Files on CentOS 8](https://www.tecmint.com/install-seafile-on-centos-8/)
-- [How to Install Seafile to Sync and Share Files on Ubuntu](https://www.tecmint.com/install-seafile-in-ubuntu/)
-- [How to Install Seafile with Nginx on Ubuntu 20.04 LTS](https://www.howtoforge.com/tutorial/seafile-on-ubuntu-with-nginx/)
-- [How to Install Seafile on CentOS 7](https://www.tecmint.com/install-seafile-on-centos-7/)
-- [How To Sync and Share Your Files with Seafile on Debian 9](https://www.digitalocean.com/community/tutorials/how-to-sync-and-share-your-files-with-seafile-on-debian-9)
-- [How To Sync and Share Your Files with Seafile on Debian 10](https://www.digitalocean.com/community/tutorials/how-to-sync-and-share-your-files-with-seafile-on-debian-10)
 
 ### SeaweedFS
 - [How to Install and Configure SeaweedFS Cluster on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-and-configure-seaweedfs-cluster-on-ubuntu-2004/)
@@ -840,43 +817,6 @@
 
 
 
-### TensorFlow
-- [Timeseries Prediction Using Tensor flow](https://medium.com/geekculture/timeseries-prediction-using-tensor-flow-e85aa3ab8648)
-- [TensorFlow.js tutorial: Get started with the ML library](https://ai.plainenglish.io/tensorflow-js-tutorial-get-started-with-the-ml-library-5d2427a7caad)
-- [What Is TensorFlow Lite and How Is It a Deep Learning Framework?](https://www.makeuseof.com/what-is-tensorflow-lite-and-how-is-it-a-deep-learning-framework/)
-- [A Few Facts About Deep Learning in a Web Browser](https://www.opensourceforu.com/2021/04/a-few-facts-about-deep-learning-in-a-web-browser/)
-- [TensorFlow Lite: An Open Source Deep Learning Framework for Handheld Devices](https://www.opensourceforu.com/2021/04/tensorflow-lite-an-open-source-deep-learning-framework-for-handheld-devices/)
-- [How to Install TensorFlow in Ubuntu 20.04](https://linuxhint.com/install_tensorflow_ubuntu/)
-- [How to Install TensorFlow on CentOS 8?](https://linuxhint.com/install-tensorflow-on-centos-8/)
-- [How to Install TensorFlow machine-learning framework on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-tensorflow-on-ubuntu-20-04/)
-- [Comment installer TensorFlow sur Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-tensorflow-on-ubuntu-20-04-fr)
-- [How to Install TensorFlow on Ubuntu 20.04](https://linuxize.com/post/how-to-install-tensorflow-on-ubuntu-20-04/)
-- [Real-Time Machine Learning With TensorFlow in Data Collector](https://dzone.com/articles/real-time-machine-learning-with-tensorflow-in-data)
-- [How TensorFlow Can Be Used for Video Analytics](https://opensourceforu.com/2020/01/how-tensorflow-can-be-used-for-video-analytics/)
-- [In-Browser Machine Learning using Tensorflow.js](https://opensourceforu.com/2020/05/in-browser-machine-learning-using-tensorflow-js/)
-- [An Overview of TensorFlow.js](https://opensourceforu.com/2020/06/an-overview-of-tensorflow-js/)
-- [Building a Facial Expression Recognition App Using TensorFlow.js](https://opensourceforu.com/2020/06/building-a-facial-expression-recognition-app-using-tensorflow-js/)
-- [How To Install TensorFlow on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-tensorflow-on-ubuntu-20-04)
-- [Cours d'initiation au Machine Learning avec les API TensorFlow](https://developers.google.com/machine-learning/crash-course)
-- [How to Install TensorFlow on Debian 10](https://linuxize.com/post/how-to-install-tensorflow-on-debian-10/)
-- [How to Install TensorFlow on CentOS 8](https://linuxize.com/post/how-to-install-tensorflow-on-centos-8/)
-- [Premiers pas avec Tensorflow](https://blog.sodifrance.fr/premiers-pas-avec-tensorflow/)
-- [Real-Time Machine Learning With TensorFlow in Data Collector](https://dzone.com/articles/real-time-machine-learning-with-tensorflow-in-data)
-- [Building Deep Learning Models with TensorFlow](https://opensourceforu.com/2019/07/building-deep-learning-models-with-tensorflow/)
-- [TensorFlow Hub: A Machine Learning Ecosystem](https://opensourceforu.com/2019/06/tensorflow-hub-a-machine-learning-ecosystem/)
-- [How To Install and Use TensorFlow on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-tensorflow-on-ubuntu-18-04)
-- [Learn Methods to Install and Use TensorFlow in Ubuntu](https://linoxide.com/tools/learn-methods-install-use-tensorflow-ubuntu/)
-- [TensorFlow.js: Architecture and applications](https://hub.packtpub.com/tensorflow-js-architecture-and-applications/)
-- [How to Install TensorFlow on CentOS 7](https://linuxize.com/post/how-to-install-tensorflow-on-centos-7/)
-- [How to Install TensorFlow on Debian 9](https://linuxize.com/post/how-to-install-tensorflow-on-debian-9/)
-- [How to Install TensorFlow on Ubuntu 18.04](https://linuxize.com/post/how-to-install-tensorflow-on-ubuntu-18-04/)
-- [Various Uses of TensorFlow](https://dzone.com/articles/learn-various-uses-of-tensorflow)
-- [Learn TensorFlow: Vectors](https://dzone.com/articles/learn-tensorflow-vectors)
-- [What Is Google TensorFlow? Open-Source Examples and Tutorials](https://www.makeuseof.com/tag/google-tensorflow-examples/)
-- [How To Build a Neural Network to Recognize Handwritten Digits with TensorFlow](https://www.digitalocean.com/community/tutorials/how-to-build-a-neural-network-to-recognize-handwritten-digits-with-tensorflow)
-- [Implementing RNN in TensorFlow for spam prediction [Tutorial]](https://hub.packtpub.com/implement-rnn-tensorflow-spam-prediction-tutorial/)
-
-
 ### Terminalizor
 - [Terminalizer – Record Your Linux Terminal and Generate Animated GIF](https://www.tecmint.com/terminalizer-record-your-linux-terminal-in-gif/)
 
@@ -901,23 +841,6 @@
 - [Cross Browser Testing using Testsigma](https://dzone.com/articles/cross-browser-testing-using-testsigma)
 - [Scriptless Test Automation for Web Applications Using Testsigma](https://dzone.com/articles/scriptless-test-automation-web-application-testsig)
  
-
-### Thunderbird (Mozilla)
-- [Mozilla Thunderbird: Every Keyboard Shortcut You Need to Master](https://www.makeuseof.com/thunderbird-keyboard-shortcuts-cheat-sheet/)
-- [Migrer Thunderbird vers un nouvel ordinateur](https://support.mozilla.org/fr/kb/migrer-thunderbird-vers-un-nouvel-ordinateur)
-- [Profils – là où Thunderbird conserve vos messages et autres données utilisateur](https://support.mozilla.org/fr/kb/profils-thunderbird-conserve-donnees-utilisateur)
-- [Gestionnaire de profils – créer et supprimer des profils de Thunderbird](https://support.mozilla.org/fr/kb/gestionnaire-profils-creer-supprimer-thunderbird)
-- [You need to use a Master Password in Thunderbird if you use OpenPGP](https://www.ghacks.net/2020/12/07/you-need-to-use-a-master-password-in-thunderbird-if-you-use-openpgp/)
-- [Reduce the size of email headers in Thunderbird with Compact Headers](https://www.ghacks.net/2020/12/18/reduce-the-size-of-email-headers-in-thunderbird-with-compact-headers/)
-- [Windows Taskbar Unread Badge displays a dynamic icon to indicate the total number of unread mails in Thunderbird](https://www.ghacks.net/2020/12/21/windows-taskbar-unread-badge-displays-a-dynamic-icon-to-indicate-the-total-number-of-unread-mails-in-thunderbird/)
-- [Thunderbird: chiffrer ses mails via Enigmail et PGP](https://notamax.be/thunderbird-chiffrer-ses-mails-via-enigmail-et-pgp/)
-- [How to Encrypt and Digitally Sign a Thunderbird email](https://www.thewindowsclub.com/encrypt-and-digitally-sign-a-thunderbird-email)
-- [How to migrate 32-bit Thunderbird to 64-bit on Windows](https://www.ghacks.net/2018/08/07/how-to-migrate-32-bit-thunderbird-to-64-bit-on-windows/)
-- [Archiver facilement vos mails sur Thunderbird](https://www.tech2tech.fr/archiver-facilement-vos-mails-sur-thunderbird/)
-- [How to encrypt your emails in Thunderbird](https://www.ghacks.net/2017/09/21/how-to-encrypt-your-emails-in-thunderbird/)
-- [How to migrate 32-bit Thunderbird to 64-bit on Windows](https://www.ghacks.net/2018/08/07/how-to-migrate-32-bit-thunderbird-to-64-bit-on-windows/)
- 
-
 
 
 
@@ -965,52 +888,10 @@
 
 
 
-
-
-### Veeam Agent ##
-- [Veeam Agent – Sauvegarder gratuitement votre ordinateur](https://www.tutos-informatique.com/veeam-sauvegarde-gratuite/)
-
 ### Veeam Availability Orchestrator
 - [Veeam Availability Orchestrator configure a Failover Plan - pt.2](https://nolabnoparty.com/en/veeam-availability-orchestrator-configure-failover-plan-pt-2/)
 - [Veeam Availability Orchestrator setup - pt.1](https://nolabnoparty.com/en/veeam-availability-orchestrator-setup-pt-1/)
 - [Veeam Availability Orchestrator 1.0](https://nolabnoparty.com/en/veeam-availability-orchestrator-1-0/)
-
-
-### Veeam Backup ##
-- [Veeam Backup for Microsoft 365 – Correction de l’erreur : Failed to open mailbox](https://www.tech2tech.fr/veeam-backup-for-microsoft-365-correction-de-lerreur-failed-to-open-mailbox/)
-- [Veeam Backup for Microsoft 365 – Restauration](https://www.tech2tech.fr/veeam-backup-for-microsoft-365-restauration/)
-- [Veeam Backup for Microsoft 365 – Ajout d’un backup](https://www.tech2tech.fr/veeam-backup-for-microsoft-365-ajout-dun-backup/)
-- [Veeam Backup for Microsoft 365 – Ajout d’une Organization](https://www.tech2tech.fr/veeam-backup-for-microsoft-365-ajout-dune-organization/)
-- [Veeam Backup for Microsoft 365 – Ajout d’un repository](https://www.tech2tech.fr/veeam-backup-for-microsoft-365-ajout-dun-repository/)
-- [Veeam Backup for Microsoft 365 – Prérequis et téléchargement](https://www.tech2tech.fr/veeam-backup-for-microsoft-365-prerequis-et-telechargement/)
-- [Veeam Backup for Microsoft 365 – Présentation](https://www.tech2tech.fr/veeam-backup-for-microsoft-365-presentation/)
-- [Veeam Backup & Replication v10 review](https://4sysops.com/archives/veeam-backup-replication-v10-review/)
-- [Comment configurer un TimeOut pour une Sauvegarde K7 sur Veeam](https://www.tutos-informatique.com/veeam-timeout-job-k7/)
-- [Hyper-V – Vm Bloquée à l’Etat Sauvegarde en Cours](https://www.tutos-informatique.com/hyperv-vm-bloquee/)
-- [Veeam Backup for Office 365 – Sauvegarder ses données Office365](https://www.tutos-informatique.com/veeam-sauvegarde-office365/)
-- [Veeam Backup & Replication 9.5 Update 4b released](https://nolabnoparty.com/en/veeam-backup-replication-9-5-update-4b-released/)
-- [EMC Data Domain as Veeam backup repository](https://nolabnoparty.com/en/emc-data-domain-as-veeam-backup-repository/)
-- [Veeam: re-map MoRef ID of protected VMs when replacing the vCenter Server](https://nolabnoparty.com/en/veeam-re-map-moref-id-protected-vms-when-replacing-vcenter-server/)
-- [Veeam Backup & Replication 9.5 Update 4 upgrade procedure](https://nolabnoparty.com/en/veeam-backup-replication-9-5-update-4-upgrade-procedure/)
-- [Fixing Veeam Backup & Replication Proxy Install Errors](https://lonesysadmin.net/2018/07/02/fixing-veeam-backup-replication-proxy-install-errors/)
-- [Fixing Veeam “Can’t Delete Replica When It Is Being Processed” Errors](https://lonesysadmin.net/2017/12/14/fixing-veeam-delete-replica-when-being-processed-errors/)
-- [Maitriser Veeam Agent for Windows](https://www.it-connect.fr/cours/maitriser-veeam-endpoint-backup/)
-- [Veeam: configure Direct NFS access mode](https://nolabnoparty.com/en/veeam-configure-direct-nfs-access-mode/)
-- [Veeam Backup and Replication 9.5 Update 3a now available](https://nolabnoparty.com/en/veeam-backup-and-replication-9-5-update-3a-now-available/)
-- [Veeam Backup & Replication 9.5 Protection Groups](https://nolabnoparty.com/en/veeam-backup-replication-9-5-protection-groups/)
-- [New per-VM licensing option in Veeam](https://nolabnoparty.com/en/new-per-vm-licensing-option-in-veeam/)
-- [Veeam 9.5 VTL to AWS Storage: configure the Tape Backup Job - pt.2](https://nolabnoparty.com/en/veeam-9-5-vtl-to-aws-storage-configure-tape-backup-job-pt-2/)
-- [Veeam 9.5 VTL to AWS Storage: setup AWS - pt.1](https://nolabnoparty.com/en/veeam-9-5-vtl-aws-storage-setup-aws-pt-1/)
-- [Veeam fails to backup Azure AD Connect with the error "A VSS critical writer has failed"](https://nolabnoparty.com/en/veeam-fails-backup-azure-ad-connect-error-vss-critical-writer-has-failed/)
-- [VEEAM B&R v9.5 – Les Appliances de déduplication – Bonnes pratiques](https://myvmworld.fr/veeam-br-v9-5-les-appliances-de-deduplication/)
-- [Veeam : Installation d’une clé de licence de type NFR](https://sys-advisor.com/2017/12/29/tuto-veeam-installation-dune-cle-de-licence-de-type-nfr/)
-- [Veeam : Comment créer un nouveau job de backup](https://sys-advisor.com/2018/01/10/tuto-veeam-creation-dun-nouveau-job-de-backup/)
-- [Veeam self-signed certificates issue](https://nolabnoparty.com/en/veeam-fix-self-signed-certificate-issue/)
-- [Veeam backup fails after installing vSphere 6.7 Update 1](https://nolabnoparty.com/en/veeam-backup-fails-after-installing-vsphere-6-7-update-1/)
- 
-### Veeam Backup for Microsoft Office 365
-- [Veeam Backup for Office 365 v4](https://4sysops.com/archives/veeam-backup-for-office-365-v4/)
-- [Veeam Backup for Microsoft Office 365 2.0 released](https://nolabnoparty.com/en/veeam-backup-for-microsoft-office-365-2-0-released/)
 
 
 ### Veeam Cloud Service Provider
