@@ -262,6 +262,8 @@
   <div><a href="#apps/percona_toolkit/percona_toolkit.md">Percona Toolkit</a></div>
   <div><a href="#apps/percona_xtrabackup/percona_xtrabackup.md">Percona XtraBackup</a></div>
   <div><a href="#apps/percona_xtradb_cluster/percona_xtradb_cluster.md">Percona XtraDB Cluster</a></div>
+  <div><a href="#apps/pfsense/pfsense.md">PfSense</a></div>
+  <div><a href="#apps/pgpool/pgpool.md">PgPool-II</a></div>
   <div><a href="#apps/phpmyadmin/phpmyadmin.md">PhpMyAdmin</a></div>
   <div><a href="#apps/postman/postman.md">Postman</a></div>
   <div><a href="#apps/prometheus/prometheus.md">Prometheus</a></div>
@@ -281,12 +283,17 @@
 
 <div class="apps-container">
   <div><a href="#apps/selenium/selenium.md">Selenium</a></div>
+  <div><a href="#apps/sensu/sensu.md">Sensu Go</a></div>
+  <div><a href="#apps/smokeping/smokeping.md">Smokeping</a></div>
+  <div><a href="#apps/sonarqube/sonarqube.md">SonarQube</a></div>
+  <div><a href="#apps/squid/squid.md">Squid</a></div>
 </div>
 
 
 ## T
 
 <div class="apps-container">
+  <div><a href="#apps/telegraf/telegraf.md">Telegraf</a></div>
   <div><a href="#apps/terraform/terraform.md">Terraform</a></div>
   <div><a href="#apps/tmux/tmux.md">Tmux</a></div>
   <div><a href="#apps/traefik_proxy/traefik_proxy.md">Traefik Proxy</a></div>

@@ -430,38 +430,6 @@
 - [Getting started with Perlbrew](https://opensource.com/article/18/7/perlbrew)
 
 
-### PfSense
-- [[pfSense] La gestion des packages sous pfSense](https://www.provya.net/?d=2021/06/08/09/46/24-pfsense-la-gestion-des-packages-sous-pfsense)
-- [[pfSense] Sauvegarder automatiquement son firewall avec un script](https://www.provya.net/?d=2021/06/29/09/37/53-pfsense-sauvegarder-automatiquement-son-firewall-avec-avec-un-script)
-- [Sauvegarder automatiquement pfSense](https://www.tech2tech.fr/sauvegarder-automatiquement-pfsense/)
-- [[pfSense] Ajouter un accès IPv6 à une connexion Internet IPv4 (via un tunnel)](https://www.provya.net/?d=2020/09/08/10/12/33-pfsense-ajouter-un-acces-ipv6-a-une-connexion-internet-ipv4-via-un-tunnel)
-- [pfSense: aggrégation de liens (LAGG)](https://notamax.be/pfsense-aggregation-de-liens-lagg/)
-- [[pfSense] Sauvegarder automatiquement sa configuration avec AutoConfigBackup](https://www.provya.net/?d=2021/01/26/09/57/48-pfsense-sauvegarder-automatiquement-sa-configuration-avec-autoconfigbackup)
-- [pfSense: création d’un cluster](https://notamax.be/pfsense-creation-dun-cluster/)
-- [6 Reasons Why You Should Be Using pfsense Firewall](https://www.makeuseof.com/reasons-use-pfsense-firewall/)
-- [[pfSense] Monter un VPN IPsec natté (Overlap network)](https://www.provya.net/?d=2020/10/27/09/43/36-pfsense-monter-un-vpn-ipsec-natte-overlap-network)
-- [[pfSense] Troubleshooting / Dépannage de ses règles de NAT](https://www.provya.net/?d=2020/06/30/09/35/13-pfsense-troubleshooting-depannage-de-ses-regles-de-nat)
-- [[pfSense] Troubleshooting / Dépannage de ses règles de NAT](https://www.provya.net/?d=2020/06/30/09/35/13-pfsense-troubleshooting-depannage-de-ses-regles-de-nat)
-- [[pfSense] Configurer un VPN IPsec site à site](https://www.provya.net/?d=2020/02/11/08/22/01-pfsense-configurer-un-vpn-ipsec-site-a-site)
-- [[pfSense] Créer des règles de firewall basées sur des conditions horaires](https://www.provya.net/?d=2020/05/05/11/01/03-pfsense-creer-des-regles-de-firewall-basees-sur-des-conditions-horaires)
-- [[pfSense] La gestion des utilisateurs](https://www.provya.net/?d=2020/06/09/09/48/31-pfsense-la-gestion-des-utilisateurs)
-- [PfSense : configurer un VPN-SSL client-to-site avec OpenVPN](https://www.it-connect.fr/pfsense-configurer-un-vpn-ssl-client-to-site-avec-openvpn/)
-- [PfSense : protéger la page de connexion avec le Login Protection](https://www.it-connect.fr/pfsense-proteger-la-page-de-connexion-avec-le-login-protection/)
-- [PfSense : configurer un VPN-SSL client-to-site avec OpenVPN](https://www.it-connect.fr/pfsense-configurer-un-vpn-ssl-client-to-site-avec-openvpn/)
-- [pfSense 2.4 : Créer une règle de redirection de port](https://www.it-connect.fr/pfsense-2-4-creer-une-regle-de-redirection-de-port/)
-- [Reverse proxy HTTPS avec pfSense](https://www.it-connect.fr/reverse-proxy-https-avec-pfsense/)
-- [[pfSense] Tout comprendre aux alias](https://www.provya.net/?d=2019/11/05/10/02/58-pfsense-tout-comprendre-aux-alias)
-- [[pfsense] NAT / filtrage - Comprendre l'ordre des traitements appliqués par pfSense](https://www.provya.net/?d=2019/11/19/09/53/08-pfsense-nat-filtrage---comprendre-lordre-des-traitements-appliques-par-pfsense)
-- [Reverse proxy HTTPS avec pfSense](https://www.it-connect.fr/reverse-proxy-https-avec-pfsense/)
-- [[pfSense] Faire un pont réseau (bridging) entre deux interfaces](https://www.provya.net/?d=2019/10/01/09/26/04-pfsense-faire-un-pont-reseau-bridging-entre-deux-interfaces)
-- [[pfSense] La gestion des certificats pour les connexions OpenVPN](https://www.provya.net/?d=2014/08/02/08/28/30-pfsense-la-gestion-des-certificats-pour-les-connexions-openvpn)
-- [[pfSense] Comprendre la gestion des interfaces réseaux](https://www.provya.net/?d=2015/01/13/13/31/57-pfsense-comprendre-la-gestion-des-interfaces-reseaux)
-- [[pfSense] Configurer la priorisation de trafic avec CBQ](https://www.provya.net/?d=2015/02/04/19/23/48-pfsense-configurer-la-priorisation-de-trafic-avec-cbq)
-- [[pfSense] Mettre à jour son serveur pfSense](https://www.provya.net/?d=2014/09/04/14/45/52-pfsense-mettre-a-jour-son-serveur-pfsense)
-- [[pfSense] Monter un VPN natté (Overlap network) avec OpenVPN](https://www.provya.net/?d=2014/09/03/14/01/32-pfsense-monter-un-vpn-natte-overlap-network-avec-openvpn)
-- [[pfSense] Configurer son serveur DHCP](https://www.provya.net/?d=2014/08/24/12/09/58-pfsense-configurer-son-serveur-dhcp)
-- [[pfSense] Comprendre et analyser ses règles de routage](https://www.provya.net/?d=2020/01/28/09/33/40-pfsense-comprendre-et-analyser-ses-regles-de-routage)
-- [[pfSense] La gestion des passerelles (gateway)](https://www.provya.net/?d=2021/10/05/09/47/11-pfsense-la-gestion-des-passerelles-gateway)
 
 
 ### PgAdmin
@@ -472,18 +440,7 @@
 - [How to Install pgAdmin4 on Ubuntu](https://linoxide.com/linux-how-to/how-install-pgadmin4-ubuntu/)
 - [Baisser l’impact de l’utilisation de PgAdmin 4 sur PostgreSQL](https://www.dsfc.net/logiciel-libre/postgresql/baisser-impact-utilisation-pgadmin-4-postgresql/)
 
-### PgPool II
-- [Creating a pgpool-II based PostgreSQL Cluster](https://archyslife.blogspot.com/2017/08/creating-pgpool-ii-based-postgresql.html)
-- [Welcome to Pgpool Wiki!](http://pgpool.net/mediawiki/index.php/Main_Page)
-- [A Guide to Pgpool for PostgreSQL - Part One](https://severalnines.com/blog/guide-pgpool-postgresql-part-one)
-- [A Guide to Pgpool for PostgreSQL - Part Two](https://severalnines.com/blog/guide-pgpool-postgresql-part-two)
-- [Detecting "false" primary server of PostgreSQL](http://pgsqlpgpool.blogspot.com/2018/04/detecting-false-primary-server-of.html)
-- [Even more fine load balancing control with Pgpool-II 4.0](http://pgsqlpgpool.blogspot.com/2018/06/even-more-fine-load-balancing-control.html)
-- [More load balancing fine control](http://pgsqlpgpool.blogspot.com/2018/04/more-load-balancing-fine-control.html)
-- [Avoiding session disconnection while fail over](http://pgsqlpgpool.blogspot.com/2016/07/avoiding-session-disconnection-while.html)
-- [Avoiding connection failure while health checking](http://pgsqlpgpool.blogspot.com/2016/06/avoiding-connection-failure-while.html)
-- [Health check parameters](http://pgsqlpgpool.blogspot.com/2013/09/health-check-parameters.html)
-- [More load balancing fine control](http://pgsqlpgpool.blogspot.com/)
+
 
 ### Phabricator (code review, repository hosting and browsing, monitoring tool,  bug tracker)
 - [How to Install Phabricator on Ubuntu 16.04](https://www.rosehosting.com/blog/how-to-install-phabricator-on-ubuntu-16-04/)
@@ -732,22 +689,6 @@
 - [How to Install and Configure SeaweedFS Cluster on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-and-configure-seaweedfs-cluster-on-ubuntu-2004/)
 
 
-
-### Sensu
-- [How to Install Sensu Monitoring on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-sensu-monitoring-on-ubuntu-2004/)
-- [How To Install Sensu on CentOS 7](https://www.rosehosting.com/blog/how-to-install-sensu-on-centos-7/)
-- [How To Install Sensu on Ubuntu 18.04](https://www.rosehosting.com/blog/how-to-install-sensu-on-ubuntu-18-04/)
-- [How to Monitor 1,000 Network Devices Using Sensu Go and Ansible (in Under 10 Minutes)](https://dzone.com/articles/how-to-monitor-1000-network-devices-using-sensu-go)
-- [Sensu Go Is Here!](https://dzone.com/articles/sensu-go-is-here)
-- [Handling Sensu Plugin Handlers in Sensu Go](https://dzone.com/articles/handling-sensu-plugin-handlers-in-sensu-go)
-- [The Sensu Prometheus Collector](https://dzone.com/articles/the-sensu-prometheus-collector)
-- [Sensu: Monitoring as a Service (Part 1)](https://dzone.com/articles/sensu-monitoring-as-a-service-part-1)
-- [Writing Sensu Plugin Tests with Test-Kitchen and Serverspec](https://dzone.com/articles/writing-sensu-plugin-tests-with-test-kitchen-and-s)
-- [Our Approach to Testing Sensu Plugins](https://dzone.com/articles/our-approach-to-testing-sensu-plugins)
-- [Sensu’s Approach to Nagios Plugin Support](https://dzone.com/articles/sensus-approach-to-nagios-plugin-support)
-- [Alert Fatigue (Part 5): Fine-Tuning and Silencing](https://dzone.com/articles/alert-fatigue-part-5-fine-tuning-and-silencing)
-- [How to Install Sensu Monitoring on Ubuntu 16.04](https://www.howtoforge.com/tutorial/how-to-install-sensu-monitoring-on-ubuntu-1604/)
-
 ### Shaarli 
 - [Shaarli, un outil pour sauvegarder & organiser vos liens](https://net-security.fr/logiciel-libre/shaarli-un-outil-pour-sauvegarder-organiser-vos-liens/)
 - [Shaarli](http://sebsauvage.net/wiki/doku.php?id=php:shaarli&do=)
@@ -773,32 +714,10 @@
 
 
 
-### SmokePing
-- [How to fix SmokePing SSH probe on Debian Buster](https://blog.sleeplessbeastie.eu/2020/06/03/how-to-fix-smokeping-ssh-probe-on-debian-buster/)
-- [How to install SmokePing](https://blog.sleeplessbeastie.eu/2020/06/19/how-to-install-smokeping/)
-- [How to keep track of network latency](https://blog.sleeplessbeastie.eu/2017/09/11/how-to-keep-track-of-network-latency/)
-
-
-
 ### Snipe-IT
 - [How To Install Snipe-IT Asset Management on CentOS 8](https://computingforgeeks.com/install-snipe-it-asset-management-on-centos-8-linux/)
 - [How to Install Snipe-IT Asset Management Software on Debian 9](https://www.howtoforge.com/tutorial/how-to-install-snipe-it-on-debian-9/)
 
-
-### SonarQube
-- [How to Install SonarQube with Let's Encrypt on Ubuntu 20.04](https://linoxide.com/install-sonarqube-on-ubuntu/)
-- [SonarQube : Kill the bug before it's too late](https://blog.ippon.fr/2020/06/15/sonarqube-kill-the-bug-before-its-too-late/)
-- [Analyse des Jenkinsfile par SonarQube !](https://blog.ippon.fr/2019/04/14/analyse-des-jenkinsfile-par-sonarqube/)
-- [Testez votre code avec SonarQube](https://www.aukfood.fr/testez-votre-code-avec-sonarqube/)
-- [SonarQube - Static Tool to Analyse and Inspect Code Quality](https://dzone.com/articles/sonarqube-static-tool-to-analyse-and-inspect-code)
-- [Intégrer SonarQube à vos projets .Net](https://blog.sodifrance.fr/integrer-sonarqube-a-vos-projets-net/)
-- [SonarLint, codez connecté avec SonarQube](https://blog.sodifrance.fr/sonarlint-codez-connecte-avec-sonarqube/)
-- [SonarQube – Installation sur Debian 8 Jessie](https://www.jbnet.fr/developpement/trucs-et-astuces-du-developpeur/sonarqube-installation-sur-debian-8-jessie.html)
-- [Analyse des Jenkinsfile par SonarQube](https://blog.ippon.fr/2019/04/14/analyse-des-jenkinsfile-par-sonarqube/)
-- [Code Analysis With SonarQube - Docker - .NET Core](https://dzone.com/articles/code-analysis-with-sonarqube-docker-net-core)
-- [How to Install SonarQube on Ubuntu 18.04 LTS](https://www.howtoforge.com/how-to-install-sonarqube-on-ubuntu-1804/)
-- [How To Ensure Code Quality with SonarQube on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-ensure-code-quality-with-sonarqube-on-ubuntu-18-04)
-- [Mutation Testing With SonarQube](https://dzone.com/articles/mutation-testing-with-sonarqube)
 
 
 ### SoundCloud
@@ -844,74 +763,6 @@
 ### Splunk (Dashboard & Reports)
 - [Creating effective dashboards using Splunk [Tutorial]](https://hub.packtpub.com/creating-effective-dashboards-using-splunk-tutorial/)
 
-
-
-### Spotify
-
-- [Using Spotify’s Spotipy for Exploratory Data Analysis.](/atrier/apps/spotify_001.md)
-- [How to Block (and Unblock) Someone on Spotify](https://www.makeuseof.com/how-to-block-someone-on-spotify/)
-- [12 Spooky Spotify Playlists Perfect for Any Halloween Party](https://www.makeuseof.com/tag/spooky-spotify-playlists-perfect-halloween-party/)
-- [How to Use Spotify on Your PS4 While You Game](https://www.makeuseof.com/how-to-use-ps4-spotify-while-gaming/)
-- [How to Find New Music You'll Love With Spotify Enhance](https://www.makeuseof.com/find-new-music-with-spotify-enhance/)
-- [How to Delete a Playlist on Spotify](https://www.makeuseof.com/how-to-delete-a-spotify-playlist/)
-- [How to Find, Follow, and Download Podcasts on Spotify](https://www.makeuseof.com/podcasts-on-spotify-how-to-find-follow-download/)
-- [How to Create Custom Artwork for Your Spotify Playlists](https://www.makeuseof.com/tag/create-perfect-artwork-spotify-playlists/)
-- [What Are the Best Spotify Equalizer Settings?](https://www.makeuseof.com/the-best-spotify-equalizer-settings/)
-- [10 Useful Spotify Playlist Tips and Tricks Worth Knowing](https://www.makeuseof.com/tag/managing-spotify-playlists/)
-- [How to Install Spotify on Linux Distributions](https://linoxide.com/install-spotify-on-linux-distributions/)
-- [Think Your Spotify Account Has Been Hacked? Here's What to Do](https://www.makeuseof.com/spotify-account-hacked-what-to-do/)
-- [How to Navigate the Spotify Desktop App](https://www.makeuseof.com/how-to-navigate-spotify-desktop/)
-- [How to Use Spotify's New "Hey Spotify" Voice Controls](https://www.makeuseof.com/how-to-use-spotify-voice-controls/)
-- [6 Ways to Keep Your Spotify Account Private and Secure](https://www.makeuseof.com/how-to-keep-your-spotify-account-private/)
-- [How to Transfer Spotify Music and Playlists to a New Account](https://www.makeuseof.com/how-to-transfer-spotify-accounts/)
-- [You Can Now Download Full Albums in Spotify for Desktop](https://www.makeuseof.com/download-albums-spotify-desktop/)
-- [How to Download Full Albums on the Spotify Desktop App](https://www.makeuseof.com/how-to-download-full-albums-spotify-desktop/)
-- [How to Stop Facebook Sharing Your Data With Spotify](https://www.makeuseof.com/stop-facebook-sharing-data-with-spotify/)
-- [How to Cancel Spotify Premium](https://www.makeuseof.com/how-to-cancel-spotify-premium/)
-- [Spotify Kids Adds Shared Playlists Controlled by Parents](https://www.makeuseof.com/spotify-kids-shared-playlists/)
-- [How to Connect Spotify to Alexa and Play Music on Your Echo](https://www.makeuseof.com/how-to-connect-spotify-to-alexa/)
-- [8 Reasons to Start Using the Spotify Web Player](https://www.makeuseof.com/tag/reasons-start-using-spotify-web-player-today/)
-- [How to Make a Collaborative Playlist on Spotify](https://www.makeuseof.com/how-to-make-collaborative-playlist-on-spotify/)
-- [How to Make Spotify Sound Better: 6 Settings to Tweak](https://www.makeuseof.com/how-to-make-spotify-sound-better/)
-- [How to Download Music From Spotify to Your Phone](https://www.makeuseof.com/how-to-download-music-from-spotify-to-your-phone/)
-- [How to Import Playlists Into Spotify: 5 Easy Ways](https://www.makeuseof.com/tag/ways-to-import-playlists-into-spotify/)
-- [7 Spotify Tips and Tricks for Better Music Streaming](https://www.makeuseof.com/tag/spotify-top-tips-tricks/)
-- [How to Share Spotify Playlists: 6 Easy Ways Worth Knowing](https://www.makeuseof.com/tag/easiest-ways-share-spotify-playlists/)
-- [Spotify Not Working? How to Fix 10 Common Spotify Problems](https://www.makeuseof.com/tag/common-spotify-problems-fix/)
-- [How to Customize Spotify With Spicetify Themes](https://www.makeuseof.com/tag/customize-spotify-with-spicetify-themes/)
-- [How to Install Spotify on Ubuntu 20.04](https://linuxize.com/post/how-to-install-spotify-on-ubuntu-20-04/)
-- [Comment se barrer de Spotify ?](https://serveur410.com/comment-se-barrer-de-spotify/)
-- [How to Manage Your Spotify Playlists: 10 Tips and Tricks](https://www.makeuseof.com/tag/managing-spotify-playlists/)
-- [How to customize Spotify with Spicetify-cli themes](https://www.ghacks.net/2019/10/25/how-to-customize-spotify-with-spicetify-cli-themes/)
-- [How to Listen to Spotify on Kodi](https://www.makeuseof.com/tag/how-to-listen-to-spotify-on-kodi/)
-- [How to Change Your Account’s Country Setting on Spotify](https://www.makeuseof.com/tag/change-country-spotify/)
-- [8 Nifty Tips for Managing Your Spotify Playlists](https://www.makeuseof.com/tag/managing-spotify-playlists/)
-- [The 15 Best Spotify Playlists for the Summer](https://www.makeuseof.com/tag/best-spotify-playlists-summer/)
-- [Ecouter Spotify depuis un navigateur Web - Tous les navigateurs web](https://www.pcastuces.com/pratique/astuces/5393.htm?xtor=RSS-3)
-- [How to Install Spotify on Ubuntu 18.04](https://linuxize.com/post/how-to-install-spotify-on-ubuntu-18-04/)
-- [Spotify Wrapped: Data Visualization and Machine Learning on Your Top Songs](https://towardsdatascience.com/spotify-wrapped-data-visualization-and-machine-learning-on-your-top-songs-1d3f837a9b27)
-
-
-
-### Squid (Proxy)
-- [How to Install and Configure Squid Proxy on Ubuntu 20.04](https://linuxize.com/post/how-to-install-and-configure-squid-proxy-on-ubuntu-20-04/)
-- [Install and Configure Squid Proxy Server on Debian 10 (Buster)](https://linuxhint.com/install_squid_proxy_server_debian/)
-- [How to Install Squid Proxy Server on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-squid-proxy-server-on-ubuntu-2004/)
-- [How to configure an SSH proxy server with Squid](https://fedoramagazine.org/configure-ssh-proxy-server/)
-- [How to install Squid Proxy Server on Ubuntu 20.04 LTS Linux](https://www.cyberciti.biz/faq/ubuntu-squid-proxy-server-installation-configuration/)
-- [Serveur proxy cache HTTP avec Squid sous CentOS 7](https://blog.microlinux.fr/squid-centos-7/)
-- [Squid et les exceptions pour les sites problématiques](https://blog.microlinux.fr/squid-exceptions/)
-- [Gérer les connexions HTTPS avec Squid sous CentOS 7](https://blog.microlinux.fr/squid-https-centos-7/)
-- [How to Install and Configure Squid Proxy on Debian 10 Linux](https://linuxize.com/post/how-to-install-and-configure-squid-proxy-on-debian-10/)
-- [Gérer les connexions HTTPS avec Squid sous CentOS 7](https://www.microlinux.fr/squid-https-centos-7/)
-- [Serveur proxy cache HTTP avec Squid sous CentOS 7](https://www.microlinux.fr/squid-centos-7/)
-- [How to Install and Configure Squid Proxy on Ubuntu 18.04](https://linuxize.com/post/how-to-install-and-configure-squid-proxy-on-ubuntu-18-04/)
-- [How to Install and Configure Squid Proxy on CentOS 7](https://linuxize.com/post/how-to-install-and-configure-squid-proxy-on-centos-7/)
-- [Configure two node Squid (Proxy Server) Clustering using Pacemaker on CentOS 7 / RHEL 7](https://www.linuxtechi.com/squid-proxy-server-clustering-pacemaker-centos7-rhel7/)
-- [Linux Proxy Server](https://dzone.com/articles/linux-proxy-server)
-- [How To Install and Configure Squid Web Proxy Server On Linux?](https://www.poftut.com/install-configure-squid-web-proxy-server-linux/)
-- [Gérer les connexions HTTPS avec Squid sous CentOS](https://blog.microlinux.fr/squid-https-centos/)
-- [Serveur proxy cache HTTP avec Squid sous CentOS 7](https://blog.microlinux.fr/squid-centos/)
   
 ### SquidAnalyzer 
 - [Surveiller le trafic web avec SquidAnalyzer sous CentOS](https://blog.microlinux.fr/squidanalyzer-centos/)
@@ -972,12 +823,6 @@
 - [Creating Powerful Animated Visualizations in Tableau](https://towardsdatascience.com/creating-powerful-animated-visualizations-in-tableau-ff30a0d861c2)
 
 
-### Tarantool 
-- [Tarantool Queues (Part 2): Authenticate This](https://dzone.com/articles/tarantool-queues-part-two-authenticate-this)
-- [Tarantool Queues (Part 1): Make Things Easy on Yourself](https://dzone.com/articles/tarantool-queues-part-one-make-things-easy-on-your)
-- [Asynchronous Work With Tarantool Using Python](https://dzone.com/articles/asynchronous-work-with-tarantool-using-python-1)
- 
-
 ### Teamspeak 3
 - [Installer un Serveur TeamSpeak sur un NAS Synology avec Docker](https://www.tech2tech.fr/installer-un-serveur-teamspeak-sur-synology-avec-docker/)
 - [How to Install Teamspeak 3 Server on CentOS 8](https://www.howtoforge.com/how-to-install-teamspeak-3-server-on-centos-8/)
@@ -994,48 +839,6 @@
 - [How to Set Up TeamViewer and Access Your PC From Anywhere](https://www.makeuseof.com/tag/set-up-teamviewer-access-pc-anywhere/)
 
 
-
-### Telegraf
-
-- [Configuration de Telegraf](/atrier/apps/telegraf_001.md)
-- [Installation de Telegraf sous CentOS / RHEL](/atrier/apps/telegraf_002.md)
-- [Plugin > Input > MySQL](/atrier/apps/telegraf_003.md)
-- [Plugin > Input > Apache](/atrier/apps/telegraf_004.md)
-- [Running Telegraf as Serverless on AWS Lambda for Monitoring Your Cloud](https://logz.io/blog/telegraf-serverless-aws-lambda/)
-- [Telegraf Integrations with Logz.io](https://logz.io/blog/telegraf-integration-logzio/)
-- [Monitor Linux System with Grafana and Telegraf](https://computingforgeeks.com/monitor-linux-system-with-grafana-and-telegraf/)
-- https://www.influxdata.com/time-series-platform/telegraf/
-- https://github.com/influxdata/telegraf/tree/master/plugins
-- https://docs.influxdata.com/telegraf/v1.7/
-- [Monitoring Your PostgreSQL Database With Telegraf and InfluxDB](https://dzone.com/articles/monitoring-your-postgresql-database-with-telegraf)
-- [Exporter les statistiques d’un cluster vSAN avec vsanmetrics et Telegraf](https://myvmworld.fr/exporter-les-statistiques-dun-cluster-vsan-avec-vsanmetrics-et-telegraf/)
-- [Exécuter Telegraf sur OpenBSD](https://wiki.obsd4a.net/trad:tumfatig:executer_telegraf_openbsd)
-- https://github.com/influxdata/telegraf/blob/master/docs/CONFIGURATION.md
-- https://raw.githubusercontent.com/influxdata/telegraf/master/etc/telegraf.conf
-- https://github.com/influxdata/telegraf/tree/master/plugins/inputs/phpfpm
-- https://angristan.xyz/monitoring-telegraf-influxdb-grafana/#configuretelegraf
-- https://blog.elao.com/fr/infra/provisonner-simplement-stack-monitoring-telegraf-influxdb-grafana-avec-manala/
-- https://www.supinfo.com/articles/single/5747-telegraf-influxdb-grafana
-- https://connect.adfab.fr/devops/monitoring-avec-telegraph-chronograph-et-influxdb
-- https://blog.seboss666.info/2016/07/monitoring-de-synchronisation-adsl-avec-telegraf-influxdb-grafana-et-un-peu-dhuile-de-coude/
-- https://docs.influxdata.com/telegraf/v1.7/
-- https://theogindre.fr/2018/02/16/mise-en-place-dune-stack-de-monitoring-avec-influxdb-grafana-et-telegraf/
-- https://www.guillaume-leduc.fr/monitoring-de-votre-serveur-avec-telegraf-influxdb-et-grafana.html
-- https://www.tech2tech.fr/grafana-superviser-tous-vos-serveurs-et-peripheriques/
-- https://tech.feub.net/2016/01/tableau-de-bord-avec-grafana-influxdb-et-collectd-pour-surveiller-vos-serveurs/
-- https://blog.octo.com/exemple-dutilisation-de-prometheus-et-grafana-pour-le-monitoring-dun-cluster-kubernetes/
-- [Telegraf Plugin for VMware Counters from a Windows Guest OS](https://www.neteye-blog.com/2018/09/telegraf-plugin-for-vmware-counters-from-a-windows-guest-os/)
-- [Tactical Monitoring Overview: A Fresh Look!](https://www.neteye-blog.com/2018/09/tactical-monitoring-overview-a-fresh-look/)
-
-### Telegram
-- [How to Send Uncompressed Photos and Videos on Telegram](https://www.makeuseof.com/send-uncompressed-photos-videos-telegram/)
-- [How to Enable Two-Step Verification in Telegram](https://www.makeuseof.com/enable-two-step-verification-telegram/)
-- [Telegram Will Now Auto-Delete Your Messages After a Set Time](https://www.makeuseof.com/auto-delete-messages-telegram/)
-- [How to Build a Basic Telegram Bot With Python 3](https://www.makeuseof.com/how-to-build-a-basic-telegram-bot-with-python-3/)
-- [Mobile Alerts & Notifications For Your Database Using Telegram](https://severalnines.com/database-blog/mobile-alerts-notifications-your-database-using-telegram)
-
-### Teleport (Bastion)
-- [Découverte du bastion Teleport](https://blog.octo.com/decouverte-du-bastion-teleport/)
 
 ### TensorFlow
 - [Timeseries Prediction Using Tensor flow](https://medium.com/geekculture/timeseries-prediction-using-tensor-flow-e85aa3ab8648)

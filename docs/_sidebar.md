@@ -13,6 +13,7 @@
 * [<i class="fa-solid fa-network-wired"></i> Réseaux](/reseaux/)
 * [<i class="fa-regular fa-comments"></i> Réseaux Sociaux](/reseaux-sociaux/)
 * [<i class="fa-solid fa-shield-halved"></i> Sécurité](/securite/)
+* [<i class="fa-solid fa-film"></i> Streaming](/streaming/streaming.md)
 * [<i class="fa-brands fa-linux"></i> Systèmes d'exploitation](/os/)
 * [<i class="fa-solid fa-eye"></i> Supervision](/supervision/)
 * [<i class="fa-brands fa-docker"></i> Virtualisation](/virtualisation/)
