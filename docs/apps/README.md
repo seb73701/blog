@@ -312,15 +312,34 @@
   <div><a href="#apps/veeam_agent_windows/veeam_agent_windows.md">Veeam Agent for Windows</a></div>
   <div><a href="#apps/veeam_backup/veeam_backup.md">Veeam Backup & Replication</a></div>
   <div><a href="#apps/veeam_backup_o365/veeam_backup_o365.md">Veeam Backup for Microsoft 365</a></div>
+  <div><a href="#apps/ventoy/ventoy.md">Ventoy</a></div>
+  <div><a href="#apps/veracrypt/veracrypt.md">VeraCrypt</a></div>
+  <div><a href="#apps/vlc/vlc.md">VLC Media Player</a></div>
 </div>
 
 ## W
 
 <div class="apps-container">
   <div><a href="#apps/webmin/webmin.md">Webmin</a></div>
+  <div><a href="#apps/wekan/wekan.md">Wekan</a></div>
   <div><a href="#apps/wikijs/wikijs.md">Wiki.JS</a></div>
+  <div><a href="#apps/wireguard_vpn/wireguard_vpn.md">WireGuard VPN</a></div>
   <div><a href="#apps/wireshark/wireshark.md">Wireshark</a></div>
   <div><a href="#apps/wordpress/wordpress.md">Wordpress</a></div>
+</div>
+
+
+## X
+
+<div class="apps-container">
+  <div><a href="#apps/xamarin/xamarin.md">Xamarin</a></div>
+</div>
+
+
+## Y
+
+<div class="apps-container">
+  <div><a href="#apps/yarn/yarn.md">Yarn</a></div>
 </div>
 
 

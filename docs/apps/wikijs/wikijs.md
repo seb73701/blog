@@ -16,7 +16,13 @@ Il fonctionne sur pratiquement toutes les plates-formes et est compatible avec P
 - <i class="fa-brands fa-github"></i> **Github** : https://github.com/Requarks/wiki
 - <i class="fas fa-comments"></i> **Forum** : https://github.com/Requarks/wiki/discussions
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
 
+<details open>
+
+- [Comment créer un service pour démarrer Wiki.js au démarrage du serveur](/atrier/apps/wikijs_001.md)
+
+</details>
 
 ## <i class="fa-regular fa-newspaper"></i> Articles
 
