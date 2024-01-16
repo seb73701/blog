@@ -1,11 +1,10 @@
 # APPS A TRIER
 ---
 
-- [Transfer.sh : partager des fichier en ligne de commande](https://les-enovateurs.com/transfer-sh-partager-des-fichier-en-ligne-de-commande)
-- [TRasnfert.sh (Github)](https://github.com/dutchcoders/transfer.sh)
-- [Transfer.sh – Easy File Sharing from Linux Commandline](https://www.tecmint.com/file-sharing-from-linux-commandline/)
 
-
+- [Transfer files over WiFi from computer to mobile device by scanning a QR code](https://techviewleo.com/transfer-files-over-wifi-from-computer-to-mobile-qr-code/)
+- https://github.com/claudiodangelis/qrcp
+- [Using tmux on Linux and macOS – tmux cheat sheet](https://techviewleo.com/using-tmux-on-linux-and-macos-tmux-cheat-sheet/)
 
 
 ### GitOps

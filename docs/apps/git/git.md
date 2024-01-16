@@ -356,6 +356,7 @@
 - [Navigating code on GitHub](https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github)
 - [Nommer ses commits](https://www.grafikart.fr/formations/git/nommage-commit)
 - [Optimize Images with a GitHub Action](https://css-tricks.com/optimize-images-with-a-github-action/)
+- [Outil de recherche génial, recherchez des projets sur GitHub à partir du terminal](https://ubunlog.com/fr/outil-de-recherche-de-terminal-github-g%C3%A9nial/)
 - [Parcourir tous les dépôts Git à la recherche de changements non-indexés](https://blog.karolak.fr/2020/09/16/parcourir-tous-les-depots-git-a-la-recherche-de-changement-non-indexes/)
 - [Passer de Travis CI à GitHub Actions](https://www.stella.coop/blog/00016-passer-de-travisci-a-github-actions)
 - [Perforce to Git - why to make the move](https://www.atlassian.com/git/tutorials/perforce-git)
