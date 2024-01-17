@@ -42,15 +42,18 @@
 
 <details>
 
-- [Welcome to the backuppc wiki!](https://github.com/backuppc/backuppc/wiki)
-- [Serveur de sauvegarde automatique : BackupPC](https://doc.ubuntu-fr.org/backuppc)
-- [Sauvegardes avec BackupPC](https://doc.fedora-fr.org/wiki/Sauvegardes_avec_BackupPC)
+- [Back Up Linux And Windows Systems With BackupPC](https://www.howtoforge.com/linux_backuppc)
+- [Backup avec BackupPC](https://wiki.virtit.fr/doku.php/kb:linux:donnees:backup_avec_backuppc)
+- [BACKUPPC - ADD LOGOUT BUTTON](https://www.n0tes.fr/2023/11/12/Backup-BackupPC-Login-logout/)
+- [BACKUPPC - DARK CSS THEME](https://www.n0tes.fr/2023/11/12/Backup-BackupPC-Dark-CSS-Theme/)
+- [BACKUPPC - LDAP AUTH](https://www.n0tes.fr/2023/11/12/Backup-BackupPC-LDAP-Auth/)
+- [BackupPC](https://wiki.archlinux.org/title/BackupPC)
+- [BackupPC](https://wiki.auf.org/wikiteki/BackupPC)
 - [Mettre en place un serveur de sauvegarde professionnel, performant et automatisé](https://rollandcyril.files.wordpress.com/2014/04/backuppc-1.pdf)
 - [Sauvegardes à distance avec BackupPC](https://memodugeek.info/sauvegardes-a-distance-avec-backuppc/)
-- [Backup avec BackupPC](https://wiki.virtit.fr/doku.php/kb:linux:donnees:backup_avec_backuppc)
+- [Sauvegardes avec BackupPC](https://doc.fedora-fr.org/wiki/Sauvegardes_avec_BackupPC)
 - [Serveur de sauvegarde -- BackupPC](https://blog-du-grouik.tinad.fr/post/2012/06/25/Serveur-de-sauvegarde-BackupPC)
-- [BackupPC](https://wiki.archlinux.org/title/BackupPC)
-- [Back Up Linux And Windows Systems With BackupPC](https://www.howtoforge.com/linux_backuppc)
-- [BackupPC](https://wiki.auf.org/wikiteki/BackupPC)
+- [Serveur de sauvegarde automatique : BackupPC](https://doc.ubuntu-fr.org/backuppc)
+- [Welcome to the backuppc wiki!](https://github.com/backuppc/backuppc/wiki)
 
 </details>

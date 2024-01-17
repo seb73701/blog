@@ -36,13 +36,15 @@
 
 <details>
 
-- [BorgBackup ou la sauvegarde facile](https://fljd.in/2021/08/24/borg-ou-la-sauvegarde-facile/)
 - [[Geek] C'est bien, c'est beau, c'est BORG.](https://ouafnico.shivaserv.fr/posts/geek-borg/)
 - [Alias et fonctions pour Borgbackup](https://djan-gicquel.fr/alias-et-fonctions-pour-borg-backup)
 - [Append-only backups with borg to another VPS or dedicated server](https://www.howtoforge.com/append-only-backups-with-borg-to-another-vps-or-dedicated-server/)
 - [Backing Up VM Files with BORG](https://opensourceforu.com/2020/02/backing-up-vm-files-with-borg/)
-- [Retour d’expérience avec Borg comme outil de sauvegarde](https://blog.genma.fr/?Retour-d-experience-avec-Borg-comme-outil-de-sauvegarde)
+- [BACKUP AVEC BORGBACKUP](https://www.n0tes.fr/2019/08/12/Backup-avec-BorgBackup/)
+- [Borg](https://wiki.fiat-tux.fr/books/administration-syst%C3%A8mes/page/borg)
+- [BorgBackup ou la sauvegarde facile](https://fljd.in/2021/08/24/borg-ou-la-sauvegarde-facile/)
 - [Ne procrastinez plus vos sauvegardes grâce à Borg](https://connect.ed-diamond.com/Linux-Pratique/LP-098/Ne-procrastinez-plus-vos-sauvegardes-grace-a-Borg3)
+- [Retour d’expérience avec Borg comme outil de sauvegarde](https://blog.genma.fr/?Retour-d-experience-avec-Borg-comme-outil-de-sauvegarde)
 
 
 </details>

@@ -42,6 +42,7 @@
 - [tmux-cheatsheet.markdown](https://gist.github.com/MohamedAlaa/2961058)
 - [tmux](https://fr.wikipedia.org/wiki/Tmux)
 - [Tmux](https://olivier.dossmann.net/wiki/systeme/tmux/)
+- [Tmux](https://wiki.fiat-tux.fr/books/administration-syst%C3%A8mes/page/tmux)
 - [Using Irssi inside a Linux tmux session](https://www.redhat.com/sysadmin/irssi-inside-tmux)
 - [Using SSH and Tmux for screen sharing](https://www.redhat.com/sysadmin/ssh-tmux-screen-sharing)
 

@@ -16,7 +16,15 @@
 - <i class="fa-solid fa-file-circle-question"></i> **Changelog** : https://redmine.org/projects/redmine/wiki/Changelog
 - <i class="fas fa-comments"></i> **Forum** : https://redmine.org/projects/redmine/boards
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
 
+<details open>
+
+- [Planifier l'exécution d'un plugin Redmine dans la Crontab](/atrier/apps/redmine_002.md)
+- [Redémarrer une instance Redmine](/atrier/apps/redmine_003.md)
+- [Redmine - Liens divers](/atrier/apps/redmine_001.md)
+
+</details>
 
 ## <i class="fa-regular fa-newspaper"></i> Articles
 

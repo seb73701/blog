@@ -602,35 +602,10 @@
 ### Reddit
 - [How to Search Reddit Effectively: Useful Tips and Tricks to Know](https://www.makeuseof.com/tag/right-way-search-reddit/)
 
-### Redmine
-
-- [Redmine - Liens divers](/atrier/apps/redmine_001.md)
-- [Planifier l'exécution d'un plugin Redmine dans la Crontab](/atrier/apps/redmine_002.md)
-- [Redémarrer une instance Redmine](/atrier/apps/redmine_003.md)
-
-### Retrace (Log Management)
-- [Retrace Log Management: Logs, Errors and Code Level Performance](https://dzone.com/articles/retrace-log-management-logs-errors-and-code-level)
-
-
-### rdiff-backup
-- [Rdiff-backup - A Local and Remote Backup Tool for Linux](https://linoxide.com/backups/rdiff-backup-local-and-remote-backup-tool-linux/)
-- [How to access rdiff-backup repository using fuse](https://blog.sleeplessbeastie.eu/2020/11/16/how-to-access-rdiff-backup-repository-using-fuse/)
-- [How to dockerize rdiff-backup with web interface](https://blog.sleeplessbeastie.eu/2020/09/18/how-to-dockerize-rdiff-backup-with-web-interface/)
-- [How to specify custom SSH port when using rdiff-backup](https://blog.sleeplessbeastie.eu/2020/09/14/how-to-specify-custom-ssh-port-when-using-rdiff-backup/)
-- [rdiff-backup – A Powerful Incremental Backup Tool Now Supports Python 3](https://www.tecmint.com/linux-rdiff-backup-tool/)
-
-### Rkhunter
-- [How to Find Rootkits with RKhunter](https://linuxhint.com/how-to-find-rootkits-with-rkhunter/)
-- [Rkhunter : Un détecteur de Rootkit indispensable sous Linux](https://www.geeek.org/rkhunter-detection-rootkit-linux-227/)
-- [Rkhunter : Un détecteur de Rootkit indispensable sous Linux](https://www.geeek.org/rkhunter-detection-rootkit-linux-227.html)
-- [RkHunter 1.4.6, Bug lors de la mise à jour](https://hedilenoir.com/index.php/2018/10/27/rkhunter-1-4-6-bug-lors-de-la-mise-a-jour/)
 
 ### Robocopy 
 - [Comment éviter les problèmes d’accents avec Robocopy](https://syskb.com/comment-eviter-les-problemes-daccents-avec-robocopy/)
 
-
-### Rspamd 
-- [Install and integrate Rspamd](https://linuxize.com/post/install-and-integrate-rspamd/)
 
 ### Rsnapshot
 - [Mon ptit backup avec Rsnapshot](https://lord.re/posts/193-mon-ptit-backup-avec-rsync/)

@@ -277,8 +277,11 @@
 
 <div class="apps-container">
   <div><a href="#apps/rabbitmq/rabbitmq.md">RabbitMQ</a></div>
+  <div><a href="#apps/rdiff_backup/rdiff_backup.md">Rdiff-backup</a></div>
   <div><a href="#apps/redmine/redmine.md">Redmine</a></div>
+  <div><a href="#apps/rkhunter/rkhunter.md">RKhunter</a></div>
   <div><a href="#apps/roundcube/roundcube.md">RoundCube</a></div>
+  <div><a href="#apps/rspamd/rspamd.md">Rspamd</a></div>
   <div><a href="#apps/rundeck/rundeck.md">Rundeck</a></div>
 </div>
 
