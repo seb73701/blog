@@ -11,3 +11,5 @@
 - https://www.n0tes.fr/
 - https://docker-mailserver.github.io/docker-mailserver/latest/
 - https://wiki.fiat-tux.fr/
+- https://zestedesavoir.com/
+- https://www.geeksforgeeks.org/
