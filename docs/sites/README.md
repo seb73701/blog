@@ -13,3 +13,4 @@
 - https://wiki.fiat-tux.fr/
 - https://zestedesavoir.com/
 - https://www.geeksforgeeks.org/
+- https://www.opensourceagenda.com/
