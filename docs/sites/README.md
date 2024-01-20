@@ -14,3 +14,29 @@
 - https://zestedesavoir.com/
 - https://www.geeksforgeeks.org/
 - https://www.opensourceagenda.com/
+- https://ostechnix.com/
+- https://pagespeed.web.dev/
+- https://www.ssllabs.com/
+- https://blog.microlinux.fr/
+- https://sql.sh/
+- https://www.scaleway.com/en/docs/
+
+## BLOGS - Articles à récupérer
+
+- https://www.unix-experience.fr/
+- https://kofler.info/blog/
+
+## PAGES STATUS
+
+- https://status.scaleway.com/
+
+
+## TOOLS ONLINE
+
+### MAIL
+
+- https://mxtoolbox.com/blacklists.aspx
+
+### SSL
+
+- https://www.ssllabs.com/ssltest/index.html

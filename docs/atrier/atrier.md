@@ -2,11 +2,6 @@
 ---
 
 
-- [Transfer files over WiFi from computer to mobile device by scanning a QR code](https://techviewleo.com/transfer-files-over-wifi-from-computer-to-mobile-qr-code/)
-- https://github.com/claudiodangelis/qrcp
-- [Using tmux on Linux and macOS – tmux cheat sheet](https://techviewleo.com/using-tmux-on-linux-and-macos-tmux-cheat-sheet/)
-
-
 ### GitOps
 - [An illustrated guide to GitOps](https://www.redhat.com/architect/illustrated-guide-gitops)
 - [Configuring Red Hat Ansible Automation Platform with GitOps](https://www.redhat.com/en/blog/configuring-red-hat-ansible-automation-platform-gitops)
@@ -14,17 +9,144 @@
 - [POURQUOI VOUS DEVRIEZ PASSER À GITOPS](https://blog.revolve.team/2020/01/13/pourquoi-gitops/)
 
 
-### Hugo
-
-- [Displaying Shell Command Code Blocks in Hugo](https://medium.com/pragmatic-programmers/displaying-shell-command-code-blocks-in-hugo-d50691096772)
-
-### JQ
-
-- [A simple tutorial of JQ by Ivan Lausuch](https://hackmd.io/@il-suse/BJ_RoR8u_)
-- [How to Use JQ to Process JSON on the Command Line](https://www.linode.com/docs/guides/using-jq-to-process-json-on-the-command-line/)
-- [jq Manual (development version)](https://stedolan.github.io/jq/manual/)
-
-
+- [Accéder aux périphériques amovibles](https://blog.microlinux.fr/peripheriques/)
+- [Activer SELinux sur un serveur Rocky Linux 8](https://blog.microlinux.fr/selinux-dedibox-rocky-linux-8/)
+- [ADB, Fastboot et Heimdall sous Rocky Linux 8](https://blog.microlinux.fr/adb-fastboot-heimdall-rocky-linux-8/)
+- [Agrandir une VM sous Rocky Linux 8](https://blog.microlinux.fr/agrandir-vm-rocky-linux-8/)
+- [Apache et les hôtes virtuels sous Rocky Linux 8](https://blog.microlinux.fr/apache-vhosts-rocky-linux-8/)
+- [Apache et PHP sous Rocky Linux 8](https://blog.microlinux.fr/apache-php-rocky-linux-8/)
+- [Certificats SSL/TLS gratuits avec Certbot sous Rocky Linux 8](https://blog.microlinux.fr/certbot-rocky-linux-8/)
+- [Chroot depuis un système de secours](https://blog.microlinux.fr/chroot-secours/)
+- [Client NFS sous Rocky Linux 8](https://blog.microlinux.fr/client-nfs-rocky-linux-8/)
+- [Client NIS sous Rocky Linux 8](https://blog.microlinux.fr/client-nis-rocky-linux-8/)
+- [Client OwnCloud sous Rocky Linux 8](https://blog.microlinux.fr/owncloud-client-rocky-linux-8/)
+- [Cloner un disque via le réseau](https://blog.microlinux.fr/clonage-reseau/)
+- [Configuration automatique d’un poste de travail Rocky Linux 8 KDE](https://blog.microlinux.fr/rocky-linux-8-kde/)
+- [Configuration automatique d’un serveur Rocky Linux 8](https://blog.microlinux.fr/configuration-rocky-linux-8/)
+- [Configuration automatique d’un serveur Rocky Linux 8](https://blog.microlinux.fr/configuration-rocky-linux-8/)
+- [Configuration de base du pare-feu FirewallD sur un serveur Rocky Linux 8](https://blog.microlinux.fr/firewalld-rocky-linux-8/)
+- [Configuration de base du pare-feu FirewallD sur un serveur Rocky Linux 8](https://blog.microlinux.fr/firewalld-rocky-linux-8/)
+- [Configurer l’authentification par clé SSH](https://blog.microlinux.fr/cle-ssh/)
+- [Configurer le réseau avec NetworkManager sur un serveur Rocky Linux 8](https://blog.microlinux.fr/networkmanager-rocky-linux-8/)
+- [Configurer un accès distant pour MariaDB sous Rocky Linux 8](https://blog.microlinux.fr/acces-distant-mariadb-rocky-linux-8/)
+- [Connexion SSH à une VM VirtualBox configurée en NAT](https://blog.microlinux.fr/ssh-virtualbox-nat/)
+- [Construire des paquets RPM avec Mock](https://blog.microlinux.fr/mock-rpm-build/)
+- [Copier sa paire de clés GPG vers une autre machine](https://blog.microlinux.fr/copier-cles-gpg/)
+- [Copier, déplacer et renommer : cp et mv](https://blog.microlinux.fr/copier/)
+- [Créer : touch et mkdir](https://blog.microlinux.fr/creer/)
+- [Créer et manipuler des bases de données avec MariaDB](https://blog.microlinux.fr/utiliser-mariadb/)
+- [Créer et manipuler des liens](https://blog.microlinux.fr/liens/)
+- [Débuter avec Vagrant et KVM sous Rocky Linux 8](https://blog.microlinux.fr/debuter-vagrant-kvm-rocky-linux-8/)
+- [Docker par la pratique (1) – Présentation et installation](https://blog.microlinux.fr/formation-docker-01-intro-install/)
+- [Docker par la pratique (10) – Gérer les volumes](https://blog.microlinux.fr/formation-docker-10-volumes/)
+- [Docker par la pratique (11) – Conteneurs et réseaux](https://blog.microlinux.fr/formation-docker-11-reseaux/)
+- [Docker par la pratique (12) – Combiner les conteneurs](https://blog.microlinux.fr/formation-docker-12-combiner/)
+- [Docker par la pratique (13) – Compose](https://blog.microlinux.fr/formation-docker-13-compose/)
+- [Docker par la pratique (2) – Les commandes de base](https://blog.microlinux.fr/formation-docker-02-commandes/)
+- [Docker par la pratique (3) – Gérer les images](https://blog.microlinux.fr/formation-docker-03-images/)
+- [Docker par la pratique (4) – Exécuter un conteneur](https://blog.microlinux.fr/formation-docker-04-executer/)
+- [Docker par la pratique (5) – Exposer un conteneur](https://blog.microlinux.fr/formation-docker-05-exposer/)
+- [Docker par la pratique (6) – Se connecter à un conteneur](https://blog.microlinux.fr/formation-docker-06-connexion/)
+- [Docker par la pratique (7) – Gérer les logs](https://blog.microlinux.fr/formation-docker-07-logs/)
+- [Docker par la pratique (8) – Utiliser les registres](https://blog.microlinux.fr/formation-docker-08-registres/)
+- [Docker par la pratique (9) – Construire une image](https://blog.microlinux.fr/formation-docker-09-construire/)
+- [Éditer des fichiers texte : Vi](https://blog.microlinux.fr/vim/)
+- [Filtrer les spams avec Postfix et les RBL](https://blog.microlinux.fr/filtrage-spams-postfix-rbl/)
+- [Filtrer les spams avec SpamAssassin sous Rocky Linux 8](https://blog.microlinux.fr/spamassassin-rocky-linux-8/)
+- [Gérer les archives compressées](https://blog.microlinux.fr/archives/)
+- [Gérer les droits d’accès](https://blog.microlinux.fr/droits/)
+- [Gérer les mises à jour WordPress avec WP-CLI](https://blog.microlinux.fr/wp-cli-update/)
+- [Gérer les processus](https://blog.microlinux.fr/processus/)
+- [Gérer les services](https://blog.microlinux.fr/services/)
+- [Gérer les utilisateurs](https://blog.microlinux.fr/utilisateurs/)
+- [Git par la pratique (1) – Présentation](https://blog.microlinux.fr/formation-git-01-presentation/)
+- [Git par la pratique (10) – Le merge commit](https://blog.microlinux.fr/formation-git-10-merge-commit/)
+- [Git par la pratique (11) – Gérer les conflits](https://blog.microlinux.fr/formation-git-11-conflits/)
+- [Git par la pratique (12) – Afficher l’historique](https://blog.microlinux.fr/formation-git-12-logs/)
+- [Git par la pratique (13) – Afficher les modifications](https://blog.microlinux.fr/formation-git-13-diff/)
+- [Git par la pratique (14) – Rectifier le tir](https://blog.microlinux.fr/formation-git-14-restore/)
+- [Git par la pratique (15) – Supprimer des fichiers](https://blog.microlinux.fr/formation-git-15-supprimer/)
+- [Git par la pratique (16) – Renommer des fichiers](https://blog.microlinux.fr/formation-git-16-renommer/)
+- [Git par la pratique (17) – Renommer des branches](https://blog.microlinux.fr/formation-git-17-renommer-branches/)
+- [Git par la pratique (18) – Prise de tête avec HEAD](https://blog.microlinux.fr/formation-git-18-head/)
+- [Git par la pratique (19) – Retour vers le commit](https://blog.microlinux.fr/formation-git-19-retour-commit/)
+- [Git par la pratique (2) – Installation & Configuration](https://blog.microlinux.fr/formation-git-02-installation-configuration/)
+- [Git par la pratique (20) – Cloner un dépôt](https://blog.microlinux.fr/formation-git-20-clone/)
+- [Git par la pratique (21) – Publier vos commits](https://blog.microlinux.fr/formation-git-21-push/)
+- [Git par la pratique (22) – Gare à ce que vous publiez !](https://blog.microlinux.fr/formation-git-22-remote/)
+- [Git par la pratique (23) – La fusion revisitée](https://blog.microlinux.fr/formation-git-23-merge/)
+- [Git par la pratique (24) – Le pull request](https://blog.microlinux.fr/formation-git-24-pull-request/)
+- [Git par la pratique (3) – Accéder à GitHub et GitLab](https://blog.microlinux.fr/formation-git-03-acces-github-gitlab/)
+- [Git par la pratique (4) – Initialiser un dépôt Git](https://blog.microlinux.fr/formation-git-04-initialiser/)
+- [Git par la pratique (5) – Les fichiers dans tous leurs états](https://blog.microlinux.fr/formation-git-05-fichiers-etats/)
+- [Git par la pratique (6) – État des lieux](https://blog.microlinux.fr/formation-git-06-etat-des-lieux/)
+- [Git par la pratique (7) – Les idées fusent](https://blog.microlinux.fr/formation-git-07-idees-fusent/)
+- [Git par la pratique (8) – Utiliser les branches](https://blog.microlinux.fr/formation-git-08-branches/)
+- [Git par la pratique (9) – Le fast-forward merge](https://blog.microlinux.fr/formation-git-09-fast-forward-merge/)
+- [Hébergement OwnCloud sous Rocky Linux 8](https://blog.microlinux.fr/owncloud-rocky-linux-8/)
+- [Hébergement sécurisé avec Apache et SSL sous Rocky Linux 8](https://blog.microlinux.fr/apache-ssl-rocky-linux-8/)
+- [Hébergement WordPress sous Rocky Linux 8](https://blog.microlinux.fr/wordpress-rocky-linux-8/)
+- [Héberger un webmail simple avec Roundcube sous Rocky Linux 8](https://blog.microlinux.fr/roundcube-rocky-linux-8/)
+- [Installer Citrix Workspace sous Rocky Linux 8](https://blog.microlinux.fr/citrix-workspace-rocky-linux-8/)
+- [Installer des logiciels depuis le code source](https://blog.microlinux.fr/logiciels-source/)
+- [Installer un hyperviseur KVM sous Rocky Linux 8](https://blog.microlinux.fr/hyperviseur-kvm-rocky-linux-8/)
+- [Installer un hyperviseur KVM sous Rocky Linux 8](https://blog.microlinux.fr/hyperviseur-kvm-rocky-linux-8/)
+- [Installer un hyperviseur KVM sous Rocky Linux 8](https://blog.microlinux.fr/hyperviseur-kvm-rocky-linux-8/)
+- [Installer un serveur de bases de données MariaDB sous Rocky Linux 8](https://blog.microlinux.fr/installation-mariadb-rocky-linux-8/)
+- [Installer un serveur dédié Rocky Linux 8 chez Scaleway](https://blog.microlinux.fr/dedibox-rocky-linux-8/)
+- [Installer un système de base Rocky Linux 8](https://blog.microlinux.fr/installation-rocky-linux-8/)
+- [Installer VirtualBox](https://blog.microlinux.fr/virtualbox-formation/)
+- [La structure des répertoires](https://blog.microlinux.fr/structure/)
+- [Les commandes de sortie](https://blog.microlinux.fr/les-commandes-de-sortie/)
+- [Les outils de recherche](https://blog.microlinux.fr/recherche/)
+- [Linux, Shakespeare et Molière](https://blog.microlinux.fr/linux-i18n/)
+- [Mémento : BIND sur un serveur dédié sous Rocky Linux 8](https://blog.microlinux.fr/memento-bind-dedibox-rocky-linux-8/)
+- [Mémento : serveur LAMP sous Rocky Linux 8](https://blog.microlinux.fr/memento-lamp-rocky-linux-8/)
+- [Mémento : serveur LAMP sous Rocky Linux 8](https://blog.microlinux.fr/memento-lamp-rocky-linux-8/)
+- [Mettre à jour OwnCloud sous Rocky Linux 8](https://blog.microlinux.fr/owncloud-update-rocky-linux-8/)
+- [Mettre en place un dépôt de paquets RPM](https://blog.microlinux.fr/depot-rpm/)
+- [Mises à jour automatiques avec DNF Automatic sous Rocky Linux 8](https://blog.microlinux.fr/dnf-automatic-rocky-linux-8/)
+- [Monter son serveur mail de A à Z sous Rocky Linux 8](https://blog.microlinux.fr/serveur-mail-rocky-linux-8/)
+- [Monter son serveur mail de A à Z sous Rocky Linux 8](https://blog.microlinux.fr/serveur-mail-rocky-linux-8/)
+- [Monter un disque RAID](https://blog.microlinux.fr/montage-raid/)
+- [Naviguer en mode texte](https://blog.microlinux.fr/naviguer/)
+- [Partitionner et formater un disque dur](https://blog.microlinux.fr/partitionnement/)
+- [Partitionner un disque sous Rocky Linux 8](https://blog.microlinux.fr/partitionnement-simple-el8/)
+- [PHP à la sauce Remi sous Rocky Linux 8](https://blog.microlinux.fr/php-remi-rocky-linux-8/)
+- [Postfix minimal sur un serveur dédié sous Rocky Linux 8](https://blog.microlinux.fr/postfix-minimal-dedibox-rocky-linux-8/)
+- [Postfix minimal sur un serveur dédié sous Rocky Linux 8](https://blog.microlinux.fr/postfix-minimal-dedibox-rocky-linux-8/)
+- [Postfix minimal sur une machine locale sous Rocky Linux 8](https://blog.microlinux.fr/postfix-minimal-lan-rocky-linux-8/)
+- [Postfix, SPF, DKIM et DMARC sous Rocky Linux 8](https://blog.microlinux.fr/postfix-spf-dkim-dmarc-rocky-linux-8/)
+- [Premiers pas sur le réseau](https://blog.microlinux.fr/reseau/)
+- [Principe KISS](https://fr.wikipedia.org/wiki/Principe_KISS)
+- [Protéger SSH avec Fail2ban sous Rocky Linux 8](https://blog.microlinux.fr/fail2ban-ssh-rocky-linux-8/)
+- [RAID 1 avec deux disques sous Rocky Linux 8](https://blog.microlinux.fr/raid1-el8/)
+- [RAID 6 avec quatre disques sous Rocky Linux 8](https://blog.microlinux.fr/raid6-el8/)
+- [Réinitialiser les disques d’un serveur](https://blog.microlinux.fr/reinitialiser-disques/)
+- [Sauvegarder et restaurer une base de données MariaDB](https://blog.microlinux.fr/sauvegarder-restaurer-mariadb/)
+- [Se connecter à un serveur Linux](https://blog.microlinux.fr/connexion-serveur-linux/)
+- [SELinux expliqué aux administrateurs frileux](https://blog.microlinux.fr/selinux/)
+- [Serveur DNS avec BIND sous Rocky Linux 8](https://blog.microlinux.fr/bind-rocky-linux-8/)
+- [Serveur IMAP avec Dovecot sous Rocky Linux 8](https://blog.microlinux.fr/dovecot-rocky-linux-8/)
+- [Serveur mail multi-domaines avec Postfix sous Rocky Linux 8](https://blog.microlinux.fr/postfix-rocky-linux-8/)
+- [Serveur NFS sous Rocky Linux 8](https://blog.microlinux.fr/serveur-nfs-rocky-linux-8/)
+- [Serveur NIS sous Rocky Linux 8](https://blog.microlinux.fr/serveur-nis-rocky-linux-8/)
+- [Serveur web Apache sous Rocky Linux 8](https://blog.microlinux.fr/apache-rocky-linux-8/)
+- [Supprimer : rm et rmdir](https://blog.microlinux.fr/supprimer/)
+- [Surveiller les logs de Postfix sous Rocky Linux 8](https://blog.microlinux.fr/pflogsumm-rocky-linux-8/)
+- [Synchronisation NTP avec Chrony sous Rocky Linux 8](https://blog.microlinux.fr/chrony-rocky-linux-8/)
+- [Travailler efficacement dans le shell](https://blog.microlinux.fr/travailler-efficacement/)
+- [Un hyperviseur et trois VMs Rocky Linux 8 sur une Dedibox Start](https://blog.microlinux.fr/kvm-rocky-linux-8-dedibox-start/)
+- [Utiliser la console de secours Scaleway](https://blog.microlinux.fr/console-de-secours-scaleway/)
+- [Utiliser la console de secours sous Rocky Linux 8](https://blog.microlinux.fr/console-de-secours-el8/)
+- [Utiliser le gestionnaire de paquets DNF](https://blog.microlinux.fr/logiciels-dnf/)
+- [Utiliser le gestionnaire de paquets RPM](https://blog.microlinux.fr/logiciels-rpm/)
+- [Vagrant et KVM sous Rocky Linux 8](https://blog.microlinux.fr/vagrant-kvm-rocky-linux-8/)
+- [Vérifier la santé matérielle d’un disque dur](https://blog.microlinux.fr/disque-dur-smartctl/)
+- [Visualiser : more et less](https://blog.microlinux.fr/visualiser/)
+- [Windows 10 pour les manchots (1) – Installation](https://blog.microlinux.fr/windows-10-installation/)
+- [Windows 10 pour les manchots (2) – Configuration](https://blog.microlinux.fr/windows-10-configuration/)
+- [Windows 10 pour les manchots (3) – Applications](https://blog.microlinux.fr/windows-10-applications/)
 
 
 -------------------------------------------------------------------------------------------------
@@ -46,13 +168,7 @@
 - [Comment éviter que vos mails arrivent en SPAM chez les destinataires](https://www.tutos-informatique.com/mails-en-spam/)
 
 
-### Mantis (Bug Tracker)
-- [How to Install Mantis Bug Tracker on CentOS 8](https://www.howtoforge.com/how-to-install-mantis-bug-tracker-on-centos-8/)
-- [How to Install and Configure Mantis Bug Tracker on Ubuntu 18.04 LTS](https://www.howtoforge.com/how-to-install-and-configure-mantis-bug-tracker-on-ubuntu/)
 
-
-### Marp
-- [Bye-bye PowerPoint. Hello Marp!](https://towardsdatascience.com/bye-bye-powerpoint-hello-marp-3c0e3b3198b1)
 
 
 ### Matomo (Piwik)
@@ -71,7 +187,7 @@
 - [How to Install Matomo on CentOS 7](https://www.rosehosting.com/blog/how-to-install-matomo-on-centos-7/)
 - [How to Install Matomo on Ubuntu 16.04](https://www.rosehosting.com/blog/how-to-install-matomo-on-ubuntu-16-04/)
 - [How to Install Matomo Web Analytics on Ubuntu 18.04 LTS](https://www.howtoforge.com/how-to-install-matomo-analytics-on-ubuntu-1804/)
-
+- [Piwik Matomo : contourner Ublock, Adblock et les autres bloqueurs de pub](https://memo-linux.com/piwik-matomo-contourner-ublock-adblock-et-les-autres-bloqueurs-de-pub/)
 
 
 ### MCollective
@@ -79,8 +195,6 @@
 - [Orchestration with MCollective, Part II](https://www.linuxjournal.com/content/orchestration-mcollective-part-ii)
 
 
-### MediaInfo
-- [Display Media Files Information On Linux Using MediaInfo](https://ostechnix.com/display-media-files-information-on-linux-using-mediainfo/)
 
 ### MediaWiki
 - [How to Install MediaWiki on CentOS 7](https://www.tecmint.com/install-mediawiki-on-centos-7/)
@@ -99,8 +213,6 @@
 
 
 
-### Minio
-- [Comment configurer un serveur de stockage d'objets en utilisant Minio sur Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-object-storage-server-using-minio-on-ubuntu-18-04-fr)
 
 ### MkCert (Générateur de certificat SSL)
 - [Mkcert - Create SSL Certificates for Local Development on Linux](https://linoxide.com/linux-how-to/mkcert-localhost-ssl-certificates-linux/)
@@ -114,14 +226,6 @@
 - [How to install and use Monit on Ubuntu/Debian Linux server as process supervision tool](https://www.cyberciti.biz/faq/how-to-install-and-use-monit-on-ubuntudebian-linux-server/)
 
 
-### Mono
-- [HOW TO INSTALL MONO ON UBUNTU 20.04](https://linuxhint.com/install_mono_ubuntu/)
-- [How to Install Mono on Debian 10](https://linuxhint.com/install-mono-debian-10/)
-- [How to Install Mono on CentOS 8](https://linuxize.com/post/how-to-install-mono-on-centos-8/)
-- [How to Install Mono on Debian 10](https://linuxize.com/post/how-to-install-mono-on-debian-10/)
-- [How to Install Mono on Ubuntu 20.04](https://linuxize.com/post/how-to-install-mono-on-ubuntu-20-04/)
-- [How to Install Mono on Ubuntu 18.04](https://linuxize.com/post/how-to-install-mono-on-ubuntu-18-04/)
-- [What Is Mono and How Does It Help Windows Switchers New to Linux?](https://www.makeuseof.com/tag/what-is-mono-linux/)
 
 ### Moodle
 - [How to Install Moodle Learning Platform in Ubuntu 20.04](https://www.tecmint.com/install-moodle-in-ubuntu/)
@@ -164,19 +268,6 @@
 - [MRTG Installation and Configuration RHEL7 Step by Step Guide](https://arkit.co.in/mrtg-installation-rhel7/)
 
 
-### Neos CMS
-- [How to Install NEOS CMS on CentOS 7](https://www.howtoforge.com/tutorial/centos-neos-cms-apache-installation/)
-
-
-### Nessus
-- [Installez gratuitement Nessus pour analyser la présence de menaces sur votre réseau informatique !](https://www.geeek.org/installer-gratuitement-nessus-essentials/)
-- [How to install, configure and use Nessus Vulnerability Scanner on CentOS 8](https://www.howtoforge.com/how-to-install-configure-and-use-nessus-vulnerability-scanner-on-centos-8/)
-
-
-
-
-### NetCrunch
-- [NetCrunch by AdRem Software offers powerful tools to monitor your IT Infrastructure](https://reviews.thewindowsclub.com/netcrunch-software-review)
 
 ### NetData
 - [How to protect Netdata instance using basic access authentication](https://blog.sleeplessbeastie.eu/2020/02/14/how-to-protect-netdata-instance-using-basic-access-authentication/)
@@ -185,26 +276,6 @@
 - [How to Monitor Nginx using Netdata on CentOS 7](https://www.howtoforge.com/tutorial/how-to-monitor-nginx-using-netdata-on-centos-7/)
 - [How to Install Netdata Monitoring Tool on Ubuntu 18.04 LTS](https://www.howtoforge.com/tutorial/how-to-install-netdata-monitoring-tool-on-ubuntu/)
   
-
-
-### Nexus
-- [How to Install and Configure Nexus Repository Manager on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-and-configure-nexus-repository-manager-on-ubuntu-20-04/)
-
-
-### ngrep (Network Packet Analyzer for Linux)
-- [ngrep – A Network Packet Analyzer for Linux](https://www.tecmint.com/ngrep-network-packet-analyzer-for-linux/)
-
-
-
-
-### NodeBB
-- [How to install NodeBB Forum with Nginx and Let's Encrypt SSL on Ubuntu 20.04 LTS](https://www.howtoforge.com/tutorial/how-to-install-nodebb-forum-on-ubuntu-2004/)
-- [How to Install NodeBB on Debian 9](https://www.rosehosting.com/blog/how-to-install-nodebb-on-debian-9/)
-
-### Node-Red
-- [Découverte de Node-RED, un puissant logiciel d'automatisation](https://domopi.eu/decouverte-de-node-red-un-puissant-logiciel-d-automatisation/)
-- [Créer un Robot 🤖 de Web Scraping 🕸️ en 2 minutes avec Node-Red](https://www.geeek.org/web-scraping-robot-node-red/)
-- [Découverte de Node-RED, un puissant logiciel d'automatisation](https://domopi.eu/decouverte-de-node-red-un-puissant-logiciel-d-automatisation/)
 
 ### Notepad++
 - [The Ultimate Guide to Notepad+- Keyboard Shortcuts for Windows](https://www.makeuseof.com/notepad-plus-keyboard-shortcuts/)
@@ -215,20 +286,6 @@
 - [How to Install the Notepad+- Plugin Manager and Manage Plugins](https://www.makeuseof.com/tag/notepad-plugin-manager/)
 
 
-### Npcap
-- [How To Download and Install Npcap Library For Windows Packet Capture?](https://www.poftut.com/how-to-download-and-install-npcap-library-for-windows-packet-capture/)
-
-### NUnit 
-- [Model Class Validation Testing Using NUnit](https://dzone.com/articles/model-class-validation-testing-using-nunit-1)
-
-
-### NVidia
-- [NVIDIA Control Panel keeps crashing on Windows 10](https://www.thewindowsclub.com/nvidia-control-panel-keeps-crashing-on-windows-10)
-
-### OATH Toolkit
-- [AUTOMATISEZ VOTRE AUTHENTIFICATION DOUBLE FACTEUR AVEC OATH TOOLKIT](https://blog.wescale.fr/2018/02/08/automatisez-votre-authentification-double-facteur-avec-oath-toolkit/)
- 
-
 
 ### OCS Inventory NG
 - [CentOS 8 : Installer OCS Inventory pour l'inventaire du parc](https://www.linuxtricks.fr/wiki/centos-8-installer-ocs-inventory-pour-l-inventaire-du-parc)
@@ -236,30 +293,10 @@
 - [How To Install OCS Inventory Asset Management Software on Ubuntu 20.04 LTS](https://www.howtoforge.com/how-to-install-ocs-inventory-server-on-ubuntu-2004/)
 - [Installation de OCS Inventory NG sur Fedora](https://www.dsfc.net/logiciel-libre/ocs-inventory-ng/installation-ocs-inventory-ng-fedora/)
 
-### OctoDNS
-- [Comment déployer et gérer votre DNS en utilisant OctoDNS sous Debian 10](https://www.digitalocean.com/community/tutorials/how-to-deploy-and-manage-your-dns-using-octodns-on-debian-10-fr)
-
-
-### Odoo
-- [How to Install Odoo (Open Source ERP and CRM) on CentOS 8](https://www.tecmint.com/install-odoo-in-centos-8/)
-- [How to Cluster Odoo 12 with PostgreSQL Streaming Replication for High Availability](https://severalnines.com/database-blog/how-cluster-odoo-12-postgresql-streaming-replication-high-availability)
-
-### OnlyOffice
-- [How to install ONLYOFFICE Desktop Editors, an alternative office suite for Linux](https://linuxhint.com/install_onlyoffice_linux/)
-- [How to compile ONLYOFFICE Document Server from source code on Ubuntu](https://www.howtoforge.com/how-to-compile-onlyoffice-document-server-from-source-code-on-ubuntu/)
-- [How to create references in ONLYOFFICE with Mendeley, Zotero and EasyBib](https://www.howtoforge.com/how-to-create-references-in-onlyoffice-with-mendeley-zotero-and-easybib/)
-- [How to integrate ONLYOFFICE with Plone CMS](https://www.howtoforge.com/onlyoffice-plone/)
-- [How to Install ONLYOFFICE Document Server with Nginx on Debian 10](https://www.howtoforge.com/how-to-install-onlyoffice-document-server-on-debian-10/)
 
 ### OpenCencus
 - [OpenCensus Metrics and InfluxDB](https://dzone.com/articles/opencensus-metrics-and-influxdb)
 - [Performance monitoring with OpenTracing, OpenCensus, and OpenMetrics](https://www.datadoghq.com/blog/instrument-opencensus-opentracing-and-openmetrics/)
-
-### Open Classifieds
-- [How to Install Open Classifieds on CentOS 7](https://www.rosehosting.com/blog/how-to-install-open-classifieds-on-centos-7/)
-
-### OpenFaaS
-- [How To Install and Secure OpenFaaS Using Docker Swarm on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-openfaas-using-docker-swarm-on-ubuntu-16-04)
 
 
 ### OpenLiteSpeed
@@ -290,9 +327,6 @@
 ### OpenMediaVault
 - [Monter un NAS soi même avec OpenMediaVault](https://www.notarobot.fr/2019/02/04/monter-un-nas-soi-meme-avec-openmediavault/)
 
-### OpenOffice 
-- [Créer une liste déroulante sur Calc dans OpenOffice](https://syskb.com/creer-une-liste-deroulante-sur-calc-dans-openoffice-org/)
-
 ### OpenProject 
 - [Debian 10 64 Bits – Openproject](https://memos.nadus.fr/debian-10-64-bits-openproject/)
 - [How to Install OpenProject on CentOS 7](https://www.howtoforge.com/tutorial/centos-openproject-installation/)
@@ -320,9 +354,6 @@
 - [Instrumenting Java Applications for Tracing with OpenTelemetry](https://logz.io/blog/java-instrumentation-tracing/)
 - [Beginner’s Guide to OpenTelemetry](https://logz.io/learn/opentelemetry-guide/)
 
-### OpenVAS (Open Vulnerability Scanner)
-- [Présentation & Installation d’OpenVAS sur Docker](https://net-security.fr/security/presentation-installation-openvas-sur-docker/)
-
 
 ### OpenVPN
 - [OpenVPN IPv6 and IPv4 configuration](https://4sysops.com/archives/openvpn-ipv6-minimal-configuration/)
@@ -349,21 +380,6 @@
 - [How To Set Up an OpenVPN Server on CentOS 7](https://linuxize.com/post/how-to-set-up-an-openvpn-server-on-centos-7/)
 - [How To Set Up an OpenVPN Server on Ubuntu 18.04](https://linuxize.com/post/how-to-set-up-an-openvpn-server-on-ubuntu-18-04/)
 
-
-### Opera 
-- [Debug JavaScript in Opera in 7 Easy Steps](https://dzone.com/articles/debug-javascript-in-opera-in-7-easy-steps)
-
-
-### Oracle Weblogic
-- [How to Setup and Install Oracle Weblogic in CentOS 7](https://www.howtoforge.com/tutorial/how-to-setup-and-install-oracle-weblogic-in-centos-7/)
-
-### Orchestrator (Tools MySQL)
-- [Getting Started With Orchestrator](https://blog.pythian.com/getting-started-orchestrator/)
-- [Orchestrator Datacenter Detection](https://blog.pythian.com/orchestrator-datacenter-detection/)
-
-
-### OrangeScrum
-- [How to Install and Configure OrangeScrum on Ubuntu 20.04](https://www.howtoforge.com/tutorial/ubuntu-orangescrum-installation/)
 
 ### OSQuery (Supervision)
 - [How to Install Osquery on Debian 10](https://linuxhint.com/install-osquery-debian-10/)
@@ -404,30 +420,11 @@
 ### Packet Tracer
 - [How to install and activate packet tracer in Windows](https://www.computernetworkingnotes.com/ccna-study-guide/how-to-install-and-activate-packet-tracer-in-windows.html)
 
-### PageSpeed (Google)
-- [How to Install Nginx with Google PageSpeed on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-nginx-with-google-pagespeed-on-ubuntu-20-04/)
-- [How To Increase PageSpeed Score By Changing Your Nginx Configuration on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-increase-pagespeed-score-by-changing-your-nginx-configuration-on-ubuntu-16-04)
-
-### Passware Encryption Analyzer
-- [Un freeware Windows pour trouver les fichiers chiffrés présents sur un disque dur](https://korben.info/un-freeware-windows-pour-trouver-les-fichiers-chiffres-presents-sur-un-disque-dur.html)
-
-### Paypal
-- [How to Send Money on PayPal: 6 Different Methods](https://www.makeuseof.com/how-to-send-money-paypal/)
-- [How to Delete Your PayPal Account](https://www.makeuseof.com/delete-your-paypal-account/)
-- [How to Use PayPal: A Beginner's Guide](https://www.makeuseof.com/use-paypal-beginners-guide/)
-
 
 ### Percona Backup for MongoDB
 - [Percona Backup for MongoDB in Action](https://www.percona.com/blog/2019/12/17/percona-backup-for-mongodb-in-action/)
 - [Percona Backup for MongoDB v1.2 Released](https://www.percona.com/blog/2020/05/27/percona-backup-for-mongodb-v1-2-released/)
 - [Avoid Vendor Lock-in with Percona Backup for MongoDB](https://www.percona.com/blog/2019/09/30/avoid-vendor-lock-in-with-percona-backup-for-mongodb/)
-
-
-
-
-### Perlbrew 
-- [Getting started with Perlbrew](https://opensource.com/article/18/7/perlbrew)
-
 
 
 
@@ -440,19 +437,6 @@
 - [Baisser l’impact de l’utilisation de PgAdmin 4 sur PostgreSQL](https://www.dsfc.net/logiciel-libre/postgresql/baisser-impact-utilisation-pgadmin-4-postgresql/)
 
 
-
-### Phabricator (code review, repository hosting and browsing, monitoring tool,  bug tracker)
-- [How to Install Phabricator on Ubuntu 16.04](https://www.rosehosting.com/blog/how-to-install-phabricator-on-ubuntu-16-04/)
-
-
-## Photorec
-
-- [Utilisez et étendez PhotoRec pour récupérer vos données perdues](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-210/utilisez-et-etendez-photorec-pour-recuperer-vos-donnees-perdues)
-
-
-
-  
-
 ### phpIPAM (IP Address Management)
 - [How to Install phpIPAM IP Address Management on Ubuntu 18.04 LTS](https://www.howtoforge.com/how-to-install-phpipam-on-ubuntu-1804/)
 
@@ -463,16 +447,7 @@
 - [How to Install phpPgAdmin on Debian 9](https://www.rosehosting.com/blog/how-to-install-phppgadmin-on-debian-9/)
 
 
-### PicoCMS
-- [How to Install Pico CMS on Ubuntu 18.04 LTS](https://www.howtoforge.com/how-to-install-pico-cms-on-ubuntu-1804-lts/)
-- [Install and Configure Pico CMS on Ubuntu 16.04 LTS](https://www.howtoforge.com/tutorial/install-and-configure-pico-cms-on-ubuntu-1604-lts/)
 
-### Piwigo
-- [How to Install Piwigo on Ubuntu 20.04](https://linoxide.com/how-to-install-piwigo-on-ubuntu-20-04/)
-
-### Piwik
-- [Maîtrisez l’analyse de l’audience de votre site avec Piwik](https://www.guillaume-leduc.fr/maitrisez-lanalyse-de-laudience-de-votre-site-avec-piwik.html)
-- [Piwik Matomo : contourner Ublock, Adblock et les autres bloqueurs de pub](https://memo-linux.com/piwik-matomo-contourner-ublock-adblock-et-les-autres-bloqueurs-de-pub/)
 
 ### Plex Media Server
 - [Install Plex Media Server on CentOS 7/8](https://linoxide.com/centos/install-plex-media-server-on-centos/)
@@ -504,27 +479,12 @@
 - [Powerline – Adds Powerful Statuslines and Prompts to Vim Editor and Bash Terminal](https://www.tecmint.com/powerline-adds-powerful-statuslines-and-prompts-to-vim-and-bash/)
 - https://gist.github.com/cheuerde/f33873b75bde3fe6cd8a
 
-### Prestashop
-- [How to Install PrestaShop on Ubuntu 20.04 with Apache](https://linoxide.com/how-to-install-prestashop-on-ubuntu-20-04-with-apache/)
-- [How to Install PrestaShop with Apache and Let's Encrypt SSL on CentOS 8](https://www.howtoforge.com/how-to-install-prestashop-on-centos-8/)
-
-### Presto
-- [Running Big Data Analytics Queries Using SQL and Presto](https://severalnines.com/database-blog/running-big-data-analytics-queries-using-sql-and-presto)
-
-### Prisma 
-- [How to Manually Set Up a Prisma Server on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-manually-set-up-a-prisma-server-on-ubuntu-18-04)
 
 ### ProcDump (SysInternals / Microsoft)
 - [Debug Linux using ProcDump](https://opensource.com/article/20/7/procdump-linux)
 - [Microsoft releases ProcDump tool for Linux](https://www.ghacks.net/2017/12/08/microsoft-releases-procdump-tool-for-linux/)
 
-### ProjectSend
-- [How to Install ProjectSend with Apache and Let's Encrypt SSL on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-projectsend-with-nginx-on-ubuntu-20-04/)
 
-
-
-### Protractor
-- [How to Perform Cross-Browser Automated Testing Using Protractor](https://dzone.com/articles/how-to-perform-cross-browser-automated-testing-usi)
 
 ### ProtonMail
 - [BACKUP HEADLESS DE SES EMAILS PROTONMAIL SOUS DEBIAN 10](https://www.abyssproject.net/2021/04/backup-headless-de-ses-emails-protonmail-sous-debian-10/)
@@ -532,18 +492,6 @@
 - [How to Send Encrypted Emails to Anyone with ProtonMail](https://www.makeuseof.com/how-to-send-encrypted-emails-to-anyone-with-protonmail/)
 - [ProtonMail propose un outil d’import/export des e-mails](https://www.it-connect.fr/protonmail-propose-un-outil-dimport-export-des-e-mails/)
 - [ProtonMail offre maintenant la cryptographie à courbe elliptique](https://securite.developpez.com/actu/257870/ProtonMail-offre-maintenant-la-cryptographie-a-courbe-elliptique-pour-une-securite-et-une-rapidite-accrues/)
-
-
-
-### Proxytop Utility
-- [Sneak Peek at Proxytop Utility](https://www.percona.com/blog/2018/03/09/sneak-peek-proxytop-utility/)
-
-
-### PSWatch ##
-- [PSWatch : Surveiller les changements de fichiers avec PowerShell](https://www.reddit.com/r/Sysadmin_Fr/comments/b1873a/pswatch_surveiller_les_changements_de_fichiers/)
-
-### Public DNS Server Tool
-- [How to Easily Switch Between Multiple DNS Servers in Windows](https://www.makeuseof.com/tag/switch-dns-servers-windows/)
 
 
 ### Puppeteer (Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol)
@@ -563,28 +511,9 @@
 - [Generate SSH Keys on Windows with PuTTYgen](https://linuxize.com/post/generate-ssh-keys-on-windows-with-puttygen/)
 - [How to Restart Linux server using putty ssh client on Windows](https://www.cyberciti.biz/faq/how-to-restart-linux-server-using-putty-ssh-client/)
 
-
-### PyCharm
-- [PyCharm Debugger Tutorial](https://linuxhint.com/pycharm_debugger_tutorial/)
-- [Best Plugins for PyCharm](https://linuxhint.com/pycharm_plugins/)
-- [PyCharm Git Integration](https://linuxhint.com/pycharm_git_integration/)
-- [Introduction to PyCharm Themes](https://linuxhint.com/pycharm_themes/)
-- [How to use the PyCharm Memory Profiler](https://linuxhint.com/pycharm_memory_profiler/)
-- [Tester depuis Pycharm dans un conteneur Docker](http://www.upidev.com/tutoriels/test-python-pycharm-conteneur-docker/)
-- [How to Install PyCharm on Ubuntu 18.04](https://linuxize.com/post/how-to-install-pycharm-on-ubuntu-18-04/)
-
 ### Pydio
 - [How to Install and Configure Pydio on Ubuntu 18.04 LTS](https://www.howtoforge.com/how-to-install-and-configure-pydio-on-ubuntu-1804/)
 - [How to Install Pydio Web File Manager on Debian 9](https://www.howtoforge.com/tutorial/debian-pydio-installation/)
-
-
-### PyroCMS
-- [How to Install PyroCMS with Nginx an Let's Encrypt SSL on CentOS 8](https://www.howtoforge.com/how-to-install-pyrocms-with-nginx-on-centos-8/)
-
-
-
-### Rainmeter
-- [How to Create Custom Windows Desktop Icons With Rainmeter](https://www.makeuseof.com/tag/custom-desktop-icons-rainmeter/)
 
 ### Rancher
 - [[REX] Un Rancher pour les gouverner tous ?](https://blog.octo.com/un-rancher-pour-les-gouverner-tous/)
@@ -594,13 +523,6 @@
 - [How to Install Rancher Docker Container Manager on Debian](https://www.howtoforge.com/tutorial/debian-rancher-docker-container-manager/)
 - [How to Manage Docker Containers with Rancher on Ubuntu](https://www.howtoforge.com/tutorial/ubuntu-rancher-docker-container-manager/)
 - [How to Install Rancher Docker Container Manager on CentOS 7](https://www.howtoforge.com/tutorial/centos-rancher-docker-container-management-platform/)
-
-### Red Hat Data Grid
-- [Red Hat Data Grid 8 for Beginners](https://dzone.com/articles/red-hat-data-grid-8-for-beginners)
-
-
-### Reddit
-- [How to Search Reddit Effectively: Useful Tips and Tricks to Know](https://www.makeuseof.com/tag/right-way-search-reddit/)
 
 
 ### Robocopy 
@@ -612,21 +534,9 @@
 - [Serveur de sauvegardes avec Rsnapshot sous CentOS 7](https://www.microlinux.fr/rsnapshot-centos-7/)
 
 
-### Rudder
-- [How to Install Rudder System Auditing Tool on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-rudder-system-auditing-tool-on-ubuntu-2004/)
-- [Suivre vos serveurs avec rudder](https://blog.victor-hery.com/2019/07/rudder-outil-conformite.html)
-- [How to Install Rudder System Auditing Tool on Debian 10](https://www.howtoforge.com/how-to-install-rudder-monitoring-software-on-debian-10/)
-
 ### Rufus
 - [Using Rufus to Create Persistent Storage for Debian Live USB](https://linuxhint.com/rufus-persistent-storage-debian-live-usb/)
 
-  
-### Runecast Analyzer
-- [Runecast Analyzer 2.1 with simplified reporting](https://nolabnoparty.com/en/runecast-analyzer-2-1-with-simplified-reporting/)
-- [Runecast Analyzer 2.5 with Horizon support](https://nolabnoparty.com/en/runecast-analyzer-2-5-with-horizon-support/)
-  
-### Runkeeper 
-- [Analyzing Runkeeper Data with the ELK Stack](https://logz.io/blog/runkeeper-elk-stack/)
 
 ### Saltstack 
 - [TESTS D'INTÉGRATION SALTSTACK AVEC DOCKER](https://blog.wescale.fr/2016/02/23/tests-dintegration-saltstack-avec-docker/)
@@ -634,20 +544,8 @@
 
 ### Scrapy (WebScraping)
 - [Installer Scrapy sous Windows](https://blog.lecacheur.com/2017/12/28/installer-scrapy-sous-windows/)
-  
-
-### SeaweedFS
-- [How to Install and Configure SeaweedFS Cluster on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-and-configure-seaweedfs-cluster-on-ubuntu-2004/)
 
 
-### Shaarli 
-- [Shaarli, un outil pour sauvegarder & organiser vos liens](https://net-security.fr/logiciel-libre/shaarli-un-outil-pour-sauvegarder-organiser-vos-liens/)
-- [Shaarli](http://sebsauvage.net/wiki/doku.php?id=php:shaarli&do=)
-- https://github.com/shaarli/Shaarli
-- https://shaarli.readthedocs.io/en/master/
-  
-### Shlink
-- [How to Install Shlink URL Shortener with Nginx on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-shlink-url-shortener-on-ubuntu-20-04/) 
   
 ### Siege (Benchmark)
 - [How to Install and Use Siege Benchmarking Tool on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-and-use-siege-benchmarking-tool-on-ubuntu/)
@@ -660,25 +558,11 @@
 - [Signal : tout comprendre à l’application de messagerie sécurisée à très fort succès](https://www.lemonde.fr/pixels/article/2021/01/11/signal-tout-comprendre-a-l-application-de-messagerie-securisee-a-tres-fort-succes_6065914_4408996.html)
 - [The 10 Best Signal Features You Should Be Using](https://www.makeuseof.com/best-signal-app-features/)
 
-### SimpleSAMLphp
-- [Comment installer et configurer SimpleSAMLphp pour l'authentification SAML sur Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-simplesamlphp-for-saml-authentication-on-ubuntu-18-04-fr)
-
-
 
 ### Snipe-IT
 - [How To Install Snipe-IT Asset Management on CentOS 8](https://computingforgeeks.com/install-snipe-it-asset-management-on-centos-8-linux/)
 - [How to Install Snipe-IT Asset Management Software on Debian 9](https://www.howtoforge.com/tutorial/how-to-install-snipe-it-on-debian-9/)
 
-
-
-### SoundCloud
-- [How to Make a Playlist on SoundCloud](https://www.makeuseof.com/how-to-make-a-soundcloud-playlist/)
-
-### Spacewalk
-- [A step-by-Step Guide to Installing Spacewalk on CentOS 7](https://tobyheywood.com/a-step-by-step-guide-to-installing-spacewalk-on-centos-7/)
-- [Spacewalk – Initial configuration and registering your first client (on CentOS 7)](https://tobyheywood.com/spacewalk-initial-configuration-and-registering-your-first-client-on-centos-7/)
-- [Spacewalk – Post install sanity check](https://tobyheywood.com/spacewalk-post-install-sanity-check/)
- 
 
 ### spamAssasin
 - [Filtrer les spams avec SpamAssassin sous CentOS 7](https://blog.microlinux.fr/spamassassin-centos-7/)
@@ -698,21 +582,6 @@
 - [Introduction à Sphinx, un outil de documentation puissant](https://blog.flozz.fr/2020/09/07/introduction-a-sphinx-un-outil-de-documentation-puissant/)
 - [Introduction à Sphinx, un outil de documentation puissant](https://blog.flozz.fr/2020/09/07/introduction-a-sphinx-un-outil-de-documentation-puissant/)
 - [Building custom documentation workflows with Sphinx](https://opensource.com/article/18/11/building-custom-workflows-sphinx)
-
-### SpiderFoot (Security Scanner)
-- [How to Install SpiderFoot Security Scanner on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-spiderfoot-on-ubuntu-20-04/)
-
-### Shipit
-- [Comment automatiser vos déploiements de production Node.js avec Shipit sur CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-automate-your-node-js-production-deployments-with-shipit-on-centos-7-fr)
-
-### Shopify
-- [Improving The Performance Of Shopify Themes (Case Study)](https://www.smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/)
-
-### Splinter (Web application testing tool)
-- [Splinter: An Easy Way to Test Web Applications](https://opensourceforu.com/2017/10/splinter-easy-way-test-web-applications/)
-  
-### Splunk (Dashboard & Reports)
-- [Creating effective dashboards using Splunk [Tutorial]](https://hub.packtpub.com/creating-effective-dashboards-using-splunk-tutorial/)
 
   
 ### SquidAnalyzer 

@@ -49,5 +49,6 @@
 - [How to Install Squid Proxy Server on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-squid-proxy-server-on-ubuntu-2004/)
 - [Install and Configure Squid Proxy Server on Debian 10 (Buster)](https://linuxhint.com/install_squid_proxy_server_debian/)
 - [Linux Proxy Server](https://dzone.com/articles/linux-proxy-server)
+- [Squid proxy configuration on Linux](https://linuxhint.com/squid-proxy-configuration-linux/)
 
 </details>

@@ -184,6 +184,7 @@
   <div><a href="#apps/jekyll/jekyll.md">Jekyll</a></div>
   <div><a href="#apps/jenkins/jenkins.md">Jenkins</a></div>
   <div><a href="#apps/jira/jira.md">Jira</a></div>
+  <div><a href="#apps/jq/jq.md">Jq</a></div>
 </div>
 
 
