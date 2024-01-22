@@ -583,13 +583,7 @@
 - [Introduction à Sphinx, un outil de documentation puissant](https://blog.flozz.fr/2020/09/07/introduction-a-sphinx-un-outil-de-documentation-puissant/)
 - [Building custom documentation workflows with Sphinx](https://opensource.com/article/18/11/building-custom-workflows-sphinx)
 
-  
-### SquidAnalyzer 
-- [Surveiller le trafic web avec SquidAnalyzer sous CentOS](https://blog.microlinux.fr/squidanalyzer-centos/)
 
-### SquidGuard
-- [Squid proxy configuration on Linux](https://linuxhint.com/squid-proxy-configuration-linux/)
-- [Filtrer le web avec SquidGuard sous CentOS 7](https://blog.microlinux.fr/squidguard-centos-7/)
 
 ### STARTTLS EveryWhere
 - [Activez starttls pour sécuriser votre serveur e-mail](https://www.alsacreations.com/tuto/lire/1770-Activez-starttls-pour-securiser-votre-serveur-e-mail.html)
@@ -602,21 +596,11 @@
 - [Fix Steam Service component error on Windows 10](https://www.thewindowsclub.com/fix-steam-service-component-error-on-windows-10)
 - [Fix Error 503 Service Unavailable – Steam](https://www.thewindowsclub.com/fix-error-503-service-unavailable-steam)
 
-### StreamSets (Data Collector)
-- [Create Microservice Pipelines With StreamSets Data Collector](https://dzone.com/articles/create-microservice-pipelines-with-streamsets-data)
 
 ### Stress-ng (Benchmark)
 - [Stress Test CPU and Memory (VM) On a Linux / Unix With Stress-ng](https://www.cyberciti.biz/faq/stress-test-linux-unix-server-with-stress-ng/)
 - [Stress-ng – Un outil pratique pour tester la stabilité des composants de votre machine en charge élevée](https://la-vache-libre.org/stress-ng-un-outil-pratique-pour-tester-la-stabilite-des-composants-de-votre-machine-en-charge-elevee/)
 - [Stress Test CPU and Memory (VM) On a Linux / Unix With Stress-ng](https://www.cyberciti.biz/faq/stress-test-linux-unix-server-with-stress-ng/)
-
-### SubVersion Server (SVN)
-- [Introduction To Version Control System](https://ostechnix.com/introduction-to-version-control-system/)
-- [SubVersion Server Setup Linux Version Control Software TortoiseSVN](https://arkit.co.in/subversion-server-setup-linux-svn/)
-- [Un serveur SVN en 5 minutes](https://blogduyax.madyanne.fr/2017/un-serveur-svn-en-5-minutes/)
-- [Déplacer un répertoire SVN dans un autre sans perdre l'historique](https://blog.shevarezo.fr/post/2015/04/12/deplacer-repertoire-svn-sans-perdre-historique-log)
-- [How to Setup Apache Subversion with HTTPS Letsencrypt on CentOS 7](https://www.howtoforge.com/tutorial/subversion-svn-with-apache-and-letsencrypt-on-centos/)
-- [How to Setup Apache Subversion with Let's encrypt SSL on Ubuntu 18.04](https://www.howtoforge.com/tutorial/ubuntu-subversion-svn-letsencrypt/)
 
 
 ### Suricata (IDS)
