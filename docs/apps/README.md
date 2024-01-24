@@ -208,12 +208,14 @@
   <div><a href="#apps/libreoffice/libreoffice.md">LibreOffice</a></div>
   <div><a href="#apps/lighttpd/lighttpd.md">Lighttpd</a></div>
   <div><a href="#apps/logstash/logstash.md">Logstash</a></div>
+  <div><a href="#apps/lsyncd/lsyncd.md">Lsyncd - Live Syncing (Mirror) Daemon</a></div>
 </div>
 
 
 ## M
 
 <div class="apps-container">
+  <div><a href="#apps/matomo/matomo.md">Matomo</a></div>
   <div><a href="#apps/memcached/memcached.md">Memcached</a></div>
   <div><a href="#apps/microsoft_access/microsoft_access.md">Microsoft Access</a></div>
   <div><a href="#apps/microsoft_authentificator/microsoft_authentificator.md">Microsoft Authentificator</a></div>

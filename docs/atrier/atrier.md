@@ -1,6 +1,15 @@
 # APPS A TRIER
 ---
 
+- https://learnk8s.io/issues/31
+- https://codefresh.io/blog/a-comprehensive-overview-of-argo-cd-architectures-2023/
+- https://bobcares.com/blog/glusterfs-transport-endpoint-is-not-connected/
+- https://dev.to/docker/top-200-kubernetes-tools-for-devops-engineer-like-you-3h7e
+- https://phoenixnap.com/kb/
+- https://docs.gluster.org/en/main/CLI-Reference/cli-main/#peer-commands
+- https://docs.gluster.org/en/main/Troubleshooting/troubleshooting-afr/#ii-self-heal-is-stuck-not-getting-completed
+- https://arzhost.com/blogs/gluster-fs-transport-endpoint-is-not-connected-how-to-fix-it/
+
 
 ### GitOps
 - [An illustrated guide to GitOps](https://www.redhat.com/architect/illustrated-guide-gitops)
@@ -147,15 +156,65 @@
 - [Windows 10 pour les manchots (1) – Installation](https://blog.microlinux.fr/windows-10-installation/)
 - [Windows 10 pour les manchots (2) – Configuration](https://blog.microlinux.fr/windows-10-configuration/)
 - [Windows 10 pour les manchots (3) – Applications](https://blog.microlinux.fr/windows-10-applications/)
-
+- [E-mail sécurisé : le chiffrement de bout en bout en est le cœur](https://blog.mailfence.com/fr/e-mail-securise-le-chiffrement-de-bout-en-bout-en-est-le-coeur/)
+- [Chiffrement OpenPGP, les meilleures pratiques.](https://blog.mailfence.com/fr/meilleures-pratiques-de-chiffrement-openpgp/)
+- [Les meilleures pratiques de signature numérique OpenPGP](https://blog.mailfence.com/fr/meilleures-pratiques-de-signature-numerique-openpgp/)
+- [Cours de sensibilisation à la sécurité et la confidentialité des emails](https://blog.mailfence.com/fr/sensibilisation-la-securite-et-la-confidentialite-des-emails/)
+- [Lettre Ouverte sur le Règlement CSA : NON au Client-Side Scanning!](https://blog.mailfence.com/fr/reglement-csa-lettre-ouverte/)
+- [Transfert De Fichiers Sécurisé: 5 Méthodes Infaillibles à Utiliser](https://blog.mailfence.com/fr/transfert-securise-de-fichiers/)
+- [Bloquer des Courriels dans Outlook : 5 Méthodes Pratiques à Utiliser](https://blog.mailfence.com/fr/bloquer-des-courriels-dans-outlook/)
+- [Comment se Débarrasser de Vieux Téléphones Portables : Protéger vos Secrets, Étape par Étape](https://blog.mailfence.com/fr/comment-se-debarrasser-de-vieux-telephones-portables-proteger-vos-secrets-etape-par-etape/)
+- [Email Bombing : 7 Techniques Essentielles pour Protéger votre Boîte de Réception](https://blog.mailfence.com/fr/email-bombing/)
+- [Qu’est ce que le champ Cci ?](https://blog.mailfence.com/fr/quest-ce-que-cci/)
+- [Qu’est-ce que le “Cc” dans un email ?](https://blog.mailfence.com/fr/qu-est-ce-que-cc-dans-un-email/)
+- [La politique DMARC et sa mise en œuvre par Mailfence.](https://blog.mailfence.com/fr/strategie-dmarc-mailfence/)
+- [Ingénierie sociale : Qu’est-ce qu’une attaque de whaling ?](https://blog.mailfence.com/fr/ingenierie-sociale-attaque-whaling/)
+- [Spear phishing : Qu’est-ce que c’est et comment l’éviter ?](https://blog.mailfence.com/fr/distinguer-spear-phishing-du-phishing/)
+- [Qu’est-ce que l’interopérabilité et pourquoi est-elle importante ?](https://blog.mailfence.com/fr/interoperabilite-pourquoi-est-elle-importante/)
+- [Sécurité des emails : les 10 meilleures pratiques](https://blog.mailfence.com/fr/securite-des-emails-les-10-meilleures-pratiques-pour-franchir-sereinement-lannee-2022/)
+- [11 bonnes habitudes en matière de mots de passe pour protéger vos comptes](https://blog.mailfence.com/fr/11-bonnes-habitudes-mots-de-passe-proteger-comptes/)
+- [12 astuces pour protéger vos données](https://blog.mailfence.com/fr/astuces-pour-proteger-vos-donnees/)
+- [Sécurité : 10 astuces pour protéger votre ordinateur et vos autres appareils contre les hackers](https://blog.mailfence.com/fr/10-astuces-pour-proteger-votre-ordinateur/)
+- [5 Mauvaises Habitudes D’Utilisation De Mot De Passe](https://blog.mailfence.com/fr/5-pires-habitudes-de-mot-de-passe/)
+- [7 Conseils Pour Sécuriser Votre Compte d’Email](https://blog.mailfence.com/fr/preserver-la-securite-de-votre-messagerie-privee/)
+- [C’est quoi OpenPGP ?](https://blog.mailfence.com/fr/quest-ce-qu-openpgp-confidentialite-chiffrement/)
+- [Machine virtuelle : c’est quoi et à quoi ça sert ?](https://blog.mailfence.com/fr/machine-virtuelle-utilisations/)
+- [Quelles mesures prendre en cas d’email piraté](https://blog.mailfence.com/fr/email-pirate-mesures-a-prendre/)
+- [Qu’est-ce qu’un ordinateur zombie et comment l’éviter ?](https://blog.mailfence.com/fr/comment-empecher-votre-machine-de-devenir-un-zombie/)
+- [Les 7 plus grandes erreurs à éviter en matière de sécurité des emails](https://blog.mailfence.com/fr/les-7-plus-grandes-erreurs-a-eviter-en-matiere-de-securite-des-emails/)
+- [Comment se protéger des ransomwares : les 5 meilleures manières](https://blog.mailfence.com/fr/proteger-votre-appareil-contre-les-ransomwares/)
+- [The Privacy Pledge : Cinq principes pour bâtir un Internet respectueux de la vie privée par défaut](https://blog.mailfence.com/fr/charte-privacy-pledge-batir-un-internet-respectueux-de-la-vie-privee-par-defaut/)
+- [Comment protéger votre vie privée en ligne grâce à nos 6 conseils](https://blog.mailfence.com/fr/6-astuces-importantes-pour-proteger-votre-vie-privee-en-ligne/)
+- [Ingénierie sociale : Qu’est-ce qu’un Scareware ?](https://blog.mailfence.com/fr/ingenierie-sociale-scareware/)
+- [Il est temps de regagner notre ePrivacy](https://blog.mailfence.com/fr/regagner-notre-eprivacy/)
+- [Qu’est-ce que le spoofing d’email et comment le repérer ?](https://blog.mailfence.com/fr/quest-ce-que-l-usurpation-d-email-et-comment-la-reperer/)
+- [Comment reconnaître les attaques d’ingénierie sociale ?](https://blog.mailfence.com/fr/quest-ce-que-lingenierie-sociale/)
+- [Ingénierie sociale : Qu’est-ce que le Shoulder Surfing ?](https://blog.mailfence.com/fr/ingenierie-sociale-quest-ce-que-le-shoulder-surfing/)
+- [Ingénierie sociale : qu’est-ce que le phishing (ou hameçonnage) ?](https://blog.mailfence.com/fr/ingenierie-sociale-quest-ce-que-le-phishing-ou-hameconnage/)
+- [Emails signés numériquement : Que sont les signatures digitales et comment fonctionnent-elles ?](https://blog.mailfence.com/fr/securite-emails-signatures-numeriques/)
+- [POP3 ou IMAP ou Exchange ActiveSync : quelle est la différence ?](https://blog.mailfence.com/fr/protocoles-pop3-imap-exchange-activesync/)
+- [Chiffrement symétrique ou asymétrique : Quelle est la différence ?](https://blog.mailfence.com/fr/difference-chiffrement-symetrique-asymetrique/)
+- [Chiffrement de bout en bout. Qu’est-ce que c’est et comment ça marche ?](https://blog.mailfence.com/fr/cryptage-de-bout-en-bout/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 
 
-
-### Lsyncd
-- [How to Synchronize Directories Using Lsyncd on Ubuntu 20.04](https://www.howtoforge.com/how-to-synchronize-directories-using-lsyncd-on-ubuntu/)
 
 
 ### Lynis (audit sécurité)
@@ -166,28 +225,6 @@
 
 ### Mail
 - [Comment éviter que vos mails arrivent en SPAM chez les destinataires](https://www.tutos-informatique.com/mails-en-spam/)
-
-
-
-
-
-### Matomo (Piwik)
-- [Installation de Matomo sur Debian afin d'analyser l'audience de votre site Web](https://blog.syntik.fr/installation-de-matomo-sur-debian-audience-web/)
-- [Installer Matomo avec Docker](https://www.grottedubarbu.fr/matomo-docker/)
-- [How to Install Matomo (Piwik) Web Analytics on CentOS 8](https://www.howtoforge.com/how-to-install-matomo-piwik-on-centos-8/)
-- [How to Install Matomo Web Analytics on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-matomo-web-analytics-on-ubuntu-2004/)
-- [Installer Matomo](https://www.arsouyes.org/blog/2020/25_Matomo_Install/)
-- [Mesurer son audience avec ses logs d’accès et Matomo](https://www.arsouyes.org/blog/2020/26_Matomo_Logs/)
-- [Configurer HTTPS pour Matomo](https://www.arsouyes.org/blog/2020/29_Matomo_HTTPS/)
-- [Installer Matomo avec Docker](https://www.grottedubarbu.fr/matomo-docker/)
-- [How to Install Matomo Web Analytics with Nginx on FreeBSD 12.0](https://www.howtoforge.com/how-to-install-matomo-web-analytics-on-freebsd-120/)
-- [How to Install Matomo Web Analytics on Fedora 29](https://www.howtoforge.com/how-to-install-matomo-web-analytics-on-fedora-29/)
-- [How to Install Matomo Web Analytics on CentOS 7](https://www.howtoforge.com/how-to-install-matomo-web-analytics-on-centos-7/)
-- [How to Install Matomo Web Analytics on Debian 9](https://www.howtoforge.com/how-to-install-matomo-web-analytics-on-debian-9/)
-- [How to Install Matomo on CentOS 7](https://www.rosehosting.com/blog/how-to-install-matomo-on-centos-7/)
-- [How to Install Matomo on Ubuntu 16.04](https://www.rosehosting.com/blog/how-to-install-matomo-on-ubuntu-16-04/)
-- [How to Install Matomo Web Analytics on Ubuntu 18.04 LTS](https://www.howtoforge.com/how-to-install-matomo-analytics-on-ubuntu-1804/)
-- [Piwik Matomo : contourner Ublock, Adblock et les autres bloqueurs de pub](https://memo-linux.com/piwik-matomo-contourner-ublock-adblock-et-les-autres-bloqueurs-de-pub/)
 
 
 ### MCollective
