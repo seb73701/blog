@@ -47,6 +47,7 @@
 - [Mozilla Thunderbird: Every Keyboard Shortcut You Need to Master](https://www.makeuseof.com/thunderbird-keyboard-shortcuts-cheat-sheet/)
 - [Profils – là où Thunderbird conserve vos messages et autres données utilisateur](https://support.mozilla.org/fr/kb/profils-thunderbird-conserve-donnees-utilisateur)
 - [Reduce the size of email headers in Thunderbird with Compact Headers](https://www.ghacks.net/2020/12/18/reduce-the-size-of-email-headers-in-thunderbird-with-compact-headers/)
+- [The most useful Thunderbird shortcuts](https://www.ghacks.net/2021/02/08/the-most-useful-thunderbird-shortcuts/)
 - [Thunderbird: chiffrer ses mails via Enigmail et PGP](https://notamax.be/thunderbird-chiffrer-ses-mails-via-enigmail-et-pgp/)
 - [Windows Taskbar Unread Badge displays a dynamic icon to indicate the total number of unread mails in Thunderbird](https://www.ghacks.net/2020/12/21/windows-taskbar-unread-badge-displays-a-dynamic-icon-to-indicate-the-total-number-of-unread-mails-in-thunderbird/)
 - [You need to use a Master Password in Thunderbird if you use OpenPGP](https://www.ghacks.net/2020/12/07/you-need-to-use-a-master-password-in-thunderbird-if-you-use-openpgp/)

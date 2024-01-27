@@ -27,6 +27,8 @@
 - https://www.unix-experience.fr/
 - https://kofler.info/blog/
 - https://fr.linux-console.net/
+- https://xavki.blog/
+- https://zarak.fr/
 
 ## PAGES STATUS
 

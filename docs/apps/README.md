@@ -96,6 +96,7 @@
 
 <div class="apps-container">
   <div><a href="#apps/eclipse/eclipse.md">Eclipse</a></div>
+  <div><a href="#apps/eclipse_mosquitto/eclipse_mosquitto.md">Eclipse Mosquitto</a></div>
   <div><a href="#apps/efk_stack/efk_stack.md" title="Elasticsearch + Fluentd + Kibana">EFK Stack</a></div>
   <div><a href="#apps/elassandra/elassandra.md" title="Elastisearch + Cassandra">Elassandra</a></div>
   <div><a href="#apps/elasticsearch/elasticsearch.md">Elasticsearch</a></div>
@@ -240,8 +241,11 @@
   <div><a href="#apps/microsoft_visual_studio_code/microsoft_visual_studio_code.md">Microsoft Visual Studio Code</a></div>
   <div><a href="#apps/microsoft_word/microsoft_word.md">Microsoft Word</a></div>
   <div><a href="#apps/mkcert/mkcert.md">MkCert</a></div>
+  <div><a href="#apps/moodle/moodle.md">Moodle</a></div>
+  <div><a href="#apps/monit/monit.md">Monit</a></div>
   <div><a href="#apps/mozilla_firefox/mozilla_firefox.md">Mozilla Firefox</a></div>
   <div><a href="#apps/mozilla_thunderbird/mozilla_thunderbird.md">Mozilla Thunderbird</a></div>
+  <div><a href="#apps/mp3tag/mp3tag.md">MP3Tag</a></div>
 </div>
 
 ## N

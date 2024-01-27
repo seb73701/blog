@@ -220,66 +220,6 @@
 -------------------------------------------------------------------------------------------------
 
 
-### Monit
-- [Debian 9 64 Bits – Monit](https://memos.nadus.fr/debian-9-64-bits-monit/)
-- [How to Install Monit Monitoring Tool on Ubuntu 16.04](https://dzone.com/articles/how-to-install-monit-monitoring-tool-on-ubuntu-160)
-- [How to monitor background process using Monit](https://blog.sleeplessbeastie.eu/2014/11/04/how-to-monitor-background-process-using-monit/)
-- [How to monitor TigerVNC service using Monit](https://blog.sleeplessbeastie.eu/2014/11/11/how-to-monitor-tigervnc-service-using-monit/)
-- [Monit - A quick look at the web-interface](https://blog.sleeplessbeastie.eu/2014/10/14/monit-a-quick-look-at-the-web-interface/)
-- [How to install and use Monit on Ubuntu/Debian Linux server as process supervision tool](https://www.cyberciti.biz/faq/how-to-install-and-use-monit-on-ubuntudebian-linux-server/)
-
-
-
-### Moodle
-- [How to Install Moodle Learning Platform in Ubuntu 20.04](https://www.tecmint.com/install-moodle-in-ubuntu/)
-- [How to Install Moodle Learning Platform with Nginx in CentOS 8](https://www.tecmint.com/install-moodle-with-nginx-in-centos-8/)
-- [Moodle Plugins for Online Education: The Joy of Learning](https://www.opensourceforu.com/2020/12/moodle-plugins-for-online-education-the-joy-of-learning/)
-- [Teach a virtual class with Moodle on Linux](https://opensource.com/article/20/10/moodle)
-- [5 useful Moodle plugins to engage students](https://opensource.com/article/21/3/moodle-plugins)
-- [How to Install Moodle on Ubuntu 20.04](https://linoxide.com/how-to-install-moodle-on-ubuntu-20-04/)
-- [How to Install Moodle with Nginx and Let's Encrypt SSL on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-moodle-on-ubuntu-20-04/)
-- [Adding External JavaScript Files (.js) Into Moodle](https://dzone.com/articles/adding-external-javascript-files-js-into-moodle)
-- [How to Install Moodle on Ubuntu 16.04](https://www.rosehosting.com/blog/how-to-install-moodle-on-ubuntu-16-04/)
-- [How to install the Moodle learning management system](https://opensource.com/article/18/4/how-install-moodle-learning-management-system)
-- [Install Moodle eLearning Platform on Debian 9](https://www.howtoforge.com/tutorial/debian-moodle-e-learning-platform/)
-  
-### Mosquitto (MQTT Messaging Broker)
-- [La sécurisation du protocole MQTT](https://domopi.eu/la-securisation-du-protocole-mqtt/)
-- [How to Install and Secure the Mosquitto MQTT Messaging Broker on Debian 9](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-debian-9)
-- [How to Install and Secure the Mosquitto MQTT Messaging Broker on Debian 10](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-debian-10)
-- [MQTT Data Throttling](https://dzone.com/articles/mqtt-throttling-data)
-- [How to Install and Secure the Mosquitto MQTT Messaging Broker on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-18-04)
-- [How to Install and Secure the Mosquitto MQTT Messaging Broker on Ubuntu 18.04 [Quickstart]](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-18-04-quickstart)
-
-
-### Mozilla Firefox Replay
-- [Comment utiliser Firefox Relay ?](https://korben.info/comment-utiliser-firefox-relay.html)
-
-### Mozilla SOPS
-- [Gérer ses secrets avec Mozilla SOPS](https://blog.ippon.fr/2020/05/12/gerer-ses-secrets-avec-mozilla-sops/)
-
-### Mozilla Thunderbird
-- [The most useful Thunderbird shortcuts](https://www.ghacks.net/2021/02/08/the-most-useful-thunderbird-shortcuts/)
-
-### MP3Tag
-- [Why MP3tag Is the Only Music Tag Editor You’ll Ever Need](https://www.makeuseof.com/tag/music-tag-editor-mp3tag/)
-- [Using Python to Manage MP3 Tags](https://opensourceforu.com/2018/05/using-python-to-manage-mp3-tags/)
-- [Why MP3tag Is the Only Music Tag Editor You'll Ever Need](https://www.makeuseof.com/tag/music-tag-editor-mp3tag/)
-- [The 6 Best Sites to Download High-Quality CD Cover Album Art](https://www.makeuseof.com/tag/allcdcovers-extensive-cd-cover-llibrary/)
-
-### MRTG
-- [MRTG Installation and Configuration RHEL7 Step by Step Guide](https://arkit.co.in/mrtg-installation-rhel7/)
-
-
-
-### NetData
-- [How to protect Netdata instance using basic access authentication](https://blog.sleeplessbeastie.eu/2020/02/14/how-to-protect-netdata-instance-using-basic-access-authentication/)
-- [How to perform real-time performance monitoring](https://blog.sleeplessbeastie.eu/2016/11/21/how-to-perform-real-time-performance-monitoring/)
-- [How to Install and Use Netdata Performance Monitoring Tool on Debian 9](https://www.howtoforge.com/tutorial/how-to-install-and-use-netdata-performance-monitoring-tool-on-debian-9/)
-- [How to Monitor Nginx using Netdata on CentOS 7](https://www.howtoforge.com/tutorial/how-to-monitor-nginx-using-netdata-on-centos-7/)
-- [How to Install Netdata Monitoring Tool on Ubuntu 18.04 LTS](https://www.howtoforge.com/tutorial/how-to-install-netdata-monitoring-tool-on-ubuntu/)
-  
-
 ### Notepad++
 - [The Ultimate Guide to Notepad+- Keyboard Shortcuts for Windows](https://www.makeuseof.com/notepad-plus-keyboard-shortcuts/)
 - [How to Make Notepad+- Compare Two Files With a Plugin](https://www.makeuseof.com/tag/notepad-compare-two-files-plugin/)
@@ -439,15 +379,6 @@
 - [How to Install pgAdmin4 on Ubuntu](https://linoxide.com/linux-how-to/how-install-pgadmin4-ubuntu/)
 - [Baisser l’impact de l’utilisation de PgAdmin 4 sur PostgreSQL](https://www.dsfc.net/logiciel-libre/postgresql/baisser-impact-utilisation-pgadmin-4-postgresql/)
 
-
-### phpIPAM (IP Address Management)
-- [How to Install phpIPAM IP Address Management on Ubuntu 18.04 LTS](https://www.howtoforge.com/how-to-install-phpipam-on-ubuntu-1804/)
-
-
-### phpPgAdmin
-- [How to Install PhpPgAdmin on Ubuntu 20.04](https://linoxide.com/install-phppgadmin-on-ubuntu-20-04/)
-- [How to Install phpPgAdmin on Ubuntu 18.04](https://www.rosehosting.com/blog/how-to-install-phppgadmin-on-ubuntu-18-04/)
-- [How to Install phpPgAdmin on Debian 9](https://www.rosehosting.com/blog/how-to-install-phppgadmin-on-debian-9/)
 
 
 
@@ -624,28 +555,6 @@
 - [https://www.unix-experience.fr/system/syslog_ng/)[SYSLOG-NG]
 
 
-### Tableau
-
-- [Log4j Vulnerability in Tableau — How to Fix / Workaround [unofficial]](https://medium.com/starschema-blog/log4j-vulnerability-in-tableau-how-to-fix-workaround-unofficial-f6bf63320f13)
-- [Creating Powerful Animated Visualizations in Tableau](https://towardsdatascience.com/creating-powerful-animated-visualizations-in-tableau-ff30a0d861c2)
-
-
-### Teamspeak 3
-- [Installer un Serveur TeamSpeak sur un NAS Synology avec Docker](https://www.tech2tech.fr/installer-un-serveur-teamspeak-sur-synology-avec-docker/)
-- [How to Install Teamspeak 3 Server on CentOS 8](https://www.howtoforge.com/how-to-install-teamspeak-3-server-on-centos-8/)
-
-
-### TeamViewer
-- [How to Install TeamViewer on Ubuntu 20.04](https://linuxize.com/post/how-to-install-teamviewer-on-ubuntu-20-04/)
-- [How to Install TeamViewer on CentOS 8](https://www.tecmint.com/install-teamviewer-on-centos-8/)
-- [How to Install TeamViewer on Ubuntu](https://www.tecmint.com/install-teamviewer-on-ubuntu/)
-- [How to Install TeamViewer on Debian 10](https://www.tecmint.com/install-teamviewer-on-debian/)
-- [How to Install TeamViewer on CentOS 8](https://linuxize.com/post/how-to-install-teamviewer-on-centos-8/)
-- [How to Install TeamViewer on Debian 10](https://linuxize.com/post/how-to-install-teamviewer-on-debian-10/)
-- [How to Install TeamViewer on Ubuntu 20.04](https://linoxide.com/linux-how-to/install-teamviewer-on-ubuntu-20-04/)
-- [How to Set Up TeamViewer and Access Your PC From Anywhere](https://www.makeuseof.com/tag/set-up-teamviewer-access-pc-anywhere/)
-
-
 
 ### Terminalizor
 - [Terminalizer – Record Your Linux Terminal and Generate Animated GIF](https://www.tecmint.com/terminalizer-record-your-linux-terminal-in-gif/)
@@ -657,10 +566,6 @@
 - [Termtosvg - A Tool to Record Terminal Session in Linux](https://linoxide.com/linux-how-to/termtosvg-tool-recorder-terminal-session-linux/)
 
 
-
-### Tesseract OCR
-- [Install Tesseract OCR on Linux](https://linuxhint.com/install-tesseract-ocr-linux/)
-- [Installing Tesseract OCR in Linux](https://linuxhint.com/install_tesseract_ocr_linux/)
 
 ### TestNG
 - [How to Run a Selenium Test with TestNG](https://dzone.com/articles/how-to-run-a-selenium-test-with-testng-blazemeter)
