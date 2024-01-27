@@ -18,6 +18,11 @@
 - [POURQUOI VOUS DEVRIEZ PASSER À GITOPS](https://blog.revolve.team/2020/01/13/pourquoi-gitops/)
 
 
+### Mail
+- [Comment éviter que vos mails arrivent en SPAM chez les destinataires](https://www.tutos-informatique.com/mails-en-spam/)
+
+
+
 - [Accéder aux périphériques amovibles](https://blog.microlinux.fr/peripheriques/)
 - [Activer SELinux sur un serveur Rocky Linux 8](https://blog.microlinux.fr/selinux-dedibox-rocky-linux-8/)
 - [ADB, Fastboot et Heimdall sous Rocky Linux 8](https://blog.microlinux.fr/adb-fastboot-heimdall-rocky-linux-8/)
@@ -214,45 +219,6 @@
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 
-
-
-
-### Lynis (audit sécurité)
-- [How to read Lynis reports to improve Linux security](https://opensource.com/article/20/8/linux-lynis-security)
-- [Scan your Linux security with Lynis](https://opensource.com/article/20/5/linux-security-lynis)
-- [Lynis : l’outil d’audit pour les systèmes Unix/linux](https://homputersecurity.com/2017/03/09/lynis-loutil-daudit-pour-les-systemes-unixlinux/)
-
-
-### Mail
-- [Comment éviter que vos mails arrivent en SPAM chez les destinataires](https://www.tutos-informatique.com/mails-en-spam/)
-
-
-### MCollective
-- [Orchestration with MCollective](https://www.linuxjournal.com/content/orchestration-mcollective)
-- [Orchestration with MCollective, Part II](https://www.linuxjournal.com/content/orchestration-mcollective-part-ii)
-
-
-
-### MediaWiki
-- [How to Install MediaWiki on CentOS 7](https://www.tecmint.com/install-mediawiki-on-centos-7/)
-- [How to Install MediaWiki with Nginx on CentOS 7](https://www.howtoforge.com/tutorial/how-to-install-and-configure-mediawiki-with-nginx-on-centos-7/)
-- [How to install MediaWiki on Ubuntu 18.04 LTS](https://www.howtoforge.com/tutorial/how-to-install-mediawiki-on-ubuntu-1804/)
-- [How to Install MediaWiki with Nginx and Let's Encrypt SSL on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-mediawiki-with-nginx-and-lets-encrypt-ssl-on-ubuntu-20-04/)
-
-
-
-
-### Metricbeat
-- [How To Gather Infrastructure Metrics with Metricbeat on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-gather-infrastructure-metrics-with-metricbeat-on-ubuntu-18-04)  
-- [How To Gather Infrastructure Metrics with Metricbeat on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-gather-infrastructure-metrics-with-metricbeat-on-centos-7)
-- [A Metricbeat Tutorial: Getting Started](https://logz.io/blog/metricbeat-tutorial/)
-- [How to Configure Metricbeat for Application and Server infrastructure](https://hub.packtpub.com/how-to-configure-metricbeat-for-application-and-server-infrastructure/)
-
-
-
-
-### MkCert (Générateur de certificat SSL)
-- [Mkcert - Create SSL Certificates for Local Development on Linux](https://linoxide.com/linux-how-to/mkcert-localhost-ssl-certificates-linux/)
 
 ### Monit
 - [Debian 9 64 Bits – Monit](https://memos.nadus.fr/debian-9-64-bits-monit/)

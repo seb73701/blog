@@ -26,6 +26,7 @@
 
 - https://www.unix-experience.fr/
 - https://kofler.info/blog/
+- https://fr.linux-console.net/
 
 ## PAGES STATUS
 
@@ -41,3 +42,9 @@
 ### SSL
 
 - https://www.ssllabs.com/ssltest/index.html
+
+
+### SCAN ONLINE
+
+- https://opentip.kaspersky.com/
+- https://www.virustotal.com/gui/home/upload

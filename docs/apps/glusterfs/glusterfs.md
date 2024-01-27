@@ -37,7 +37,6 @@ RedHat est le mainteneur principal de **GlusterFS** depuis l'acquisition de la c
 - [[Projet] GlusterFS – Ajout et gestion des clients](https://www.guillaume-leduc.fr/glusterfs-ajout-et-gestion-des-clients.html)
 - [[Projet] Le stockage distribué avec GlusterFS](https://www.guillaume-leduc.fr/le-stockage-distribue-avec-glusterfs.html)
 - [Comment créer un pool de stockage redondant en utilisant GlusterFS sur Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-redundant-storage-pool-using-glusterfs-on-ubuntu-20-04-fr)
-- [GlusterFS - découverte et prise en main](https://computerz.solutions/glusterfs/)
 - [How To Create a Redundant Storage Pool Using GlusterFS on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-redundant-storage-pool-using-glusterfs-on-ubuntu-18-04)
 - [How To Create a Redundant Storage Pool Using GlusterFS on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-redundant-storage-pool-using-glusterfs-on-ubuntu-20-04)
 - [Retrouver des fichiers supprimés sur une brick Gluster](https://blog.zwindler.fr/2017/08/16/recuperer-des-fichiers-sur-brick-gluster/)

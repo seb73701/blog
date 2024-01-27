@@ -434,7 +434,6 @@
 - [How to Write a Telegraf Plugin for Beginners](https://www.influxdata.com/blog/how-to-write-telegraf-plugin-beginners/)
 - [Monitoring Apache HTTP Server with Wavefront Metrics-Driven Analytics](https://www.wavefront.com/monitoring-apache-http-server-wavefront-metrics-driven-analytics/)
 - [SUPERVISEZ VOS URLS BLOQUÉES PAR LE PROXY](https://blog.zwindler.fr/2017/11/18/supervisez-vos-urls-bloquees-proxy/)
-- [Découverte et utilisation de Check_MK avec Shinken pour Windows](https://computerz.solutions/check-mk-windows-shinken/)
 - [Hyper-V monitoring: Here’s some tips!](https://www.neteye-blog.com/2017/09/hyper-v-monitoring-heres-some-tips/)
 - [Next Level Performance Monitoring – Part II: The Role of Machine Learning and Anomaly Detection](https://www.neteye-blog.com/2017/08/next-level-performance-monitoring-part-ii-the-role-of-machine-learning-and-anomaly-detection/)
 - [Total Control Over Your Citrix User Connections](https://www.neteye-blog.com/2018/07/total-control-over-your-citrix-user-connections/)

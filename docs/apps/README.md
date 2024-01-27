@@ -209,6 +209,7 @@
   <div><a href="#apps/lighttpd/lighttpd.md">Lighttpd</a></div>
   <div><a href="#apps/logstash/logstash.md">Logstash</a></div>
   <div><a href="#apps/lsyncd/lsyncd.md">Lsyncd - Live Syncing (Mirror) Daemon</a></div>
+  <div><a href="#apps/lynis/lynis.md">Lynis</a></div>
 </div>
 
 
@@ -217,6 +218,7 @@
 <div class="apps-container">
   <div><a href="#apps/matomo/matomo.md">Matomo</a></div>
   <div><a href="#apps/memcached/memcached.md">Memcached</a></div>
+  <div><a href="#apps/metricbeat/metricbeat.md">MetricBeat (Beats)</a></div>
   <div><a href="#apps/microsoft_access/microsoft_access.md">Microsoft Access</a></div>
   <div><a href="#apps/microsoft_authentificator/microsoft_authentificator.md">Microsoft Authentificator</a></div>
   <div><a href="#apps/microsoft_edge/microsoft_edge.md">Microsoft Edge</a></div>
@@ -237,6 +239,7 @@
   <div><a href="#apps/microsoft_visio/microsoft_visio.md">Microsoft Visio</a></div>
   <div><a href="#apps/microsoft_visual_studio_code/microsoft_visual_studio_code.md">Microsoft Visual Studio Code</a></div>
   <div><a href="#apps/microsoft_word/microsoft_word.md">Microsoft Word</a></div>
+  <div><a href="#apps/mkcert/mkcert.md">MkCert</a></div>
   <div><a href="#apps/mozilla_firefox/mozilla_firefox.md">Mozilla Firefox</a></div>
   <div><a href="#apps/mozilla_thunderbird/mozilla_thunderbird.md">Mozilla Thunderbird</a></div>
 </div>

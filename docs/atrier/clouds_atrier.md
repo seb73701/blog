@@ -105,7 +105,6 @@
 - [Serverless Extensibility and Webhooks](https://dzone.com/articles/why-is-serverless-extensibility-better-than-webhoo)
 - [Snowflake: le guide complet sur le premier Data Warehouse sur le cloud](https://practicalprogramming.fr/snowflake)
 - [Software as a Service: What Is SaaS and How Has it Changed Productivity?](https://www.makeuseof.com/what-is-saas/)
-- [Synchroniser des données vers Google Drive avec Rclone](https://computerz.solutions/backup-rclone/)
 - [Testing Serverless Applications Like a Pro](https://dzone.com/articles/testing-serverless-applications-like-a-pro)
 - [The Best Open Source Tools for Cloud Infrastructure Management](https://opensourceforu.com/2018/11/the-best-open-source-tools-for-cloud-infrastructure-management/)
 - [The Data Platform In The Age Of Serverless Architecture](https://blog.pythian.com/data-platform-age-serverless-architecture/)

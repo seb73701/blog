@@ -241,7 +241,6 @@
 - [CQRS: Understanding From First Principles](https://dzone.com/articles/cqrs-understanding-from-first-principles?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone)
 - [Create Remarkable Products, Fast! [3-Step Guide]](https://dzone.com/articles/create-remarkable-products-fast-3-step-guide)
 - [Create your own video streaming server with Linux](https://opensource.com/article/19/1/basic-live-video-streaming-server)
-- [Création d’une mini borne d’arcade avec un Raspberry Pi 2](https://computerz.solutions/borne-arcade-raspberry-pi/)
 - [Créer son propre serveur NAS DIY de A à Z](https://www.tech2tech.fr/creer-son-propre-serveur-nas-diy-de-a-a-z/)
 - [Créer un Hackintosh de A à Z (macOS sur PC) : Partie 1](https://www.tech2tech.fr/creer-un-hackintosh-de-a-a-z-macos-sur-pc-partie-1/)
 - [Créer un Hackintosh de A à Z (macOS sur PC) : Partie 2](https://www.tech2tech.fr/creer-un-hackintosh-de-a-a-z-macos-sur-pc-partie-2/)

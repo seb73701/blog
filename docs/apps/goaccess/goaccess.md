@@ -32,7 +32,6 @@
 <details>
 
 - [GoAccess – Analyze Real-Time Apache and Nginx Logs](https://www.linuxtechi.com/goaccess-analyze-real-time-apache-nginx-logs/)
-- [GoAccess – Exemples de configuration](https://computerz.solutions/goaccess-exemples-de-configuration/)
 - [Goaccess - Rapport HTML depuis des logs d’un serveur web](https://blog.genma.fr/?Goaccess-Rapport-HTML-depuis-des-logs-d-un-serveur-web)
 - [GoAccess (A Real-Time Apache and Nginx) Web Server Log Analyzer](https://www.tecmint.com/goaccess-a-real-time-apache-and-nginx-web-server-log-analyzer/)
 - [GoAccess : les statistiques Web simples, légères et esthétiques](https://blog.adminrezo.fr/2018/12/goaccess-les-statistiques-web-simples-legeres-et-esthetiques/)
