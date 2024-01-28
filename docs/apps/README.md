@@ -255,12 +255,17 @@
   <div><a href="#apps/nextcloud/nextcloud.md">NextCloud</a></div>
   <div><a href="#apps/nginx/nginx.md">Nginx</a></div>
   <div><a href="#apps/nirsoft/nirsoft.md">Nirsoft</a></div>
+  <div><a href="#apps/notepadpp/notepadpp.md">Notepad++</a></div>
 </div>
 
 ## O
 
 <div class="apps-container">
   <div><a href="#apps/obs_studio/obs_studio.md">OBS Studio</a></div>
+  <div><a href="#apps/ocs_inventory_ng/ocs_inventory_ng.md">OCS Inventory NG</a></div>
+  <div><a href="#apps/openldap/openldap.md">OpenLDAP</a></div>
+  <div><a href="#apps/openlitespeed/openlitespeed.md">OpenLiteSpeed</a></div>
+  <div><a href="#apps/openmediavault/openmediavault.md">OpenMediaVault</a></div>
 </div>
 
 
