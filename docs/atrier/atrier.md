@@ -9,7 +9,7 @@
 - https://docs.gluster.org/en/main/CLI-Reference/cli-main/#peer-commands
 - https://docs.gluster.org/en/main/Troubleshooting/troubleshooting-afr/#ii-self-heal-is-stuck-not-getting-completed
 - https://arzhost.com/blogs/gluster-fs-transport-endpoint-is-not-connected-how-to-fix-it/
-
+- https://www.youtube.com/@IT-Connect
 
 ### GitOps
 - [An illustrated guide to GitOps](https://www.redhat.com/architect/illustrated-guide-gitops)
@@ -20,7 +20,10 @@
 
 ### Mail
 - [Comment éviter que vos mails arrivent en SPAM chez les destinataires](https://www.tutos-informatique.com/mails-en-spam/)
-
+- [SPF, DKIM, DMARC pour les débutants - Sécurité des e-mails](https://www.youtube.com/watch?v=T7PvHcGGoNk)
+- [postmaster tools](https://www.gmail.com/postmaster/)
+- mail-tester.com outils pour tester les mails
+- github (parsedmarc)
 
 
 - [Accéder aux périphériques amovibles](https://blog.microlinux.fr/peripheriques/)
