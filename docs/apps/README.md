@@ -266,6 +266,8 @@
   <div><a href="#apps/openldap/openldap.md">OpenLDAP</a></div>
   <div><a href="#apps/openlitespeed/openlitespeed.md">OpenLiteSpeed</a></div>
   <div><a href="#apps/openmediavault/openmediavault.md">OpenMediaVault</a></div>
+  <div><a href="#apps/opensearch/opensearch.md">OpenSearch</a></div>
+  <div><a href="#apps/opentelemetry/opentelemetry.md">OpenTelemetry</a></div>
 </div>
 
 
