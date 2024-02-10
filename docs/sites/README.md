@@ -29,6 +29,9 @@
 - https://fr.linux-console.net/
 - https://xavki.blog/
 - https://zarak.fr/
+- https://www.baeldung.com/linux/
+- https://linuxconfig.org/
+- https://j.hommet.net/
 
 ## PAGES STATUS
 

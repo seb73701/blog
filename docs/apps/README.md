@@ -270,12 +270,14 @@
   <div><a href="#apps/opentelemetry/opentelemetry.md">OpenTelemetry</a></div>
   <div><a href="#apps/openvpn/openvpn.md">OpenVPN</a></div>
   <div><a href="#apps/osquery/osquery.md">OSQuery</a></div>
+  <div><a href="#apps/ossec/ossec.md">OSSEC</a></div>
 </div>
 
 
 ## P
 
 <div class="apps-container">
+  <div><a href="#apps/pacemaker/pacemaker.md">Pacemaker</a></div>
   <div><a href="#apps/percona_pmm/percona_pmm.md">Percona Monitoring and Management (PMM)</a></div>
   <div><a href="#apps/percona_server_mongodb/percona_server_mongodb.md">Percona Server for MongoDB</a></div>
   <div><a href="#apps/percona_server_mysql/percona_server_mysql.md">Percona Server for MySQL</a></div>
@@ -283,9 +285,11 @@
   <div><a href="#apps/percona_xtrabackup/percona_xtrabackup.md">Percona XtraBackup</a></div>
   <div><a href="#apps/percona_xtradb_cluster/percona_xtradb_cluster.md">Percona XtraDB Cluster</a></div>
   <div><a href="#apps/pfsense/pfsense.md">PfSense</a></div>
+  <div><a href="#apps/pgadmin/pgadmin.md">PgAdmin</a></div>
   <div><a href="#apps/pgpool/pgpool.md">PgPool-II</a></div>
   <div><a href="#apps/phpmyadmin/phpmyadmin.md">PhpMyAdmin</a></div>
   <div><a href="#apps/postman/postman.md">Postman</a></div>
+  <div><a href="#apps/powerline/powerline.md">Powerline</a></div>
   <div><a href="#apps/prometheus/prometheus.md">Prometheus</a></div>
   <div><a href="#apps/proxysql/proxysql.md">ProxySQL</a></div>
   <div><a href="#apps/puppet/puppet.md">Puppet</a></div>
