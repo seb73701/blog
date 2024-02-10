@@ -217,39 +217,6 @@
 -------------------------------------------------------------------------------------------------
 
 
-### OpenVPN
-- [OpenVPN IPv6 and IPv4 configuration](https://4sysops.com/archives/openvpn-ipv6-minimal-configuration/)
-- [How to Install and Configure OpenVPN Server in CentOS 8/7](https://www.tecmint.com/install-openvpn-in-centos/)
-- [CentOS 8 Set Up OpenVPN Server In 5 Minutes](https://www.cyberciti.biz/faq/centos-8-set-up-openvpn-server-in-5-minutes/)
-- [How To Set Up and Configure an OpenVPN Server on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-an-openvpn-server-on-ubuntu-20-04)
-- [Comment mettre en place et configurer un serveur OpenVPN sur CentOS 8](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-an-openvpn-server-on-centos-8-fr)
-- [Comment mettre en place et configurer un serveur OpenVPN sur Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-an-openvpn-server-on-ubuntu-20-04-fr)
-- [Installation et configuration hautement sécurisée de OpenVPN](https://blog.mirabellette.eu/index.php?article36/installation-et-configuration-hautement-securisee-openvpn)
-- [How to Install OpenVPN Server and Client with Easy-RSA 3 on CentOS 7](https://www.howtoforge.com/tutorial/how-to-install-openvpn-server-and-client-with-easy-rsa-3-on-centos-7/)
-- [Qu’est-ce qu’OpenVPN ?](https://www.it-connect.fr/quest-ce-quopenvpn/)
-- [How To Set Up an OpenVPN Server on Debian 10](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-debian-10)
-- [How to install and configure OpenVPN Server on Debian 10](https://www.howtoforge.com/how-to-install-and-configure-openvpn-server-on-debian-10/)
-- [How to Install OpenVPN Server and Client with Easy-RSA 3 on CentOS 8](https://www.howtoforge.com/tutorial/how-to-install-openvpn-server-and-client-with-easy-rsa-3-on-centos-8/)
-- [CentOS 8 Set Up OpenVPN Server In 5 Minutes](https://www.cyberciti.biz/faq/centos-8-set-up-openvpn-server-in-5-minutes/)
-- [How To Set Up and Configure an OpenVPN Server on CentOS 8](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-an-openvpn-server-on-centos-8)
-- [How to Install OpenVPN on CentOS 7](https://www.rosehosting.com/blog/how-to-install-openvpn-on-centos-7/)
-- [How To Install and Configure an OpenVPN Server on Debian 9 In 5 Minutes](https://www.cyberciti.biz/faq/how-to-install-and-configure-an-openvpn-server-on-debian-9-in-5-minutes/)
-- [Build a Real VPN with OpenVPN](https://www.linux.com/learn/intro-to-linux/2017/3/build-real-vpn-openvpn)
-- [How To Set Up an OpenVPN Server on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04)
-- [Howto OpenVPN](https://wiki.evolix.org/HowtoOpenVPN)
-- [How To Set Up an OpenVPN Server on Debian 9](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-debian-9)
-- [CentOS 7.0 Set Up OpenVPN Server In 5 Minutes](https://www.cyberciti.biz/faq/centos-7-0-set-up-openvpn-server-in-5-minutes/)
-- [How To Set Up an OpenVPN Server on CentOS 7](https://linuxize.com/post/how-to-set-up-an-openvpn-server-on-centos-7/)
-- [How To Set Up an OpenVPN Server on Ubuntu 18.04](https://linuxize.com/post/how-to-set-up-an-openvpn-server-on-ubuntu-18-04/)
-
-
-### OSQuery (Supervision)
-- [How to Install Osquery on Debian 10](https://linuxhint.com/install-osquery-debian-10/)
-- [How to Install and Use Osquery in Ubuntu](https://linuxhint.com/install_osquery_ubuntu/)
-- [How to Install osquery on Debian 10](https://www.howtoforge.com/how-to-install-osquery-on-debian-10/)
-- [How to Monitor your Linux Server using osquery](https://www.howtoforge.com/tutorial/how-to-monitor-your-linux-server-using-osquery/)
-- [How to Setup File Integrity Monitoring (FIM) using osquery on Linux](https://www.howtoforge.com/tutorial/how-to-setup-file-integrity-monitoring-fim-using-osquery-on-linux-server/)
-
 
 ### OSSEC
 - [Mise en œuvre d’OSSEC sous Debian : théorie](https://www.guillaume-leduc.fr/mise-en-oeuvre-dossec-sous-debian-theorie.html)

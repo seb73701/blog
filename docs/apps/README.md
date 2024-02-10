@@ -268,6 +268,8 @@
   <div><a href="#apps/openmediavault/openmediavault.md">OpenMediaVault</a></div>
   <div><a href="#apps/opensearch/opensearch.md">OpenSearch</a></div>
   <div><a href="#apps/opentelemetry/opentelemetry.md">OpenTelemetry</a></div>
+  <div><a href="#apps/openvpn/openvpn.md">OpenVPN</a></div>
+  <div><a href="#apps/osquery/osquery.md">OSQuery</a></div>
 </div>
 
 
