@@ -235,6 +235,7 @@
   <div><a href="#apps/microsoft_sharepoint/microsoft_sharepoint.md">Microsoft Sharepoint</a></div>
   <div><a href="#apps/microsoft_skype/microsoft_skype.md">Microsoft Skype</a></div>
   <div><a href="#apps/microsoft_sway/microsoft_sway.md">Microsoft Sway</a></div>
+  <div><a href="#apps/microsoft_sysinternals/microsoft_sysinternals.md">Microsoft Sysinternals</a></div>
   <div><a href="#apps/microsoft_teams/microsoft_teams.md">Microsoft Teams</a></div>
   <div><a href="#apps/microsoft_todo/microsoft_todo.md">Microsoft To Do</a></div>
   <div><a href="#apps/microsoft_visio/microsoft_visio.md">Microsoft Visio</a></div>
@@ -291,8 +292,11 @@
   <div><a href="#apps/postman/postman.md">Postman</a></div>
   <div><a href="#apps/powerline/powerline.md">Powerline</a></div>
   <div><a href="#apps/prometheus/prometheus.md">Prometheus</a></div>
+  <div><a href="#apps/proton_mail/proton_mail.md">Proton Mail</a></div>
   <div><a href="#apps/proxysql/proxysql.md">ProxySQL</a></div>
   <div><a href="#apps/puppet/puppet.md">Puppet</a></div>
+  <div><a href="#apps/puppeteer/puppeteer.md">Puppeteer</a></div>
+  <div><a href="#apps/putty/putty.md">Putty</a></div>
 </div>
 
 

@@ -200,7 +200,7 @@
 - [Linux Command Line Base64 Encoding and Decoding of Strings](https://www.baeldung.com/linux/cli-base64-encode-decode)
 - [Certificat wildcard Let’s Encrypt avec Acme.sh, Nginx et OVH](https://www.edouard.bzh/guide-certificat-wildcard-lets-encrypt-acmesh-nginx-ovh/)
 - [Installer Docker et Portainer sur Debian](https://www.edouard.bzh/guide-installer-docker-et-portainer-debian/)
-- []()
+- [Merge SQLITE commands and data in one text file](https://gist.github.com/jbrown123/6f20a6d6d3778949e8a6091d786e309e)
 - []()
 - []()
 - []()
@@ -216,37 +216,6 @@
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 
-
-### ProcDump (SysInternals / Microsoft)
-- [Debug Linux using ProcDump](https://opensource.com/article/20/7/procdump-linux)
-- [Microsoft releases ProcDump tool for Linux](https://www.ghacks.net/2017/12/08/microsoft-releases-procdump-tool-for-linux/)
-
-
-
-### ProtonMail
-- [BACKUP HEADLESS DE SES EMAILS PROTONMAIL SOUS DEBIAN 10](https://www.abyssproject.net/2021/04/backup-headless-de-ses-emails-protonmail-sous-debian-10/)
-- [How to Filter Emails in ProtonMail With Folders and Labels](https://www.makeuseof.com/filter-emails-protonmail-with-folders-labels/)
-- [How to Send Encrypted Emails to Anyone with ProtonMail](https://www.makeuseof.com/how-to-send-encrypted-emails-to-anyone-with-protonmail/)
-- [ProtonMail propose un outil d’import/export des e-mails](https://www.it-connect.fr/protonmail-propose-un-outil-dimport-export-des-e-mails/)
-- [ProtonMail offre maintenant la cryptographie à courbe elliptique](https://securite.developpez.com/actu/257870/ProtonMail-offre-maintenant-la-cryptographie-a-courbe-elliptique-pour-une-securite-et-une-rapidite-accrues/)
-
-
-### Puppeteer (Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol)
-- [Orchestrating Puppeteer From Lambda With Zero Lines of Code](https://dzone.com/articles/orchestrating-puppeteer-from-lambda-with-zero-line)
-- [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)
-- https://pptr.dev/
-- [Scraper le web avec Puppeteer](https://www.smooth-code.com/articles/scraper-le-web-avec-puppeteer)
-- [Tests end to end avec Jest et Puppeteer](https://www.synbioz.com/blog/tests_e2e_avec_jest_et_puppeteer)
-
-### Putty
-- [Useful PuTTY Configuration Tips and Tricks](https://www.tecmint.com/putty-configuration-tips-and-tricks/)
-- [putty-color-themes](https://github.com/AlexAkulov/putty-color-themes)
-- [How to Install PuTTY on Linux](https://www.tecmint.com/install-putty-on-linux/)
-- [How To Install And Use PuTTY On Linux](https://www.ostechnix.com/how-to-install-and-use-putty-on-linux/)
-- [How to Use a Private Key and PuTTY to Log into Your Server Securely](https://www.rosehosting.com/blog/how-to-use-a-private-key-and-putty-to-log-into-your-server-securely/)
-- [How To Use PSCP Command On Windows?](https://www.poftut.com/how-to-use-pscp-command-on-windows/)
-- [Generate SSH Keys on Windows with PuTTYgen](https://linuxize.com/post/generate-ssh-keys-on-windows-with-puttygen/)
-- [How to Restart Linux server using putty ssh client on Windows](https://www.cyberciti.biz/faq/how-to-restart-linux-server-using-putty-ssh-client/)
 
 ### Pydio
 - [How to Install and Configure Pydio on Ubuntu 18.04 LTS](https://www.howtoforge.com/how-to-install-and-configure-pydio-on-ubuntu-1804/)
@@ -317,7 +286,6 @@
 
 ### Sphinx 
 - [Introduction à Sphinx, un outil de documentation puissant](https://blog.flozz.fr/2020/09/07/introduction-a-sphinx-un-outil-de-documentation-puissant/)
-- [Introduction à Sphinx, un outil de documentation puissant](https://blog.flozz.fr/2020/09/07/introduction-a-sphinx-un-outil-de-documentation-puissant/)
 - [Building custom documentation workflows with Sphinx](https://opensource.com/article/18/11/building-custom-workflows-sphinx)
 
 
@@ -347,12 +315,6 @@
 - [Network Security Monitoring with Suricata, Logz.io and the ELK Stack](https://logz.io/blog/network-security-monitoring/)
 - [Suricata IDS with ELK and Web Frontend on Ubuntu 18.04 LTS](https://www.howtoforge.com/tutorial/suricata-with-elk-and-web-front-ends-on-ubuntu-bionic-beaver-1804-lts/)
 
-
-### SysInternals (Microsoft)
-- [Delete files securely from the Explorer context menu with SDelete GUI](https://www.ghacks.net/2020/11/02/delete-files-securely-from-the-explorer-context-menu-with-sdelete-gui/)
-- [Microsoft releases Process Monitor tool Procmon for Linux](https://www.ghacks.net/2020/07/20/microsoft-releases-process-monitor-tool-procmon-for-linux/)
-- [Sysmon update introduces DNS Query Logging](https://www.ghacks.net/2019/06/10/sysmon-update-introduces-dns-query-logging/)  
-- [Using Process Monitor (Procmon) remotely](https://4sysops.com/archives/using-process-monitor-procmon-remotely/)
 
 ### Syslog-NG
 - [https://www.unix-experience.fr/system/syslog_ng/)[SYSLOG-NG]
