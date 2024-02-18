@@ -172,3 +172,11 @@
 - [Build a retro gaming console with RetroPie](https://opensource.com/article/19/1/retropie)
 - [How to set up a Raspberry Pi for retro gaming](https://opensource.com/article/18/1/retro-gaming)
 - [Turn Your PS4 Into An Awesome Gaming PC With Linux](https://medium.com/linuxforeveryone/guide-pc-gaming-on-your-ps4-with-the-power-of-linux-3b0391fb2b2f)
+
+### Steam
+- [How to Uninstall Steam Games (and Reinstall Later)](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/)
+- [8 Easy Ways to Fix Steam When It Won't Open](https://www.makeuseof.com/easy-ways-fix-steam-wont-open/)
+- [Fix Invalid Depot Configuration Steam Error on Windows 10](https://www.thewindowsclub.com/steam-invalid-depot-configuration)
+- [Fix Steam App Configuration Missing or Not available error on Windows 10](https://www.thewindowsclub.com/missing-app-configuration-error-steam)
+- [Fix Steam Service component error on Windows 10](https://www.thewindowsclub.com/fix-steam-service-component-error-on-windows-10)
+- [Fix Error 503 Service Unavailable – Steam](https://www.thewindowsclub.com/fix-error-503-service-unavailable-steam)

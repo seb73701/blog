@@ -297,6 +297,7 @@
   <div><a href="#apps/puppet/puppet.md">Puppet</a></div>
   <div><a href="#apps/puppeteer/puppeteer.md">Puppeteer</a></div>
   <div><a href="#apps/putty/putty.md">Putty</a></div>
+  <div><a href="#apps/pydio/pydio.md">Pydio</a></div>
 </div>
 
 
@@ -304,6 +305,7 @@
 
 <div class="apps-container">
   <div><a href="#apps/rabbitmq/rabbitmq.md">RabbitMQ</a></div>
+  <div><a href="#apps/rancher/rancher.md">Rancher</a></div>
   <div><a href="#apps/rdiff_backup/rdiff_backup.md">Rdiff-backup</a></div>
   <div><a href="#apps/redmine/redmine.md">Redmine</a></div>
   <div><a href="#apps/rkhunter/rkhunter.md">RKhunter</a></div>

@@ -750,6 +750,13 @@
 
 <details>
 
+- [rsnapshot](https://doc.ubuntu-fr.org/rsnapshot)
+- [rsnapshot](https://rsnapshot.org/)
+- [Mon ptit backup avec Rsnapshot](https://lord.re/posts/193-mon-ptit-backup-avec-rsync/)
+- [Serveur de sauvegardes avec Rsnapshot sous CentOS 7](https://www.microlinux.fr/rsnapshot-centos-7/)
+- [Faire des sauvegardes incrémentales et automatique : Rsnapshot](https://www.ksh-linux.info/systeme/rsnapshot)
+- [Utiliser rsnapshot pour automatiser des sauvegardes distantesUsing rsnapshot for automatic remote backups](https://tuxette.nathalievialaneix.eu/2014/12/utiliser-rsnapshot-pour-automatiser-des-sauvegardes-distantes/)
+- [Comment installer et configurer rsnapshot pour les sauvegardes incrémentielles](https://ubunlog.com/fr/comment-installer-et-configurer-rsnapshot-pour-effectuer-des-sauvegardes-incr%C3%A9mentielles/)
 - [Comment vérifier la RAM sur Linux ?](https://www.lecoindunet.com/comment-verifier-la-ram-sur-linux)
 - [Extraction de caractères : cut](https://www.quennec.fr/trucs-astuces/syst%C3%A8mes/gnulinux/programmation-shell-sous-gnulinux/les-commandes-filtres/traitement-de-donn%C3%A9es/extraction-de-caract%C3%A8res-cut)
 - [How to Change the Hostname in Linux](https://www.makeuseof.com/linux-change-hostname/)
@@ -4996,6 +5003,16 @@
 
 <details>
 
+- [robocopy](https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands/robocopy)
+- [Comment éviter les problèmes d’accents avec Robocopy](https://syskb.com/comment-eviter-les-problemes-daccents-avec-robocopy/)
+- [Robocopy](https://fr.wikipedia.org/wiki/Robocopy)
+- [Comment utiliser Robocopy : 12 exemples pour copier des fichiers](https://www.malekal.com/comment-utiliser-robocopy-exemples-pour-copier-des-fichiers/)
+- [Utiliser Robocopy afin de prédéfinir des fichiers pour la réplication DFS](https://learn.microsoft.com/fr-fr/windows-server/storage/dfs-replication/preseed-dfsr-with-robocopy)
+- [Windows : utiliser Robocopy pour copier des fichiers sur le réseau](https://tutobox.fr/tuto-robocopy-copier-fichiers-via-reseau-sous-windows)
+- [[TUTO] – Gérez la copie de vos données avec l’outil robocopy](https://sys-advisor.com/2013/02/11/gerez-copie-de-vos-donnees-loutil-robocopy/)
+- [Robocopy : un outil fiable de Windows pour des sauvegardes sécurisées](https://www.ionos.fr/digitalguide/serveur/outils/robocopy-sauvegarde-de-windows/)
+- [Robocopy - ou comment synchroniser des répertoires](https://www.tutos.eu/5516)
+- [Utiliser Robocopy pour copier plusieurs dossiers - Tous les détails !](https://www.ubackup.com/fr/synchronisation/robocopy-plusieurs-dossiers-0478-tc.html)
 - [Déploiement, configuration et administration de Windows Server](https://learn.microsoft.com/fr-fr/training/paths/windows-server-deployment-configuration-administration/)
 - [LINUX VERSION 8 ON WINDOWS SUBSYSTEM FOR LINUX](https://blogs.iuvotech.com/linux-version-8-on-windows-subsystem-for-linux)
 - [Windows Terminal : ajouter une session SSH](https://www.it-connect.fr/windows-terminal-ajouter-une-session-ssh/)

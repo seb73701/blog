@@ -25,6 +25,8 @@
 - [postmaster tools](https://www.gmail.com/postmaster/)
 - mail-tester.com outils pour tester les mails
 - github (parsedmarc)
+- [Lutte active contre le spam avec spamd et diverses blacklists](https://ybad.name/Logiciel-libre/OpenBSD/spamd.html)
+- [Activez starttls pour sécuriser votre serveur e-mail](https://www.alsacreations.com/tuto/lire/1770-Activez-starttls-pour-securiser-votre-serveur-e-mail.html)
 
 
 - [11 bonnes habitudes en matière de mots de passe pour protéger vos comptes](https://blog.mailfence.com/fr/11-bonnes-habitudes-mots-de-passe-proteger-comptes/)
@@ -217,39 +219,9 @@
 -------------------------------------------------------------------------------------------------
 
 
-### Pydio
-- [How to Install and Configure Pydio on Ubuntu 18.04 LTS](https://www.howtoforge.com/how-to-install-and-configure-pydio-on-ubuntu-1804/)
-- [How to Install Pydio Web File Manager on Debian 9](https://www.howtoforge.com/tutorial/debian-pydio-installation/)
-
-### Rancher
-- [[REX] Un Rancher pour les gouverner tous ?](https://blog.octo.com/un-rancher-pour-les-gouverner-tous/)
-- [K8S - 47. RANCHER : SAUVEGARDE RESTAURATION D'UN CLUSTER](https://www.youtube.com/watch?v=WYA8PTop4Cw)
-- [Rancher 2 : trois méthodes d'installation](https://enix.io/fr/blog/rancher-2-trois-methodes-d-installation/)
-- [Install Rancher on Ubuntu to Manage Docker Containers](https://linuxhint.com/install_rancher_ubuntu_docker_containers/)
-- [How to Install Rancher Docker Container Manager on Debian](https://www.howtoforge.com/tutorial/debian-rancher-docker-container-manager/)
-- [How to Manage Docker Containers with Rancher on Ubuntu](https://www.howtoforge.com/tutorial/ubuntu-rancher-docker-container-manager/)
-- [How to Install Rancher Docker Container Manager on CentOS 7](https://www.howtoforge.com/tutorial/centos-rancher-docker-container-management-platform/)
-
-
-### Robocopy 
-- [Comment éviter les problèmes d’accents avec Robocopy](https://syskb.com/comment-eviter-les-problemes-daccents-avec-robocopy/)
-
-
-### Rsnapshot
-- [Mon ptit backup avec Rsnapshot](https://lord.re/posts/193-mon-ptit-backup-avec-rsync/)
-- [Serveur de sauvegardes avec Rsnapshot sous CentOS 7](https://www.microlinux.fr/rsnapshot-centos-7/)
-
 
 ### Rufus
 - [Using Rufus to Create Persistent Storage for Debian Live USB](https://linuxhint.com/rufus-persistent-storage-debian-live-usb/)
-
-
-### Saltstack 
-- [TESTS D'INTÉGRATION SALTSTACK AVEC DOCKER](https://blog.wescale.fr/2016/02/23/tests-dintegration-saltstack-avec-docker/)
-- [AWS AUTOSCALING AVEC SALTSTACK](https://blog.wescale.fr/2016/06/16/aws-autoscaling-avec-saltstack/)
-
-### Scrapy (WebScraping)
-- [Installer Scrapy sous Windows](https://blog.lecacheur.com/2017/12/28/installer-scrapy-sous-windows/)
 
 
   
@@ -275,31 +247,6 @@
 - [Filtrer les spams avec SpamAssassin sous CentOS 7](https://www.microlinux.fr/spamassassin-centos-7/)
 - [Spamassasin](https://www.unix-experience.fr/system/mails/spamassassin/)
 - [Filtrer les spams avec SpamAssassin et Postfix sous CentOS](https://blog.microlinux.fr/spamassassin-centos/)
-
-
-### Spamd
-- [Lutte active contre le spam avec spamd et diverses blacklists](https://ybad.name/Logiciel-libre/OpenBSD/spamd.html)
-
-
-### SpeedTest CLI
-- [How to Test Your Internet Speed Bidirectionally from Command Line Using ‘Speedtest-CLI’ Tool](https://www.tecmint.com/check-internet-speed-from-command-line-in-linux/)
-
-### Sphinx 
-- [Introduction à Sphinx, un outil de documentation puissant](https://blog.flozz.fr/2020/09/07/introduction-a-sphinx-un-outil-de-documentation-puissant/)
-- [Building custom documentation workflows with Sphinx](https://opensource.com/article/18/11/building-custom-workflows-sphinx)
-
-
-
-### STARTTLS EveryWhere
-- [Activez starttls pour sécuriser votre serveur e-mail](https://www.alsacreations.com/tuto/lire/1770-Activez-starttls-pour-securiser-votre-serveur-e-mail.html)
-
-### Steam
-- [How to Uninstall Steam Games (and Reinstall Later)](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/)
-- [8 Easy Ways to Fix Steam When It Won't Open](https://www.makeuseof.com/easy-ways-fix-steam-wont-open/)
-- [Fix Invalid Depot Configuration Steam Error on Windows 10](https://www.thewindowsclub.com/steam-invalid-depot-configuration)
-- [Fix Steam App Configuration Missing or Not available error on Windows 10](https://www.thewindowsclub.com/missing-app-configuration-error-steam)
-- [Fix Steam Service component error on Windows 10](https://www.thewindowsclub.com/fix-steam-service-component-error-on-windows-10)
-- [Fix Error 503 Service Unavailable – Steam](https://www.thewindowsclub.com/fix-error-503-service-unavailable-steam)
 
 
 ### Stress-ng (Benchmark)
@@ -380,11 +327,6 @@
 
 ### Unison
 - [Setting up Unison File Synchronization between two Servers on Debian 10 (Buster)](https://www.howtoforge.com/tutorial/unison-file-sync-between-two-servers-on-debian-10/)
-
-
-### Unity
-
-- [Create A White Noise Shader With Shader Graph In Unity](https://vintay.medium.com/create-a-white-noise-shader-with-shader-graph-in-unity-220dd9d24e92)
 
 
 
