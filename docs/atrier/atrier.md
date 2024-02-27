@@ -219,29 +219,6 @@
 -------------------------------------------------------------------------------------------------
 
 
-
-### Rufus
-- [Using Rufus to Create Persistent Storage for Debian Live USB](https://linuxhint.com/rufus-persistent-storage-debian-live-usb/)
-
-
-  
-### Siege (Benchmark)
-- [How to Install and Use Siege Benchmarking Tool on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-and-use-siege-benchmarking-tool-on-ubuntu/)
-- [Load Testing Web Servers with Siege Benchmarking Tool](https://www.tecmint.com/load-testing-web-servers-with-siege-benchmarking-tool/)
-- [How to Benchmark a Website with Firefox, Siege, and Sproxy On Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-benchmark-a-website-with-firefox-siege-and-sproxy-on-ubuntu-16-04)
-
-### Signal
-- [Here's How to Link Your Devices in Signal](https://www.makeuseof.com/how-to-link-devices-signal/)
-- [How to Enable Registration Lock in Signal](https://www.makeuseof.com/signal-enable-registration-lock/)
-- [Signal : tout comprendre à l’application de messagerie sécurisée à très fort succès](https://www.lemonde.fr/pixels/article/2021/01/11/signal-tout-comprendre-a-l-application-de-messagerie-securisee-a-tres-fort-succes_6065914_4408996.html)
-- [The 10 Best Signal Features You Should Be Using](https://www.makeuseof.com/best-signal-app-features/)
-
-
-### Snipe-IT
-- [How To Install Snipe-IT Asset Management on CentOS 8](https://computingforgeeks.com/install-snipe-it-asset-management-on-centos-8-linux/)
-- [How to Install Snipe-IT Asset Management Software on Debian 9](https://www.howtoforge.com/tutorial/how-to-install-snipe-it-on-debian-9/)
-
-
 ### spamAssasin
 - [Filtrer les spams avec SpamAssassin sous CentOS 7](https://blog.microlinux.fr/spamassassin-centos-7/)
 - [Filtrer les spams avec SpamAssassin sous CentOS 7](https://www.microlinux.fr/spamassassin-centos-7/)
@@ -263,9 +240,6 @@
 - [Suricata IDS with ELK and Web Frontend on Ubuntu 18.04 LTS](https://www.howtoforge.com/tutorial/suricata-with-elk-and-web-front-ends-on-ubuntu-bionic-beaver-1804-lts/)
 
 
-### Syslog-NG
-- [https://www.unix-experience.fr/system/syslog_ng/)[SYSLOG-NG]
-
 
 
 ### Terminalizor
@@ -278,9 +252,6 @@
 - [Termtosvg - A Tool to Record Terminal Session in Linux](https://linoxide.com/linux-how-to/termtosvg-tool-recorder-terminal-session-linux/)
 
 
-
-### TestNG
-- [How to Run a Selenium Test with TestNG](https://dzone.com/articles/how-to-run-a-selenium-test-with-testng-blazemeter)
 
 ### TestSigma
 - [In-Sprint Test Automation at Agile and DevOps Speed Using Testsigma](https://dzone.com/articles/in-sprint-test-automation-at-agile-and-dev-ops-spe)

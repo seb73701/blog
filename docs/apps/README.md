@@ -311,6 +311,7 @@
   <div><a href="#apps/rkhunter/rkhunter.md">RKhunter</a></div>
   <div><a href="#apps/roundcube/roundcube.md">RoundCube</a></div>
   <div><a href="#apps/rspamd/rspamd.md">Rspamd</a></div>
+  <div><a href="#apps/rufus/rufus.md">Rufus</a></div>
   <div><a href="#apps/rundeck/rundeck.md">Rundeck</a></div>
 </div>
 
