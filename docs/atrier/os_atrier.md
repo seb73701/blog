@@ -750,6 +750,7 @@
 
 <details>
 
+> - [Difference between sh and Bash](https://stackoverflow.com/questions/5725296/difference-between-sh-and-bash)
 - [rsnapshot](https://doc.ubuntu-fr.org/rsnapshot)
 - [rsnapshot](https://rsnapshot.org/)
 - [Mon ptit backup avec Rsnapshot](https://lord.re/posts/193-mon-ptit-backup-avec-rsync/)
