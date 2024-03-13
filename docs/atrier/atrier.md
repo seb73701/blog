@@ -1,6 +1,15 @@
 # APPS A TRIER
 ---
 
+- https://doc.ubuntu-fr.org/dpkg
+- https://doc.ubuntu-fr.org/apt-cli
+- https://www.cnblogs.com/supersoldier/p/17317063.html
+- https://doc.ubuntu-fr.org/depots
+- https://tutoriels.pecaudchristopher.com/tutoriels_linux/espace_Ubuntu/espace_SystemeExploitation/Tutoriel_Suppression_Mysql_Ubuntu.php
+- https://geekflare.com/fr/apt-command-examples/
+- https://manpages.ubuntu.com/manpages/noble/en/man1/dpkg-repack.1.html
+- https://ostechnix.com/recreate-debian-binary-packages-that-are-already-installed-on-a-system/
+- https://packages.debian.org/fr/sid/dpkg-repack
 - https://learnk8s.io/issues/31
 - https://codefresh.io/blog/a-comprehensive-overview-of-argo-cd-architectures-2023/
 - https://bobcares.com/blog/glusterfs-transport-endpoint-is-not-connected/
