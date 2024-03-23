@@ -53,6 +53,29 @@
 
 <details>
 
+
+- [check_gitlab](https://github.com/KevinKrumbiegel/check_gitlab)
+- [check_gitlab](https://gitlab.com/6uellerBpanda/check_gitlab/-/tree/master?ref_type=heads)
+- [check_gitlab](https://exchange.icinga.com/6uellerBpanda/check_gitlab)
+- [check_gitlab](https://github.com/francescor/check_gitlab)
+- [nagios-check](https://gitlab.com/vfricou/nagios-check)
+- [Maximize your gitlab-runner power with CI/CD concurrent pipelines](https://faun.pub/maximize-your-gitlab-runner-power-with-ci-cd-concurrent-pipelines-a5dcc092cee7)
+- [Enable Metrics for GitLab Runner and use them on Prometheus](https://medium.com/@joelkoussawo/enable-metrics-for-gitlab-runner-and-use-them-on-prometheus-e624c1d27798)
+- [GitLab Prometheus metrics](https://docs.gitlab.com/ee/administration/monitoring/prometheus/gitlab_metrics.html)
+- [Metrics Reports](https://docs.gitlab.com/ee/ci/testing/metrics_reports.html)
+- [GitLab Prometheus metrics](https://medal.ctb.upm.es/internal/gitlab/help/administration/monitoring/prometheus/gitlab_metrics.md)
+- [Monitoring GitLab with Prometheus](https://medal.ctb.upm.es/internal/gitlab/help/administration/monitoring/prometheus/index.md)
+- [Datadog - Gitlab](https://docs.datadoghq.com/fr/integrations/gitlab/?tab=host)
+- [Gitlab Runner Metrics](https://grafana.com/grafana/dashboards/14016-gitlab-runner-metrics/)
+- [gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter)
+- [Dashboard de pipelines Gitlab CI/CD](https://blog.stephane-robert.info/post/gitlab-montoring-several-pipelines/)
+- [Monitoring GitLab with Prometheus](https://docs.gitlab.com/ee/administration/monitoring/prometheus/)
+- [Monitor GitLab Runner usage](https://docs.gitlab.com/runner/monitoring/)
+- [Monitoring GitLab with Prometheus](https://docs.gitlab.com/ee/administration/monitoring/prometheus/)
+- [Jobs API](https://docs.gitlab.com/ee/api/jobs.html)
+- [Zabbix + Gitlab](https://www.zabbix.com/integrations/gitlab)
+- [How do I monitor GitLab pipelines?](https://documentation.cloud-runner.com/support/solutions/articles/150000099086-how-do-i-monitor-gitlab-pipelines-)
+- [Supervision de GitLab](https://snum.gitlab-pages.din.developpement-durable.gouv.fr/dam/gitlab/gitlab-forge-doc/install/Kubernetes/GitLab-Monitoring/)
 - [[Gitlab] Retour d'expérience pour un usage personnel](https://www.pofilo.fr/post/20210729-essai-gitlab/)
 - [[Sunny Tech 2019] Je gère mon entreprise et mes projets avec GitLab](https://www.youtube.com/watch?v=gJKUN9m5844) <span style="color:red;"><i class="fab fa-youtube fa-lg"></i></span>
 - [Accélérer vos CI Gitlab avec les DAG](https://blog.stephane-robert.info/post/dag-needs-gitlab-ci/)

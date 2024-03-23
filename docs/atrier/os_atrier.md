@@ -750,6 +750,7 @@
 
 <details>
 
+- [Terminalizer – Record Your Linux Terminal and Generate Animated GIF](https://www.tecmint.com/terminalizer-record-your-linux-terminal-in-gif/)
 > - [Difference between sh and Bash](https://stackoverflow.com/questions/5725296/difference-between-sh-and-bash)
 - [rsnapshot](https://doc.ubuntu-fr.org/rsnapshot)
 - [rsnapshot](https://rsnapshot.org/)

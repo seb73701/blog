@@ -322,7 +322,9 @@
   <div><a href="#apps/sensu/sensu.md">Sensu Go</a></div>
   <div><a href="#apps/smokeping/smokeping.md">Smokeping</a></div>
   <div><a href="#apps/sonarqube/sonarqube.md">SonarQube</a></div>
+  <div><a href="#apps/spamassassin/spamassassin.md">SpamAssassin</a></div>
   <div><a href="#apps/squid/squid.md">Squid</a></div>
+  <div><a href="#apps/suricata/suricata.md">Suricata</a></div>
 </div>
 
 

@@ -278,6 +278,7 @@
 - [First Configuration After Ansible Installation Getting Started With Ansible](https://arkit.co.in/first-configuration-ansible/)
 - [Formation Ansible : créer un utilisateur avec le module user](https://xavki.blog/formation-ansible-creer-user/)
 - [Formation Ansible en utilisant Docker pour devenir DevOps](https://www.it-wars.com/posts/dev/formation-ansible-docker-devops/) (ouvrir avec firefox)
+- [Gather system information with Ansible Facts](https://4sysops.com/archives/gather-system-information-with-ansible-facts/)
 - [Generating Diffs with Ansible](https://blog.networktocode.com/blog/post/generating-diff-with-ansible/)
 - [Gérer et Maitriser les inventaires Ansible](https://blog.stephane-robert.info/post/ansible-inventaire-static-precedence-tips/)
 - [GÉRER LES BASTIONS AVEC ANSIBLE](https://blog.wescale.fr/2015/12/10/gerer-les-bastions-avec-ansible/)
