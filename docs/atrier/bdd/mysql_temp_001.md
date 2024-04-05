@@ -86,3 +86,9 @@ installation should now be secure.
 Thanks for using MySQL!
 
 </code>
+
+
+```shell
+mysql -e "STOP SLAVE; SET GLOBAL sql_slave_skip_counter = 1; START SLAVE;"
+mysql -e "SHOW SLAVE STATUS \G;"
+```

@@ -43,23 +43,23 @@
 
 <details>
 
-- [How to Install SQLite on CentOS 8](https://linuxhint.com/install-sqlite-centos-8/)
-- [How to Install SQLite and SQLite Browser in Ubuntu](https://www.tecmint.com/install-sqlite-in-ubuntu/)
-- [Getting Started with SQL Using SQLite Studio](https://www.opensourceforu.com/2020/12/getting-started-with-sql-using-sqlite-studio/)
 - [A hands-on tutorial of SQLite3](https://opensource.com/article/21/2/sqlite3-cheat-sheet)
-- [Install SQLite browser in Ubuntu 20.04](https://linuxhint.com/install_sqlite_browser_ubuntu/)
-- [How to Install SQLite and SQLite Browser on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-sqlite-and-sqlite-browser-on-ubuntu-2004/)
-- [SQLITE : L'essentiel sur cette base de données (CLI, SQL, PHP)](https://www.linuxtricks.fr/wiki/sqlite-l-essentiel-sur-cette-base-de-donnees-cli-sql-php)
-
-- [How To Install and Use SQLite on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-sqlite-on-ubuntu-20-04)
-- [SQLite 3.32.0 est disponible et apporte la prise en charge de l'analyse approximative](https://sgbd.developpez.com/actu/304243/SQLite-3-32-0-est-disponible-et-apporte-la-prise-en-charge-de-l-analyse-approximative-a-l-aide-de-la-commande-PRAGMA-analysis-limit/)
-- [Utiliser SQlite3 en mode async / await](https://blog.pagesd.info/2019/10/21/utiliser-sqlite-node-async-await/)
-- [Internal Architecture of the SQLite Database](https://dzone.com/articles/the-internal-architecture-of-the-sqlite-database)
+- [Des sites pour ouvrir et manipuler une base de données SQLite](https://blog.shevarezo.fr/post/2018/04/20/sites-ouvrir-manipuler-base-de-donnees-sqlite)
+- [Getting Started with SQL Using SQLite Studio](https://www.opensourceforu.com/2020/12/getting-started-with-sql-using-sqlite-studio/)
 - [How the SQLite Database Works](https://dzone.com/articles/how-sqlite-database-works)
 - [How the SQLite Database Works](https://dzone.com/articles/how-sqlite-database-works)
 - [How to Install and Basic SQLite Use on Linux](https://linoxide.com/linux-how-to/install-use-sqlite-linux/)
+- [How To Install and Use SQLite on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-sqlite-on-ubuntu-20-04)
+- [How to Install SQLite and SQLite Browser in Ubuntu](https://www.tecmint.com/install-sqlite-in-ubuntu/)
+- [How to Install SQLite and SQLite Browser on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-sqlite-and-sqlite-browser-on-ubuntu-2004/)
+- [How to Install SQLite on CentOS 8](https://linuxhint.com/install-sqlite-centos-8/)
+- [Install SQLite browser in Ubuntu 20.04](https://linuxhint.com/install_sqlite_browser_ubuntu/)
+- [Internal Architecture of the SQLite Database](https://dzone.com/articles/the-internal-architecture-of-the-sqlite-database)
+- [Merge SQLITE commands and data in one text file](https://gist.github.com/jbrown123/6f20a6d6d3778949e8a6091d786e309e)
 - [Réparer une base de données SQLite corrompue comme un bos](http://www.tiger-222.fr/?d=2018/06/07/17/18/58-reparer-une-base-de-donnees-sqlite-corrompue-comme-un-boss)
-- [Des sites pour ouvrir et manipuler une base de données SQLite](https://blog.shevarezo.fr/post/2018/04/20/sites-ouvrir-manipuler-base-de-donnees-sqlite)
 - [SQLite : gare aux verrous](https://www.dsfc.net/infrastructure/base-de-donnees-infrastructure/sqlite-gare-aux-verrous/)
+- [SQLITE : L'essentiel sur cette base de données (CLI, SQL, PHP)](https://www.linuxtricks.fr/wiki/sqlite-l-essentiel-sur-cette-base-de-donnees-cli-sql-php)
+- [SQLite 3.32.0 est disponible et apporte la prise en charge de l'analyse approximative](https://sgbd.developpez.com/actu/304243/SQLite-3-32-0-est-disponible-et-apporte-la-prise-en-charge-de-l-analyse-approximative-a-l-aide-de-la-commande-PRAGMA-analysis-limit/)
+- [Utiliser SQlite3 en mode async / await](https://blog.pagesd.info/2019/10/21/utiliser-sqlite-node-async-await/)
 
 </details>

@@ -43,6 +43,7 @@
 - [3 Quick Ways to Recover Outlook PST Password Online](https://dzone.com/articles/03-quick-ways-to-recover-outlook-pst-password-onli)
 - [7 Outlook.com Tricks Everyone Needs to Know](https://www.makeuseof.com/tag/hidden-outlook-com-tricks/)
 - [Annuler l’envoi d’un email avec Outlook 2016](https://akril.net/2017/09/02/annuler-lenvoi-dun-email-avec-outlook-2016/)
+- [Bloquer des Courriels dans Outlook : 5 Méthodes Pratiques à Utiliser](https://blog.mailfence.com/fr/bloquer-des-courriels-dans-outlook/)
 - [Comment afficher l'adresse email des expéditeurs dans la boîte de réception](/atrier/apps/microsoft_outlook_001.md)
 - [Comment envoyer un e-mail depuis un alias avec Outlook ?](https://www.it-connect.fr/comment-envoyer-un-e-mail-depuis-un-alias-avec-outlook/)
 - [Fix Unknown Error 0x80040600 on Microsoft Outlook](https://www.thewindowsclub.com/unknown-error-0x80040600-outlook)

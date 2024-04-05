@@ -38,10 +38,12 @@
 
 <details>
 
-- [How to Install & Use ClamAV on AlmaLinux 8](https://www.linuxcapable.com/how-to-install-use-clamav-on-almalinux-8/)
-- [How to Install and Use ClamAV on Ubuntu 20.04](https://linoxide.com/how-to-install-and-use-clamav-on-ubuntu-20-04/)
+- [20 Examples of Scanning for Viruses with ClamAV on Linux](https://www.linuxcapable.com/20-examples-of-scanning-for-viruses-with-clamav-on-linux/)
 - [ClamAV: Use this Open Source Software to Protect your Operating System](https://opensourceforu.com/2020/04/clamav-use-this-open-source-software-to-protect-your-operating-system/)
+- [How to Install and Use ClamAV on Ubuntu 20.04](https://linoxide.com/how-to-install-and-use-clamav-on-ubuntu-20-04/)
 - [How to Install and Use ClamAV on Ubuntu](https://linuxhint.com/install_clamav_ubuntu/)
 - [How to Install ClamAV on Debian 9 and Scan for Vulnerabilities](https://www.rosehosting.com/blog/how-to-install-clamav-on-debian-9-and-scan-for-vulnerabilities/)
+- [How to Install ClamAV on Fedora 39, 38 Linux](https://www.linuxcapable.com/install-clamav-on-fedora-linux/)
+- [How to Install ClamAV on Ubuntu 24.04, 22.04 or 20.04](https://www.linuxcapable.com/how-to-install-clamav-on-ubuntu-linux/)
 
 </details>

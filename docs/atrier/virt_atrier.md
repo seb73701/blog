@@ -1,5 +1,7 @@
 # VIRTUALISATION A TRIER
 
+## A TRIER
+
 <details>
 
 - [10 tasks for running containers on Atomic Host](https://opensource.com/article/18/5/10-tasks-running-containers-atomic-hosts)
@@ -62,6 +64,7 @@
 - [List Of Best Docker Container Clustering And Orchestration Tools/Services](https://devopscube.com/docker-container-clustering-tools/)
 - [Logs to Monitor for Security Analytics](https://logz.io/blog/logs-to-monitor-for-security-analytics/)
 - [LXD, la conteneurisation facile : les bases](https://www.carmelo.fr/lxd-la-conteneurisation-facile-les-bases/)
+- [Machine virtuelle : c’est quoi et à quoi ça sert ?](https://blog.mailfence.com/fr/machine-virtuelle-utilisations/)
 - [Making compliance scalable in a container world](https://opensource.com/article/20/7/compliance-containers)
 - [Microservices Architecture: Breaking the Monolith](https://dzone.com/articles/microservices-architecture-breaking-the-monolith)
 - [Mieux maitriser nos infrastructures conteneurisées et laisser paître nos conteneurs](https://bearstech.com/societe/blog/mieux-maitriser-nos-infrastructures-conteneurisees-et-laisser-paitre-nos-conteneurs/)
@@ -128,6 +131,15 @@
 
 ----
 
+## Citrix
+
+<details>
+
+- [Installer Citrix Workspace sous Rocky Linux 8](https://blog.microlinux.fr/citrix-workspace-rocky-linux-8/)
+
+</details>
+
+----
 
 ## Consul (HashiCorp)
 
@@ -307,6 +319,19 @@
 - [Docker Multi Stage Builds](https://fredix.xyz/2017/12/docker-multi-stage-builds/)
 - [Docker Networking Tutorial : Connect Containers Across Hosts Using Weave](https://devopscube.com/docker-networking-tutorial-connect-containers-across-hosts-using-weave/)
 - [DOCKER OVERLAY NETWORKS : COMMENT FONCTIONNE L’OVERLAY DOCKER ?](http://blog.d2-si.fr/2017/09/20/docker-overlay-networks/)
+- [Docker par la pratique (1) – Présentation et installation](https://blog.microlinux.fr/formation-docker-01-intro-install/)
+- [Docker par la pratique (10) – Gérer les volumes](https://blog.microlinux.fr/formation-docker-10-volumes/)
+- [Docker par la pratique (11) – Conteneurs et réseaux](https://blog.microlinux.fr/formation-docker-11-reseaux/)
+- [Docker par la pratique (12) – Combiner les conteneurs](https://blog.microlinux.fr/formation-docker-12-combiner/)
+- [Docker par la pratique (13) – Compose](https://blog.microlinux.fr/formation-docker-13-compose/)
+- [Docker par la pratique (2) – Les commandes de base](https://blog.microlinux.fr/formation-docker-02-commandes/)
+- [Docker par la pratique (3) – Gérer les images](https://blog.microlinux.fr/formation-docker-03-images/)
+- [Docker par la pratique (4) – Exécuter un conteneur](https://blog.microlinux.fr/formation-docker-04-executer/)
+- [Docker par la pratique (5) – Exposer un conteneur](https://blog.microlinux.fr/formation-docker-05-exposer/)
+- [Docker par la pratique (6) – Se connecter à un conteneur](https://blog.microlinux.fr/formation-docker-06-connexion/)
+- [Docker par la pratique (7) – Gérer les logs](https://blog.microlinux.fr/formation-docker-07-logs/)
+- [Docker par la pratique (8) – Utiliser les registres](https://blog.microlinux.fr/formation-docker-08-registres/)
+- [Docker par la pratique (9) – Construire une image](https://blog.microlinux.fr/formation-docker-09-construire/)
 - [Docker Performance Monitoring with Metricbeat and ELK Stack](https://logz.io/blog/docker-metricbeat/)
 - [Docker pour ma stack LAMP](https://blog.kulakowski.fr/post/docker-pour-ma-stack-lamp)
 - [Docker pour ma stack LAMP](https://blog.kulakowski.fr/post/docker-pour-ma-stack-lamp)
@@ -499,6 +524,7 @@
 - [Installation d'un serveur de containers](https://blogduyax.fr/2018/10/04/docker-server.html)
 - [Installation, configuration et utilisation d’un Docker Registry](https://journaldunadminlinux.fr/tutoriel-installation-configuration-et-utilisation-dun-docker-registry/)
 - [Installer Docker dans WSL](https://rherault.fr/blog/docker-windows-home)
+- [Installer Docker et Portainer sur Debian](https://www.edouard.bzh/guide-installer-docker-et-portainer-debian/)
 - [Installer Docker pour déployer vos applications](https://linit.io/installer-docker-pour-deployer-vos-applications/)
 - [Installer Docker pour déployer vos applications](https://linit.io/installer-docker-pour-deployer-vos-applications/)
 - [INSTALLER DOCKER SUR UN RASPBERRY PI](https://blog.zwindler.fr/2016/09/05/geekerie-du-week-end-installer-docker-sur-un-raspberry-pi/)
@@ -1466,6 +1492,7 @@
 - [Install And Configure KVM In Ubuntu 20.04 Headless Server](https://www.ostechnix.com/install-and-configure-kvm-in-ubuntu-20-04-headless-server/)
 - [Install KVM on Ubuntu 20.04](https://linuxhint.com/install_kvm_ubuntu-2/)
 - [Install KVM Virtualization on Linux Mint 20](https://linuxhint.com/install_kvm_virtualization_ubuntu/)
+- [Installer un hyperviseur KVM sous Rocky Linux 8](https://blog.microlinux.fr/hyperviseur-kvm-rocky-linux-8/)
 - [KVM - 1. INTRODUCTION (QEMU, LIBVIRT...)](https://www.youtube.com/watch?v=l-30b8oHyGQ&t=2s)
 - [KVM Guest Snapshots with Libvirt](https://linuxhint.com/kvm_snapshots_libvirt/)
 - [Linux list a KVM vm guest using virsh command](https://www.cyberciti.biz/faq/linux-list-a-kvm-vm-guest-using-virsh-command/)
@@ -1657,6 +1684,7 @@
 - [Create Debian VM with Docker Host using Vagrant–automatically include Guest Additions](https://technology.amis.nl/2017/10/19/create-debian-vm-with-docker-host-using-vagrant-automatically-include-guest-additions/)
 - [Créer des boxes Vagrant facilement en utilisant Packer](https://tferdinand.net/creer-des-boxes-vagrant-facilement-en-utilisant-packer/)
 - [Créer un cluster Kubernetes local avec Vagrant](https://tferdinand.net/creer-un-cluster-kubernetes-local-avec-vagrant/)
+- [Débuter avec Vagrant et KVM sous Rocky Linux 8](https://blog.microlinux.fr/debuter-vagrant-kvm-rocky-linux-8/)
 - [Débuter avec Vagrant sous OpenSUSE Leap](https://blog.microlinux.fr/vagrant-opensuse-leap/)
 - [Getting started with Vagrant](https://opensource.com/article/18/4/getting-started-vagrant)
 - [How To Add Downloaded .box File To Vagrant In Linux](https://ostechnix.com/how-to-add-downloaded-box-file-to-vagrant-in-linux/)
@@ -1691,6 +1719,7 @@
 - [Repeatable Development Environment with Vagrant](https://sixfeetup.com/blog/repeatable-development-environment-with-vagrant)
 - [Using Vagrant with Azure](https://blog.scottlowe.org/2017/12/11/using-vagrant-with-azure/)
 - [Using Vagrant with Libvirt on Fedora 27](https://blog.scottlowe.org/2017/12/06/using-vagrant-with-libvirt-on-fedora/)
+- [Vagrant et KVM sous Rocky Linux 8](https://blog.microlinux.fr/vagrant-kvm-rocky-linux-8/)
 - [Vagrant et les Guest Additions de VirtualBox](https://blog.microlinux.fr/vagrant-vbguest/)
 - [Vagrant Re-Packaging And Ssh](https://blog.pythian.com/vagrant-re-packaging-ssh/)
 - [Vagrant Tutorial – Getting Started With Vagrant](https://ostechnix.com/vagrant-tutorial-getting-started-with-vagrant/)
@@ -1717,6 +1746,7 @@
 - [Configurer l'accès au réseau (NAT, pont, ...)](https://www.informatiweb.net/tutoriels/informatique/virtualisation/virtualbox-modes-d-acces-reseau-d-une-machine-virtuelle.html)
 - [Configurer l'accès au réseau](http://ressourcesinformatiques.com/article.php?article=73)
 - [Configurer sa virtualbox pour être en réseau local](https://blog.sodifrance.fr/configurer-sa-virtualbox-pour-etre-en-reseau-local/)
+- [Connexion SSH à une VM VirtualBox configurée en NAT](https://blog.microlinux.fr/ssh-virtualbox-nat/)
 - [Convert your Windows install into a VM on Linux](https://opensource.com/article/21/1/virtualbox-windows-linux)
 - [Copier/coller entre l'OS invité et l'OS hôte](http://ressourcesinformatiques.com/article.php?article=75)
 - [Creating A Test Lab Using VirtualBox / NAT Networking](https://blog.pythian.com/test-lab-using-virtualbox-nat-networking/)
@@ -1809,6 +1839,7 @@
 - [Installation des Additions invité VirtualBox](https://docs.oracle.com/cd/E26217_01/E35193/html/qs-guest-additions.html)
 - [Installer les additions invité VirtualBox dans Debian](https://www.linuxtricks.fr/wiki/installer-les-additions-invite-virtualbox-dans-debian)
 - [Installer les Additions Invités Virtualbox](https://www.noobunbox.net/virtualisation/installer-les-additions-invites-virtualbox)
+- [Installer VirtualBox](https://blog.microlinux.fr/virtualbox-formation/)
 - [Installing Virtual Box on Debian 10](https://linuxhint.com/install_virtualbox_debian_10/)
 - [Interagir entre l'OS invité et l'OS hôte](http://ressourcesinformatiques.com/article.php?article=74)
 - [Managing VirtualBox Virtual Machines through Command Line (with VBoxManage)](http://www.systemcodegeeks.com/virtualization/virtualbox/managing-virtualbox-virtual-machiness-command-line-vboxmanage/)
@@ -2080,11 +2111,11 @@
 - [What is VMware ESXi Quick Boot and how to configure it](https://4sysops.com/archives/what-is-vmware-esxi-quick-boot-and-how-to-configure-it/)
 - [What is VMware Tanzu Kubernetes Grid?](https://4sysops.com/archives/what-is-vmware-tanzu-kubernetes-grid/)
 - [WHAT TO DO WHEN A VMDK CONVERSION JUST WON’T WORK](http://techgenix.com/vmdk-conversion/)
-- [What's new in content libraries in vSphere 7](https://4sysops.com/archives/whats-new-in-content-libraries-in-vsphere-7/)
-- [What's new in VMware Tools 11.0](https://4sysops.com/archives/whats-new-in-vmware-tools-11-0/)
 - [What’s in my LAB #01 : VMware ESXi 6.7 Installation](https://www.tech2tech.fr/whats-in-my-lab-01-vmware-esxi-6-7-installation/)
 - [What’s in my LAB #02 : VMware ESXi 6.7 – Configuration réseaux et stockage](https://www.tech2tech.fr/whats-in-my-lab-02-vmware-esxi-6-7-configuration-reseaux-et-stockage/)
 - [What’s in my LAB #03 : VMware ESXi 6.7 : Création de Machines Virtuelles](https://www.tech2tech.fr/whats-in-my-lab-03-vmware-esxi-6-7-creation-de-machines-virtuelles/)
+- [What's new in content libraries in vSphere 7](https://4sysops.com/archives/whats-new-in-content-libraries-in-vsphere-7/)
+- [What's new in VMware Tools 11.0](https://4sysops.com/archives/whats-new-in-vmware-tools-11-0/)
 - [When your VMware ESXi host is in a non-responding state](https://4sysops.com/archives/when-your-vmware-esxi-host-is-in-a-non-responding-state/)
 - [Working with Content Libraries in vSphere 6.5](https://nolabnoparty.com/en/working-with-content-libraries-in-vsphere-6-5/)
 
