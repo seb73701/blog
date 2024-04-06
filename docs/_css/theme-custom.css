@@ -78,6 +78,10 @@ article#main.markdown-section > h1 {
 
 article#main.markdown-section > details { border-left: darkcyan 3px solid; padding-left: 10px; }
 
+article#main.markdown-section > span > ul > li {width:200px;display:inline-block;}
+
+article#main.markdown-section > span > ul > li > a:hover {color:#fb8500;}
+
 .apps-container, .bdd-container {
     display: flex;
     flex-wrap: wrap;

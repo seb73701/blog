@@ -1,87 +1,114 @@
 # BASES DE DONNEES
 ---
 
-> Liste des base de données classé par ordre alphabétique
+## <i class="fa-solid fa-hashtag"></i> Information
 
-## A
-
-<div class="bdd-container">
-  <div><a href="#bdd/apache_cassandra/apache_cassandra.md">Apache Cassandra</a></div>
-  <div><a href="#bdd/apache_couchdb/apache_couchdb.md">Apache CouchDB</a></div>
-  <div><a href="#bdd/apache_hbase/apache_hbase.md">Apache HBase</a></div>
-  <div><a href="#bdd/arangodb/arangodb.md">ArangoDB</a></div>
-</div>
-
-## C
-
-<div class="bdd-container">
-  <div><a href="#bdd/clickhouse/clickhouse.md">Clickhouse</a></div>
-  <div><a href="#bdd/cockroachdb/cockroachdb.md">CockroachDB</a></div>
-  <div><a href="#bdd/couchbase/couchbase.md">CouchBase</a></div>
-</div>
-
-## G
-
-<div class="bdd-container">
-  <div><a href="#bdd/galera_cluster/galera_cluster.md">Galera Cluster</a></div>
-</div>
-
-## I
-
-<div class="bdd-container">
-  <div><a href="#bdd/influxdb/influxdb.md">InfluxDB</a></div>
-</div>
-
-## K
-
-<div class="bdd-container">
-  <div><a href="#bdd/kairosdb/kairosdb.md">KairosDB</a></div>
-</div>
+![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
 
 
+> <i class="fa-solid fa-quote-left"></i> Liste des **base de données** classé par ordre alphabétique. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
-## M
+---
 
-<div class="bdd-container">
-  <div><a href="#bdd/mariadb/mariadb.md">MariaDB</a></div>
-  <div><a href="#bdd/mongodb/mongodb.md">MongoDB</a></div>
-  <div><a href="#bdd/mysql/mysql.md">MySQL</a></div>
-</div>
+#### A
 
-## O
+<span>
 
-<div class="bdd-container">
-  <div><a href="#bdd/oracle/oracle.md">Oracle</a></div>
-  <div><a href="#bdd/orientdb/orientdb.md">OrientDB</a></div>
-</div>
+- [Apache Cassandra](/bdd/apache_cassandra/apache_cassandra.md)
+- [Apache CouchDB](/bdd/apache_couchdb/apache_couchdb.md)
+- [Apache HBase](#bdd/apache_hbase/apache_hbase.md)
+- [ArangoDB](#bdd/arangodb/arangodb.md)
 
-## P
+</span>
 
-<div class="bdd-container">
-  <div><a href="#bdd/percona_server_mysql/percona_server_mysql.md">Percona Server for MySQL</a></div>
-  <div><a href="#bdd/percona_xtradb_cluster/percona_xtradb_cluster.md">Percona XtraDB Cluster</a></div>
-  <div><a href="#bdd/postgresql/postgresql.md">PostgreSQL</a></div>
-</div>
+#### C
 
-## R
+<span>
 
-<div class="bdd-container">
-  <div><a href="#bdd/redis/redis.md">Redis</a></div>
-  <div><a href="#bdd/rethinkdb/rethinkdb.md">RethinkDB</a></div>
-</div>
+- [Clickhouse](/bdd/clickhouse/clickhouse.md)
+- [CockroachDB](/bdd/cockroachdb/cockroachdb.md)
+- [CouchBase](/bdd/couchbase/couchbase.md)
 
-## S
+</span>
 
-<div class="bdd-container">
-  <div><a href="#bdd/sqlserver/sqlserver.md">SQL Server</a></div>
-  <div><a href="#bdd/sqlite/sqlite.md">SQLite</a></div>
-</div>
+#### G
 
-## T
+<span>
 
-<div class="bdd-container">
-  <div><a href="#bdd/timescaledb/timescaledb.md">TimescaleDB</a></div>
-</div>
+- [Galera Cluster](/bdd/galera_cluster/galera_cluster.md)
+
+</span>
+
+#### I
+
+<span>
+
+- [InfluxDB](/bdd/influxdb/influxdb.md)
+
+</span>
+
+#### K
+
+<span>
+
+- [KairosDB](/bdd/kairosdb/kairosdb.md)
+
+</span>
+
+#### M
+
+<span>
+
+- [MariaDB](/bdd/mariadb/mariadb.md)
+- [MongoDB](/bdd/mongodb/mongodb.md)
+- [MySQL](/bdd/mysql/mysql.md)
+
+</span>
+
+#### O
+
+<span>
+
+- [Oracle](/bdd/oracle/oracle.md)
+- [OrientDB](/bdd/orientdb/orientdb.md)
+
+</span>
+
+#### P
+
+<span>
+
+- [Percona Server for MySQL](/bdd/percona_server_mysql/percona_server_mysql.md)
+- [Percona XtraDB Cluster](/bdd/percona_xtradb_cluster/percona_xtradb_cluster.md)
+- [PostgreSQL](/bdd/postgresql/postgresql.md)
+
+</span>
+
+#### R
+
+<span>
+
+- [Redis](/bdd/redis/redis.md)
+- [RethinkDB](/bdd/rethinkdb/rethinkdb.md)
+
+</span>
+
+#### S
+
+<span>
+
+- [SQL Server](/bdd/sqlserver/sqlserver.md)
+- [SQLite](/bdd/sqlite/sqlite.md)
+
+</span>
+
+#### T
+
+<span>
+
+- [TimescaleDB](/bdd/timescaledb/timescaledb.md)
+
+</span>
 
 ## A TRIER
 
