@@ -31,6 +31,54 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [10 Examples to Master Distribution Plots with Python Seaborn](atrier/dev/python/python_014.md)
+- [10 Powerful Python One-Liners](atrier/dev/python/python_028.md)
+- [10 Python Hacks in 30 Seconds](atrier/dev/python/python_022.md)
+- [10 Python Scripts for Everyday Automation](atrier/dev/python/python_023.md)
+- [12 Python Snippets That Will Boost Your Productivity](atrier/dev/python/python_019.md)
+- [12 Unique Python Project Ideas for Your Resume](atrier/dev/python/python_017.md)
+- [3 Tools to Track and Visualize the Execution of your Python Code](atrier/dev/python/python_039.md)
+- [32 Advanced Techniques for Better Python Code](atrier/dev/python/python_001.md)
+- [5 Common Anti-Patterns in Python](atrier/dev/python/python_018.md)
+- [5 Python Automation Scripts I Use Every Day](atrier/dev/python/python_036.md)
+- [5 Useful Python One-Liners That Can Be Understood By Beginners](atrier/dev/python/python_029.md)
+- [5 Ways To Remove Spaces of a Python String](atrier/dev/python/python_040.md)
+- [50 astuces pour Python](atrier/dev/python/python_002.md)
+- [50 commandes Python essentielles](atrier/dev/python/python_003.md)
+- [6 Python Projects You Can Finish in a Weekend](atrier/dev/python/python_015.md)
+- [7 Must-Try GUI Libraries in Python](atrier/dev/python/python_016.md)
+- [Accélération de Python avec Numba](atrier/dev/python/python_025.md)
+- [Améliorez votre processus de prise de décision avec Jupyter !](atrier/dev/python/python_027.md)
+- [Apprendre les slots Python](atrier/dev/python/python_030.md)
+- [Building Secure Python Applications: Best Practices and Security Considerations](atrier/dev/python/python_034.md)
+- [Coloration syntaxique de votre code avec Pygments](atrier/dev/python/python_026.md)
+- [Comment installer la librairie "matplotlib" sur Windows 10](atrier/dev/python/python_010.md)
+- [Comment installer la librairie "pygame" sur Windows 10](atrier/dev/python/python_021.md)
+- [Comment installer Python 3 sur Windows 10](atrier/dev/python/python_032.md)
+- [Comment installer Python3 sur Rocky Linux 8](atrier/dev/python/python_004.md)
+- [Création d'un environnement de travail pour Python3](atrier/dev/python/python_007.md)
+- [FastAPI](atrier/dev/python/python_031.md)
+- [How to Generate Automated PDF Documents with Python](atrier/dev/python/python_041.md)
+- [Le côté fonctionnel classique de Python](atrier/dev/python/python_005.md)
+- [Make Your Python Program Bug-Free: 8 Essential Tips](atrier/dev/python/python_011.md)
+- [Most popular Python packages in 2021](atrier/dev/python/python_013.md)
+- [Notions de base - Les types de données](atrier/dev/python/python_009.md)
+- [Notions de base (opérateurs, variables, instructions)](atrier/dev/python/python_008.md)
+- [Scheduling All Kinds of Recurring Jobs with Python](atrier/dev/python/python_038.md)
+- [String Interning in Python: A Hidden Gem That Makes Your Code Faster](atrier/dev/python/python_042.md)
+- [Structure du langage - Les Variables](atrier/dev/python/python_037.md)
+- [Train multiple Time Series Forecasting Models in one line of Python Code](atrier/dev/python/python_012.md)
+- [Visualization Tools with Python](atrier/dev/python/python_024.md)
+- [Web Scraping Football Matches From The World Cups 1930 to 2022 with Python](atrier/dev/python/python_020.md)
+- [What Can You Do with Python? Top Application Examples](atrier/dev/python/python_035.md)
+- [You’ll Never Walk Alone: Use Pygwalker to Visualize Data in Jupyter Notebook](atrier/dev/python/python_033.md)
+
+</details>
+
 ----
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes

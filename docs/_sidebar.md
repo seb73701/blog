@@ -25,7 +25,6 @@
 <summary>A trier</summary>
 
 * [<i class="fa-solid fa-inbox"></i> APPS à trier](/atrier/atrier.md)
-* [<i class="fa-solid fa-inbox"></i> BDD à trier](/atrier/bdd_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> CLOUDS à trier](/atrier/clouds_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> DEV à trier](/atrier/dev_atrier.md)
 * [<i class="fa-solid fa-inbox"></i> DEVOPS à trier](/atrier/devops_atrier.md)

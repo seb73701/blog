@@ -35,6 +35,16 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Comment mettre en place un projet AWS lambda en Node.js](atrier/dev/nodejs/nodejs_003.md)
+- [Downgrade Package Node.js](atrier/dev/nodejs/nodejs_002.md)
+- [Web scraping avec Node.js](atrier/dev/nodejs/nodejs_001.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes

@@ -78,9 +78,22 @@ article#main.markdown-section > h1 {
 
 article#main.markdown-section > details { border-left: darkcyan 3px solid; padding-left: 10px; }
 
-article#main.markdown-section > span > ul > li {width:200px;display:inline-block;}
+article#main.markdown-section > span > ul > li {
+    width:250px;
+    display:inline-block;
+    border-radius: 20px;
+    border: 2px solid #73AD21;
+    padding: 5px;
+    text-align: center;
+    margin:10px;
+    /* text-shadow: 2px 2px 4px #000000; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
-article#main.markdown-section > span > ul > li > a:hover {color:#fb8500;}
+/*article#main.markdown-section > span > ul > li > a:hover {color:#fb8500;}*/
+
+article#main.markdown-section > span > ul > li:nth-child(even) {border: 2px solid #0b87da;}
+article#main.markdown-section > span > ul > li:hover {border: 2px solid red;}
 
 .apps-container, .bdd-container {
     display: flex;
@@ -100,24 +113,11 @@ article#main.markdown-section > span > ul > li > a:hover {color:#fb8500;}
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.bdd-container > div {
-    width: 200px;
-    margin: 10px;
-    text-align: center;
-    line-height: 20px;
-    /* font-size: 12px; */
-    border-radius: 20px;
-    border: 2px solid #73AD21;
-    padding: 10px;
-    /* text-shadow: 2px 2px 4px #000000; */
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
+
 
 .apps-container > div:nth-child(even) {border: 2px solid #0b87da;}
 .apps-container > div:nth-child(even):hover {border: 2px solid red;}
 
-.bdd-container > div:nth-child(even) {border: 2px solid #0b87da;}
-.bdd-container > div:nth-child(even):hover {border: 2px solid red;}
 
 .apps-container > div:hover {
     border: 2px solid red;

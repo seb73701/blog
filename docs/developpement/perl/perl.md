@@ -28,6 +28,14 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Mettre à jour la liste des CPAN Mirror Network](atrier/dev/perl/perl_001.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes

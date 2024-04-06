@@ -68,6 +68,18 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [[ PowerShell ] - Passer des arguments a un script](atrier/dev/powershell/powershell_004.md)
+- [[ PowerShell ] - Template de script](atrier/dev/powershell/powershell_005.md)
+- [Affichage de la liste des paramètres de bureau](atrier/dev/powershell/powershell_003.md)
+- [Get-Date : Manipuler la date en PowerShell](atrier/dev/powershell/powershell_001.md)
+- [Trouver la version de powershell](atrier/dev/powershell/powershell_002.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes

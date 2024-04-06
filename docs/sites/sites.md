@@ -59,3 +59,41 @@
 
 - https://opentip.kaspersky.com/
 - https://www.virustotal.com/gui/home/upload
+
+### IMAGES
+
+- https://www.gradientmagic.com/
+- https://www.pexels.com/
+- https://commons.wikimedia.org/wiki/Main_Page
+- https://vintagestockphotos.com/
+- https://www.flickr.com/
+- https://www.reshot.com/
+- https://pixnio.com/
+- https://pixabay.com/
+- https://picsbuffet.com
+- https://www.theatlantic.com/
+- https://imgur.com/
+- https://gratisography.com/
+- https://freerangestock.com/index.php
+- https://www.freepik.com/index.php
+- https://www.videvo.net/
+- https://stocksnap.io/
+- https://kaboompics.com/
+- https://www.videezy.com/
+- https://www.lifeofpix.com/
+- https://burst.shopify.com/photos
+- http://www.pngmart.com/
+- https://fr.pngtree.com/
+- https://www.shutterstock.com/fr/discover/free-virtual-backgrounds
+- https://www.canva.com/zoom-virtual-backgrounds/templates/
+- https://unsplash.com/
+- https://www.hellobackgrounds.com/backgrounds/#show-videos=true
+- https://libreshot.com/
+
+
+
+## Logiciels
+
+- https://obsproject.com/
+- https://www.gitkraken.com/
+- https://www.xmind.net/

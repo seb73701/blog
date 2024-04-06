@@ -36,6 +36,14 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [JsItBad : détecter du JavaScript malveillant sans l’exécuter](atrier/dev/javascript/javascript_001.md)
+
+</details>
+
 ----
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes

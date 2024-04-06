@@ -34,6 +34,14 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [A beginner’s guide to JSON, the data format for the internet](atier/dev/json/json_001.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes

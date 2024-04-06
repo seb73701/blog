@@ -32,6 +32,18 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Analyse des arguments de ligne de commande et attribution de valeurs](atrier/dev/bash/bash_001.md)
+- [BASH](atrier/dev/bash/bash_004.md)
+- [Exemple de sortie de script](atrier/dev/bash/bash_005.md)
+- [Exemple script bash : OS Detect](atrier/dev/bash/bash_003.md)
+- [Lire des valeurs depuis un fichier de configuration](atrier/dev/bash/bash_002.md)
+
+</details>
+
 ----
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes

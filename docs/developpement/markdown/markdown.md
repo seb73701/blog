@@ -20,6 +20,17 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Sortable tables and typed columns](atrier/dev/markdown/markdown_004.md)
+- [Template 1](atrier/dev/markdown/markdown_001.md)
+- [Template 2](atrier/dev/markdown/markdown_002.md)
+- [Template 3](atrier/dev/markdown/markdown_003.md)
+
+</details>
+
 ----
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes

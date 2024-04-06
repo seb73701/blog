@@ -28,6 +28,17 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Building an interactive web portfolio with Vue + Three.js — Part One: Introduction and Setup](atrier/dev/vuejs/vuejs_002.md)
+- [Building an interactive web portfolio with Vue + Three.js — Part Three: Implementing Three.js](atrier/dev/vuejs/vuejs_001.md)
+- [Building an interactive web portfolio with Vue + Three.js — Part Two: Vue Basics](atrier/dev/vuejs/vuejs_003.md)
+- [Créer un Stepper en VueJS](atrier/dev/vuejs/vuejs_004.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes

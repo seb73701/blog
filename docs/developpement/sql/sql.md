@@ -28,6 +28,16 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Créer une nouvelle table avec la structure d'une autre table](atrier/dev/sql/sql_001.md)
+- [Tricks for Advanced SQL Querying](atrier/dev/sql/sql_002.md)
+- [You Should Use This to Visualize SQL Joins Instead of Venn Diagrams](atrier/dev/sql/sql_003.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes

@@ -31,6 +31,16 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Affichez des textes en dégradé simplement avec HTML et CSS](atrier/dev/html/html_001.md)
+- [Ajouter une vidéo de présentation de son app](atrier/dev/html/html_002.md)
+- [Comment implémenter un effet de puzzle lors du défilement](atrier/dev/html/html_003.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes

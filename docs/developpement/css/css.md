@@ -25,6 +25,29 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Cercles Palpitants](atrier/dev/css/css_001.md)
+- [Cercles rotatifs](atrier/dev/css/css_002.md)
+- [Coins qui s'agrandissent](atrier/dev/css/css_003.md)
+- [Créer un titre animé avec un arrière-plan en fondu](atrier/dev/css/css_015.md)
+- [Faire des bulles (de belles bulles animées)](atrier/dev/css/css_004.md)
+- [Flèche coulissante](atrier/dev/css/css_005.md)
+- [Fondu et agrandissement](atrier/dev/css/css_006.md)
+- [Hamburger Icône - Croix](atrier/dev/css/css_007.md)
+- [Icône de menu tournante](atrier/dev/css/css_008.md)
+- [Maîtriser les sélecteurs CSS](atrier/dev/css/css_016.md)
+- [Neige qui tombe](atrier/dev/css/css_009.md)
+- [Oiseaux en vol](atrier/dev/css/css_010.md)
+- [Souligner depuis le centre](atrier/dev/css/css_013.md)
+- [Surlignage grandissant](atrier/dev/css/css_011.md)
+- [Transition de couleurs](atrier/dev/css/css_012.md)
+- [Une molette qui roule](atrier/dev/css/css_014.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes

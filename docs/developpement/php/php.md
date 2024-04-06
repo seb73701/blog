@@ -22,6 +22,19 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Déboguez vos codes PHP](atrier/dev/php/php_006.md)
+- [Installer PHP 7.x sous CentOS / RHEL 7](atrier/dev/php/php_002.md)
+- [Installer PHP 7.x sous CentOS / RHEL 8](atrier/dev/php/php_003.md)
+- [Lister les modules PHP installés](atrier/dev/php/php_004.md)
+- [PHP](atrier/dev/php_001.md)
+- [Trouver la version de PHP installée](atrier/dev/php/php_005.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes

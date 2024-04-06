@@ -34,6 +34,14 @@
 
 </details>
 
+## <i class="fa-solid fa-glasses"></i> Articles à trier
+
+<details open>
+
+- [Déployer un backend TypeScript full-serverless avec SAM](atrier/dev/typescript/typescript_001.md)
+
+</details>
+
 ---
 
 ## <i class="fa-solid fa-glasses"></i> Articles externes
