@@ -370,5 +370,7 @@
 - [Why you need apt-get clean options?](https://linuxhint.com/why_apt_get_clean/)
 - [Working with Debian Firewalls (UFW)](https://linuxhint.com/debian_firewalls_ufw/)
 - http://ftp.debian.org/debian/dists/stretch/ChangeLog
+- https://ostechnix.com/recreate-debian-binary-packages-that-are-already-installed-on-a-system/
+- https://packages.debian.org/fr/sid/dpkg-repack
 
 </details>

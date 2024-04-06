@@ -193,6 +193,7 @@
 - [How To Find Best Ubuntu APT Repository Mirror](https://www.ostechnix.com/how-to-find-best-ubuntu-apt-repository-mirror/)
 - [How to Find Packages Owns Specific File on Ubuntu](https://linoxide.com/linux-how-to/find-packages-owns-specific-file-ubuntu/)
 - [How to Find the Number of Cores in Ubuntu](https://linuxhint.com/find-the-number-of-cores-in-ubuntu/)
+- [How To Find Ubuntu Support Duration From Commandline](https://ostechnix.com/how-to-find-ubuntu-support-duration-from-commandline/)
 - [How to Find/Change Ubuntu Default Root Password](https://linoxide.com/linux-how-to/how-to-find-change-ubuntu-default-root-password/)
 - [How to Fix ‘Repository does not have a release file’ Error in Ubuntu](https://www.linuxtechi.com/fix-repository-release-file-error-ubuntu/)
 - [How To Fix “E: Could not get lock /var/lib/dpkg/lock” Error On Ubuntu](https://ostechnix.com/how-to-fix-e-could-not-get-lock-var-lib-dpkg-lock-error-on-ubuntu/)
@@ -487,6 +488,10 @@
 - [What's New in Ubuntu 21.04 Hirsute Hippo? Installation and Impressions](https://www.makeuseof.com/whats-new-in-ubuntu-21-04-hirsute-hippo-installation-and-impressions/)
 - [Which Ubuntu Version Are You Using? Here’s How to Check](https://www.makeuseof.com/check-ubuntu-version/)
 - [Wi-Fi Not Working on Ubuntu? Here’s How to Fix It](https://www.makeuseof.com/fix-ubuntu-wifi-not-working/)
-> - [How To Find Ubuntu Support Duration From Commandline](https://ostechnix.com/how-to-find-ubuntu-support-duration-from-commandline/)
+- https://doc.ubuntu-fr.org/apt-cli
+- https://doc.ubuntu-fr.org/depots
+- https://doc.ubuntu-fr.org/dpkg
+- https://manpages.ubuntu.com/manpages/noble/en/man1/dpkg-repack.1.html
+- https://tutoriels.pecaudchristopher.com/tutoriels_linux/espace_Ubuntu/espace_SystemeExploitation/Tutoriel_Suppression_Mysql_Ubuntu.php
 
 </details>

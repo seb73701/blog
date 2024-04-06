@@ -119,6 +119,7 @@
 - [Jenkins](/apps/jenkins/jenkins.md)
 - [Jira](/apps/jira/jira.md)
 - [Jq](/apps/jq/jq.md)
+- [Kali Linux](/apps/kali_linux/kali_linux.md)
 - [Kapacitor](/apps/kapacitor/kapacitor.md)
 - [Kdenlive](/apps/kdenlive/kdenlive.md)
 - [Keepalived](/apps/keepalived/keepalived.md)

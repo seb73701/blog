@@ -22,6 +22,12 @@
 - https://www.scaleway.com/en/docs/
 - https://www.ssllabs.com/
 - https://zestedesavoir.com/
+- https://lzone.de/
+- https://www.youtube.com/@IT-Connect
+- https://www.youtube.com/@DevoxxFRvideos
+- https://phoenixnap.com/kb/
+- https://learnk8s.io/issues/31
+- https://codefresh.io/blog/
 
 ## BLOGS - Articles à récupérer
 
@@ -49,6 +55,9 @@
 ### MAIL
 
 - https://mxtoolbox.com/blacklists.aspx
+- https://www.mail-tester.com/
+- https://www.gmail.com/postmaster/
+
 
 ### SSL
 

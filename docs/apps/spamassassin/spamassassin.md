@@ -35,6 +35,7 @@
 <details>
 
 - [Filtrer les spams avec SpamAssassin sous Rocky Linux 8](https://blog.microlinux.fr/spamassassin-rocky-linux-8/)
+- [Filtrer les spams avec SpamAssassin sous Rocky Linux 8](https://blog.microlinux.fr/spamassassin-rocky-linux-8/)
 - [Howto SpamAssassin](https://wiki.evolix.org/HowtoSpamAssassin)
 - [Installation et configuration de SpamAssassin](https://www.pycolore.fr/debian/serveur-mail/spamassassin.html)
 - [Lutte anti spam et anti virus](https://www.funix.org/fr/linux/filtrermail.htm)

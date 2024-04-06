@@ -247,6 +247,7 @@
 - [Point sur la 5G : déploiement, intérêts, impacts et fausse 5G](https://www.it-connect.fr/point-sur-la-5g-deploiement-interets-impacts-et-fausse-5g/)
 - [Port 22 and Relation with SSH Protocol](https://www.poftut.com/port-22-and-relation-with-ssh-protocol/)
 - [PPP (Point to Point Protocol): Components And Characteristics You Should Know About](https://fossbytes.com/ppp-point-to-point-protocol/)
+- [Premiers pas sur le réseau](https://blog.microlinux.fr/reseau/)
 - [Présentation des générations de tags Mifare (NFC 13,56 MHz)](http://blogmotion.fr/internet/securite/gen1-gen2-gen3-nfc-mifare-1k-18004)
 - [Pros and Cons of DNS Over HTTPS](https://dzone.com/articles/pros-and-cons-of-dns-over-https)
 - [Proxy inversé](https://www.f5.com/fr_fr/services/resources/glossary/reverse-proxy)

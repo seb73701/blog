@@ -2566,6 +2566,7 @@
 - [Les commandes pratiques de GPG](https://blog.doshi.re/2018/07/les-commandes-pratiques-de-gpg/)
 - [Les connexions sockets avec la commande ss](https://www.it-connect.fr/les-connexions-sockets-avec-la-commande-ss/)
 - [Les dépôts Software Collections pour CentOS](https://www.dsfc.net/logiciel-libre/linux/centos-linux-logiciel-libre/depots-software-collections-centos/)
+- [Les outils de recherche](https://blog.microlinux.fr/recherche/)
 - [Les petites infos – 8](https://www.blog-libre.org/2020/12/05/les-petites-infos-8/)
 - [Les répertoires & points de montages Linux en 2/2](https://buzut.fr/points-de-montage-linux/)
 - [Les secrets du traceur eBPF](http://www.linuxembedded.fr/2019/03/les-secrets-du-traceur-ebpf/)

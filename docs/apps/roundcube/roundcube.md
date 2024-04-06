@@ -36,6 +36,7 @@
 
 <details>
 
+- [Héberger un webmail simple avec Roundcube sous Rocky Linux 8](https://blog.microlinux.fr/roundcube-rocky-linux-8/)
 - [How to Install Latest Roundcube Webmail on Ubuntu 18.04 LTS](https://www.howtoforge.com/tutorial/ubuntu-roundcube-latest/)
 - [How to Install Roundcube Webmail on CentOS/RHEL 8/7](https://www.tecmint.com/install-roundcube-webmail-on-centos-7/)
 - [How to Install RoundCube Webmail on Debian 9](https://www.rosehosting.com/blog/how-to-install-roundcube-webmail-on-debian-9/)

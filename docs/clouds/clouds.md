@@ -85,7 +85,6 @@
 - [How to Go About Migrating to the Cloud](https://www.opensourceforu.com/2020/12/how-to-go-about-migrating-to-the-cloud/)
 - [How to Invoke an External REST API from a Cloud Function](https://dzone.com/articles/how-to-invoke-an-external-rest-api-from-a-cloud-fu)
 - [How to store encrypted data on cloud](https://opensourceforu.com/2019/01/how-to-store-encrypted-data-on-cloud/)
-- [https://aws.amazon.com/fr/blogs/architecture/it-resilience-within-aws-cloud-part-ii-architecture-and-patterns/](https://blog.revolve.team/2021/04/27/revolve-press-start-avril-2021/)
 - [IaaS vs PaaS vs SaaS: What Is the Difference?](https://www.makeuseof.com/iaas-paas-saas/)
 - [Integrating With SaaS Applications - Example 3rd-Party Platform Integration](https://dzone.com/articles/integrating-with-saas-applications-example-3rd-par)
 - [Integrating with SaaS Applications - Example CRM Connector Integration](https://dzone.com/articles/integrating-with-saas-applications-example-crm-con)
@@ -148,6 +147,7 @@
 - [Transitioning from the ELK Stack to Logz.io in 5 Quick Steps](https://logz.io/blog/migrating-elk-stack-logz/)
 - [Types of Cloud Computing Services: IaaS, PaaS, and SaaS](https://hub.packtpub.com/cloud-computing-services-iaas-paas-saas/)
 - [Understanding Shared Responsibility For a SaaS Environment](https://dzone.com/articles/understanding-shared-responsibility-for-a-saas-env)
+- [Utiliser la console de secours Scaleway](https://blog.microlinux.fr/console-de-secours-scaleway/)
 - [What is Cloud Computing and What is it For?](https://dzone.com/articles/what-is-cloud-computing-and-what-is-it-for)
 - [What is Cloud Computing?](https://www.digitalocean.com/community/tutorials/what-is-cloud-computing)
 - [What Is Desktop as a Service (DaaS)?](https://www.makeuseof.com/what-is-desktop-as-a-service-daas/)
@@ -162,5 +162,7 @@
 - [Why Is a Hybrid Cloud Approach the Best for Cloud?](https://dzone.com/articles/why-is-a-hybrid-cloud-approach-the-best-approach-t-9)
 - [Why We Need a New Breed of Hybrid Microservices Platform](https://dzone.com/articles/why-we-need-a-new-breed-of-hybrid-microservices-pl)
 - [Your Cloud-First Strategy Should Be Cloud Security First](https://dzone.com/articles/your-cloud-first-strategy-should-be-cloud-security)
+- https://aws.amazon.com/fr/blogs/architecture/it-resilience-within-aws-cloud-part-ii-architecture-and-patterns/
+- https://blog.revolve.team/2021/04/27/revolve-press-start-avril-2021/
 
 </details>
