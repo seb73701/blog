@@ -20,30 +20,6 @@
 
 ---
 
-
-<details>
-<summary>A trier</summary>
-
-* [<i class="fa-solid fa-inbox"></i> APPS à trier](/atrier/atrier.md)
-* [<i class="fa-solid fa-inbox"></i> CLOUDS à trier](/atrier/clouds_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> DEV à trier](/atrier/dev_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> DEVOPS à trier](/atrier/devops_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> INCLASSABLE à trier](/atrier/inclassable_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> IOT à trier](/atrier/iot_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> JEUX à trier](/atrier/jeux_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> JOBS à trier](/atrier/job_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> MONITORING à trier](/atrier/monit_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> OS à trier](/atrier/os_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> RASPBERRY PI  à trier](/atrier/raspberry_pi_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> RESEAUX  à trier](/atrier/reso_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> RESEAUX SOCIAUX à trier](/atrier/reso_sociaux_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> SECURITE à trier](/atrier/secu_atrier.md)
-* [<i class="fa-solid fa-inbox"></i> VIRTUALISATION à trier](/atrier/virt_atrier.md)
-
-</details>
-
----
-
 <details>
 <summary>Autres</summary>
 
