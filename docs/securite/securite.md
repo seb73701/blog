@@ -42,6 +42,7 @@
 
 <details>
 
+- [UCEPROTECT Scam: When RBLs Go Bad](https://blog.sucuri.net/2021/02/uceprotect-when-rbls-go-bad.html)
 - [« Etat de la menace rançongiciel » : le nouveau rapport de l’ANSSI](https://www.it-connect.fr/etat-de-la-menace-rancongiciel-le-nouveau-rapport-de-lanssi/)
 - [« Etat de la menace rançongiciel » : le nouveau rapport de l’ANSSI](https://www.it-connect.fr/etat-de-la-menace-rancongiciel-le-nouveau-rapport-de-lanssi/)
 - [[Mémo] Manipulations des outils cryptographiques d’OpenSSL](https://www.guillaume-leduc.fr/memo-manipulations-des-outils-cryptographiques-dopenssl.html)

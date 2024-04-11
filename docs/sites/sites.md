@@ -28,6 +28,7 @@
 - https://phoenixnap.com/kb/
 - https://learnk8s.io/issues/31
 - https://codefresh.io/blog/
+- https://www.be-root.com/
 
 ## BLOGS - Articles à récupérer
 
