@@ -3,7 +3,7 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
 
 
 > <i class="fa-solid fa-quote-left"></i> Le **devops** — ou **DevOps** est un mouvement en ingénierie informatique et une pratique technique visant à l'unification du développement logiciel (**dev**) et de l'administration des infrastructures informatiques (**ops**), notamment l'administration système.

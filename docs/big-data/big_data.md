@@ -4,7 +4,7 @@
 ## <i class="fa-solid fa-hashtag"></i> Information
 
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
 
 > <i class="fa-solid fa-quote-left"></i> Quand on parle de **big data** (en français « mégadonnées » ou « données massives »), on désigne des volumes de données très importants. Dans la vie de tous les jours, beaucoup de nos actions génèrent des données. De la même manière, quand nous utilisons une application ou un site web, nous faisons appel à des quantités de données importantes. Cette quantité est tout simplement impossible à traiter pour une personne ou un outil d’analyse classique. Afin d’automatiser la collecte et le traitement de ces données, les entreprises privées, les administrations publiques, les réseaux sociaux, les applications mobiles et les instituts de recherche, entre autres, mettent en place des projets **big data**.
 >

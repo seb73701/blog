@@ -3,7 +3,7 @@
 ## <i class="fa-solid fa-hashtag"></i> Information
 
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
 
 > <i class="fa-solid fa-quote-left"></i> Le **cloud computing** (en français : l'informatique en nuage), est la pratique consistant à utiliser des serveurs informatiques à distance et hébergés sur internet pour stocker, gérer et traiter des données, plutôt qu'un serveur local ou un ordinateur personnel.
 >

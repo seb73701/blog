@@ -3,7 +3,7 @@
 ## <i class="fa-solid fa-hashtag"></i> Information
 
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
 
 > <i class="fa-solid fa-quote-left"></i> L'**Internet des objets** ou **IdO** (en anglais (the) **Internet of Things** ou **IoT**) est l'interconnexion entre l'Internet et des objets, des lieux et des environnements physiques. L'appellation désigne un nombre croissant d'objets connectés à Internet permettant ainsi une communication entre nos biens dits physiques et leurs existences numériques. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
