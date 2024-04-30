@@ -42,6 +42,9 @@
 
 <details>
 
+- [Comment garantir la sécurité de vos informations médicales en ligne ?](https://www.clubic.com/dossier-520954-comment-garantir-la-securite-de-vos-informations-medicales-en-ligne.html)
+- [L'empreinte numérique : qu'est-ce que c'est et comment la contrôler ?](https://www.clubic.com/dossier-522846-maitriser-son-footprint-numerique-passage-oblige-pour-proteger-sa-vie-privee-en-ligne.html)
+- [Cookies, supercookies, cookies zombies : comment s’en protéger efficacement ?](https://www.clubic.com/dossier-521871-cookies-supercookies-cookies-zombies-comment-s-en-proteger-efficacement.html)
 - [UCEPROTECT Scam: When RBLs Go Bad](https://blog.sucuri.net/2021/02/uceprotect-when-rbls-go-bad.html)
 - [« Etat de la menace rançongiciel » : le nouveau rapport de l’ANSSI](https://www.it-connect.fr/etat-de-la-menace-rancongiciel-le-nouveau-rapport-de-lanssi/)
 - [« Etat de la menace rançongiciel » : le nouveau rapport de l’ANSSI](https://www.it-connect.fr/etat-de-la-menace-rancongiciel-le-nouveau-rapport-de-lanssi/)
