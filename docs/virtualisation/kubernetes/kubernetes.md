@@ -3,22 +3,26 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/virtualisation/kubernetes/kubernetes_logo.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Kubernetes (K8s)** est un système open-source permettant d'automatiser le déploiement, la mise à l'échelle et la gestion des applications conteneurisées.
+>
+> Les conteneurs qui composent une application sont regroupés dans des unités logiques pour en faciliter la gestion et la découverte. **Kubernetes** s’appuie sur 15 années d’expérience dans la gestion de charges de travail de production (workloads) chez Google, associé aux meilleures idées et pratiques de la communauté.
+>
+> - Quel que soit le nombre : conçu selon les mêmes principes qui permettent à Google de gérer des milliards de conteneurs par semaine, **Kubernetes** peut évoluer sans augmenter votre équipe d'opérations.
+> - Quelle que soit la complexité : qu'il s'agisse de tester localement ou d'une implémentation globale, **Kubernetes** est suffisamment flexible pour fournir vos applications de manière cohérente et simple, quelle que soit la complexité de vos besoins.
+> - Quel que soit l'endroit : **Kubernetes** est une solution open-source qui vous permet de tirer parti de vos infrastructures qu'elles soient sur site (on-premises), hybride ou en Cloud publique. Vous pourrez ainsi répartir sans effort vos workloads là où vous le souhaitez. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://kubernetes.io/fr/
+- <i class="fa-solid fa-book"></i> **Documentation** : https://kubernetes.io/fr/docs/
+- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : https://github.com/kubernetes/kubernetes/tree/master/CHANGELOG
+- <i class="fa-brands fa-github"></i> **Github** : https://github.com/kubernetes/kubernetes
+- <i class="fab fa-blogger-b"></i> **Blog** : https://kubernetes.io/fr/blog/
+- <i class="fas fa-comments"></i> **Forum** : https://stackoverflow.com/questions/tagged/kubernetes - https://discuss.kubernetes.io/
+- <i class="fas fa-tools"></i> **Plugins** : https://kubernetes.io/docs/concepts/extend-kubernetes/
+
 
 ---
 
@@ -40,7 +44,6 @@
 - [10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille](https://www.youtube.com/watch?v=QKI-JRs2RIE) (video)
 - [12 Kubernetes configuration best practices](https://www.cncf.io/blog/2019/10/04/12-kubernetes-configuration-best-practices/)
 - [12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/)
-- [12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/)
 - [20,000 Upgrades Later: Lessons From a Year of Managed Kubernetes Upgrades](https://www.digitalocean.com/community/tech_talks/20-000-upgrades-later-lessons-from-a-year-of-managed-kubernetes-upgrades)
 - [3 best practices for securing Kubernetes environments](https://opensource.com/article/18/3/best-practices-securing-kubernetes-environments)
 - [3 ways to install a database with Helm charts](https://developers.redhat.com/articles/2022/04/07/3-ways-install-database-helm-charts)
@@ -61,8 +64,6 @@
 - [8 Kubernetes insights for 2021](https://opensource.com/article/21/1/kubernetes)
 - [9 kubectl commands sysadmins need to know](https://opensource.com/article/20/5/kubectl-cheat-sheet)
 - [9 Kubernetes Security Best Practices Everyone Must Follow](https://www.cncf.io/blog/2019/01/14/9-kubernetes-security-best-practices-everyone-must-follow/)
-- [9 Kubernetes Security Best Practices Everyone Must Follow](https://www.cncf.io/blog/2019/01/14/9-kubernetes-security-best-practices-everyone-must-follow/)
-- [9 Kubernetes Security Best Practices Everyone Must Follow](https://www.cncf.io/blog/2019/01/14/9-kubernetes-security-best-practices-everyone-must-follow/)
 - [A Beginner's Guide to Kubernetes (Part 1): Introduction](https://dzone.com/articles/beginners-guide-to-kubernetes-part-1-introduction)
 - [A beginner's guide to Kubernetes container orchestration](https://opensource.com/article/20/6/container-orchestration)
 - [A beginner's guide to Kubernetes Jobs and CronJobs](https://opensource.com/article/20/11/kubernetes-jobs-cronjobs)
@@ -80,7 +81,6 @@
 - [A guide to Terraform for Kubernetes beginners](https://opensource.com/article/20/7/terraform-kubernetes)
 - [A Master List of Resources for Learning Kubernetes ](https://logz.io/blog/resources-learn-kubernetes/)
 - [A Practical Guide to Kubernetes Logging](https://logz.io/blog/a-practical-guide-to-kubernetes-logging/)
-- [A Practical Guide to Kubernetes Logging](https://logz.io/blog/a-practical-guide-to-kubernetes-logging/)
 - [A Practical kubernetes Operator using Ansible — an example](https://itnext.io/a-practical-kubernetes-operator-using-ansible-an-example-d3a9d3674d5b)
 - [A reason for unexplained connection timeouts on Kubernetes/Docker](https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02)
 - [A Secure Supply Chain for Kubernetes, Part 2](https://dzone.com/articles/a-secure-supply-chain-for-kubernetes-part-2)
@@ -94,7 +94,6 @@
 - [All About Kubernetes Port Types](https://dzone.com/articles/all-about-kubernetes-port-types-nodeporttargetport)
 - [Allocatable memory and CPU in Kubernetes Nodes](https://learnk8s.io/allocatable-resources)
 - [An Introduction to Helm, the Package Manager for Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-helm-the-package-manager-for-kubernetes)
-- [An Introduction to Kubernetes Logging](https://logz.io/blog/kubernetes-logging/)
 - [An Introduction to Kubernetes Logging](https://logz.io/blog/kubernetes-logging/)
 - [An Introduction to Kubernetes Secrets and ConfigMaps](https://opensource.com/article/19/6/introduction-kubernetes-secrets-and-configmaps)
 - [Analyze Kubernetes files for errors with KubeLinter](https://opensource.com/article/21/1/kubelinter)
@@ -132,7 +131,6 @@
 - [Chaos Engineering for a More Secure Kubernetes](https://logz.io/blog/kubernetes-chaos-engineering-security-networking/)
 - [Chasing Away Kubernetes DaemonSet Issues with Prometheus & AlertManager](https://www.cncf.io/blog/2020/04/21/chasing-away-kubernetes-daemonset-issues-with-prometheus-alertmanager/)
 - [Cheat Sheet for Kubernetes Commands](https://www.howtoforge.com/kubernetes_commands/)
-- [Cheat Sheet for Kubernetes Commands](https://www.howtoforge.com/kubernetes_commands/)
 - [CI/CD Tools for Cloud Applications on Kubernetes](https://logz.io/blog/ci-cd-tools-for-kubernetes/)
 - [Cluster @%#’d – How to Recover a Broken Kubernetes Cluster](https://codefresh.io/Kubernetes-Tutorial/recover-broken-kubernetes-cluster/)
 - [Coding a real-time dashboard for Kubernetes](https://learnk8s.io/real-time-dashboard)
@@ -151,7 +149,6 @@
 - [Configure multi-tenancy with Kubernetes namespaces](https://opensource.com/article/21/2/kubernetes-namespaces)
 - [Configure RBAC in Kubernetes Like a Boss](https://medium.com/trendyol-tech/configure-rbac-in-kubernetes-like-a-boss-665e2a8665dd)
 - [Configurer ses contextes kubernetes dans kubectl sur un poste client](https://blog.zwindler.fr/2018/10/16/configurer-ses-contextes-pour-kubectl-sur-un-poste-client/)
-- [CONFIGURER SES CONTEXTES KUBERNETES DANS KUBECTL SUR UN POSTE CLIENT](https://blog.zwindler.fr/2018/10/16/configurer-ses-contextes-pour-kubectl-sur-un-poste-client/)
 - [Configuring Kubernetes Applications with Kustomize](https://dzone.com/articles/configuring-kubernetes-applications-with-kustomize)
 - [Configuring Microservices With MicroProfile and Kubernetes](https://dzone.com/articles/configuring-microservices-with-microprofile-and-ku)
 - [Container Orchestrators And Persistent Volumes – Part 2: Kubernetes](https://blog.pythian.com/container-orchestrators-persistent-volumes-part-2-kubernetes/)
@@ -161,7 +158,6 @@
 - [Create a Daemonset in Kubernetes](https://www.howtoforge.com/create-a-daemonset-in-kubernetes/)
 - [Create a Kubernetes cron job in OKD](https://opensource.com/article/19/1/create-build-and-deploy-cron-job-okd)
 - [Create and Store Secrets like Passwords, OAuth Tokens, and SSH Keys in Kubernetes](https://www.howtoforge.com/create-secrets-in-kubernetes/)
-- [Create ReadWriteMany PersistentVolumeClaims on your Kubernetes Cluster](https://medium.com/asl19-developers/create-readwritemany-persistentvolumeclaims-on-your-kubernetes-cluster-3a8db51f98e3)
 - [Create ReadWriteMany PersistentVolumeClaims on your Kubernetes Cluster](https://medium.com/asl19-developers/create-readwritemany-persistentvolumeclaims-on-your-kubernetes-cluster-3a8db51f98e3)
 - [Create Taints and Tolerations in Kubernetes](https://www.howtoforge.com/create-taints-and-tolerations-in-kubernetes/)
 - [Create your first Knative app](https://opensource.com/article/20/11/knative)
@@ -177,7 +173,6 @@
 - [Decoding the Self-Healing Kubernetes: Step by Step](https://www.cncf.io/blog/2020/05/26/decoding-the-self-healing-kubernetes-step-by-step/)
 - [Démarrer notre cluster kubernetes](https://www.dadall.info/article659/demarrer-notre-cluster-kubernetes)
 - [Demystifying Kubernetes as a Service – How Alibaba Cloud Manages 10,000s of Kubernetes Clusters](https://www.cncf.io/blog/2019/12/12/demystifying-kubernetes-as-a-service-how-does-alibaba-cloud-manage-10000s-of-kubernetes-clusters/)
-- [Demystifying RBAC in Kubernetes](https://www.cncf.io/blog/2018/08/01/demystifying-rbac-in-kubernetes/)
 - [Demystifying RBAC in Kubernetes](https://www.cncf.io/blog/2018/08/01/demystifying-rbac-in-kubernetes/)
 - [Deploy Kubernetes Anywhere](https://dzone.com/articles/deploy-kubernetes-anywhere)
 - [Deploy Pod, Replication Controller and Service in Kubernetes 1.7 on CentOS 7](https://www.linuxtechi.com/deploy-pod-replication-controller-service-kubernetes-1-7-on-centos-7/)
@@ -221,7 +216,6 @@
 - [Extend Kubernetes via a Shared Informer](https://www.cncf.io/blog/2019/10/15/extend-kubernetes-via-a-shared-informer/)
 - [Extensions Kubernetes](https://blog.octo.com/extensions-kubernetes/)
 - [First Steps with Prometheus and Grafana on Kubernetes on Windows](https://technology.amis.nl/2018/08/14/first-steps-with-prometheus-and-grafana-on-kubernetes-on-windows/)
-- [First Steps With the Kubernetes Operator](https://dzone.com/articles/first-steps-with-the-kubernetes-operator-1)
 - [First Steps with the Kubernetes Operator](https://dzone.com/articles/first-steps-with-the-kubernetes-operator)
 - [Four Ways to Keep Kubernetes’ Secrets Secret](https://dzone.com/articles/four-ways-to-keep-kubernetes-secrets-secret)
 - [From 0 to Kubernetes](https://opensource.com/article/17/11/kubernetes-lightning-talk)
@@ -231,7 +225,6 @@
 - [Get Your First Container Up On K8s Using PMKFT](https://dzone.com/articles/get-your-first-container-up-on-k8s-using-pmkft)
 - [Getting Started with kubectl: A kubectl Cheat Sheet](https://www.digitalocean.com/community/cheatsheets/getting-started-with-kubectl-a-kubectl-cheat-sheet)
 - [Getting Started with Kubernetes using MicroK8s](https://logz.io/blog/getting-started-with-kubernetes-using-microk8s/)
-- [Getting Started with Kubernetes: A kubectl Cheat Sheet](https://www.digitalocean.com/community/cheatsheets/getting-started-with-kubernetes-a-kubectl-cheat-sheet?status=moved_permanently)
 - [Getting Started with Kubernetes: A kubectl Cheat Sheet](https://www.digitalocean.com/community/cheatsheets/getting-started-with-kubernetes-a-kubectl-cheat-sheet?status=moved_permanently)
 - [Getting started with Kubernetes](https://opensource.com/article/17/11/getting-started-kubernetes)
 - [GitOps for Kubernetes](https://dzone.com/articles/gitops-for-kubernetes-1)
@@ -263,21 +256,16 @@
 - [How to Configure NFS based Persistent Volume in Kubernetes](https://www.linuxtechi.com/configure-nfs-persistent-volume-kubernetes/)
 - [How to create a cron job with Kubernetes on a Raspberry Pi](https://opensource.com/article/18/3/kubernetes-cron-job-tasks)
 - [How to create a Deployment in Kubernetes](https://www.howtoforge.com/create-a-deployment-in-kubernetes/)
-- [How to create a Deployment in Kubernetes](https://www.howtoforge.com/create-a-deployment-in-kubernetes/)
 - [How To Create a Kubernetes 1.10 Cluster Using Kubeadm on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-1-10-cluster-using-kubeadm-on-centos-7)
 - [How To Create a Kubernetes 1.10 Cluster Using Kubeadm on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-1-10-cluster-using-kubeadm-on-ubuntu-16-04)
 - [How To Create a Kubernetes 1.11 Cluster Using Kubeadm on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-1-11-cluster-using-kubeadm-on-ubuntu-18-04)
 - [How to Create a Kubernetes Cluster on AWS in Few Minutes](https://dzone.com/articles/how-to-create-a-kubernetes-cluster-on-aws-in-few-m)
 - [How To Create a Kubernetes Cluster Using Kubeadm on Debian 9](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-debian-9)
 - [How to create a Replicaset in Kubernetes](https://www.howtoforge.com/kubernetes-replicaset/)
-- [How to create a Replicaset in Kubernetes](https://www.howtoforge.com/kubernetes-replicaset/)
-- [How to create a Service in Kubernetes](https://www.howtoforge.com/create-a-service-in-kubernetes/)
 - [How to create a Service in Kubernetes](https://www.howtoforge.com/create-a-service-in-kubernetes/)
 - [How to create a StatefulSet in Kubernetes](https://www.howtoforge.com/create-a-statefulset-in-kubernetes/)
 - [How to Create Kubernetes Cluster with Kops](https://linoxide.com/containers/creating-kubernetes-cluster-kops/)
 - [How to create Multi-Container Pods in Kubernetes](https://www.howtoforge.com/multi-container-pods-in-kubernetes/)
-- [How to create Multi-Container Pods in Kubernetes](https://www.howtoforge.com/multi-container-pods-in-kubernetes/)
-- [How to create Namespaces in Kubernetes](https://www.howtoforge.com/create-namespaces-in-kubernetes/)
 - [How to create Namespaces in Kubernetes](https://www.howtoforge.com/create-namespaces-in-kubernetes/)
 - [How to Create Your Own Kubernetes Custom Resources](https://dzone.com/articles/how-to-create-your-own-kubernetes-custom-resources)
 - [How To Creates Kubernetes Jobs With Python](https://blog.pythian.com/how-to-create-kubernetes-jobs-with-python/)
@@ -321,7 +309,6 @@
 - [How to manage complex applications using Kubernetes-based Helm tool [Tutorial]](https://hub.packtpub.com/how-to-manage-complex-applications-using-kubernetes-based-helm-tool-tutorial/)
 - [How to Manage Secrets in Kubernetes Environment](https://dzone.com/articles/how-to-manage-secrets-in-kubernetes-environment)
 - [How to manage Secrets in Kubernetes environment](https://www.cncf.io/blog/2020/05/08/how-to-manage-secrets-in-kubernetes-environment/)
-- [How to manage Secrets in Kubernetes environment](https://www.cncf.io/blog/2020/05/08/how-to-manage-secrets-in-kubernetes-environment/)
 - [How To Manage Your Kubernetes Configurations with Kustomize](https://www.digitalocean.com/community/tutorials/how-to-manage-your-kubernetes-configurations-with-kustomize)
 - [How to Monitor etcd on Kubernetes](https://sysdig.com/blog/monitor-etcd/)
 - [How to monitor Golden signals in Kubernetes.](https://sysdig.com/blog/golden-signals-kubernetes/)
@@ -342,7 +329,6 @@
 - [How to Setup NGINX Ingress Controller in Kubernetes](https://www.linuxtechi.com/setup-nginx-ingress-controller-in-kubernetes/)
 - [How to Setup Private Docker Registry in Kubernetes (k8s)](https://www.linuxtechi.com/setup-private-docker-registry-kubernetes/)
 - [How to setup Role based access to Kubernetes Cluster](https://www.cncf.io/blog/2020/03/17/how-to-setup-role-based-access-to-kubernetes-cluster/)
-- [How to setup Role based access to Kubernetes Cluster](https://www.cncf.io/blog/2020/03/17/how-to-setup-role-based-access-to-kubernetes-cluster/)
 - [How to setup Role based access to Kubernetes Cluster](https://www.infracloud.io/role-based-access-kubernetes/)
 - [How to start creating kubernetes clusters like a pro: kubeadm phases — #HeptioProTip](https://blog.heptio.com/how-to-start-creating-kubernetes-clusters-like-a-pro-kubeadm-phases-heptioprotip-2bdce58b530d)
 - [how to tail logs in kubectl](https://linuxhint.com/tail-logs-kubectl/)
@@ -350,14 +336,11 @@
 - [How to Use Kubernetes DaemonSet](https://linuxhint.com/use-kubernetes-daemonset/)
 - [How to use Kubernetes resource quotas](https://opensource.com/article/20/12/kubernetes-resource-quotas)
 - [How to use Node Selectors in Kubernetes](https://www.howtoforge.com/use-node-selectors-in-kubernetes/)
-- [How to use Node Selectors in Kubernetes](https://www.howtoforge.com/use-node-selectors-in-kubernetes/)
 - [How to use service binding with RabbitMQ](https://developers.redhat.com/articles/2021/11/03/how-use-service-binding-rabbitmq#about_the_example)
 - [How To Use Telepresence on Kubernetes for Rapid Development on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-use-telepresence-on-kubernetes-for-rapid-development-on-ubuntu-20-04)
 - [How to write a custom Kubernetes scheduler using your monitoring metrics](https://sysdig.com/blog/kubernetes-scheduler/)
 - [How-to Guide: Debugging a Kubernetes Application](https://www.cncf.io/blog/2020/02/14/how-to-guide-debugging-a-kubernetes-application/)
 - [How-To: Deploy web applications on Kubernetes with Heptio Contour and Let’s Encrypt](https://blog.heptio.com/how-to-deploy-web-applications-on-kubernetes-with-heptio-contour-and-lets-encrypt-d58efbad9f56)
-- [https://www.dadall.info/article661/se-faciliter-la-vie-avec-helm](https://www.dadall.info/article660/le-dashboard-de-kubernetes)
-- [https://www.grottedubarbu.fr/k3s-multi-master/](https://www.grottedubarbu.fr/traefik-2-k3s/)
 - [Imperative/Declarative and a Few `kubectl` tricks](https://medium.com/bitnami-perspectives/imperative-declarative-and-a-few-kubectl-tricks-9d6deabdde)
 - [Implementing a custom Kubernetes authentication method](https://learnk8s.io/kubernetes-custom-authentication)
 - [Implementing Horizontal Pod Autoscaling in Kubernetes [Tutorial]](https://hub.packtpub.com/implementing-horizontal-pod-autoscaling-in-kubernetes-tutorial/)
@@ -368,11 +351,9 @@
 - [Install Open Source kube-scan to Find Kubernetes Security Risks](https://dzone.com/articles/install-open-source-kube-scan-to-find-kubernetes-security-risks)
 - [Install Spinnaker With Halyard on Kubernetes](https://dzone.com/articles/install-spinnaker-with-halyard-on-kubernetes)
 - [Installation simple d'un cluster kubernetes](https://blog.ston3o.me/installation-simple-cluster-kubernetes/)
-- [Installation simple d'un cluster kubernetes](https://blog.ston3o.me/installation-simple-cluster-kubernetes/)
 - [INSTALLER KUBERNETES AVEC KUBESPRAY (ANSIBLE)](https://blog.zwindler.fr/2017/12/05/installer-kubernetes-kubespray-ansible/)
 - [Installer Microk8s dans WSL 2](https://blog.zwindler.fr/2020/06/01/installer-microk8s-dans-wsl-2/)]
 - [Installer un cluster Kubernetes sur des VMs CentOS 7](https://blog.zwindler.fr/2017/06/07/installer-cluster-kubernetes-vm-centos/)
-- [INSTALLER UN CLUSTER KUBERNETES SUR DES VMS CENTOS 7](https://blog.zwindler.fr/2017/06/07/installer-cluster-kubernetes-vm-centos/)
 - [Installez facilement un cluster Kubernetes sous Debian ou Centos](https://journaldunadminlinux.fr/tutoriel-installez-facilement-un-cluster-kubernetes-sous-debian-ou-centos/)
 - [Installing Kubernetes - How to install Kubernetes - Getting started with Kubernetes](https://www.youtube.com/watch?v=REwl0iuaG84)
 - [Interesting Kubernetes application demos](https://williamlam.com/2020/06/interesting-kubernetes-application-demos.html)
@@ -393,7 +374,6 @@
 - [Jobs in Kubernetes](https://www.howtoforge.com/jobs-in-kubernetes/)
 - [K3S en mode HA](https://www.grottedubarbu.fr/k3s-multi-master/)
 - [K3S est le Kubernetes allégé proposé par Rancher](https://blog.wescale.fr/2020/01/09/k3s-le-kubernetes-allege-hautement-disponible/)
-- [K3S on WSL2](https://www.grottedubarbu.fr/k3s-on-wsl2/)
 - [K3S on WSL2](https://www.grottedubarbu.fr/k3s-on-wsl2/)
 - [K8S - 58. PROMETHEUS : INSTALLATION SANS HELM ET AVEC NFS (ON PREMISE)](https://www.youtube.com/watch?v=Q21mpBL7p3k)
 - [K8S - 59. MONITORING : NODE EXPORTER ET AJOUT DYNAMIQUE A PROMETHEUS](https://www.youtube.com/watch?v=AVqXZBN_Vjg)
@@ -421,9 +401,9 @@
 - [kubectl In Action](http://mhausenblas.info/kubectl-in-action/)
 - [Kubectl Port Forward](https://linuxhint.com/kubectl-port-forward/)
 - [Kubectl quelques commandes utiles pour commencer](https://xavki.blog/kubectl-quelques-commandes-utiles-pour-commencer/)
-- [kubectl tips and tricks 3](https://blog.zwindler.fr/2020/06/22/kubectl-tips-and-tricks-3/)
 - [kubectl tips and tricks n°1](https://blog.zwindler.fr/2019/10/30/kubectl-tips-tricks-1/)
 - [kubectl tips and tricks n°2](https://blog.zwindler.fr/2020/01/20/kubectl-tips-and-tricks-n2/)
+- [kubectl tips and tricks n°3](https://blog.zwindler.fr/2020/06/22/kubectl-tips-and-tricks-3/)
 - [kubectl tips and tricks n°4](https://blog.zwindler.fr/2021/09/06/kubectl-tips-and-tricks-n4/)
 - [Kubeflow 1.0 Eases Machine Learning Workflows With Kubernetes](https://opensourceforu.com/2020/03/kubeflow-1-0-eases-machine-learning-workflows-with-kubernetes/)
 - [Kubeflow Fundamentals Part 3: Distributions and Installations](https://dzone.com/articles/kubeflow-fundamentals-part-3-distributions-and-ins)
@@ -432,13 +412,11 @@
 - [KubeKey: A Lightweight Installer for Kubernetes and Cloud Native Addons](https://dzone.com/articles/kubekey-a-lightweight-installer-for-kubernetes-and)
 - [KUBERNETES - 1. INTRODUCTION | TUTOS FR](https://www.youtube.com/watch?v=vFfngcRPj9M&t=2s)
 - [Kubernetes - 24. Replicaset : HPA - Horizontal Pod Autoscaling](https://www.youtube.com/watch?v=Qvj_ndNLPeE) (video)
-- [KUBERNETES - 37. HAUTE DISPO : HAPROXY ET KEEPALIVED](https://www.youtube.com/watch?v=-fqwJxbBuGQ)
 - [KUBERNETES - 37. HAUTE DISPO : HAPROXY ET KEEPALIVED](https://www.youtube.com/watch?v=-fqwJxbBuGQ) (video)
 - [Kubernetes – Introduction to Containers](https://www.percona.com/blog/2019/08/27/kubernetes-introduction-to-containers/)
 - [Kubernetes – Ressources utiles pour bien débuter](https://blog.zwindler.fr/2020/05/25/kubernetes-ressources-utiles-pour-bien-debuter/)
 - [Kubernetes : Les volumes persistants](https://www.grottedubarbu.fr/kubernetes-volumes/)
 - [Kubernetes : sauvegarder ses applications Stateful](https://www.objectif-libre.com/fr/blog/2020/01/10/kubernetes-sauvegarder-ses-applications-stateful/)
-- [KUBERNETES : SAUVEGARDER SES APPLICATIONS STATEFUL](https://www.objectif-libre.com/fr/blog/2020/01/10/kubernetes-sauvegarder-ses-applications-stateful/)
 - [KUBERNETES : UTILISER TRAEFIK COMME LOADBALANCER](https://blog.wescale.fr/2017/09/04/kubernetes-utiliser-traefik-comme-loadbalancer/)
 - [Kubernetes 1.18 Sketchnote](https://dzone.com/articles/kubernetes-118-sketchnote)
 - [Kubernetes 1.7 on CentOS: This is How We Nailed It!](https://dzone.com/articles/kubernetes-17-on-centos-this-is-how-we-nailed-it)
@@ -451,7 +429,6 @@
 - [Kubernetes as a Service: GKE vs. AKS vs. EKS](https://logz.io/blog/kubernetes-as-a-service-gke-aks-eks/)
 - [Kubernetes as a Service: Implementing KaaS](https://dzone.com/articles/kubernetes-as-a-service-implementing-kaas)
 - [Kubernetes Audit: Making Log Auditing a Viable Practice Again](https://www.cncf.io/blog/2019/12/03/kubernetes-audit-making-log-auditing-a-viable-practice-again/)
-- [Kubernetes Auditing](https://dzone.com/articles/kubernetes-auditing)
 - [Kubernetes Auditing](https://dzone.com/articles/kubernetes-auditing)
 - [Kubernetes Authorization](https://www.magalix.com/blog/kubernetes-authorization)
 - [KUBERNETES AVEC KUBESPRAY PART 2 – ASTUCES & TROUBLESHOOTING](https://blog.zwindler.fr/2018/01/30/astuces-troubleshooting-kubespray/)
@@ -470,7 +447,6 @@
 - [Kubernetes for Application Developers (CKAD)](https://dzone.com/articles/kubernetes-for-application-developers-ckad)
 - [Kubernetes Horizontal Pod & Cluster Autoscaling: All You Need to Know](https://caylent.com/kubernetes-autoscaling/)
 - [Kubernetes Identity Management: Authentication](https://www.linuxjournal.com/content/kubernetes-identity-management-authentication)
-- [Kubernetes Image Policy Webhook Explained](https://dzone.com/articles/kubernetes-image-policy-webhook-explained)
 - [Kubernetes Image Policy Webhook Explained](https://dzone.com/articles/kubernetes-image-policy-webhook-explained)
 - [Kubernetes Ingress](https://linuxhint.com/kubernetes_ingress/)
 - [Kubernetes Installation in RedHat/CentOS](https://dzone.com/articles/kubernetes-installation-in-redhat-centos)
@@ -501,7 +477,6 @@
 - [Kubernetes sans Docker suite](https://www.aukfood.fr/kubernetes-sans-docker-suite/)
 - [Kubernetes Scheduler 101](https://www.cncf.io/blog/2019/11/11/kubernetes-scheduler-101/)
 - [Kubernetes Security 101: DevOps’ Guide to Securing K8s](https://www.stackrox.com/post/2019/07/kubernetes-security-101/)
-- [Kubernetes Security Best Practices](https://logz.io/blog/kubernetes-security/)
 - [Kubernetes Security Best Practices](https://logz.io/blog/kubernetes-security/)
 - [Kubernetes Security Guide, Chapter 1: Kubernetes RBAC and TLS certificates](https://sysdig.com/blog/kubernetes-security-rbac-tls/)
 - [Kubernetes Security Guide, Chapter 2: Kubernetes Security Context and Kubernetes Network Policy](https://sysdig.com/blog/kubernetes-security-psp-network-policy/)
@@ -565,7 +540,6 @@
 - [METTRE EN PLACE UNE CI/CD AVEC GITLAB ET GKE: INFRASTRUCTURE](https://blog.wescale.fr/2019/07/05/comment-mettre-en-place-une-ci-cd-avec-gitlab-et-gke/)
 - [Microservices and Traditional Middleware Platforms](https://dzone.com/articles/microservices-amp-traditional-middlware-platforms)
 - [Microservices on Kubernetes Part 1 - IDE and Tools](https://dzone.com/articles/microservices-on-kubernetes-part-1-ide-amp-tools)
-- [Microservices on Kubernetes Part 1 - IDE and Tools](https://dzone.com/articles/microservices-on-kubernetes-part-1-ide-amp-tools)
 - [Microservices with Docker and Kubernetes: An Overview](https://opensourceforu.com/2018/05/microservices-with-docker-and-kubernetes-an-overview/)
 - [Migration of Application Workloads to Containers using Docker and Kubernetes ](https://opensourceforu.com/2019/05/migration-of-application-workloads-to-containers-using-docker-and-kubernetes/)
 - [Migration of Application Workloads to Containers using Docker and Kubernetes](https://opensourceforu.com/2019/05/migration-of-application-workloads-to-containers-using-docker-and-kubernetes-2/)
@@ -574,7 +548,6 @@
 - [Modernize and migrate to Kubernetes with open source tools](https://developers.redhat.com/articles/2021/12/08/modernize-and-migrate-kubernetes-open-source-tools?sc_cid=7013a000002q3W5AAI#why_did_globex_decide_to_modernize_its_retail_application_)
 - [Modernizing Applications for Kubernetes](https://www.digitalocean.com/community/tutorials/modernizing-applications-for-kubernetes)
 - [Monitorer votre cluster kubernetes k3s avec prometheus et grafana](https://blog.stephane-robert.info/post/monitoring-kubernetes-k3s-prometheus-grafana/)
-- [Monitoring Apps on Oracle Container Engine for Kubernetes](https://dzone.com/articles/monitoring-apps-on-oracle-container-engine-for-kub)
 - [Monitoring Apps on Oracle Container Engine for Kubernetes](https://dzone.com/articles/monitoring-apps-on-oracle-container-engine-for-kub)
 - [Monitoring container vitality and availability with Podman](https://developers.redhat.com/blog/2019/04/18/monitoring-container-vitality-and-availability-with-podman/)
 - [Monitoring d'un cluster kubernetes](https://catlife.drycat.fr/~/XataZ/stack-tick-sur-k3s/)
@@ -692,7 +665,6 @@
 - [Two great additions to ‘kubectl’](https://haralduebele.blog/2020/05/20/two-great-additions-to-kubectl/)
 - [Ultra fast, ultra small Kubernetes on Linux – K3S beating minikube](https://technology.amis.nl/2019/11/12/ultra-fast-ultra-small-kubernetes-on-linux-k3s-beating-minikube/)
 - [Under the Hood: An Intro to Kubernetes Architecture](https://dzone.com/articles/under-the-hood-an-intro-to-kubernetes-architecture)
-- [Under the Hood: An Intro to Kubernetes Architecture](https://dzone.com/articles/under-the-hood-an-intro-to-kubernetes-architecture)
 - [Understanding Kubernetes Interfaces: CRI, CNI, and CSI](https://dzone.com/articles/understanding-kubernetes-interfaces-cri-cni-amp-cs)
 - [Understanding OpenCensus and instrumentation in Kubernetes cluster](https://opensource.com/article/20/2/kubernetes-opencensus)
 - [Understanding the Kubernetes manifest](https://medium.com/@sujithar37/understanding-the-kubernetes-manifest-97f44acc2cb9)
@@ -757,5 +729,9 @@
 - https://github.com/oslabs-beta/KlusterView
 - https://github.com/rajibmitra/pod-mutator
 - https://rbac.dev/
+- https://www.dadall.info/article660/le-dashboard-de-kubernetes
+- https://www.dadall.info/article661/se-faciliter-la-vie-avec-helm
+- https://www.grottedubarbu.fr/k3s-multi-master/
+- https://www.grottedubarbu.fr/traefik-2-k3s/
 
 </details>
