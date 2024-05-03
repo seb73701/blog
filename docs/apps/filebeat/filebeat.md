@@ -37,8 +37,8 @@ Here’s how **Filebeat** works: When you start **Filebeat**, it starts one or m
 - [How to deal with many small log files using Filebeat](https://blog.sleeplessbeastie.eu/2020/12/02/how-to-deal-with-many-small-log-files-using-filebeat/)
 - [Shipping Multiline Logs with Filebeat](https://logz.io/blog/shipping-multiline-logs-with-filebeat/)
 - [Structured logging with Filebeat](https://www.elastic.co/blog/structured-logging-filebeat)
-- [What is Autodiscover for Filebeat? And why do we need it?](https://logz.io/blog/what-is-autodiscover-filebeat/)
 - [Structured logging with Filebeat](https://www.elastic.co/fr/blog/structured-logging-filebeat)
+- [What is Autodiscover for Filebeat? And why do we need it?](https://logz.io/blog/what-is-autodiscover-filebeat/)
 
 
 </details>

@@ -28,8 +28,8 @@
 
 <details>
 
-- [Exim : résoudre l’erreur « remote_smtp defer (-53): retry time not reached for any host »](http://www.windows8facile.fr/exim-resoudre-erreur-53-smtp/)
 - [Envoyer ses emails avec DKIM, SPF, DMARC sur exim4](https://lgnap.helpcomputer.org/2017/09/envoyer-ses-emails-avec-dkim-spf-dmarc-sur-exim4/)
+- [Exim : résoudre l’erreur « remote_smtp defer (-53): retry time not reached for any host »](http://www.windows8facile.fr/exim-resoudre-erreur-53-smtp/)
 - [Travailler avec exim4 sur Debian](https://www.deltasight.fr/travailler-exim4-sur-debian/)
 
 </details>

@@ -35,20 +35,20 @@
 
 <details>
 
-- [An Introduction to TimescaleDB](https://severalnines.com/database-blog/introduction-timescaledb)
-- [Advanced Database Monitoring & Management for TimescaleDB](https://severalnines.com/database-blog/advanced-database-monitoring-management-timescaledb)
-- [How to Easily Deploy TimescaleDB](https://severalnines.com/database-blog/how-easily-deploy-timescaledb)
-- [Backup Management Tips for TimescaleDB](https://severalnines.com/database-blog/backup-management-tips-timescaledb)
-- [Performance Monitoring for TimescaleDB](https://severalnines.com/database-blog/performance-monitoring-timescaledb)
-- [How to Achieve Automatic Failover for TimescaleDB](https://severalnines.com/database-blog/how-achieve-automatic-failover-timescaledb)
-- [Scaling Your Time-Series Database - How to Simply Scale TimescaleDB](https://severalnines.com/database-blog/scaling-your-time-series-database-how-simply-scale-timescaledb)
-- [An Overview of Streaming Replication for TimescaleDB](https://severalnines.com/database-blog/overview-streaming-replication-timescaledb)
 - [A Guide to Deploying TimescaleDB with Docker](https://severalnines.com/database-blog/guide-deploying-timescaledb-docker)
-- [How To Install and Use TimescaleDB on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-timescaledb-on-ubuntu-20-04)
+- [Advanced Database Monitoring & Management for TimescaleDB](https://severalnines.com/database-blog/advanced-database-monitoring-management-timescaledb)
+- [An Introduction to TimescaleDB](https://severalnines.com/database-blog/introduction-timescaledb)
+- [An Overview of Streaming Replication for TimescaleDB](https://severalnines.com/database-blog/overview-streaming-replication-timescaledb)
+- [Backup Management Tips for TimescaleDB](https://severalnines.com/database-blog/backup-management-tips-timescaledb)
 - [Comment installer et utiliser TimescaleDB sur CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-timescaledb-on-centos-7-fr)
 - [Comment installer et utiliser TimescaleDB sur Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-timescaledb-on-ubuntu-18-04-fr)
-- [Simplified Time-Series Analytics Using the time_bucket() Function](https://dzone.com/articles/simplified-time-series-analytics-using-the-time-bu)
-- [How To Install and Use TimescaleDB on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-timescaledb-on-ubuntu-18-04)
+- [How to Achieve Automatic Failover for TimescaleDB](https://severalnines.com/database-blog/how-achieve-automatic-failover-timescaledb)
+- [How to Easily Deploy TimescaleDB](https://severalnines.com/database-blog/how-easily-deploy-timescaledb)
 - [How To Install and Use TimescaleDB on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-timescaledb-on-centos-7)
+- [How To Install and Use TimescaleDB on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-timescaledb-on-ubuntu-18-04)
+- [How To Install and Use TimescaleDB on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-timescaledb-on-ubuntu-20-04)
+- [Performance Monitoring for TimescaleDB](https://severalnines.com/database-blog/performance-monitoring-timescaledb)
+- [Scaling Your Time-Series Database - How to Simply Scale TimescaleDB](https://severalnines.com/database-blog/scaling-your-time-series-database-how-simply-scale-timescaledb)
+- [Simplified Time-Series Analytics Using the time_bucket() Function](https://dzone.com/articles/simplified-time-series-analytics-using-the-time-bu)
 
 </details>

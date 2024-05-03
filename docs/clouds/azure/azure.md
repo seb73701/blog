@@ -3,22 +3,20 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/clouds/azure/microsoft-azure_logo.png ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Azure** est une plateforme cloud conçue pour simplifier le processus de création d’applications modernes. Que vous choisissiez d’héberger vos applications entièrement dans **Azure** ou d’étendre vos applications locales avec des services **Azure**, **Azure** vous aide à créer des applications évolutives, fiables et gérables.
+>
+> **Azure** supporte les langages de programmation les plus populaires utilisés aujourd’hui, notamment Python, JavaScript, Java, .NET et Go. Avec une bibliothèque de SDK complète et une prise en charge étendue dans les outils que vous utilisez déjà comme VS Code, Visual Studio, IntelliJ et Eclipse, **Azure** est conçu pour tirer parti des compétences dont vous disposez déjà et vous rendre productif immédiatement. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://azure.microsoft.com/fr-fr
+- <i class="fa-solid fa-book"></i> **Documentation** : https://learn.microsoft.com/fr-fr/azure/?product=popular
+- <i class="fab fa-blogger-b"></i> **Blog** : https://azure.microsoft.com/blog/
+- <i class="fas fa-comments"></i> **Forum** : https://learn.microsoft.com/fr-fr/answers/tags/133/azure
+- <i class="far fa-question-circle"></i> **FAQ** : https://azure.microsoft.com/en-us/support/legal/faq/
+- <i class="fas fa-tools"></i> **Status Page** : https://azure.status.microsoft/fr-fr/status
 
 ---
 

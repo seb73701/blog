@@ -3,22 +3,18 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/clouds/aws/aws_logo.png ':size=250 :no-zoom')
 
 
 > <i class="fa-solid fa-quote-left"></i> **Amazon Web Services (AWS)** est la plateforme cloud la plus avancée et la plus utilisée à l'échelle internationale, offrant plus de 165 services complets proposés par des centres de données aux quatre coins du monde. Des millions d'utilisateurs, notamment certaines des start-ups les plus dynamiques, des plus grandes entreprises et des agences gouvernementales principales, font confiance à **AWS** pour gérer leur infrastructure et leur apporter de la flexibilité, tout en réduisant leurs coûts. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
 - <i class="fa-solid fa-globe"></i> **Site Officiel** : https://aws.amazon.com/
-- <i class="fa-solid fa-book"></i> **Documentation** : https://docs.aws.amazon.com//?nc2=h_ql_doc_do
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-book"></i> **Documentation** : https://docs.aws.amazon.com//?nc2=h_ql_doc_do 
+- <i class="fab fa-blogger-b"></i> **Blog** : https://aws.amazon.com/fr/blogs/?nc1=f_cc
+- <i class="fas fa-comments"></i> **Forum** : https://repost.aws/knowledge-center/?nc1=f_dr
+- <i class="far fa-question-circle"></i> **FAQ** : https://aws.amazon.com/fr/faqs/?nc1=f_dr
+- <i class="fas fa-tools"></i> **Status Page** : https://health.aws.amazon.com/health/status
 
 ---
 

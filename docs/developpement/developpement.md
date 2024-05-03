@@ -8,6 +8,18 @@
 
 > <i class="fa-solid fa-quote-left"></i> Liste des **langages** et **méthodologie** de développement classé par ordre alphabétique. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
+## Styles guides
+
+- [Google **Go** Style Guide](https://google.github.io/styleguide/go/)
+- [Google **HTML/CSS** Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [Google **JavaScript** Style Guide](https://google.github.io/styleguide/jsguide.html)
+- [Google **Python** Style Guide](https://google.github.io/styleguide/pyguide.html)
+- [Google **Shell** Style Guide](https://google.github.io/styleguide/shellguide.html)
+- [Google Style Guides](https://google.github.io/styleguide/)
+- [Google **TypeScript** Style Guide](https://google.github.io/styleguide/tsguide.html)
+- [Google **Vimscript** Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)
+
+
 ## Langages
 
 <span>

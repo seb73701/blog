@@ -36,9 +36,9 @@
 - [How to fix disconnecting Graylog node after upgrading from version 3.0 to 3.1](https://blog.sleeplessbeastie.eu/2020/04/17/how-to-fix-disconnecting-graylog-node-after-upgrading-from-version-3-0-to-3-1/)
 - [How to increase maximum socket receive buffer size](https://blog.sleeplessbeastie.eu/2020/04/24/how-to-increase-maximum-socket-receive-buffer-size/)
 - [How to Install Graylog on Ubuntu 16.04](https://www.alibabacloud.com/blog/how-to-install-graylog-on-ubuntu-16-04_594046)
+- [How to Install Graylog Server on Ubuntu 20.04](https://linoxide.com/how-to-install-graylog-server-on-ubuntu-20-04/)
 - [How to Install Graylog with Elasticsearch on CentOS 8](https://www.linuxtechi.com/install-graylog-elasticsearch-centos-8/)
 - [How to Monitor Log Files with Graylog v3.1 on Debian 10](https://www.howtoforge.com/how-to-monitor-log-files-with-graylog-v31-on-debian-10/)
 - [Install and Configure Graylog Monitoring Server Ubuntu 20.04](https://www.howtoforge.com/install-and-configure-graylog-monitoring-server-ubuntu-2004/)
-- [How to Install Graylog Server on Ubuntu 20.04](https://linoxide.com/how-to-install-graylog-server-on-ubuntu-20-04/)
 
 </details>

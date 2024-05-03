@@ -27,8 +27,8 @@
 <details>
 
 - [How to Export Your Photos and Videos from Google Photos](https://www.makeuseof.com/export-photos-from-google-photos/)
+- [How to Hide Your Private Photos and Videos in Google Photos](https://www.makeuseof.com/how-use-locked-folder-google-photos-hide-photos/)
 - [How to Permanently Delete Google Photos](https://www.makeuseof.com/delete-google-photos/)
 - [What Is High Quality Storage in Google Photos?](https://www.makeuseof.com/what-is-high-quality-storage-google-photos/)
-- [How to Hide Your Private Photos and Videos in Google Photos](https://www.makeuseof.com/how-use-locked-folder-google-photos-hide-photos/)
 
 </details>

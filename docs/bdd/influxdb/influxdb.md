@@ -41,21 +41,21 @@
 
 <details>
 
-- [How to analyze time-series data with Python and InfluxDB](https://www.redhat.com/sysadmin/analyze-time-series-data-influxdb-python)
-- [How To Install InfluxDB on CentOS 8 / RHEL 8](https://computingforgeeks.com/how-to-install-influxdb-on-rhel-8-centos-8/)
-- [InfluxDB – Mémos](https://memos.nadus.fr/influxdb-memos/)
-- [Sending InfluxDB Line Protocol to QuestDB](https://dzone.com/articles/sending-influxdb-line-protocol-to-questdb)
-- [InfluxDB: How to Do Joins, Math Across Measurements](https://dzone.com/articles/influxdb-how-to-do-joins-math-across-measurements)
 - [A UX Review of Flux Joins vs. Pandas Joins](https://dzone.com/articles/a-ux-review-of-flux-joins-vs-pandas-joins)
-- [Flux Windowing and Aggregation](https://dzone.com/articles/flux-windowing-and-aggregation)
-- [How to Query InfluxDB](https://dzone.com/articles/how-to-query-influxdb)
-- [Exporting Custom Metrics To Influxdb](https://blog.pythian.com/exporting-custom-metrics-influxdb/)
 - [Data Visualizations with InfluxDB: Integrating plotly.js](https://www.influxdata.com/blog/data-visualizations-with-influxdb-integrating-plotly-js/)
-- [Simplifying InfluxDB: Shards and Retention Policies](https://dzone.com/articles/simplifying-influxdb-shards-and-retention-policies)
-- [Simplifying InfluxDB: Retention Policy Best Practices](https://dzone.com/articles/simplifying-influxdb-retention-policy-best-practic)
+- [Exporting Custom Metrics To Influxdb](https://blog.pythian.com/exporting-custom-metrics-influxdb/)
+- [Flux Windowing and Aggregation](https://dzone.com/articles/flux-windowing-and-aggregation)
+- [How to analyze time-series data with Python and InfluxDB](https://www.redhat.com/sysadmin/analyze-time-series-data-influxdb-python)
+- [How to deploy InfluxDB in Azure using a VM service with dedicated storage](https://technology.amis.nl/2018/10/12/how-to-deploy-influxdb-in-azure-using-a-vm-service-with-dedicated-storage/)
+- [How To Install InfluxDB on CentOS 8 / RHEL 8](https://computingforgeeks.com/how-to-install-influxdb-on-rhel-8-centos-8/)
+- [How to Query InfluxDB](https://dzone.com/articles/how-to-query-influxdb)
 - [INFLUXDB - MOVE DATA TO NEW RETENTION](https://www.unix-experience.fr/system/influxdb_retention_move/)
+- [InfluxDB – Mémos](https://memos.nadus.fr/influxdb-memos/)
 - [INFLUXDB GRAPHITE TAGS](https://www.unix-experience.fr/system/influxdb_graphite_tags/)
 - [INFLUXDB TIPS](https://www.unix-experience.fr/system/influxdb_tips/)
-- [How to deploy InfluxDB in Azure using a VM service with dedicated storage](https://technology.amis.nl/2018/10/12/how-to-deploy-influxdb-in-azure-using-a-vm-service-with-dedicated-storage/)
+- [InfluxDB: How to Do Joins, Math Across Measurements](https://dzone.com/articles/influxdb-how-to-do-joins-math-across-measurements)
+- [Sending InfluxDB Line Protocol to QuestDB](https://dzone.com/articles/sending-influxdb-line-protocol-to-questdb)
+- [Simplifying InfluxDB: Retention Policy Best Practices](https://dzone.com/articles/simplifying-influxdb-retention-policy-best-practic)
+- [Simplifying InfluxDB: Shards and Retention Policies](https://dzone.com/articles/simplifying-influxdb-shards-and-retention-policies)
 
 </details>

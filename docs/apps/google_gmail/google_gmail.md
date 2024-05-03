@@ -61,6 +61,7 @@
 - [How to Manage Your Gmail Inbox Using Google Tasks](https://www.makeuseof.com/manage-gmail-inbox-google-tasks/)
 - [How to Mention (@) Other Users in the New Gmail](https://www.makeuseof.com/tag/mention-users-gmail/)
 - [How to Quickly Find Messages with Attachments in Gmail](https://www.makeuseof.com/tag/quickly-find-email-attachments-gmail/)
+- [How to Save Gmail Attachments to Google Drive](https://www.makeuseof.com/save-gmail-attachments-google-drive/)
 - [How to Save Photos From Gmail to Google Photos](https://www.makeuseof.com/save-gmail-photos-to-google-photos/)
 - [How to schedule emails on Gmail](https://www.ghacks.net/2019/05/01/how-to-schedule-emails-on-gmail/)
 - [How to Secure Your Gmail Account in 6 Easy Steps](https://www.makeuseof.com/tag/how-to-secure-your-gmail-account-in-3-easy-steps/)
@@ -81,6 +82,5 @@
 - [The Most Useful Gmail Keyboard Shortcuts Everyone Should Know](https://www.makeuseof.com/tag/gmail-shortcuts-pdf/)
 - [The Power User Guide to Gmail](https://www.makeuseof.com/tag/beyond-the-inbox-the-power-user-guide-to-gmail/)
 - [What Is the Auto-Advance Feature in Gmail and How to Use It](https://www.makeuseof.com/auto-advance-feature-in-gmail-how-to-use-it/)
-- [How to Save Gmail Attachments to Google Drive](https://www.makeuseof.com/save-gmail-attachments-google-drive/)
 
 </details>

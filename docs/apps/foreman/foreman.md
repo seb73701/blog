@@ -30,7 +30,7 @@
 
 - [Listing Hosts](/atrier/apps/foreman_001.md)
 
-<details>
+</details>
 
 ---
 

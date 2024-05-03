@@ -33,9 +33,9 @@
 
 <details>
 
-- [How to Merge Docs in LibreOffice Writer With Master Document](https://www.makeuseof.com/merge-docs-in-libreoffice-writer-master-document/)
 - [How to Create a Data Entry Form in LibreOffice Base](https://www.makeuseof.com/create-data-entry-form-libreoffice-base/)
 - [How to Create a New Database With LibreOffice Base](https://www.makeuseof.com/create-new-database-with-libreoffice-base/)
+- [How to Merge Docs in LibreOffice Writer With Master Document](https://www.makeuseof.com/merge-docs-in-libreoffice-writer-master-document/)
 - [How to Open Excel Files in LibreOffice in Linux](https://linuxhint.com/open-excel-files-libreoffice-linux/)
 - [How to sum numbers in LibreOffice Calc automatically](https://www.ghacks.net/2020/12/26/how-to-sum-numbers-in-libreoffice-calc-automatically/)
 - [LibreOffice Writer: The Ultimate Keyboard Shortcuts Cheat Sheet](https://www.makeuseof.com/libreoffice-writer-keyboard-shortcuts/)

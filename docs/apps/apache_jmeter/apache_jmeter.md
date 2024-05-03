@@ -31,17 +31,16 @@
 
 <details>
 
-- [How to Download and Install Apache JMeter on Ubuntu 20.04](https://linoxide.com/install-apache-jmeter-on-ubuntu/)
-- [Recording on JMeter](https://dzone.com/articles/recording-on-jmeter-qainsights)
-- [Five Things to Know Before Learning JMeter](https://dzone.com/articles/five-things-to-know-before-learning-jmeter)
 - [5 Things that Are Easier in k6 Than in JMeter](https://dzone.com/articles/5-things-that-are-easier-to-do-in-k6-than-in-jmete)
 - [Apache Kafka Load Testing Using JMeter](https://dzone.com/articles/apache-kafka-load-testing-using-jmeter)
 - [API Monitoring: JMeter for Posting Data With Random Generated Keys](https://dzone.com/articles/api-monitoring-jmeter-for-posting-data-with-random)
 - [Database Load Testing With JMeter](https://dzone.com/articles/database-load-testing-with-jmeter)
+- [Five Things to Know Before Learning JMeter](https://dzone.com/articles/five-things-to-know-before-learning-jmeter)
 - [Get Load Test Reports From JMeter](https://dzone.com/articles/save-yourself-some-work-and-get-a-great-load-test)
 - [Groovy Templates Cheat Sheet for JMeter](https://dzone.com/articles/the-groovy-templates-cheat-sheet-for-jmeter)
 - [HLS vs. RTMP Live Streaming Load Testing With JMeter](https://dzone.com/articles/hls-vs-rtmp-live-streaming-load-testing-with-jmete)
 - [How to Compose the Most Effective Apache JMeter Test Plan](https://dzone.com/articles/tips-and-tricks-to-compose-the-most-effective-apac)
+- [How to Download and Install Apache JMeter on Ubuntu 20.04](https://linoxide.com/install-apache-jmeter-on-ubuntu/)
 - [How to Handle a Variable Number of Parameters in Apache JMeter](https://dzone.com/articles/how-to-handle-variable-number-of-parameters-in-apa)
 - [How to Load Test Async Requests with JMeter](https://dzone.com/articles/how-to-load-test-async-requests-with-jmeter)
 - [How to Load Test Flex and AMF Protocol Apps with JMeter](https://dzone.com/articles/how-to-load-test-flex-and-amf-protocol-apps-with-j)
@@ -67,6 +66,7 @@
 - [OAuth API Testing With JMeter](https://dzone.com/articles/oauth-api-testing-with-jmeter)
 - [Performance Testing BLOB From a MySQL Database With JMeter](https://dzone.com/articles/performance-testing-blob-from-a-mysql-database-wit)
 - [Recording a Scenario in Mobile Applications](https://dzone.com/articles/recording-a-scenario-in-mobile-applications)
+- [Recording on JMeter](https://dzone.com/articles/recording-on-jmeter-qainsights)
 - [Regular Expression Tutorial for Apache JMeter Tests](https://dzone.com/articles/regular-expression-tutorial-for-apache-jmeter-test)
 - [Reusing Open Connections When Testing Your Database](https://dzone.com/articles/reusing-open-connections-when-testing-your-databas)
 - [Saving Data to CSV Files With Java Through JMeter](https://dzone.com/articles/saving-data-to-csv-files-with-java-through-jmeter)

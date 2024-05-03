@@ -39,7 +39,7 @@
 
 <details>
 
-- [Playing With Kairos DB](https://mannekentech.com/2017/01/28/playing-with-kairos-db/)
 - [KairosDB Statistics](https://kairosdb.github.io/docs/build/html/Statistics.html)
+- [Playing With Kairos DB](https://mannekentech.com/2017/01/28/playing-with-kairos-db/)
 
 </details>

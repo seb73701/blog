@@ -3,22 +3,21 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/clouds/cloud_native/cloud-native.png ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i>**Cloud natif** (**cloud-native computing** ou simplement **cloud native**) est une approche du développement logiciel qui utilise le cloud computing pour créer et exécuter des applications évolutives dans des environnements modernes et dynamiques tels que des clouds publics, privés et hybrides.
+>
+> Ces technologies telles que les conteneurs, les microservices, les fonctions sans serveur, les processeurs cloud natifs et l'infrastructure immuable, déployées via du code déclaratif sont des éléments communs de ce style architectural. Les technologies **cloud natives** se concentrent sur la réduction de la charge opérationnelle des utilisateurs.
+>
+> Ces techniques permettent des systèmes faiblement couplés qui sont résilients, gérables et observables. Combinés à une automatisation robuste, ils permettent aux ingénieurs d'apporter des modifications à fort impact fréquemment et de manière prévisible avec un minimum de travail. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://www.cncf.io/
+- <i class="fa-brands fa-github"></i> **Github** : https://github.com/cncf
+- <i class="fab fa-blogger-b"></i> **Blog** : https://www.cncf.io/blog/
+- <i class="far fa-question-circle"></i> **FAQ** : https://www.cncf.io/about/faq/
+- <i class="fas fa-tools"></i> **Plugins** : https://landscape.cncf.io/ - https://github.com/cncf/artwork
 
 ---
 

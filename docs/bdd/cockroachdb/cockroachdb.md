@@ -34,9 +34,9 @@
 <details>
 
 - [Disk Spilling in a Vectorized Execution Engine](https://dzone.com/articles/disk-spilling-in-a-vectorized-execution-engine)
-- [Nested Transactions in CockroachDB 20.1](https://dzone.com/articles/nested-transactions-in-cockroachdb-201)
 - [How Storj Is Migrating From Postgres to CockroachDB: Bulk Loading Performance](https://dzone.com/articles/how-storj-is-migrating-from-postgres-to-cockroachd)
 - [How to Deploy Secure CockroachDB Cluster on Ubuntu Server](https://www.howtoforge.com/how-to-deploy-secure-cockroachdb-cluster-on-ubuntu-server/)
 - [How to Setup CockroachDB Cluster on Linux](https://linoxide.com/linux-how-to/setup-cockroachdb-cluster-linux/)
+- [Nested Transactions in CockroachDB 20.1](https://dzone.com/articles/nested-transactions-in-cockroachdb-201)
 
 </details>

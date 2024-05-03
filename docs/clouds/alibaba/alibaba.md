@@ -3,22 +3,17 @@
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/clouds/alibaba/alibaba_cloud.png ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i>**Alibaba Cloud**, founded in 2009, is a global leader in cloud computing and artificial intelligence, providing services to thousands of enterprises, developers, and governments organizations in more than 200 countries and regions. Committed to the success of its customers, **Alibaba Cloud** provides reliable and secure cloud computing and data processing capabilities as a part of its online solutions. In January 2017, **Alibaba Cloud** became the official cloud services partner of the Olympics.  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
 - <i class="fa-solid fa-globe"></i> **Site Officiel** : https://www.alibabacloud.com/
-- <i class="fa-solid fa-book"></i> **Documentation** : https://www.alibabacloud.com/help?spm=a3c0i.272861.6791778070.36.287524afNtaYS7
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-book"></i> **Documentation** : https://www.alibabacloud.com/help/en
+- <i class="fab fa-blogger-b"></i> **Blog** : https://www.alibabacloud.com/blog
+- <i class="fas fa-comments"></i> **Forum** : https://www.alibabacloud.com/forum
+- <i class="fas fa-tools"></i> **Status Page** : https://status.alibabacloud.com/
 
 ---
 

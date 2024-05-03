@@ -24,14 +24,14 @@
 - [MiniKub](/virtualisation/minikub/minikub.md)
 - [MiniShift](/virtualisation/minishift/minishift.md)
 - [Open VSwitch](/virtualisation/open_vswitch/open_vswitch.md)
-- [Proxmox](/virtualisation/proxmox/proxmox.md)
+- [OpenShift](/virtualisation/openshift/openshift.md)
 - [OpenStack](/virtualisation/openstack/openstack.md)
+- [Podman](/virtualisation/podman/podman.md)
+- [Portainer](/virtualisation/portainer/portainer.md)
+- [Proxmox](/virtualisation/proxmox/proxmox.md)
 - [Vagrant](/virtualisation/vagrant/vagrant.md)
 - [VirtualBox](/virtualisation/virtualbox/virtualbox.md)
 - [VMware](/virtualisation/vmware/vmware.md)
-- [OpenShift](/virtualisation/openshift/openshift.md)
-- [Podman](/virtualisation/podman/podman.md)
-- [Portainer](/virtualisation/portainer/portainer.md)
 
 </span>
 

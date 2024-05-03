@@ -29,13 +29,13 @@ Today, there are more than one million **Asterisk**-based communications systems
 
 <details>
 
-- [How to Install Asterisk 18 on Ubuntu 20.04](https://linoxide.com/install-asterisk-on-ubuntu-20-04/)
-- [How to Install Asterisk 18 VoIP Server on CentOS 8](https://www.howtoforge.com/how-to-install-asterisk-18-on-centos-8/)
 - [An introduction to Asterisk](https://www.redhat.com/sysadmin/introduction-asterisk)
 - [Connect an Asterisk system to the public switched telephone network](https://www.redhat.com/sysadmin/asterisk-public-switched-telephone-network)
 - [How to configure a SIP endpoint for intra-office calling](https://www.redhat.com/sysadmin/sip-endpoint)
 - [How to configure an Asterisk dialplan for intra-office calling](https://www.redhat.com/sysadmin/asterisk-dialplan)
 - [How To Install Asterisk 17 VoIP Server on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-asterisk-17-on-ubuntu-2004/)
+- [How to Install Asterisk 18 on Ubuntu 20.04](https://linoxide.com/install-asterisk-on-ubuntu-20-04/)
+- [How to Install Asterisk 18 VoIP Server on CentOS 8](https://www.howtoforge.com/how-to-install-asterisk-18-on-centos-8/)
 - [How to install Asterisk on Linux](https://www.redhat.com/sysadmin/install-asterisk-linux)
 - [How to Install Asterisk on Ubuntu 20.04](https://linuxize.com/post/how-to-install-asterisk-on-ubuntu-20-04/)
 

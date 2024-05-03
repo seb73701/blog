@@ -38,7 +38,6 @@
 - [CONFIGURER NSCA POUR CENTREON ENGINE](https://blog.zwindler.fr/2017/11/21/configurer-nsca-pour-centreon-engine/)
 - [How to Add Linux and Windows Hosts on Centreon 2.8](https://linoxide.com/monitoring-2/add-linux-windows-hosts-centreon-2-8/)
 - [IMPOSSIBLE DE FAIRE DISPARAITRE LES HÔTES APRÈS SUPPRESSION D’UN POLLER CENTREON](https://blog.zwindler.fr/2017/08/22/impossible-de-faire-disparaitre-les-hotes-apres-suppression-dun-poller-centreon/)
-- [IMPOSSIBLE DE FAIRE DISPARAITRE LES HÔTES APRÈS SUPPRESSION D’UN POLLER CENTREON](https://blog.zwindler.fr/2017/08/22/impossible-de-faire-disparaitre-les-hotes-apres-suppression-dun-poller-centreon/)
 - [MODULE ANSIBLE ANSIBLE-MODULE-CLAPI : AUTOMATISER LA CONFIGURATION DANS CENTREON](https://blog.zwindler.fr/2016/12/20/ansible-module-clapi-centreon/)
 - [SUPERVISER DES ONDULEURS/UPS AVEC NAGIOS/CENTREON ET SNMP](https://blog.zwindler.fr/2017/01/17/superviser_ups_centreon_snmp/)
 

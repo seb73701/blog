@@ -44,18 +44,18 @@
 
 <details>
 
-- [Hybrid OLTP/Analytics Database Workloads in Galera Cluster Using Asynchronous Slaves](https://severalnines.com/database-blog/hybrid-oltpanalytics-database-workloads-galera-cluster-using-asynchronous-slaves)
-- [High Availability on a Shoestring Budget - Deploying a Minimal Two Node MySQL Galera Cluster](https://severalnines.com/database-blog/high-availability-shoestring-budget-deploying-minimal-two-node-mysql-galera-cluster)
-- [Using MySQL Galera Cluster Replication to Create a Geo-Distributed Cluster: Part One](https://severalnines.com/database-blog/using-mysql-galera-cluster-replication-create-geo-distributed-cluster-part-one)
-- [Deploying MySQL Galera Cluster 4.0 onto Amazon AWS EC2](https://severalnines.com/database-blog/deploying-mysql-galera-cluster-40-amazon-aws-ec2)
-- [Multi-Cloud Galera Cluster on AWS and Azure via Asynchronous Replication](https://severalnines.com/database-blog/multi-cloud-galera-cluster-aws-and-azure-asynchronous-replication)
+- [Become a ClusterControl DBA - SSL Key Management and Encryption of MySQL Data in Transit](https://severalnines.com/blog/become-clustercontrol-dba-ssl-key-management-and-encryption-mysql-data-transit)
+- [ClusterControl Tips & Tricks: MySQL Query Performance Tuning](https://severalnines.com/blog/clustercontrol-tips-tricks-mysql-query-performance-tuning)
 - [Comment configurer un cluster Galera avec MySQL sur les serveurs Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-configure-a-galera-cluster-with-mysql-on-ubuntu-18-04-servers-fr)
 - [Convert Galera Node to Async Slave and Vice-Versa with Galera Cluster](https://dzone.com/articles/convert-galera-node-to-async-slave-and-vice-versa)
-- [Multiple Data Center Setups Using Galera Cluster for MySQL or MariaDB](https://severalnines.com/blog/multiple-data-center-setups-using-galera-cluster-mysql-or-mariadb)
-- [MariaDB Version Upgrade To 10.1.31 Breaks Galera Cluster](https://blog.pythian.com/mariadb-version-upgrade-10-1-31-breaks-galera-cluster/)
-- [ClusterControl Tips & Tricks: MySQL Query Performance Tuning](https://severalnines.com/blog/clustercontrol-tips-tricks-mysql-query-performance-tuning)
-- [Become a ClusterControl DBA - SSL Key Management and Encryption of MySQL Data in Transit](https://severalnines.com/blog/become-clustercontrol-dba-ssl-key-management-and-encryption-mysql-data-transit)
-- [How to Schedule Database Backups with ClusterControl](https://severalnines.com/blog/how-to-schedule-database-backups-clustercontrol)
+- [Deploying MySQL Galera Cluster 4.0 onto Amazon AWS EC2](https://severalnines.com/database-blog/deploying-mysql-galera-cluster-40-amazon-aws-ec2)
 - [GaleraCluster / MariaDB - restaurer cluster BDD cassé](https://linuxfr.org/wiki/tuto-howto-ubuntu-debian-galeracluster-mariadb-restaurer-cluster-bdd-casse)
+- [High Availability on a Shoestring Budget - Deploying a Minimal Two Node MySQL Galera Cluster](https://severalnines.com/database-blog/high-availability-shoestring-budget-deploying-minimal-two-node-mysql-galera-cluster)
+- [How to Schedule Database Backups with ClusterControl](https://severalnines.com/blog/how-to-schedule-database-backups-clustercontrol)
+- [Hybrid OLTP/Analytics Database Workloads in Galera Cluster Using Asynchronous Slaves](https://severalnines.com/database-blog/hybrid-oltpanalytics-database-workloads-galera-cluster-using-asynchronous-slaves)
+- [MariaDB Version Upgrade To 10.1.31 Breaks Galera Cluster](https://blog.pythian.com/mariadb-version-upgrade-10-1-31-breaks-galera-cluster/)
+- [Multi-Cloud Galera Cluster on AWS and Azure via Asynchronous Replication](https://severalnines.com/database-blog/multi-cloud-galera-cluster-aws-and-azure-asynchronous-replication)
+- [Multiple Data Center Setups Using Galera Cluster for MySQL or MariaDB](https://severalnines.com/blog/multiple-data-center-setups-using-galera-cluster-mysql-or-mariadb)
+- [Using MySQL Galera Cluster Replication to Create a Geo-Distributed Cluster: Part One](https://severalnines.com/database-blog/using-mysql-galera-cluster-replication-create-geo-distributed-cluster-part-one)
 
 </details>

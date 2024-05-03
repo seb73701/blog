@@ -29,7 +29,6 @@
 
 <details>
 
-- [Reconfiguring virtual machines with Cockpit](https://fedoramagazine.org/reconfiguring-virtual-machines-with-cockpit/)
 - [An introduction to Cockpit, a browser-based administration tool for Linux](https://www.redhat.com/sysadmin/intro-cockpit)
 - [Create virtual machines with Cockpit in Fedora](https://fedoramagazine.org/create-virtual-machines-with-cockpit-in-fedora/)
 - [Getting Started With Cockpit, a Web-Based Linux Server Administration Tool](https://www.makeuseof.com/cockpit-web-based-linux-server-administration-tool/)
@@ -48,6 +47,7 @@
 - [Managing network interfaces and FirewallD in Cockpit](https://fedoramagazine.org/managing-network-interfaces-and-firewalld-in-cockpit/)
 - [Monitor And Administer Linux Servers Using Cockpit Via Web Browser](https://www.ostechnix.com/cockpit-monitor-administer-linux-servers-via-web-browser/)
 - [Monitor Your Servers With Cockpit](https://dzone.com/articles/monitor-your-servers-with-cockpit)
+- [Reconfiguring virtual machines with Cockpit](https://fedoramagazine.org/reconfiguring-virtual-machines-with-cockpit/)
 - [Storage management with Cockpit](https://fedoramagazine.org/storage-management-with-cockpit/)
 
 </details>

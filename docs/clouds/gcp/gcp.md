@@ -3,22 +3,21 @@ GOOGLE CLOUD PLATFORM (GCP)
 
 ## <i class="fa-solid fa-hashtag"></i> Information
 
-![Logo](../../_media/apps/apache_http_server/apache_http_server_logo.svg ':size=250 :no-zoom')
+![Logo](../../_media/clouds/gcp/gcp-logo.svg ':size=250 :no-zoom')
 
 
-> <i class="fa-solid fa-quote-left"></i>  <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+> <i class="fa-solid fa-quote-left"></i> **Google Cloud Platform (GCP)** est une plateforme de cloud computing fournie par Google, proposant un hébergement sur la même infrastructure que celle que Google utilise en interne pour des produits tels que son moteur de recherche. **Cloud Platform** fournit aux développeurs des produits permettant de construire une gamme de programmes allant de simples sites web à des applications complexes.
+>
+> **Google Cloud Platform** fait partie d'un ensemble de solutions pour les entreprises appelé **Google Cloud**, et fournit des services modulaires basés sur le cloud, tels que le stockage d'informations, le calcul, des applications de traduction et de prévision, etc. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
 
-- <i class="fa-solid fa-globe"></i> **Site Officiel** : 
-- <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
-- <i class="fa-brands fa-github"></i> **Github** : 
-- <i class="fab fa-blogger-b"></i> **Blog** :
-- <i class="fas fa-comments"></i> **Forum** :
-- <i class="far fa-question-circle"></i> **FAQ** : 
-- <i class="far fa-calendar-alt"></i> **Thèmes** : 
-- <i class="fas fa-tools"></i> **Plugins** : 
-- <i class="far fa-calendar-alt"></i> **Live Demo** : 
+- <i class="fa-solid fa-globe"></i> **Site Officiel** : https://cloud.google.com/?hl=fr
+- <i class="fa-solid fa-book"></i> **Documentation** : https://cloud.google.com/docs/
+- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : https://cloud.google.com/release-notes
+- <i class="fa-brands fa-github"></i> **Github** : https://github.com/google
+- <i class="fab fa-blogger-b"></i> **Blog** : https://cloud.google.com/blog/fr
+- <i class="fas fa-comments"></i> **Forum** : https://www.googlecloudcommunity.com/gc/Google-Cloud/ct-p/google-cloud
+- <i class="fas fa-tools"></i> **Status page** : https://status.cloud.google.com/
 
 ---
 
@@ -42,6 +41,7 @@ GOOGLE CLOUD PLATFORM (GCP)
 - [Deploy Django with SSL and Nginx on Google Cloud Platform Using Ubuntu VM](https://opensourceforu.com/2020/02/deploy-django-with-ssl-and-nginx-on-google-cloud-platform-using-ubuntu-vm/)
 - [Gestion d'environnement avec Google Cloud Storage et GitlabCI](https://codelabs.eleven-labs.com/course/fr/react-env-variable-gcp-gitlabci/)
 - [Getting Started with Google Cloud SDK](https://dzone.com/articles/getting-started-with-google-cloud-sdk)
+- [Google Cloud - Developer cheat sheet](https://googlecloudcheatsheet.withgoogle.com/)
 - [Google Cloud Networking overview](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-networking-overview)
 - [Google Cloud Platform Quick Tip: Cloud Shell Launcher](https://blog.pythian.com/google-cloud-platform-quick-tip-cloud-shell-launcher/)
 - [Google Colab: Create Predictive Models in No Time](https://dzone.com/articles/google-colab-create-predictive-models-in-no-time)

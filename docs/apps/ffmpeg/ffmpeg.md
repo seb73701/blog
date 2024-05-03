@@ -32,9 +32,8 @@
 
 <details>
 
-- [Créer une planche-contact d'une vidéo sous Linux](https://www.arsouyes.org/blog/2021/2021-06-14_Miniatures_videos)
-- [How to Reduce Video Size With FFmpeg](https://linuxhint.com/how-reduce-video-size-with-ffmpeg/)
 - [20+ FFmpeg Commands For Beginners](https://www.ostechnix.com/20-ffmpeg-commands-beginners/)
+- [Créer une planche-contact d'une vidéo sous Linux](https://www.arsouyes.org/blog/2021/2021-06-14_Miniatures_videos)
 - [How to Convert Videos using FFMPEG in Ubuntu](https://linuxhint.com/convert_videos_using_ffmpeg_ubuntu/)
 - [How to Install and Use FFmpeg in CentOS 8?](https://linuxhint.com/install-use-ffmpeg-in-centos8/)
 - [How to Install and Use FFmpeg on CentOS 8](https://linuxize.com/post/how-to-install-ffmpeg-on-centos-8/)
@@ -46,6 +45,7 @@
 - [How to Install FFmpeg on CentOS 7](https://linuxize.com/post/how-to-install-ffmpeg-on-centos-7/)
 - [How to install FFmpeg on Fedora Linux 28/29 using dnf](https://www.cyberciti.biz/faq/how-to-install-ffmpeg-on-fedora-linux-using-dnf/)
 - [How to install FFmpeg on Ubuntu 18.04](https://linuxize.com/post/how-to-install-ffmpeg-on-ubuntu-18-04/)
+- [How to Reduce Video Size With FFmpeg](https://linuxhint.com/how-reduce-video-size-with-ffmpeg/)
 - [How To Rotate Videos Using FFMpeg From Commandline](https://ostechnix.com/how-to-rotate-videos-using-ffmpeg-from-commandline/)
 - [Install and Use FFmpeg on Ubuntu 20.04](https://linuxhint.com/install_ffmpeg_ubuntu_20-04/)
 - [More Cool FFmpeg Tricks](https://www.opensourceforu.com/2020/11/more-cool-ffmpeg-tricks/)

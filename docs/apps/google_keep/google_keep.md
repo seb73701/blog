@@ -27,7 +27,7 @@
 
 <details>
 
-- [Google Keep: Control Your Notes With These Keyboard Shortcuts](https://www.makeuseof.com/google-keep-keyboard-shortcuts/)
 - [5 Ways to Make a Better To-Do List With Google Keep](https://www.makeuseof.com/ways-make-better-to-do-list-google-keep/)
+- [Google Keep: Control Your Notes With These Keyboard Shortcuts](https://www.makeuseof.com/google-keep-keyboard-shortcuts/)
 
 </details>

@@ -14,8 +14,8 @@
 
 - [Apache Cassandra](/bdd/apache_cassandra/apache_cassandra.md)
 - [Apache CouchDB](/bdd/apache_couchdb/apache_couchdb.md)
-- [Apache HBase](#bdd/apache_hbase/apache_hbase.md)
-- [ArangoDB](#bdd/arangodb/arangodb.md)
+- [Apache HBase](/bdd/apache_hbase/apache_hbase.md)
+- [ArangoDB](/bdd/arangodb/arangodb.md)
 - [Clickhouse](/bdd/clickhouse/clickhouse.md)
 - [CockroachDB](/bdd/cockroachdb/cockroachdb.md)
 - [CouchBase](/bdd/couchbase/couchbase.md)

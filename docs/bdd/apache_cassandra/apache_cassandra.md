@@ -44,6 +44,7 @@
 - [Apache Cassandra – An Essentials Guide](https://hackernoon.com/apache-cassandra-an-essentials-guide-ku1r3yc9)
 - [Apache Cassandra 2.1 Incremental Repair](https://blog.pythian.com/apache-cassandra-2-1-incremental-repair/)
 - [Apache Cassandra and ALLOW FILTERING](https://dzone.com/articles/apache-cassandra-and-allow-filtering)
+- [Apache Cassandra for Real Time User Analytics at Expedia Group](https://medium.com/expedia-group-tech/apache-cassandra-for-real-time-user-analytics-at-expedia-group-4b612bac05a7)
 - [Architecture Lambda, Cassandra et synchronisation des données](http://blog.ippon.fr/2018/06/26/architecture-lambda-cassandra-et-synchronisation-des-donnees/)
 - [Backup Strategies In Cassandra](https://blog.pythian.com/backup-strategies-cassandra/)
 - [Cassandra : Partitionnement et distribution](https://stph.scenari-community.org/contribs/nos/Cassandra3/co/Cassandra-3.html)
@@ -102,6 +103,5 @@
 - [Things to Know When Planning for Cassandra Backup](https://devops.com/things-know-planning-cassandra-backup/)
 - [Which Cassandra Version Should You Use For Production?](https://blog.pythian.com/cassandra-version-production/)
 - [Working With Cassandra Databases](https://dzone.com/articles/working-with-cassandra-databases)
-- [Apache Cassandra for Real Time User Analytics at Expedia Group](https://medium.com/expedia-group-tech/apache-cassandra-for-real-time-user-analytics-at-expedia-group-4b612bac05a7)
 
 </details>

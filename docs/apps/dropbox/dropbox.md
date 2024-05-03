@@ -29,7 +29,7 @@
 
 <details>
 
-- [How to Track A Stolen Device Through Dropbox](https://www.makeuseof.com/track-stolen-device-through-dropbox/)
 - [How to Enable Two-Step Verification in Dropbox](https://www.makeuseof.com/how-to-enable-two-step-verification-dropbox/)
+- [How to Track A Stolen Device Through Dropbox](https://www.makeuseof.com/track-stolen-device-through-dropbox/)
 
 </details>

@@ -45,6 +45,7 @@
 - [How To Install and Secure Memcached on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-memcached-on-ubuntu-16-04)
 - [How To Install and Secure Memcached on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-memcached-on-ubuntu-18-04-2)
 - [How To Install and Secure Memcached on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-memcached-on-ubuntu-18-04)
+- [How To Install and Secure Memcached on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-memcached-on-ubuntu-20-04)
 - [How to Install Memcached (Caching Server) on CentOS 8](https://www.linuxtechi.com/install-memcached-caching-server-centos8/)
 - [How to Install Memcached on CentOS 7](https://linuxize.com/post/how-to-install-memcached-on-centos-7/)
 - [How to Install Memcached on CentOS 8](https://linuxize.com/post/how-to-install-memcached-on-centos-8/)
@@ -63,6 +64,5 @@
 - [Memcached, la mémoire des serveurs web](https://www.it-connect.fr/memcached-la-memoire-des-serveurs-web/)
 - [Secure memcached server to avoid DDoS amplification attacks](https://www.cyberciti.biz/faq/secure-memcached-server-avoid-ddos-amplification/)
 - [Sécuriser un serveur avec service Memcached](https://docs.ovh.com/fr/dedicated/securiser-serveur-avec-service-memcache/)
-- [How To Install and Secure Memcached on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-memcached-on-ubuntu-20-04)
 
 </details>

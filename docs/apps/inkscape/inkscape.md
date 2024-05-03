@@ -32,8 +32,8 @@
 
 <details>
 
-- [How to import EPS on Windows 10](https://inkscape.org/fr/~rituku/%E2%98%85how-to-import-eps-on-windows-10)
 - [Comment ouvrir les fichiers EPS dans Windows](https://inkscape.org/learn/faq/#how-open-eps-files-windows)
+- [How to import EPS on Windows 10](https://inkscape.org/fr/~rituku/%E2%98%85how-to-import-eps-on-windows-10)
 - [Inkscape : guide du logiciel de dessin vectoriel - Formatage de texte](http://tavmjong.free.fr/INKSCAPE/MANUAL_v14/html_fr/Text-Formatting.html)
 
 </details>

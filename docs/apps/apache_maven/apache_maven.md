@@ -28,7 +28,6 @@
 
 <details>
 
-- [Use Shared Packages From an Azure DevOps Feed in a Maven Project](https://dzone.com/articles/azure-devops-artifacts)
 - [How to Fix Invalid Target Release: 1.7, 1.8, 1.9, or 1.10 Error in Maven Build](https://dzone.com/articles/how-to-fix-invalid-target-release-17-18-19-or-110)
 - [How to install Apache Maven on CentOS 7](https://linuxize.com/post/how-to-install-apache-maven-on-centos-7/)
 - [How to Install Apache Maven on CentOS 7](https://www.howtoforge.com/tutorial/centos-apache-maven/)
@@ -46,5 +45,6 @@
 - [Installing Maven With Your JDK](https://dzone.com/articles/installing-maven)
 - [Manually Installing a Maven Artifact in Your Local Repository](https://dzone.com/articles/manually-installing-a-maven-artifact-in-your-local)
 - [Tutorial: How to Create a Maven Plugin](https://dzone.com/articles/tutorial-create-a-maven-plugin)
+- [Use Shared Packages From an Azure DevOps Feed in a Maven Project](https://dzone.com/articles/azure-devops-artifacts)
 
 </details>

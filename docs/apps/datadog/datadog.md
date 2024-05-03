@@ -28,9 +28,9 @@
 
 <details>
 
-- [How to create Monitors with DataDog](https://linuxhint.com/creating-monitors-with-datadog/)
 - [Cloud Based Docker Container Monitoring Using Datadog](https://devopscube.com/cloud-based-docker-container-monitoring/)
-- [Introduction à Datadog](https://blog.wescale.fr/2020/01/16/introduction-a-datadog/)
+- [How to create Monitors with DataDog](https://linuxhint.com/creating-monitors-with-datadog/)
 - [Introduction à Datadog](https://blog.ippon.fr/2020/09/28/superviser-une-infrastructure-avec-datadog-introduction/)
+- [Introduction à Datadog](https://blog.wescale.fr/2020/01/16/introduction-a-datadog/)
 
 </details>

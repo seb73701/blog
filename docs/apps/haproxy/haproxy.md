@@ -31,7 +31,6 @@
 
 <details>
 
-- [How to Install and Configure HAProxy on Rocky Linux 8](https://www.howtoforge.com/how-to-install-and-configure-haproxy-on-rocky-linux-8)
 - [An Introduction to HAProxy and Load Balancing Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
 - [Cas d’usage d’Haproxy pour déporter du trafic en fonction de l’URI](https://blog.seboss666.info/2017/11/cas-dusage-dhaproxy-pour-deporter-du-trafic-en-fonction-de-luri/)
 - [Clusteriser vos bases de données MariaDB avec Galera Cluster et HaProxy](https://linuxfr.org/wiki/tuto-howto-debian-ubuntu-clusteriser-vos-bases-de-donnees-mariadb-avec-galera-cluster-et-haproxy)
@@ -57,7 +56,7 @@
 - [How to enforce dynamically generated passwords for basic authentication](https://blog.sleeplessbeastie.eu/2020/11/11/how-to-enforce-dynamically-generated-passwords-for-basic-authentication/)
 - [How to Install and Configure HAProxy on CentOS 8 / RHEL 8](https://www.linuxtechi.com/install-configure-haproxy-centos-8-rhel-8/)
 - [How to Install and Configure HAProxy on Debian 9 / Ubuntu 16.04 Server](https://www.linuxtechi.com/install-configure-haproxy-debian-9-ubuntu-16-04/)
-- [How to Install and Configure HAProxy on Rocky Linux 8](https://www.howtoforge.com/how-to-install-and-configure-haproxy-on-rocky-linux-8/)
+- [How to Install and Configure HAProxy on Rocky Linux 8](https://www.howtoforge.com/how-to-install-and-configure-haproxy-on-rocky-linux-8)
 - [How to install and configure HAproxy on Ubuntu 20.04 LTS](https://linuxhint.com/how-to-install-and-configure-haproxy-load-balancer-in-linux/)
 - [How to install HAProxy 1.8 on Ubuntu 16](https://blog.sleeplessbeastie.eu/2017/12/30/how-to-install-haproxy-1-8-on-ubuntu-16/)
 - [How to mark which backend server is used](https://blog.sleeplessbeastie.eu/2020/01/22/how-to-mark-which-backend-server-is-used/)

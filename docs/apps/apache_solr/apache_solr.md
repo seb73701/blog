@@ -26,12 +26,12 @@
 
 <details>
 
-- [How to Install Apache Solr on Debian 11](https://www.howtoforge.com/how-to-install-apache-solr-on-debian-11/)
-- [Introduction to Apache Solr Clustering](https://linuxhint.com/apache-solr-clustering/)
 - [An introduction to machine-learned ranking in Apache Solr](https://opensource.com/article/17/11/learning-rank-apache-solr)
+- [How to Install Apache Solr on Debian 11](https://www.howtoforge.com/how-to-install-apache-solr-on-debian-11/)
 - [How to Install Apache Solr on Ubuntu 20.04](https://www.howtoforge.com/apache-solr-ubuntu-20_04/)
 - [Install Apache Solr 8.8 on Ubuntu 20.04](https://linoxide.com/install-apache-solr-on-ubuntu-20-04/)
 - [Install Apache Solr search platform on CentOS 8](https://www.howtoforge.com/install-apache-solr-on-centos-8/)
+- [Introduction to Apache Solr Clustering](https://linuxhint.com/apache-solr-clustering/)
 - [Introduction to Apache Solr. Part 2: Querying Solr](https://linuxhint.com/apache-solr-guide/)
 
 </details>

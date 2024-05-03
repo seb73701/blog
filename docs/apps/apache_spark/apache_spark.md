@@ -28,9 +28,6 @@
 
 <details>
 
-- [How to Install Apache Spark on Debian 11](https://www.howtoforge.com/how-to-install-apache-spark-on-debian-11/)
-- [Installing Apache Spark on Ubuntu](https://linuxhint.com/install-apache-spark-ubuntu/)
-- [High-Performance Batch Processing Using Apache Spark and Spring Batch](https://dzone.com/articles/using-apache-spark-and-spring-batch-for-processing)
 - [Apache Spark and Talend: Performance and Tuning](https://dzone.com/articles/apache-spark-and-talend-performance-and-tuning)
 - [Apache Spark vs Apache Storm](https://dzone.com/articles/apache-spark-vs-apache-storm)
 - [Apache Spark: Resilient Distributed Datasets](https://dzone.com/articles/apache-spark-resilient-distributed-datasets)
@@ -45,14 +42,17 @@
 - [Fuzzy Matching and Deduplicating Hundreds of Millions of Records using Apache Spark](https://towardsdatascience.com/fuzzy-matching-and-deduplicating-hundreds-of-millions-of-records-using-apache-spark-93d0f095001f)
 - [Guide to Partitions Calculation for Processing Data Files in Apache Spark](https://dzone.com/articles/guide-to-partitions-calculation-for-processing-dat)
 - [Hands-On With Spark: Creating a Fast Data Pipeline](https://dzone.com/articles/hands-on-with-spark-creating-a-fast-data-pipeline)
+- [High-Performance Batch Processing Using Apache Spark and Spring Batch](https://dzone.com/articles/using-apache-spark-and-spring-batch-for-processing)
 - [How Spark Internally Executes a Program](https://dzone.com/articles/how-spark-internally-executes-a-program)
 - [How to Install and Setup Apache Spark on Ubuntu/Debian](https://www.tecmint.com/install-apache-spark-on-ubuntu/)
 - [How to Install Apache Spark Cluster Computing Framework on Debian 10](https://www.howtoforge.com/how-to-install-apache-spark-on-debian-10/)
+- [How to Install Apache Spark on Debian 11](https://www.howtoforge.com/how-to-install-apache-spark-on-debian-11/)
 - [How to Install Apache Spark on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-apache-spark-on-ubuntu-2004/)
 - [How to Process Nasty Fixed Width Files Using Apache Spark](https://dzone.com/articles/how-to-process-nasty-fixed-width-file-using-apache)
 - [How to Use Dynamic Data Transpose in Spark](https://dzone.com/articles/dynamic-transpose-in-spark)
 - [How to Use Reverse Transpose in Spark](https://dzone.com/articles/how-to-use-reverse-transpose-in-spark)
 - [Improve Your Data Ingestion With Spark](https://dzone.com/articles/data-ingestion-using-spark)
+- [Installing Apache Spark on Ubuntu](https://linuxhint.com/install-apache-spark-ubuntu/)
 - [Introduction to Apache Spark's Core API (Part I)](https://dzone.com/articles/introduction-to-core-api-of-apache-spark)
 - [Métriques et Logs sur Apache Spark](http://blog.ippon.fr/2018/04/05/metriques-et-logs-sur-apache-spark/)
 - [PEX — The secret sauce for the perfect PySpark deployment of AWS EMR workloads](https://towardsdatascience.com/pex-the-secret-sauce-for-the-perfect-pyspark-deployment-of-aws-emr-workloads-9aef0d8fa3a5)
@@ -64,11 +64,11 @@
 - [Spark Streaming: Windowing](https://dzone.com/articles/spark-streaming-windowing)
 - [Spark Transformations for Pair RDD](https://dzone.com/articles/spark-transformations-for-pair-rdd)
 - [Spark Tutorial: Validating Data in a Spark DataFrame Part Two](https://dzone.com/articles/spark-tutorial-validating-data-in-a-spark-datafram)
+- [Stop using Spark for ML!](https://towardsdatascience.com/stop-using-spark-for-ml-59496927ef93)
 - [StreamSets Transformer Extensibility: Spark and Machine Learning Part One](https://dzone.com/articles/streamsets-transformer-extensibility-spark-and-mac)
 - [The Complete Apache Spark Collection [Tutorials and Articles]](https://dzone.com/articles/the-complete-apache-spark-collection-tutorials-and)
 - [Tips and Best Practices to Take Advantage of Spark 2.x](https://dzone.com/articles/tips-and-best-practices-to-take-advantage-of-spark)
 - [Topology-Based Event Correlation With Apache Spark Streaming](https://dzone.com/articles/topology-based-event-correlation-with-apache-spark)
-- [Stop using Spark for ML!](https://towardsdatascience.com/stop-using-spark-for-ml-59496927ef93)
 
 
 </details>
