@@ -690,6 +690,7 @@
 - [Windows Package Manager (winget): New features for uninstall, upgrade, and export](https://4sysops.com/archives/windows-package-manager-winget-new-features-for-uninstall-upgrade-and-export/)
 - [Windows Package Manager 1.0 : la première version stable est disponible !](https://www.it-connect.fr/windows-package-manager-1-0-la-premiere-version-stable-est-disponible/)
 - [Windows Package Manager 1.0 final is out](https://www.ghacks.net/2021/05/27/windows-package-manager-1-0-final-is-out/)
+- [Windows reste bloqué sur un écran noir ? Essayez ces solutions](https://www.clubic.com/actualite-517930-windows-reste-bloque-sur-un-ecran-noir-essayez-ces-solutions.html)
 - [Windows Sandbox : Erreur 0x80070002 :-(](https://www.it-connect.fr/windows-sandbox-erreur-0x80070002/)
 - [Windows Server – Configuration WinRM / Remote PowerShell](https://www.virtualease.fr/windows-server-configuration-winrm-remote-powershell/)
 - [Windows Server – Microsoft publie un nouveau type d’image : Windows Base OS](https://www.it-connect.fr/windows-server-microsoft-publie-un-nouveau-type-dimage-windows-base-os/)
