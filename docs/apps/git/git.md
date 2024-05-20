@@ -27,8 +27,10 @@
 
 <details open>
 
+- [Formation GIT](/atrier/apps/git_003.md)
 - [Git Cheat Sheet](/atrier/apps/git_002.md)
 - [GitHub Actions en action](/atrier/apps/git_001.md)
+- [How to build docs in GitHub without GitHub Actions or other CI/CD tools #2599](/atrier/apps/git_004.md)
 
 </details>
 
