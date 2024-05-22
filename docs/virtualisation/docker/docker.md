@@ -34,6 +34,12 @@
 
 <details>
 
+- [Docker Inside Docker](https://medium.com/@shivam77kushwah/docker-inside-docker-e0483c51cc2c)
+- [How To Run Docker in Docker Container [3 Easy Methods]](https://devopscube.com/run-docker-in-docker/)
+- [Running Docker in Docker (DinD): A Comprehensive Guide](https://medium.com/@gopesh3652/running-docker-in-docker-dind-a-comprehensive-guide-1fe2e328020)
+- [How to Check Your Docker Installation: Docker Desktop vs. Docker Engine](https://www.docker.com/blog/blog-how-to-check-docker-version/)
+- [Docker can now run within Docker](https://www.docker.com/blog/docker-can-now-run-within-docker/)
+- [3 Best Ways to Run Docker in Docker Container](https://kodekloud.com/blog/run-docker-in-docker-container/)
 - [ unauthorized: incorrect username or password when trying to pull images](https://www.systemcodegeeks.com/devops/docker-unauthorized-pull-images/)[Docker )[ Windows 10/ Mac OS )
 - [.docker](https://bersace.cae.li/dnsdock.html)
 - [[NOOB] Créer un container Docker](https://upandclear.org/2019/09/22/noob-creer-un-container-docker/)

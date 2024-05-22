@@ -30,17 +30,19 @@
 
 <details open>
 
+- [Déploiement d'un cluster Kubernetes](virtualisation/kubernetes/deploiement_dun_cluster_kubernetes.md)
+
 </details>
 
 ## <i class="fa-solid fa-glasses"></i> Articles à trier
 
 <details open>
 
-- [How To Use Kubernetes To Run Your Cron Jobs Effectively](atrier/virtualisation/kubernetes_001.md)
+- [Building a Kubernetes Cluster on AWS](atrier/virtualisation/kubernetes_005.md)
 - [Cas pratique sur la sécurisation d'un cluster Kubernetes](atrier/virtualisation/kubernetes_002.md)
 - [Créer un Custom Resource Controller pour Kubernetes](atrier/virtualisation/kubernetes_003.md)
+- [How To Use Kubernetes To Run Your Cron Jobs Effectively](atrier/virtualisation/kubernetes_001.md)
 - [Mettez en place votre système d’orchestration de conteneurs avec Kubernetes et CRI-O](atrier/virtualisation/kubernetes_004.md)
-- [Building a Kubernetes Cluster on AWS](atrier/virtualisation/kubernetes_005.md)
 
 </details>
 
