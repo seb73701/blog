@@ -238,3 +238,18 @@
 - [Zabbix](/apps/zabbix/zabbix.md)
 
 </span>
+
+----
+
+> <i class="fa-solid fa-quote-left"></i> Liste des **applications** intéressantes. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
+
+----
+
+<span>
+
+- [Shotcut](https://shotcut.org/)
+- [WizTree](https://diskanalyzer.com/)
+- [Xming](https://sourceforge.net/projects/xming/)
+- [YACReader](https://www.yacreader.com/)
+
+</span>

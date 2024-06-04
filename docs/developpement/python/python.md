@@ -85,6 +85,7 @@
 
 <details>
 
+- [How I Built A Beautiful Web App Purely in Python — with Zero Experience.](https://levelup.gitconnected.com/how-i-built-a-beautiful-web-app-purely-in-python-with-zero-experience-874731df6bc1)
 - [ Uninstall a Package Installed with pip](https://www.rosehosting.com/blog/pip-uninstall/)[pip Uninstall )
 - [“pip command not found” Error Solution Pip and Pip3 For Linux, Debian, Ubuntu, CentOS, Mint](https://www.poftut.com/pip-command-not-found-error-solution-for-linux-debianubuntu-centos-mint/)
 - [[Linux] Installation de Pyload un gestionnaire de téléchargement en python](https://yavin4.ovh/index.php/2019/09/23/linux-installation-de-pyload/)

@@ -126,6 +126,9 @@
 
 <details>
 
+- [How to classify your design system—a framework](https://uxdesign.cc/how-to-classify-your-design-system-a-framework-296cabacbb62)
+- [Design QA: A Very Scrappy, Practical Guide](https://medium.com/@shannonmbain/design-qa-a-very-scrappy-practical-guide-51fda5aab5c1)
+- [The structural problem with UX](https://bootcamp.uxdesign.cc/the-structural-problem-with-ux-854dae875544)
 - [ TUTO | GitLab | Comment faire une revue de code avec GitLab ?](https://lydra.fr/tuto-comment-faire-une-revue-de-code-avec-gitlab/)
 - [‘Doing Agile’ to ‘Being Agile’ — A Transformation That Is Much-Needed!](https://dzone.com/articles/doing-agile-to-being-agile-a-transformation-that-i)
 - [“Cancelable” Smooth Scrolling](https://css-tricks.com/cancelable-smooth-scrolling/)

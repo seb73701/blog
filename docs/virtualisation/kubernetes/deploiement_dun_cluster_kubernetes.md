@@ -26,7 +26,7 @@ La **Google Cloud Platform (GCP)** propose un service Kubernetes hébergé appel
 _Commande :_
 
 ```shell
-$ gcloud config set compute/zone us-west1-a
+gcloud config set compute/zone us-west1-a
 ```
 
 - Créér un cluster :
@@ -34,7 +34,7 @@ $ gcloud config set compute/zone us-west1-a
 _Commande :_
 
 ```shell
-$ gcloud container clusters create kuar-cluster --num-nodes=3
+gcloud container clusters create kuar-cluster --num-nodes=3
 ```
 
 - Obtenir des informations d'identification sur le cluster avec la commande (après quelques minutes) :
@@ -42,7 +42,7 @@ $ gcloud container clusters create kuar-cluster --num-nodes=3
 _Commande :_
 
 ```shell
-$ gcloud container clusters get-credentials kuar-cluster
+gcloud container clusters get-credentials kuar-cluster
 ```
 
 Les instructions complètes pour créer un cluster GKE se trouvent dans la documentation Google Cloud Platform (https://cloud.google.com/kubernetes-engine/docs/deploy-app-cluster?hl=fr).
@@ -63,12 +63,20 @@ On peut également installer l'interface de ligne de commande `az` sur l'ordinat
 
 - Avoir un compte Azure actif
 
+- Se connecter avec son compte
+
+_Commande :_
+
+```shell
+az login
+```
+
 - Créer le groupe de ressources :
 
 _Commande :_
 
 ```shell
-$ az group create --name=my-cluster --location=westus
+az group create --name=my-cluster --location=westus
 ```
 
 - Créer le cluster :
@@ -76,7 +84,7 @@ $ az group create --name=my-cluster --location=westus
 _Commande :_
 
 ```shell
-$ az aks create --resource-group=kuar --name=kuar-cluster
+az aks create --resource-group=kuar --name=kuar-cluster
 ```
 
 - Obtenir des informations d'identification sur le cluster :
@@ -92,7 +100,7 @@ az aks get-credentials --resource-group=kuar --name=kuar-cluster
 _Commande :_
 
 ```shell
-$ az aks install-cli
+az aks install-cli
 ```
 
 Des instructions plus complètes pour l'installation de Kubernetes sur Azure se trouvent dans la documentation Azure (https://learn.microsoft.com/fr-fr/azure/aks/learn/quick-kubernetes-deploy-cli).
