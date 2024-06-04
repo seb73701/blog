@@ -32,6 +32,9 @@
 
 <details>
 
+- [Azure Serial Console for Linux](https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-machines/linux/serial-console-linux)
+- [Troubleshoot UEFI boot failures in Azure Linux virtual machines](https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-machines/linux/azure-linux-vm-uefi-boot-failures)
+- [az vm repair](https://learn.microsoft.com/en-us/cli/azure/vm/repair?view=azure-cli-latest#az-vm-repair-create)
 - [25 reasons to choose Azure Stack HCI](https://cloudblogs.microsoft.com/windowsserver/2019/06/06/25-reasons-to-choose-azure-stack-hci/)
 - [5 Tools for Managing Your Azure Cloud Infrastructure](https://www.makeuseof.com/azure-cloud-infrastructure-management-tools/)
 - [A Look At New Features Azure SQL Database Serverless And Hyperscale](https://blog.pythian.com/azure-sql-database-serverless-hyperscale/)
