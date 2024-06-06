@@ -108,6 +108,7 @@
 - [How To Manage Sorted Sets in Redis](https://www.digitalocean.com/community/cheatsheets/how-to-manage-sorted-sets-in-redis)
 - [How To Manage Strings in Redis](https://www.digitalocean.com/community/cheatsheets/how-to-manage-strings-in-redis?status=moved_permanently)
 - [How To Migrate Redis Data with Replication on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-migrate-redis-data-with-replication-ubuntu-18-04)
+- [How to Quickly Create and Easily Configure a Local Redis Cluster](https://dzone.com/articles/quickly-create-and-configure-a-local-redis-cluster)
 - [How To Run Transactions in Redis](https://www.digitalocean.com/community/cheatsheets/how-to-run-transactions-in-redis?status=moved_permanently)
 - [How To Set Up Redis as a Cache for MySQL with PHP on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-redis-as-a-cache-for-mysql-with-php-on-ubuntu-20-04)
 - [How to Setup a Redis Cluster in CentOS 8 – Part 3](https://www.tecmint.com/setup-redis-cluster-in-centos-8/)

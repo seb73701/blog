@@ -71,6 +71,7 @@
 
 <details>
 
+- [The Beginner’s Guide To Create Amazon EC2 Instances](https://dzone.com/articles/the-beginners-guide-to-create-amazon-ec2-instances)
 - [Amazon EventBridge](https://aws.plainenglish.io/amazon-eventbridge-158b941e3926)
 - [Amazon RDS for PostgreSQL Alternatives - ClusterControl for PostgreSQL](https://severalnines.com/database-blog/amazon-rds-postgresql-alternatives-clustercontrol-postgresql)
 - [Amazon RDS MySQL Minor Upgrades: Not So Fast!](https://www.percona.com/blog/2020/01/14/amazon-rds-mysql-minor-upgrades-not-so-fast/)

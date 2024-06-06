@@ -54,6 +54,7 @@
 - [Gestion de Tâches avec Apache Airflow](http://ncrocfer.github.io/posts/gestion-de-taches-avec-apache-airflow/)
 - [Handling API Errors with Airflow](https://medium.com/stashaway-engineering/handling-api-errors-with-airflow-79738868d663)
 - [How Apache Airflow Distributes Jobs on Celery workers](https://medium.com/sicara/using-airflow-with-celery-workers-54cb5212d405)
+- [How To Set up a Local Airflow Installation With Kubernetes](https://dzone.com/articles/how-to-set-up-a-local-airflow-installation)
 - [How to Use Airflow without Headaches](https://towardsdatascience.com/how-to-use-airflow-without-headaches-4e6e37e6c2bc)
 - [Introduction to Apache Airflow: get started in 5 minutes](https://medium.com/codex/introduction-to-apache-airflow-get-started-in-5-minutes-3c9e24f12888)
 - [Omada and Apache Airflow](https://medium.com/omada-health-tech/omada-and-apache-airflow-cd8e66445097)

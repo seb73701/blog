@@ -40,6 +40,7 @@
 
 <details>
 
+- [GitHub RepoJacking: Are You Sure Your GitHub Is Safe?](https://dzone.com/articles/github-repojacking-are-you-sure-your-github-is-saf)
 - [10 things to love about Git](https://opensource.com/article/20/12/git)
 - [13 Git tips for Git's 13th birthday](https://opensource.com/article/18/4/git-tips)
 - [3 reasons I use the Git cherry-pick command](https://opensource.com/article/21/3/git-cherry-pick)
@@ -260,6 +261,7 @@
 - [How to Delete Remote Branch in Git](https://linuxhint.com/git_delete_remote_branch/)
 - [How to Delete Unwanted Repositories on GitHub](https://www.makeuseof.com/how-to-delete-unwanted-repositories-on-github/)
 - [How To Delete/Remove Git Branch Local and Remote?](https://www.poftut.com/how-to-delete-remove-git-branch-local-and-remote-tutorial-with-examples/)
+- [How to Effortlessly Host Your Angular Website on GitHub Pages](https://dzone.com/articles/how-to-effortlessly-host-your-angular-website)
 - [How to Fix Git Always Asking For User Credentials For HTTP(S) Authentication](https://www.tecmint.com/fix-git-user-credentials-for-https/)
 - [How to Git Rebase](https://linuxhint.com/howto_git_rebase/)
 - [How to Host a Website for Free Using GitHub Pages](https://www.makeuseof.com/tag/free-web-hosting-github-pages/)

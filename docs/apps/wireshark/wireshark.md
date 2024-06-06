@@ -55,6 +55,7 @@
 - [What Is Wireshark and How Can You Use It to Secure Your Network?](https://www.makeuseof.com/what-is-wireshark/)
 - [What Is Wireshark Network Traffic and Packet Analyzer?](https://www.poftut.com/what-is-wireshark-network-traffic-and-packet-analyzer/)
 - [Why does Wireshark say no interfaces found](https://linuxhint.com/wireshark-detecting-no-interfaces/)
+- [Wireshark and tcpdump: A Debugging Power Couple](https://dzone.com/articles/wireshark-amp-tcpdump-a-debugging-power-couple)
 - [Wireshark for analyzing issues and malicious emails in POP, IMAP, and SMTP [Tutorial]](https://hub.packtpub.com/wireshark-analyze-malicious-emails-in-pop-imap-smtp/)
 - [WireShark in-depth Tutorial](https://linuxhint.com/wireshark-in-depth-tutorial/)
 

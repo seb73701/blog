@@ -42,6 +42,7 @@
 
 <details>
 
+- [Basics of CORS (Cross-Origin Resource Sharing)](https://dzone.com/articles/basics-of-cors)
 - [« Etat de la menace rançongiciel » : le nouveau rapport de l’ANSSI](https://www.it-connect.fr/etat-de-la-menace-rancongiciel-le-nouveau-rapport-de-lanssi/)
 - [« Etat de la menace rançongiciel » : le nouveau rapport de l’ANSSI](https://www.it-connect.fr/etat-de-la-menace-rancongiciel-le-nouveau-rapport-de-lanssi/)
 - [[Mémo] Manipulations des outils cryptographiques d’OpenSSL](https://www.guillaume-leduc.fr/memo-manipulations-des-outils-cryptographiques-dopenssl.html)

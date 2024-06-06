@@ -119,6 +119,7 @@
 - [Manage Multiple Environments With Terraform Workspaces](https://dzone.com/articles/manage-multiple-environments-with-terraform-worksp)
 - [Managing Kubernetes Environments Using Namespaces and Terraform](https://dzone.com/articles/managing-kubernetes-environments-using-namespaces)
 - [Merci Terraform 0.12 :)](https://utux.fr/index.php?article229/merci-terraform-0-12)
+- [Practical Use Cases With Terraform in Network Automation](https://dzone.com/articles/practical-use-cases-with-terraform-in-network)
 - [Premiers pas avec Terraform](https://blog.zwindler.fr/2018/01/16/premiers-pas-avec-terraform/)
 - [Prendre en main Hashicorp Terraform](https://blog.stephane-robert.info/post/introduction-terraform/)
 - [Production-Like AWS Environment Provisioning with Terraform](https://dzone.com/articles/production-like-aws-environment-provisioning-with)

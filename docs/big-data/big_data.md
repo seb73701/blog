@@ -47,6 +47,7 @@
 - [How to design a system to scale to your first 100 million users](https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d)
 - [Interactive Exploratory Data Analysis](https://towardsdatascience.com/interactive-exploratory-data-analysis-259e62fed295)
 - [Les six V du Big Data : exploitez pleinement votre base de données](https://blog.ostraca.fr/les-six-v-du-big-data-exploitez-pleinement-votre-base-de-donnees/)
+- [Preventing and Fixing Bad Data in Event Streams (Part 1)](https://dzone.com/articles/preventing-and-fixing-bad-data-in-event-streams)
 - [Qu’est-ce que le Big Data ?](https://www.oracle.com/fr/big-data/what-is-big-data/)
 - [Qu’est-ce que le big data ?](https://www.ovhcloud.com/fr/public-cloud/big-data-definition/)
 - [The Beginner’s Guide to the Modern Data Stack](https://towardsdatascience.com/the-beginners-guide-to-the-modern-data-stack-d1c54bd1793e)

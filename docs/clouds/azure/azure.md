@@ -32,9 +32,6 @@
 
 <details>
 
-- [Azure Serial Console for Linux](https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-machines/linux/serial-console-linux)
-- [Troubleshoot UEFI boot failures in Azure Linux virtual machines](https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-machines/linux/azure-linux-vm-uefi-boot-failures)
-- [az vm repair](https://learn.microsoft.com/en-us/cli/azure/vm/repair?view=azure-cli-latest#az-vm-repair-create)
 - [25 reasons to choose Azure Stack HCI](https://cloudblogs.microsoft.com/windowsserver/2019/06/06/25-reasons-to-choose-azure-stack-hci/)
 - [5 Tools for Managing Your Azure Cloud Infrastructure](https://www.makeuseof.com/azure-cloud-infrastructure-management-tools/)
 - [A Look At New Features Azure SQL Database Serverless And Hyperscale](https://blog.pythian.com/azure-sql-database-serverless-hyperscale/)
@@ -67,6 +64,7 @@
 - [AUTOMATION 101: AZURE LOGIC APPS TO THE RESCUE](http://techgenix.com/azure-logic-apps/)
 - [Automatisation Open Source dans Azure - Terraform](https://blog.wescale.fr/2018/10/26/post/)
 - [Automatiser le déploiement d’un AKS avec Terraform et Azure DevOps !](https://thomasrannou.azurewebsites.net/2020/12/16/automatiser-le-deplo-dun-cluster-aks-avec-terraform-et-azure-devops/)
+- [az vm repair](https://learn.microsoft.com/en-us/cli/azure/vm/repair?view=azure-cli-latest#az-vm-repair-create)
 - [AZ-900: Exam Questions (8/12)](https://royseto.medium.com/az-900-exam-questions-8-12-78a55b755c3a)
 - [AZ-900: Exam Questions (8/12)](https://royseto.medium.com/az-900-exam-questions-8-12-78a55b755c3a)
 - [Azure Accelerated Network Is Generally Available](https://www.petri.com/azure-accelerated-network-generally-available)
@@ -140,6 +138,7 @@
 - [Azure Resource Manager Templates and Nested Loops: A Commentary](https://dzone.com/articles/arm-azure-resource-manager-templates-nested-loops)
 - [Azure Security Center pour ACR et AKS](https://thomasrannou.azurewebsites.net/2020/05/08/azure-security-center-pour-acr-et-aks/)
 - [Azure Sentinel: Microsoft's SIEM for the cloud and on-premises](https://4sysops.com/archives/azure-sentinel-microsofts-siem-for-the-cloud-and-on-premises/)
+- [Azure Serial Console for Linux](https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-machines/linux/serial-console-linux)
 - [Azure Service Operator v2](https://azure.github.io/azure-service-operator/)
 - [Azure Site Recovery Deployment Planner for VMware and Hyper-V](https://www.petri.com/azure-site-recovery-deployment-planner-vmware-hyper-v)
 - [Azure Sphere: A Secured Hardware Solution for Your IoT Device Security](https://dzone.com/articles/azure-sphere-a-secured-hardware-solution-for-your)
@@ -466,6 +465,7 @@
 - [The right way of accessing Azure services from inside your Azure Kubernetes Cluster](https://itnext.io/the-right-way-of-accessing-azure-services-from-inside-your-azure-kubernetes-cluster-14a335767680)
 - [The Three Different Types of Rules that are in the Azure Firewall](https://www.petri.com/the-three-different-types-of-rules-that-are-in-the-azure-firewall)
 - [Transforming Azure Monitor Logs for DevOps, granular access control, and improved Azure integration](https://azure.microsoft.com/en-gb/blog/transforming-azure-monitor-logs-for-devops-granular-access-control-and-imporved-azure-integration/)
+- [Troubleshoot UEFI boot failures in Azure Linux virtual machines](https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-machines/linux/azure-linux-vm-uefi-boot-failures)
 - [Tutorial: Build a Serverless API Back-end for Slack](https://dzone.com/articles/funcy-a-serverless-slack-app-using-azure-functions)
 - [Tutorial: Build a Serverless API Back-end for Slack](https://dzone.com/articles/funcy-a-serverless-slack-app-using-azure-functions)
 - [Tutorial: Connect virtual networks with virtual network peering using the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal)

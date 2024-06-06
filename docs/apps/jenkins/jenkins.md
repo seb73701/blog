@@ -71,6 +71,7 @@
 - [How to define build name and description in Jenkins](https://sleeplessbeastie.eu/2021/01/29/how-to-define-build-name-and-description-in-jenkins/)
 - [How to disable concurrent builds in Jenkins](https://sleeplessbeastie.eu/2021/03/15/how-to-disable-concurrent-builds-in-jenkins/)
 - [How to force specific language in Jenkins](https://sleeplessbeastie.eu/2021/01/13/how-to-force-specific-language-in-jenkins/)
+- [How To Generate TestNG Reports In Jenkins](https://dzone.com/articles/how-to-generate-testng-reports-in-jenkins)
 - [How to Install a Jenkins Plugin in 5 Minutes](https://dzone.com/articles/how-to-install-a-jenkins-plugin-in-5-minutes)
 - [How To Install And Configure Jenkins 2 On Centos/Redhat Servers](https://devopscube.com/install-configure-jenkins-2-centos-redhat-servers/)
 - [How To Install And Configure Jenkins 2.0 – Getting Started](https://devopscube.com/install-configure-jenkins-2-0/)

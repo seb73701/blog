@@ -126,9 +126,6 @@
 
 <details>
 
-- [How to classify your design system—a framework](https://uxdesign.cc/how-to-classify-your-design-system-a-framework-296cabacbb62)
-- [Design QA: A Very Scrappy, Practical Guide](https://medium.com/@shannonmbain/design-qa-a-very-scrappy-practical-guide-51fda5aab5c1)
-- [The structural problem with UX](https://bootcamp.uxdesign.cc/the-structural-problem-with-ux-854dae875544)
 - [ TUTO | GitLab | Comment faire une revue de code avec GitLab ?](https://lydra.fr/tuto-comment-faire-une-revue-de-code-avec-gitlab/)
 - [‘Doing Agile’ to ‘Being Agile’ — A Transformation That Is Much-Needed!](https://dzone.com/articles/doing-agile-to-being-agile-a-transformation-that-i)
 - [“Cancelable” Smooth Scrolling](https://css-tricks.com/cancelable-smooth-scrolling/)
@@ -1183,6 +1180,7 @@
 - [Design patterns every data engineer should know](https://rspacesamuel.medium.com/design-patterns-every-data-engineer-should-know-f6c48cd73592)
 - [Design principles for creating the perfect icon set](https://uxdesign.cc/design-principles-for-creating-the-perfect-icon-set-d12570e0bcb1)
 - [Design principles for web3](https://uxdesign.cc/designing-for-web-3-0-53ea939ac66)
+- [Design QA: A Very Scrappy, Practical Guide](https://medium.com/@shannonmbain/design-qa-a-very-scrappy-practical-guide-51fda5aab5c1)
 - [Design Review Checklist for Distributed Systems](https://medium.com/swlh/design-review-checklist-for-distributed-systems-cb641e0d4264)
 - [Design Shopping: Get A Faster Client Buy-In Through A Guided Design Showcase](https://www.smashingmagazine.com/2020/10/design-shopping-workflow-showcase/)
 - [Design System based on the 8pt Grid](https://medium.com/swlh/design-system-based-on-the-8pt-grid-2473ca5f0ae1)
@@ -1625,6 +1623,7 @@
 - [How to choose the perfect color for your design](https://bootcamp.uxdesign.cc/how-to-choose-the-perfect-color-for-your-design-f57c6a3e5828)
 - [How to Choose the Right Colors for Data Visualizations](https://towardsdatascience.com/how-to-choose-the-right-colors-for-data-visualizations-faf290f9d1a5)
 - [How to Cite a Website Using MLA and APA In-Text Citations](https://www.makeuseof.com/how-to-cite-a-website-using-mla-and-apa-in-text-citations/)
+- [How to classify your design system—a framework](https://uxdesign.cc/how-to-classify-your-design-system-a-framework-296cabacbb62)
 - [How to Code a Playable Synth Keyboard](https://css-tricks.com/how-to-code-a-playable-synth-keyboard/)
 - [How to Code HTML Emails for Any Device](https://www.campaignmonitor.com/dev-resources/guides/coding-html-emails/)
 - [How To Comment In XML Tag Block or Single Line?](https://www.poftut.com/how-to-comment-in-xml-tag-block-or-single-line/)
@@ -2623,6 +2622,7 @@
 - [Software Documentation Best Practices [With Examples]](https://medium.com/@mithunmanoharan/software-documentation-best-practices-with-examples-8983b2bee99b)
 - [Software Engineering is a Loser’s Game](https://dzone.com/articles/software-engineering-is-a-losers-game)
 - [Software Testing 101: Get started with software testing types](https://medium.com/educative/software-testing-101-get-started-with-software-testing-types-8b9441033576)
+- [Software Testing as a Debugging Tool](https://dzone.com/articles/software-testing-as-a-debugging-tool)
 - [Software Testing Services, Automation, and Testing Types](https://dzone.com/articles/software-testing-services-automation-amp-testing-t)
 - [Software Testing Tools We're Watching Out for in 2020](https://dzone.com/articles/software-testing-tools-were-watching-out-for-in-20)
 - [SOLID : Le guide simple avec des exemples applicables](https://alexsoyes.com/solid/)
@@ -2904,6 +2904,7 @@
 - [The Startup Guide to Creating an Agile Product Roadmap](https://dzone.com/articles/the-startup-guide-to-creating-an-agile-product-roa)
 - [The Startup Marketing Checklist](https://draft.dev/learn/marketing-checklist)
 - [The State of ETL: Traditional to Cloud](https://dzone.com/articles/the-state-of-etl-traditional-to-cloud)
+- [The structural problem with UX](https://bootcamp.uxdesign.cc/the-structural-problem-with-ux-854dae875544)
 - [The SVG `path` Syntax: An Illustrated Guide](https://css-tricks.com/svg-path-syntax-illustrated-guide/)
 - [The Three Rules for Safely Modifying APIs](https://medium.com/pragmatic-programmers/the-three-rules-for-safely-mo-difying-apis-eccb10316bad)
 - [The Top 5 Skills of Senior Software Engineers](https://levelup.gitconnected.com/the-top-5-skills-of-senior-software-engineers-deadb0bc3bde)
