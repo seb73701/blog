@@ -36,17 +36,18 @@
 
 <details>
 
-- [How to Create a Commenting Engine with Next.js and Sanity](https://css-tricks.com/how-to-create-a-commenting-engine-with-next-js-and-sanity/)
-- [Getting Started With Next.js](https://www.smashingmagazine.com/2020/10/getting-started-with-next-js/)
-- [How To Use MDX Stored In Sanity In A Next.js Website](https://www.smashingmagazine.com/2020/12/mdx-stored-sanity-next-js-website/)
+- [5 Tips and Tricks To Make Your Life With Next.js 14 Easier](https://aryalskanda1.medium.com/5-tips-and-tricks-to-make-your-life-with-next-js-14-easier-f272bb52537e)
 - [A Complete Guide To Incremental Static Regeneration (ISR) With Next.js](https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/)
-- [Reducing HTML Payload With Next.js (Case Study)](https://www.smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/)
-- [Comment débuter avec Next JS ?](https://practicalprogramming.fr/debuter-avec-next-js)
 - [Build Better React apps with Next.js](https://javascript.plainenglish.io/build-better-react-apps-with-next-js-d7bc7b495006)
-- [Next JS s'améliore et facilite la collaboration](https://practicalprogramming.fr/next-js-11)
-- [Responsible Markdown in Next.js](https://css-tricks.com/responsible-markdown-in-next-js/)
 - [Building a Cool Front End Thing Generator](https://css-tricks.com/building-a-cool-front-end-thing-generator/)
-- [Next.js Authentication](https://www.digitalocean.com/community/tech_talks/next-js-authentication)
+- [Comment débuter avec Next JS ?](https://practicalprogramming.fr/debuter-avec-next-js)
 - [Component First Development with Next.js](https://johnclarke73.medium.com/component-first-development-with-next-js-28aba0cadecb)
+- [Getting Started With Next.js](https://www.smashingmagazine.com/2020/10/getting-started-with-next-js/)
+- [How to Create a Commenting Engine with Next.js and Sanity](https://css-tricks.com/how-to-create-a-commenting-engine-with-next-js-and-sanity/)
+- [How To Use MDX Stored In Sanity In A Next.js Website](https://www.smashingmagazine.com/2020/12/mdx-stored-sanity-next-js-website/)
+- [Next JS s'améliore et facilite la collaboration](https://practicalprogramming.fr/next-js-11)
+- [Next.js Authentication](https://www.digitalocean.com/community/tech_talks/next-js-authentication)
+- [Reducing HTML Payload With Next.js (Case Study)](https://www.smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/)
+- [Responsible Markdown in Next.js](https://css-tricks.com/responsible-markdown-in-next-js/)
 
 </details>

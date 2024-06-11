@@ -127,6 +127,7 @@
 - [Win11SysCheck and WhyNotWin11 tell you why your PC is incompatible with Windows 11](https://www.ghacks.net/2021/06/27/win11syscheck-and-whynotwin11-tell-you-why-your-pc-is-incompatible-with-windows-11/)
 - [Windows 11 : comment supprimer le dossier Windows.old ?](https://www.it-connect.fr/windows-11-comment-supprimer-le-dossier-windows-old/)
 - [Windows 11 : il n’est plus possible d’activer le menu Démarrer de Windows 10](https://www.it-connect.fr/windows-11-il-nest-plus-possible-dactiver-le-menu-demarrer-de-windows-10/)
+- [Windows 11 : Microsoft sort un guide pour vous expliquer comment utiliser les passkeys](https://www.clubic.com/actualite-528993-windows-11-microsoft-sort-un-guide-vous-pour-vous-expliquer-comment-y-utiliser-les-passkeys.html)
 - [Windows 11 et TPM 2.0 : comment l'activer pour éviter la panique ?](https://www.clubic.com/windows-os/actualite-376035-windows-11-et-tpm-2-0-comment-l-activer-pour-eviter-la-panique-.html?_ope=eyJndWlkIjoiMTNmOTVmMWQ3MTY4MWZmMDIxZjBlYzkyMzQ2NmFmNGYifQ%3D%3D)
 - [Windows 11 Home vs. Pro: Which Is Best for You?](https://www.makeuseof.com/windows-11-home-vs-pro-which-is-best-for-you/)
 - [Windows 11 intègre une fonctionnalité optionnelle nommée TPM Diagnostics](https://www.it-connect.fr/windows-11-integre-une-fonctionnalite-optionnelle-nommee-tpm-diagnostics/)

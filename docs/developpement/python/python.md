@@ -85,7 +85,6 @@
 
 <details>
 
-- [How I Built A Beautiful Web App Purely in Python — with Zero Experience.](https://levelup.gitconnected.com/how-i-built-a-beautiful-web-app-purely-in-python-with-zero-experience-874731df6bc1)
 - [ Uninstall a Package Installed with pip](https://www.rosehosting.com/blog/pip-uninstall/)[pip Uninstall )
 - [“pip command not found” Error Solution Pip and Pip3 For Linux, Debian, Ubuntu, CentOS, Mint](https://www.poftut.com/pip-command-not-found-error-solution-for-linux-debianubuntu-centos-mint/)
 - [[Linux] Installation de Pyload un gestionnaire de téléchargement en python](https://yavin4.ovh/index.php/2019/09/23/linux-installation-de-pyload/)
@@ -620,6 +619,7 @@
 - [Building Data Visualization Webapps Using Python](https://towardsdatascience.com/building-data-visualization-webapps-using-python-769bc13fe12)
 - [Building Games with Python 3 and PyGame.](https://code.tutsplus.com/series/building-games-with-python-3-and-pygame--cms-1245)
 - [Building Games with Python 3 and PyGame.](https://code.tutsplus.com/series/building-games-with-python-3-and-pygame--cms-1245)
+- [Building LLaMA 3 From Scratch with Python](https://levelup.gitconnected.com/building-llama-3-from-scratch-with-python-e0cf4dbbc306)
 - [Building Minimal Docker Containers for Python Applications](https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3)
 - [Building Minimal Docker Containers for Python Applications](https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3)
 - [Bulk Downloads in Python FAST](https://towardsdatascience.com/bulk-downloads-in-python-fast-%EF%B8%8F-df070451786)
@@ -1113,6 +1113,7 @@
 - [How do I iterate through a string array in Python?](https://linuxhint.com/iterate-string-array-python/)
 - [How Do I See Directory Changes in Python?](https://linuxhint.com/see-directory-changes-python/)
 - [How Do I See Directory Changes in Python?](https://linuxhint.com/see-directory-changes-python/)
+- [How I Built A Beautiful Web App Purely in Python — with Zero Experience.](https://levelup.gitconnected.com/how-i-built-a-beautiful-web-app-purely-in-python-with-zero-experience-874731df6bc1)
 - [How I Created an End-To-End Personal Data Project (Fantasy Premier League)](https://medium.com/@andrej.trajk/how-i-created-an-end-to-end-personal-data-project-fantasy-premier-league-91a587dfa578)
 - [How I use Python to map the global spread of COVID-19](https://opensource.com/article/20/4/python-map-covid-19)
 - [How I use Python to map the global spread of COVID-19](https://opensource.com/article/20/4/python-map-covid-19)
@@ -1981,9 +1982,6 @@
 - [How to write your favorite R functions in Python](https://opensource.com/article/18/10/write-favorite-r-functions-python)
 - [HTTP benchmarking using wrk. Parsing output to CSV or JSON using Python](https://technology.amis.nl/2020/02/01/http-benchmarking-using-wrk-parsing-output-to-csv-or-json-using-python/)
 - [HTTP benchmarking using wrk. Parsing output to CSV or JSON using Python](https://technology.amis.nl/2020/02/01/http-benchmarking-using-wrk-parsing-output-to-csv-or-json-using-python/)
-- http://apprendre-python.com/
-- http://apprendre-python.com/
-- http://apprendre-python.com/page-python-encodage-encode-decode-unicode-ascii-codec-character-accents-probleme-string-utf8
 - [http://lepython.com/](http://lepython.com/)
 - [http://python-liesse.enseeiht.fr/cours/index.html](http://python-liesse.enseeiht.fr/cours/index.html)
 - [http://www.pyomo.org/](http://www.pyomo.org/)
@@ -3557,5 +3555,8 @@
 - [Yes, You Can Easily Scrape Websites with Pandas. Here’s How.](https://medium.com/geekculture/yes-you-can-easily-scrape-websites-with-pandas-heres-how-f833157781d5)
 - [Yet Another Android Snake With Kivy, Python](https://dzone.com/articles/yet-another-android-snake-with-kivy-python)
 - [Yet Another Android Snake With Kivy, Python](https://dzone.com/articles/yet-another-android-snake-with-kivy-python)
+- http://apprendre-python.com/
+- http://apprendre-python.com/
+- http://apprendre-python.com/page-python-encodage-encode-decode-unicode-ascii-codec-character-accents-probleme-string-utf8
 
 </details>
