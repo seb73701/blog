@@ -33,6 +33,7 @@
 
 <details>
 
+- [What is Data Pipeline?](https://youtu.be/kGT4PcTEPP8) (youtube)
 - [10 Robust Enterprise-Grade ELT Tools To Collect Loads of Data](https://dzone.com/articles/10-robust-enterprise-grade-elt-tools-to-collect-lo)
 - [Big Data : définition, technologies, utilisations, formations](https://datascientest.com/big-data-tout-savoir)
 - [Big data avec awk](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-220/big-data-avec-awk)
