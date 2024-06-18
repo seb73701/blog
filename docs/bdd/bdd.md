@@ -42,6 +42,7 @@
 
 <details>
 
+- [dbt 1.8 it is just wow](https://medium.astrafy.io/dbt-1-8-it-is-just-wow-5eb77fb273db)
 - [10 Best Practices for Data Migration](https://dzone.com/articles/10-best-practices-for-data-migration)
 - [10 Common Database Security Issues](https://dzone.com/articles/10-common-database-security-issues)
 - [14 SQL Jobs and Opportunities](https://dzone.com/articles/sql-jobs-and-opportunities-career-path-for-sql)

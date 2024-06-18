@@ -127,6 +127,23 @@
 
 <details>
 
+- [Can ChatGPT find the 2024 color of the year triad harmony?](https://uxdesign.cc/can-chatgpt-find-the-2024-color-of-the-year-triad-harmony-22cf4d096af0)
+- [The agentic era of UX](https://uxdesign.cc/the-agentic-era-of-ux-4b58634e410b)
+- [8 UI Animation Trends: Make Your Design Standing Out of Competitors](https://medium.com/@FlowMapp/8-ui-animation-trends-make-your-design-standing-out-of-competitors-060ab2c4a3e7)
+- [Design QA: A Very Scrappy, Practical Guide](https://medium.com/@shannonmbain/design-qa-a-very-scrappy-practical-guide-51fda5aab5c1)
+- [Product Roadmaps vs. Project Plans: Unlocking Secrets To Success](https://productcoalition.com/product-roadmaps-vs-project-plans-why-the-difference-matters-d63ce5f724cb)
+- [Horror Vacui, the fear of white space (UX Alphabet Series)](https://uxdesign.cc/horror-vacui-the-fear-of-white-space-a-ux-alphabet-series-6ad5337a6adc)
+- [How to design accessible forms in 10 steps](https://uxdesign.cc/how-to-design-accessible-forms-in-10-steps-22232d65de18)
+- [10 Must-Try Techniques for Adding Depth and Visual Interest to Your Website](https://medium.com/@designgrapes/10-must-try-techniques-for-adding-depth-and-visual-interest-to-your-website-35f2576fe90b)
+- [What Type of Loading and Progress Indicators Implement in the App?](https://medium.com/@FlowMapp/what-type-of-loading-and-progress-indicators-implement-in-the-app-4efc0a1657d8)
+- [Mastering Caching in Distributed Applications](https://levelup.gitconnected.com/mastering-caching-in-distributed-applications-e7449f4db399)
+- [Decoding user behaviour: leveraging cognitive biases in app development](https://uxdesign.cc/using-cognitive-bias-to-transform-app-engagement-and-monetisation-strategies-d49efd3353f1)
+- [Dark patterns versus behavioural nudges in UX](https://uxplanet.org/dark-patterns-versus-behavioural-nudges-in-ux-e79633970b3f)
+- [Copywriting Headline Templates That Boosted My SEO Title Click-Through Rate](https://bettermarketing.pub/copywriting-headline-templates-that-boosted-my-seo-title-click-through-rate-17d09df32cbe)
+- [Stop Using UUIDs in Your Database](https://levelup.gitconnected.com/stop-using-uuids-in-your-database-aae9d5d47549)
+- [Case Study: UX/UI Design of the First Licensed Digital Bank in Mexico](https://medium.muz.li/case-study-ux-ui-design-of-the-first-licensed-digital-bank-in-mexico-c367d4b4438c)
+- [Setting up typography variables in Figma](https://uxdesign.cc/set-up-typography-variables-in-figma-359cfea88b68)
+- [Emotional design: why it matters in UX](https://uxplanet.org/emotional-design-why-it-matters-in-ux-89878cd92032)
 - [A Crash Course on Content-Delivery Networks (CDN)](https://blog.bytebytego.com/p/a-crash-course-on-content-delivery)
 - [The UX research methods playbook (Part 2)](https://bootcamp.uxdesign.cc/the-ux-research-methods-playbook-part-2-fc86427d8ca1)
 - [The PURE Manifesto — for Web Standards based Design Systems](https://medium.com/cto-as-a-service/the-pure-manifesto-for-web-standards-based-design-systems-d46f400853eb)

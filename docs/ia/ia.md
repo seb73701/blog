@@ -26,6 +26,7 @@
 
 <details>
 
+- [Mastering GenAI ML System Design Interview: Principles & Solution Outline](https://towardsdatascience.com/mastering-genai-ml-system-design-interview-principles-solution-outline-71a4664511a7)
 - [Utiliser simplement un réseau de neurones sur Raspberry Pi grâce à ONNX et Go](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmfhs-106/utiliser-simplement-un-reseau-de-neurones-sur-raspberry-pi-grace-a-onnx-et-go)
 - [L'Univers, ses galaxies et le machine Learning](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmfhs-094/l-univers-ses-galaxies-et-le-machine-learning)
 - [A Breakdown of Deep Learning Frameworks](https://dzone.com/articles/a-breakdown-of-deep-learning-frameworks)

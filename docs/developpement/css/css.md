@@ -55,6 +55,8 @@
 
 <details>
 
+- [Let’s Look at 50+ Interesting CSS Properties & Values](https://css-tricks.com/lets-look-50-interesting-css-properties-values/)
+- [The Most Important CSS Concept to Learn](https://www.freecodecamp.org/news/the-most-important-css-concept-to-learn-8e929c944a19/)
 - [::part and ::theme, an ::explainer](https://meowni.ca/posts/part-theme-explainer/)
 - [:focus-visible Support Comes to Firefox](https://css-tricks.com/focus-visible-support-comes-to-firefox/)
 - [:nth-child Between Two Fixed Indexes](https://css-tricks.com/nth-child-between-two-fixed-indexes/)

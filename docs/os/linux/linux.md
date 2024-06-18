@@ -34,6 +34,13 @@
 
 <details>
 
+- [We deserve a better life outside of Figma. It’s time to design our time.](https://uxdesign.cc/we-deserve-a-better-life-outside-of-figma-its-time-to-design-our-time-82da4beab50b)
+- [I Built a Reusable Dashboard for Read the Docs Traffic Analytics Using Vizro-AI](https://towardsdatascience.com/i-built-a-reusable-dashboard-for-read-the-docs-traffic-analytics-using-vizro-47dc15dc04f8)
+- [The Perfect Prompt: A Prompt Engineering Cheat Sheet](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)
+- [How To Make Your Boring Terminal So Much Better](https://levelup.gitconnected.com/how-to-make-your-boring-terminal-so-much-better-0361ad631f01)
+- [How to Customize Windows Terminal Like a Pro](https://beebom.com/how-customize-windows-terminal-2/)
+- [8 Useful and Interesting Bash Prompts](https://www.maketecheasier.com/8-useful-and-interesting-bash-prompts/)
+- [Zsh Prompts... Anything is Better than "username@hostname"](https://sureshjoshi.com/development/zsh-prompts-that-dont-suck)
 - [.bashrc vs .bash_profile](https://linuxize.com/post/bashrc-vs-bash-profile/)
 - [‘Cut’ Command In Linux: Useful Applications Explained](https://fossbytes.com/cut-command-linux/)
 - [“-bash: sudo: command not found” Error and Solution For Linux, Debian, CentOS](https://www.poftut.com/bash-sudo-command-not-found-error-solution-linux-debian-centos/)

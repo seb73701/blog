@@ -32,6 +32,7 @@
 
 <details>
 
+- [Visualizing SQL Server Job History: Unlocking Hidden Capabilities with SQL Server Language Extensions](https://towardsdatascience.com/visualizing-sql-server-job-history-unlocking-hidden-capabilities-with-sql-server-language-63ed965b091e)
 - [3 Quick Memory Troubleshooting Tips for SQL Server](https://dzone.com/articles/3-quick-memory-troubleshooting-tips-for-sql-server)
 - [4 Encryption options for your SQL Server](https://hub.packtpub.com/4-encryption-options-for-your-sql-server/)
 - [A Database Developer's Guide to SQL Clone](https://dzone.com/articles/a-database-developers-guide-to-sql-clone)

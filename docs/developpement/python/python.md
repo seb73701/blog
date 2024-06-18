@@ -85,6 +85,10 @@
 
 <details>
 
+- [From Data to Dashboard: Visualizing the Ancient Maritime Silk Road with Dash Leaflet and SeaRoute libraries](https://towardsdatascience.com/from-data-to-dashboard-visualizing-the-ancient-maritime-silk-road-with-dash-leaflet-and-searoute-ac8a521ac4e9)
+- [How I Automated My Life: Practical Python Scripts for Everyday Tasks](https://levelup.gitconnected.com/exploring-the-most-useful-sql-operators-functions-and-clauses-cd71f2e4a1e2)
+- [How I Automated My Entire Morning Routine with Python](https://levelup.gitconnected.com/apples-vision-pro-ar-headset-is-finally-here-blending-the-real-and-digital-worlds-eec7e1debb2a)
+- [Introducing Python 4.0: Say Goodbye to These 12 Beloved Features](https://levelup.gitconnected.com/airflow-vs-mage-vs-kestra-e4bf6e35cfa2)
 - [ Uninstall a Package Installed with pip](https://www.rosehosting.com/blog/pip-uninstall/)[pip Uninstall )
 - [“pip command not found” Error Solution Pip and Pip3 For Linux, Debian, Ubuntu, CentOS, Mint](https://www.poftut.com/pip-command-not-found-error-solution-for-linux-debianubuntu-centos-mint/)
 - [[Linux] Installation de Pyload un gestionnaire de téléchargement en python](https://yavin4.ovh/index.php/2019/09/23/linux-installation-de-pyload/)
