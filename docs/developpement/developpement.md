@@ -127,6 +127,7 @@
 
 <details>
 
+- [Text to Knowledge Graph Made Easy with Graph Maker](https://towardsdatascience.com/text-to-knowledge-graph-made-easy-with-graph-maker-f3f890c0dbe8)
 - [The UX of Threads’ downfall](https://uxdesign.cc/the-ux-of-threads-downfall-47e3dc64b51c)
 - [Why that subtle “More Icon •••” matters more than you think](https://bootcamp.uxdesign.cc/why-that-subtle-more-icon-matters-more-than-you-think-713af862e336)
 - [The Way We Are Building Event-Driven Applications is Misguided. This is Why We Created Infinitic.](https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061)
