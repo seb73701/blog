@@ -127,6 +127,12 @@
 
 <details>
 
+- [The UX of Threads’ downfall](https://uxdesign.cc/the-ux-of-threads-downfall-47e3dc64b51c)
+- [Why that subtle “More Icon •••” matters more than you think](https://bootcamp.uxdesign.cc/why-that-subtle-more-icon-matters-more-than-you-think-713af862e336)
+- [The Way We Are Building Event-Driven Applications is Misguided. This is Why We Created Infinitic.](https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061)
+- [OKRs and Product Roadmaps](https://romanpichler.medium.com/okrs-and-product-roadmaps-5c00773b32c0)
+- [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
+- [Software Testing 101: Get started with software testing types](https://learningdaily.dev/software-testing-101-get-started-with-software-testing-types-8b9441033576)
 - [Can ChatGPT find the 2024 color of the year triad harmony?](https://uxdesign.cc/can-chatgpt-find-the-2024-color-of-the-year-triad-harmony-22cf4d096af0)
 - [The agentic era of UX](https://uxdesign.cc/the-agentic-era-of-ux-4b58634e410b)
 - [8 UI Animation Trends: Make Your Design Standing Out of Competitors](https://medium.com/@FlowMapp/8-ui-animation-trends-make-your-design-standing-out-of-competitors-060ab2c4a3e7)

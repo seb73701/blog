@@ -29,6 +29,7 @@
 
 <details>
 
+- [The Nerd Urban Dictionary](https://andersonchris.medium.com/the-nerd-urban-dictionary-abcd55ca7ac4)
 - [[Pastis.tech] Gregory Colpart - Ceph, le stockage du futur](https://www.youtube.com/watch?v=v6IhZbbm2hg) (video)
 - [[USB-C] Vers une normalisation du connecteur ?](https://www.pofilo.fr/post/20210228-usb-c-chargeur-unique/)
 - [#RGPD : 10 recommandations de sécurité informatique](https://open-freax.fr/rgpd-10-recommandations-securite-informatique/)

@@ -37,6 +37,7 @@
 
 <details>
 
+- [Angular Design Patterns: Factory Pattern](https://vugar-005.medium.com/angular-design-patterns-factory-pattern-f72fcbfb60b8)
 - [Angular — things I immediately do when create a new application](https://medium.com/nerd-for-tech/angular-things-i-immediately-do-when-create-a-new-application-635a740b7027)
 - [Angular: DON'T Call Functions Inside The Template Anymore](https://javascript.plainenglish.io/angular-dont-call-a-function-inside-the-template-anymore-e74ebf499bb8)
 - [How Micro Frontend changes the Future of Angular?](https://itnext.io/how-micro-frontend-changes-the-future-of-angular-bb4deb2cfdad)

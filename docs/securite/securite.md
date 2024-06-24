@@ -42,6 +42,8 @@
 
 <details>
 
+- [Explaining public-key cryptography to non-geeks](https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5)
+- [Si vous n'en pouvez plus du spam, le slop débarque sur le Web, mais qu'est-ce que c'est?](https://www.clubic.com/actualite-530460-si-vous-n-en-pouvez-plus-du-spam-le-slop-debarque-sur-le-web-mais-qu-est-ce-que-c-est.html)
 - [Basics of CORS (Cross-Origin Resource Sharing)](https://dzone.com/articles/basics-of-cors)
 - [« Etat de la menace rançongiciel » : le nouveau rapport de l’ANSSI](https://www.it-connect.fr/etat-de-la-menace-rancongiciel-le-nouveau-rapport-de-lanssi/)
 - [« Etat de la menace rançongiciel » : le nouveau rapport de l’ANSSI](https://www.it-connect.fr/etat-de-la-menace-rancongiciel-le-nouveau-rapport-de-lanssi/)

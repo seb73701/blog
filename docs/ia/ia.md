@@ -26,6 +26,17 @@
 
 <details>
 
+- [Do Prompt Structures Improve Output Quality? Testing Zero-Shot Prompts with GPT-4, Claude 3 and Gemini 1.5](https://ai.gopubby.com/do-prompt-structures-improve-output-quality-testing-prompts-with-gpt-4-claude-3-and-gemini-1-5-4b0eaa286625)
+- [Local RAG From Scratch](https://towardsdatascience.com/local-rag-from-scratch-3afc6d3dea08)
+- [The Perfect Prompt: A Prompt Engineering Cheat Sheet](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)
+- [Build a Chatbot on Your CSV Data With LangChain and OpenAI](https://betterprogramming.pub/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd)
+- [💻 Introduction to RAG — GenAI Systems for Knowledge](https://blog.curiosity.ai/introduction-to-rag-genai-systems-for-knowledge-918a34054228)
+- [GenAI Roadmap : A Guide for Enterprises on How to Implement Gen AI Applications, Part 1](https://dr-arsanjani.medium.com/a-guide-for-enterprises-how-to-implement-gen-ai-applications-part-1-3d5181626208)
+- [Knowledge Graph Extraction & Visualization with local LLM from Unstructured Text: a History example](https://generativeai.pub/knowledge-graph-extraction-visualization-with-local-llm-from-unstructured-text-a-history-example-94c63b366fed)
+- [Keeping up with LLM Operations](https://blog.metamirror.io/keeping-up-with-llm-operations-16a2df8ee507)
+- [Advanced Retriever Techniques to Improve Your RAGs](https://towardsdatascience.com/advanced-retriever-techniques-to-improve-your-rags-1fac2b86dd61)
+- [Create an AI-Driven Movie Quiz with Gemini LLM, Python, FastAPI, Pydantic, RAG and more](https://towardsdatascience.com/create-an-ai-driven-movie-quiz-with-gemini-llm-python-fastapi-pydantic-rag-and-more-e15322be4f66)
+- [What GPT-4o means for designers](https://bootcamp.uxdesign.cc/what-gpt-4o-means-for-designers-6093fd81057e)
 - [Mastering GenAI ML System Design Interview: Principles & Solution Outline](https://towardsdatascience.com/mastering-genai-ml-system-design-interview-principles-solution-outline-71a4664511a7)
 - [Utiliser simplement un réseau de neurones sur Raspberry Pi grâce à ONNX et Go](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmfhs-106/utiliser-simplement-un-reseau-de-neurones-sur-raspberry-pi-grace-a-onnx-et-go)
 - [L'Univers, ses galaxies et le machine Learning](https://connect.ed-diamond.com/GNU-Linux-Magazine/glmfhs-094/l-univers-ses-galaxies-et-le-machine-learning)

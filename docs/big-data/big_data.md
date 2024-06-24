@@ -33,6 +33,7 @@
 
 <details>
 
+- [Top 15 ETL tools in 2024](https://medium.owox.com/top-15-etl-tools-in-2023-1e0a87bb299f)
 - [What is Data Pipeline?](https://youtu.be/kGT4PcTEPP8) (youtube)
 - [10 Robust Enterprise-Grade ELT Tools To Collect Loads of Data](https://dzone.com/articles/10-robust-enterprise-grade-elt-tools-to-collect-lo)
 - [Big Data : définition, technologies, utilisations, formations](https://datascientest.com/big-data-tout-savoir)

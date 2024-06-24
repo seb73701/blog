@@ -40,6 +40,7 @@
 
 <details>
 
+- [The guide to Git I never had.](https://medium.com/@jake.page91/the-guide-to-git-i-never-had-a89048d4703a)
 - [GitHub RepoJacking: Are You Sure Your GitHub Is Safe?](https://dzone.com/articles/github-repojacking-are-you-sure-your-github-is-saf)
 - [10 things to love about Git](https://opensource.com/article/20/12/git)
 - [13 Git tips for Git's 13th birthday](https://opensource.com/article/18/4/git-tips)

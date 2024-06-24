@@ -50,6 +50,8 @@
 
 <details>
 
+- [ShellCheck](https://www.shellcheck.net/)
+- [Linux CLI and Shell scripting](https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html#shell-scripting)
 - [[Bash Tips] How To cd and ls in one command](https://www.ostechnix.com/bash-tips-how-to-cd-and-ls-in-one-command/)
 - [[Bash Tips] How to cp or mv and cd in one command](https://www.ostechnix.com/bash-tips-how-to-cp-or-mv-and-cd-in-one-command/)
 - [[Bash Tips] Rename Files Without Typing Full Name Twice In Linux](https://www.ostechnix.com/bash-tips-rename-files-without-typing-full-name-twice-in-linux/)

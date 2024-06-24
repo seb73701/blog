@@ -85,6 +85,9 @@
 
 <details>
 
+
+- [Meet the NiceGUI: Your Soon-to-be Favorite Python UI Library](https://towardsdatascience.com/meet-the-nicegui-your-soon-to-be-favorite-python-ui-library-fb69f14bb0ac)
+- [Building an Agent for Data Visualization (Plotly)](https://medium.com/firebird-technologies/building-an-agent-for-data-visualization-plotly-39310034c4e9)
 - [From Data to Dashboard: Visualizing the Ancient Maritime Silk Road with Dash Leaflet and SeaRoute libraries](https://towardsdatascience.com/from-data-to-dashboard-visualizing-the-ancient-maritime-silk-road-with-dash-leaflet-and-searoute-ac8a521ac4e9)
 - [How I Automated My Life: Practical Python Scripts for Everyday Tasks](https://levelup.gitconnected.com/exploring-the-most-useful-sql-operators-functions-and-clauses-cd71f2e4a1e2)
 - [How I Automated My Entire Morning Routine with Python](https://levelup.gitconnected.com/apples-vision-pro-ar-headset-is-finally-here-blending-the-real-and-digital-worlds-eec7e1debb2a)

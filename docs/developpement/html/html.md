@@ -48,6 +48,7 @@
 
 <details>
 
+- [How to design accessible forms in 10 steps](https://uxdesign.cc/how-to-design-accessible-forms-in-10-steps-22232d65de18)
 - [“Yes or No?”](https://css-tricks.com/yes-or-no/)
 - [`target=blank`](https://css-tricks.com/targetblank/)
 - [<"iframe"> feedback: a fun technique with iframes on the web](https://ciphrd.com/2021/02/10/iframe-feedback-a-fun-technique-with-iframes-on-the-web/)
