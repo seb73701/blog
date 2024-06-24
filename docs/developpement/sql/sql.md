@@ -44,6 +44,7 @@
 
 <details>
 
+- [This is Exactly How I Use SQL at Work as an Analyst](https://medium.com/illumination/this-is-exactly-how-i-use-sql-at-work-as-a-data-analyst-141f0d178d7c)
 - https://www.tutorialspoint.com/sql/index.htm
 - https://www.w3schools.com/sql/default.asp
 - [Les intervalles de valeurs](https://fljd.in/2021/06/09/les-intervalles-de-valeurs/)
