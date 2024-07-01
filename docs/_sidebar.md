@@ -1,3 +1,13 @@
+<details open>
+<summary>Anglais</summary>
+
+* [<i class="fa-solid fa-microphone"></i> L'anglais pour les Nuls](/anglais/langlaispourlesnuls/langlaispourlesnuls.md)
+* [<i class="fa-solid fa-language"></i> Lexique](/anglais/lexique.md)
+
+</details>
+
+---
+
 * [<i class="fa-solid fa-list"></i> Applications](/apps/apps.md)
 * [<i class="fa-solid fa-database"></i> Base de données](/bdd/bdd.md)
 * [<i class="fa-brands fa-sellsy"></i> Big Data](/big-data/big_data.md)
