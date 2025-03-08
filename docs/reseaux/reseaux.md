@@ -24,6 +24,7 @@
 - [L’empoisonnement de cache DNS : toujours d’actualité ?](atrier/reseau/reseau_006.md)
 - [Le protocole HTTP (HyperText Transfer Protocol)](atrier/reseau/reseau_001.md)
 - [Les certificats, de l’émission à la révocation](atrier/reseau/reseau_005.md)
+- [Mémo - CISCO - Notions de base sur les réseaux](/reseaux/reseau_007.md)
 - [Netcat, l’histoire d’un couteau suisse pour le réseau](atrier/reseau/reseau_004.md)
 
 </details>
