@@ -341,3 +341,215 @@ flowchart LR
 
 ## Adressage IPv4
 
+<table class="table_custom">
+<tr>
+    <th colspan="7">Adressage par classe IPv4</th>
+</tr>
+<tr>
+    <th style="writing-mode: sideways-lr;">Type d'adresse</th>
+    <th style="writing-mode: sideways-lr;">Classe</th>
+    <th style="writing-mode: sideways-lr;">Plage du 1er octet<br>(décimal)</th>
+    <th style="writing-mode: sideways-lr;">Plage du<br>1er octet<br>(binaire)</th>
+    <th style="writing-mode: sideways-lr;">ID réseau (<span style="color:green;">R</span>)<br>et hôte (H) de l'adresse</th>
+    <th style="writing-mode: sideways-lr;">Masque de sous-réseau<br>par défaut</th>
+    <th style="writing-mode: sideways-lr;">Nombre d'adresses<br>hôtes valides</th>
+</tr>
+<tr>
+    <td rowspan="3">Monodiffusion (unicast)</td>
+    <td>A</td>
+    <td>0 -> 127</td>
+    <td>de <span style="color:red;">0</span>0000000<br>à <span style="color:red;">0</span>1111111</td>
+    <td><span style="color:green;">R</span>.H.H.H</td>
+    <td><span style="color:green;">255</span>.0.0.0</td>
+    <td>2<sup>24</sup>-2=16777214</td>
+</tr>
+<tr>
+    <td>B</td>
+    <td>128 -> 191</td>
+    <td>de <span style="color:red;">10</span>000000<br>à <span style="color:red;">10</span>111111</td>
+    <td><span style="color:green;">R.R</span>.H.H</td></td>
+    <td><span style="color:green;">255.255</span>.0.0</td></td>
+    <td>2<sup>16</sup>-2=65534</td>
+</tr>
+<tr>
+    <td>C</td>
+    <td>192 -> 223</td>
+    <td>de <span style="color:red;">110</span>00000<br>à <span style="color:red;">110</span>11111</td>
+    <td><span style="color:green;">R.R.R</span>.H</td></td>
+    <td><span style="color:green;">255.255.255</span>.0</td></td>
+    <td>2<sup>8</sup>-2=254</td>
+</tr>
+<tr>
+    <td>Multidiffusion (multicast)</td>
+    <td>D</td>
+    <td>224 -> 239</td>
+    <td>de <span style="color:red;">1110</span>0000<br>à <span style="color:red;">1110</span>1111</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>Expérimentale</td>
+    <td>E</td>
+    <td>240 -> 255</td>
+    <td>de <span style="color:red;">11111</span>000<br>à <span style="color:red;">11111</span>111</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+</table>
+
+<table class="table_custom">
+<tr>
+    <th colspan="2" style="text-align:center;">Espace d'adressage IP privé (RFC 1918)</th>
+</tr>
+<tr>
+    <th style="text-align:center;">Réseau</th>
+    <th style="text-align:center;">Plage d'adresses valides</th>
+</tr>
+<tr>
+    <td>10.0.0.0/8</td>
+    <td style="text-align:center;">10.0.0.1 à 10.255.255.254</td>
+</tr>
+<tr>
+    <td>172.16.0.0/12</td>
+    <td style="text-align:center;">172.16.0.1 à 172.31.255.254</td>
+</tr>
+<tr>
+    <td>192.168.0.0/16</td>
+    <td style="text-align:center;">192.168.0.1 à 192.168.255.254</td>
+</tr>
+</table>
+
+<table class="table_custom">
+<tr>
+    <th colspan="6" style="text-align:center;">Exemples d'adresses IPv4 avec masque VLSM</th>
+</tr>
+<tr>
+    <th>Adresse IP</th>
+    <th style="text-align:center;">8.2.3.7/16</th>
+    <th style="text-align:center;">129.6.217.56/24</th>
+    <th style="text-align:center;">201.2.5.46/24</th>
+    <th style="text-align:center;">129.8.217.56/22</th>
+    <th style="text-align:center;">201.2.5.46/27</th>
+</tr>
+<tr>
+    <td>Masque de sous-réseau</td>
+    <td style="text-align:center;">255.255.0.0</td>
+    <td style="text-align:center;">255.255.255.0</td>
+    <td style="text-align:center;">255.255.255.0</td>
+    <td style="text-align:center;">255.255.252.0</td>
+    <td style="text-align:center;">255.255.255.224</td>
+</tr>
+<tr>
+    <td>Nb bits pour la portion réseau</td>
+    <td style="text-align:center;">8</td>
+    <td style="text-align:center;">16</td>
+    <td style="text-align:center;">24</td>
+    <td style="text-align:center;">16</td>
+    <td style="text-align:center;">24</td>
+</tr>
+<tr>
+    <td>Nb bits pour la portion sous-réseau</td>
+    <td style="text-align:center;">8</td>
+    <td style="text-align:center;">8</td>
+    <td style="text-align:center;">0</td>
+    <td style="text-align:center;">6</td>
+    <td style="text-align:center;">3</td>
+</tr>
+<tr>
+    <td>Nb bits pour la portion hôte</td>
+    <td style="text-align:center;">16</td>
+    <td style="text-align:center;">8</td>
+    <td style="text-align:center;">8</td>
+    <td style="text-align:center;">10</td>
+    <td style="text-align:center;">5</td>
+</tr>
+<tr>
+    <td>Nb d'hôtes par sous-réseau</td>
+    <td style="text-align:center;">2<sup>16</sup>-2 ou 65534</td>
+    <td style="text-align:center;">2<sup>8</sup>-2 ou 254</td>
+    <td style="text-align:center;">2<sup>8</sup>-2 ou 254</td>
+    <td style="text-align:center;">2<sup>10</sup>-2 ou 1022</td>
+    <td style="text-align:center;">2<sup>5</sup>-2 ou 30</td>
+</tr>
+<tr>
+    <td>Nb de sous-réseaux</td>
+    <td style="text-align:center;">2<sup>8</sup> ou 256</td>
+    <td style="text-align:center;">2<sup>8</sup> ou 256</td>
+    <td style="text-align:center;">0</td>
+    <td style="text-align:center;">2<sup>6</sup> ou 64</td>
+    <td style="text-align:center;">2<sup>3</sup> ou 8</td>
+</tr>
+</table>
+
+<table class="table_custom">
+<tr>
+    <th colspan="9" style="text-align:center;">< Adresse IPv4 (4 octets ou 32 bits) ><br>Exemple : <i>192.168.10.10/24</i></th>
+</tr>
+<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td style="background-color:lightgrey;text-align:center;">/24</td>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td colspan="5" style="background-color:lightgreen;">< Partie Réseau ></td>
+    <td style="background-color:lightgrey;"></td>
+    <td style="background-color:orange;">< Partie Hôte ></td>
+</tr>
+<tr>
+    <td>Adresse IP</td>
+    <td></td>
+    <td style="text-align:center;">192<br><span style="color:red;">11</span>000000</td>
+    <td style="text-align:center;">.</td>
+    <td style="text-align:center;">168<br><span style="color:red;">1</span>0<span style="color:red;">1</span>0<span style="color:red;">1</span>000</td>
+    <td style="text-align:center;">.</td>
+    <td style="text-align:center;">10<br>0000<span style="color:red;">1</span>0<span style="color:red;">1</span>0</td>
+    <td style="background-color:lightgrey;text-align:center;">.</td>
+    <td style="text-align:center;">10<br>0000<span style="color:red;">1</span>0<span style="color:red;">1</span>0</td>
+</tr>
+<tr>
+    <td></td>
+    <td style="text-align:center;">AND</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td style="background-color:lightgrey;"></td>
+    <td></td>
+</tr>
+<tr>
+    <td>Masque de sous-réseau</td>
+    <td></td>
+    <td style="text-align:center;">255<br><span style="color:red;">11</span>111111</td>
+    <td style="text-align:center;">.</td>
+    <td style="text-align:center;">255<br><span style="color:red;">1</span>1<span style="color:red;">1</span>1<span style="color:red;">1</span>111</td>
+    <td style="text-align:center;">.</td>
+    <td style="text-align:center;">255<br>1111<span style="color:red;">1</span>1<span style="color:red;">1</span>1</td>
+    <td style="background-color:lightgrey;text-align:center;">.</td>
+    <td style="text-align:center;">0<br>00000000</td>
+</tr>
+<tr>
+    <td>Adresse du réseau</td>
+    <td></td>
+    <td style="text-align:center;">192<br><span style="color:red;">11</span>000000</td>
+    <td style="text-align:center;">.</td>
+    <td style="text-align:center;">168<br><span style="color:red;">1</span>0<span style="color:red;">1</span>0<span style="color:red;">1</span>000</td>
+    <td style="text-align:center;">.</td>
+    <td style="text-align:center;">10<br>0000<span style="color:red;">1</span>0<span style="color:red;">1</span>0</td>
+    <td style="background-color:lightgrey;text-align:center;">.</td>
+    <td style="text-align:center;">0<br>00000000</td>
+</tr>
+<tr>
+<td colspan="9" style="text-align:center;"><span style="color:red;">1</span> AND <span style="color:red;">1</span> = <span style="color:red;">1</span> / 0 AND 1 = 0 / 0 AND 0 = 0 / 1 AND 0 = 0</td>
+</tr>
+</table>
