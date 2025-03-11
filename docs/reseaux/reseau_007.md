@@ -553,3 +553,364 @@ flowchart LR
 <td colspan="9" style="text-align:center;"><span style="color:red;">1</span> AND <span style="color:red;">1</span> = <span style="color:red;">1</span> / 0 AND 1 = 0 / 0 AND 0 = 0 / 1 AND 0 = 0</td>
 </tr>
 </table>
+
+## Adressage IPv6
+
+<table class="table_custom" style="text-align:center">
+<tr>
+    <th colspan="3">Représentation de valeurs hexadécimales</th>
+</tr>
+<tr>
+    <th>Hexadécimal</th>
+    <th>Décimal</th>
+    <th>Binaire</th>
+</tr>
+<tr>
+    <td>0</td>
+    <td>0</td>
+    <td>0000</td>
+</tr>
+<tr>
+    <td>1</td>
+    <td>1</td>
+    <td>0001</td>
+</tr>
+<tr>
+    <td>2</td>
+    <td>2</td>
+    <td>0010</td>
+</tr>
+<tr>
+    <td>3</td>
+    <td>3</td>
+    <td>0011</td>
+</tr>
+<tr>
+    <td>4</td>
+    <td>4</td>
+    <td>0100</td>
+</tr>
+<tr>
+    <td>5</td>
+    <td>5</td>
+    <td>0101</td>
+</tr>
+<tr>
+    <td>6</td>
+    <td>6</td>
+    <td>0110</td>
+</tr>
+<tr>
+    <td>7</td>
+    <td>7</td>
+    <td>0111</td>
+</tr>
+<tr>
+    <td>8</td>
+    <td>8</td>
+    <td>1000</td>
+</tr>
+<tr>
+    <td>9</td>
+    <td>9</td>
+    <td>1001</td>
+</tr>
+<tr>
+    <td>A</td>
+    <td>10</td>
+    <td>1010</td>
+</tr>
+<tr>
+    <td>B</td>
+    <td>11</td>
+    <td>1011</td>
+</tr>
+<tr>
+    <td>C</td>
+    <td>12</td>
+    <td>1100</td>
+</tr>
+<tr>
+    <td>D</td>
+    <td>13</td>
+    <td>1101</td>
+</tr>
+<tr>
+    <td>E</td>
+    <td>14</td>
+    <td>1110</td>
+</tr>
+<tr>
+    <td>F</td>
+    <td>15</td>
+    <td>1111</td>
+</tr>
+</table>
+
+<table class="table_custom" style="text-align:center">
+<tr>
+    <th colspan="3">Conversion hexadécimal / binaire</th>
+</tr>
+<tr>
+    <th>Hexadécimal</th>
+    <th>Décimal</th>
+    <th>Binaire</th>
+</tr>
+<tr>
+    <td>00</td>
+    <td>0</td>
+    <td>0000 0000</td>
+</tr>
+<tr>
+    <td>01</td>
+    <td>1</td>
+    <td>0000 0001</td>
+</tr>
+<tr>
+    <td>02</td>
+    <td>2</td>
+    <td>0000 0010</td>
+</tr>
+<tr>
+    <td>03</td>
+    <td>3</td>
+    <td>0000 0011</td>
+</tr>
+<tr>
+    <td>04</td>
+    <td>4</td>
+    <td>0000 0100</td>
+</tr>
+<tr>
+    <td>05</td>
+    <td>5</td>
+    <td>0000 0101</td>
+</tr>
+<tr>
+    <td>06</td>
+    <td>6</td>
+    <td>0000 0110</td>
+</tr>
+<tr>
+    <td>07</td>
+    <td>7</td>
+    <td>0000 0111</td>
+</tr>
+<tr>
+    <td>08</td>
+    <td>8</td>
+    <td>0000 1000</td>
+</tr>
+<tr>
+    <td>0A</td>
+    <td>10</td>
+    <td>0000 1010</td>
+</tr>
+<tr>
+    <td>0F</td>
+    <td>15</td>
+    <td>0000 1111</td>
+</tr>
+<tr>
+    <td>10</td>
+    <td>16</td>
+    <td>0001 0000</td>
+</tr>
+<tr>
+    <td>20</td>
+    <td>32</td>
+    <td>0010 0000</td>
+</tr>
+<tr>
+    <td>40</td>
+    <td>64</td>
+    <td>0100 0000</td>
+</tr>
+<tr>
+    <td>80</td>
+    <td>128</td>
+    <td>1000 0000</td>
+</tr>
+<tr>
+    <td>C0</td>
+    <td>192</td>
+    <td>1100 0000</td>
+</tr>
+<tr>
+    <td>CA</td>
+    <td>202</td>
+    <td>1100 1010</td>
+</tr>
+<tr>
+    <td>F0</td>
+    <td>240</td>
+    <td>1111 0000</td>
+</tr>
+<tr>
+    <td>FF</td>
+    <td>255</td>
+    <td>1111 1111</td>
+</tr>
+</table>
+
+<table class="table_custom" style="text-align:center">
+<tr>
+    <th colspan="15" style="text-align:center">Hextet : segment de 16 bits</th>
+</tr>
+<tr>
+    <td>X</td>
+    <td>:</td>
+    <td>X</td>
+    <td>:</td>
+    <td>X</td>
+    <td>:</td>
+    <td>X</td>
+    <td>:</td>
+    <td>X</td>
+    <td>:</td>
+    <td>X</td>
+    <td>:</td>
+    <td>X</td>
+    <td>:</td>
+    <td>X</td>
+</tr>
+<tr>
+    <td><i class="fa-solid fa-down-long"></i></td>
+    <td></td>
+    <td><i class="fa-solid fa-down-long"></i></td>
+    <td></td>
+    <td><i class="fa-solid fa-down-long"></i></td>
+    <td></td>
+    <td><i class="fa-solid fa-down-long"></i></td>
+    <td></td>
+    <td><i class="fa-solid fa-down-long"></i></td>
+    <td></td>
+    <td><i class="fa-solid fa-down-long"></i></td>
+    <td></td>
+    <td><i class="fa-solid fa-down-long"></i></td>
+    <td></td>
+    <td><i class="fa-solid fa-down-long"></i></td>
+</tr>
+<tr>
+    <td>0000</td>
+    <td></td>
+    <td>0000</td>
+    <td></td>
+    <td>0000</td>
+    <td></td>
+    <td>0000</td>
+    <td></td>
+    <td>0000</td>
+    <td></td>
+    <td>0000</td>
+    <td></td>
+    <td>0000</td>
+    <td></td>
+    <td>0000</td>
+</tr>
+<tr>
+    <td>à</td>
+    <td>:</td>
+    <td>à</td>
+    <td>:</td>
+    <td>à</td>
+    <td>:</td>
+    <td>à</td>
+    <td>:</td>
+    <td>à</td>
+    <td>:</td>
+    <td>à</td>
+    <td>:</td>
+    <td>à</td>
+    <td>:</td>
+    <td>à</td>
+</tr>
+<tr>
+    <td>FFFF</td>
+    <td></td>
+    <td>FFFF</td>
+    <td></td>
+    <td>FFFF</td>
+    <td></td>
+    <td>FFFF</td>
+    <td></td>
+    <td>FFFF</td>
+    <td></td>
+    <td>FFFF</td>
+    <td></td>
+    <td>FFFF</td>
+    <td></td>
+    <td>FFFF</td>
+</tr>
+<tr>
+    <td colspan="15"><i class="fa-solid fa-down-long"></i></td>
+</tr>
+<tr>
+    <td colspan="15">0000 0000 0000 0000</td>
+</tr>
+<tr>
+    <td colspan="15">à</td>
+</tr>
+<tr>
+    <td colspan="15">1111 1111 1111 1111</td>
+</tr>
+</table>
+
+Deux règles concernent la simplification de l'écriture des adresses IPv6:
+
+**Règle n°1** : Omission des zéros en début d'hextet uniquement.
+Ainsi : `2001:0AF7:002C:85D7:0080:95EC:FF2A:0050` est équivalent à : `2001:AF7:2C:85D7:80:95EC:FF2A:50`.
+
+**Règle n°2** : Omission des séquences composées uniquement de zéros. Ne s'applique qu'une seule fois par adresse.
+Ainsi : `2001:0AF7:0000:0000:0000:95EC:0000:0050` est équivalent à : `2001:AF7:95EC:0:50`.
+
+<table class="table_custom" style="text-align:center">
+<tr>
+    <th colspan="3" style="text-align:center">Comparatif des différents types d'adresses IPv6</th>
+</tr>
+<tr>
+    <th>Type d'adresse</th>
+    <th>1er caractère hexadécimal</th>
+    <th>Equivalent IPv4</th>
+</tr>
+<tr>
+    <td>Monodiffusion globale unique</td>
+    <td>2 ou 3</td>
+    <td>Adresse publique</td>
+</tr>
+<tr>
+    <td>Monodiffusion locale unique</td>
+    <td>FD</td>
+    <td>Adresse privée</td>
+</tr>
+<tr>
+    <td>Multidiffusion</td>
+    <td>FF</td>
+    <td>Adresse multidiffusion</td>
+</tr>
+<tr>
+    <td>Monodiffusion lien local</td>
+    <td>FE80</td>
+    <td>N/A</td>
+</tr>
+</table>
+
+<table class="table_custom" style="text-align:center">
+<tr>
+    <th colspan="5" style="text-align:center">Format d'adresse de monodiffusion globale</th>
+</tr>
+<tr>
+    <td></td>
+    <td><-- 64 bits --></td>
+    <td></td>
+    <td><-- 64 bits --></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td><-- 64 bits --></td>
+    <td></td>
+    <td><-- 64 bits --></td>
+    <td></td>
+</tr>
+</table>
