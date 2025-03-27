@@ -11,7 +11,7 @@
 
 - <i class="fa-solid fa-globe"></i> **Site Officiel** : 
 - <i class="fa-solid fa-book"></i> **Documentation** : 
-- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : 
+- <i class="fa-solid fa-file-circle-question"></i> **Changelog** : https://wiki.ubuntu.com/Releases
 - <i class="fa-brands fa-github"></i> **Github** : 
 - <i class="fab fa-blogger-b"></i> **Blog** :
 - <i class="fas fa-comments"></i> **Forum** :
@@ -33,7 +33,9 @@
 ## <i class="fa-solid fa-glasses"></i> Articles externes
 
 <details>
-
+- [Ubuntu - how to recover interrupted do-release-upgrade during download phase](https://superuser.com/questions/1784178/ubuntu-how-to-recover-interrupted-do-release-upgrade-during-download-phase)
+- [How do I upgrade to a newer version of Ubuntu?](https://askubuntu.com/questions/110477/how-do-i-upgrade-to-a-newer-version-of-ubuntu)
+- [JammyUpgrades](https://help.ubuntu.com/community/JammyUpgrades)
 - [“add-apt-repository” Command in Ubuntu 20.04](https://linuxhint.com/add_apt_repository_command_ubuntu_20-04/)
 - [15 Essential Tips for Ubuntu Linux Power Users](https://www.makeuseof.com/tag/15-great-tips-for-ubuntu-power-users/)
 - [19 Best Things to do After Installing Ubuntu 20.04 Desktop](https://linoxide.com/things-to-do-after-installing-ubuntu/)
