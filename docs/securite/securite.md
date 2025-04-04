@@ -42,6 +42,10 @@
 
 <details>
 
+- [90-Day Cybersecurity Study Plan](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+- [Fin du chiffrement, rétention de données, compte obligatoire : les recommandations des experts de l'UE](https://www.clubic.com/actualite-559479-fin-du-chiffrement-retention-de-donnees-compte-obligatoire-les-recommandations-des-experts-de-l-ue.html)
+- [Vous n'aimerez pas le pastejacking, cette technique utilisée par les cybercriminels pour s'infiltrer furtivement dans votre ordinateur](https://www.clubic.com/actualite-542057-vous-n-aimerez-pas-le-pastejacking-cette-technique-utilisee-par-les-cybercriminels-pour-s-infiltrer-furtivement-dans-votre-ordinateur.html)
+- [L'agence cyber française donne ses 10 conseils pour une parfaite hygiène numérique du téléphone portable](https://www.clubic.com/actualite-559920-l-agence-cyber-francaise-donne-ses-10-conseils-pour-une-parfaite-hygiene-numerique-du-telephone-portable.html)
 - [Explaining public-key cryptography to non-geeks](https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5)
 - [Si vous n'en pouvez plus du spam, le slop débarque sur le Web, mais qu'est-ce que c'est?](https://www.clubic.com/actualite-530460-si-vous-n-en-pouvez-plus-du-spam-le-slop-debarque-sur-le-web-mais-qu-est-ce-que-c-est.html)
 - [Basics of CORS (Cross-Origin Resource Sharing)](https://dzone.com/articles/basics-of-cors)

@@ -34,6 +34,8 @@
 
 <details>
 
+- [Windows 11 : vous ne comprenez plus rien aux mises à jour ? Microsoft déploie (enfin) un guide pour y voir plus clair !](https://www.clubic.com/actualite-559308-windows-11-vous-ne-comprenez-plus-rien-aux-mises-a-jour-microsoft-deploie-enfin-un-guide-pour-y-voir-plus-clair.html)
+- [Windows 11 24H2 : Microsoft ajoute un outil de récupération rapide pour les PC en panne de démarrage](https://www.clubic.com/actualite-559647-windows-11-24h2-microsoft-ajoute-un-outil-de-recuperation-rapide-pour-les-pc-en-panne-de-demarrage.html)
 - [4 Ways to Access the Task Manager on Windows 11](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/)
 - [9 Things to Do Before Updating to Windows 11](https://www.makeuseof.com/things-to-do-before-updating-to-windows-11/)
 - [Back to Basics: How to change the default save location in Windows 11](https://www.ghacks.net/2021/10/28/back-to-basics-how-to-change-the-default-save-location-in-windows-11/)

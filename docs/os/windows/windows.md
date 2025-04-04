@@ -34,6 +34,7 @@
 
 <details>
 
+- [Microsoft a 50 ans ! Retour en images sur Windows, de sa Genèse à nos jours](https://www.clubic.com/actualite-559374-windows-a-50-ans-retour-en-images-de-sa-genese-a-nos-jours.html)
 - [‘IMPOSSIBLE’ DREAM COME TRUE: HOW TO CREATE A MULTIVERSION WINDOWS RESCUE DISK](http://techgenix.com/windows-rescue-disk/)
 - [[EN BREF] MAPPER PLUS DE 20 IMPRIMANTES DANS UNE SESSION RDP – ERREUR 1124](https://blog.zwindler.fr/2016/01/09/reminder-mapper-plus-de-20-imprimantes-session-rdp-erreur-1124/)
 - [[Mémo] Désactiver le pare-feu Windows avec Powershell](https://www.guillaume-leduc.fr/memo-desactiver-pare-feu-windows-powershell.html)
