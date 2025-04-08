@@ -34,6 +34,7 @@
 
 <details>
 
+- [Analyses de vulnérabilités des images Docker depuis son Docker Desktop](https://fgtech.medium.com/analyses-de-vuln%C3%A9rabilit%C3%A9s-des-images-docker-depuis-son-docker-desktop-10b9a6b7df8b)
 - [How does Docker ACTUALLY work? The Hard Way: A Comprehensive Technical Deep Diving](https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422)
 - [Docker Inside Docker](https://medium.com/@shivam77kushwah/docker-inside-docker-e0483c51cc2c)
 - [How To Run Docker in Docker Container [3 Easy Methods]](https://devopscube.com/run-docker-in-docker/)

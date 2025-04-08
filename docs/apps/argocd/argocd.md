@@ -63,6 +63,8 @@
 
 <details>
 
+- [Argo CD : Économiser ses deniers sans impacter la performance](https://blog.ippon.fr/2025/04/04/argo-cd-economiser-ses-deniers-sans-impacter-la-performance/)
+- [ArgoCD, le meilleur ami du GitOps et de Kubernetes](https://fgtech.medium.com/argocd-le-meilleur-ami-du-gitops-et-de-kubernetes-25f2694c746)
 - [3 patterns for deploying Helm charts with Argo CD](https://developers.redhat.com/articles/2023/05/25/3-patterns-deploying-helm-charts-argocd)
 - [A Comprehensive Overview of Argo CD Architectures – 2024](https://codefresh.io/blog/a-comprehensive-overview-of-argo-cd-architectures-2024/)
 - [A Fully Argo-Based Ecosystem For Continuous Delivery and Deployment](https://codefresh.io/blog/a-fully-argo-based-ecosystem-for-continuous-delivery-and-deployment/)

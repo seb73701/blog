@@ -224,6 +224,7 @@
 - [Veeam Agent for Windows](/apps/veeam_agent_windows/veeam_agent_windows.md)
 - [Veeam Backup & Replication](/apps/veeam_backup/veeam_backup.md)
 - [Veeam Backup for Microsoft 365](/apps/veeam_backup_o365/veeam_backup_o365.md)
+- [Velero](/apps/velero/velero.md)
 - [Ventoy](/apps/ventoy/ventoy.md)
 - [VeraCrypt](/apps/veracrypt/veracrypt.md)
 - [VLC Media Player](/apps/vlc/vlc.md)

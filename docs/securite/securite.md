@@ -42,6 +42,7 @@
 
 <details>
 
+- [Le “Zero Trust”](https://fgtech.medium.com/le-zero-trust-fcd6de6e8d5a)
 - [90-Day Cybersecurity Study Plan](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
 - [Fin du chiffrement, rétention de données, compte obligatoire : les recommandations des experts de l'UE](https://www.clubic.com/actualite-559479-fin-du-chiffrement-retention-de-donnees-compte-obligatoire-les-recommandations-des-experts-de-l-ue.html)
 - [Vous n'aimerez pas le pastejacking, cette technique utilisée par les cybercriminels pour s'infiltrer furtivement dans votre ordinateur](https://www.clubic.com/actualite-542057-vous-n-aimerez-pas-le-pastejacking-cette-technique-utilisee-par-les-cybercriminels-pour-s-infiltrer-furtivement-dans-votre-ordinateur.html)

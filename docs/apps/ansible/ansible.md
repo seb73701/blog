@@ -39,6 +39,7 @@
 
 <details>
 
+- [Monitoring d’un playbook Ansible](https://fgtech.medium.com/monitoring-dun-playbook-ansible-650e3e222f86)
 - [(Re)discovering the ssh tips for Ansible](https://people.centos.org/arrfab/Events/Loadays-2019/loadays-2019-ssh-tips.html#1)
 - [#Projet : ansible-aws-wordpress](https://blog.kharec.info/post/projet-ansible-aws-wordpress/)
 - [#WeSpeakCloud : Comment monter un centre de communication pour votre équipe avec Ansible ?](https://blog.wescale.fr/2020/05/04/wespeakcloud-comment-monter-un-centre-de-communication-pour-votre-equipe-avec-ansible/)
