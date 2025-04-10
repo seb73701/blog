@@ -21,6 +21,8 @@
 
 <details open>
 
+- []()
+
 </details>
 
 ## <i class="fa-solid fa-glasses"></i> Articles à trier
@@ -40,6 +42,7 @@
 
 <details>
 
+- [Git Merge vs. Git Rebase: What are the differences?](https://blog.bytebytego.com/i/99358794/git-merge-vs-git-rebase-what-are-the-differences)
 - [The guide to Git I never had.](https://medium.com/@jake.page91/the-guide-to-git-i-never-had-a89048d4703a)
 - [GitHub RepoJacking: Are You Sure Your GitHub Is Safe?](https://dzone.com/articles/github-repojacking-are-you-sure-your-github-is-saf)
 - [10 things to love about Git](https://opensource.com/article/20/12/git)

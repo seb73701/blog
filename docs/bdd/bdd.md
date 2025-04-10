@@ -38,10 +38,20 @@
 
 </span>
 
+## <i class="fa-solid fa-glasses"></i> Articles
+
+<details open>
+
+- [8 structures de données pour vos bases de données. Laquelle choisir ?](/bdd/8_structures_de_donnees_pour_vos_bases_de_donnees_laquelle_choisir.md)
+
+</details>
+
+
 ## A TRIER
 
 <details>
 
+- [8 Key Data Structures That Power Modern Databases](https://www.youtube.com/watch?v=W_v05d_2RTo&t=3s)
 - [dbt 1.8 it is just wow](https://medium.astrafy.io/dbt-1-8-it-is-just-wow-5eb77fb273db)
 - [10 Best Practices for Data Migration](https://dzone.com/articles/10-best-practices-for-data-migration)
 - [10 Common Database Security Issues](https://dzone.com/articles/10-common-database-security-issues)

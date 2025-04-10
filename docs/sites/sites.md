@@ -30,6 +30,10 @@
 - https://codefresh.io/blog/
 - https://www.be-root.com/
 
+## CHAINES YOUTUBES
+
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+
 ## BLOGS - Articles à récupérer
 
 - https://dynops.fr/

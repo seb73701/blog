@@ -42,6 +42,7 @@
 
 <details>
 
+- [How does Google Authenticator (or other types of 2-factor authenticators) work?](https://blog.bytebytego.com/i/96603172/how-does-google-authenticator-or-other-types-of-factor-authenticators-work)
 - [Le “Zero Trust”](https://fgtech.medium.com/le-zero-trust-fcd6de6e8d5a)
 - [90-Day Cybersecurity Study Plan](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
 - [Fin du chiffrement, rétention de données, compte obligatoire : les recommandations des experts de l'UE](https://www.clubic.com/actualite-559479-fin-du-chiffrement-retention-de-donnees-compte-obligatoire-les-recommandations-des-experts-de-l-ue.html)

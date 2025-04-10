@@ -16,6 +16,8 @@
 
 <details open>
 
+- [Quelle est le processus de déploiement des changements en production](/devops/quelle_est_le_processus_de_deploiement_des_changements_en_production.md)
+
 </details>
 
 ## <i class="fa-solid fa-glasses"></i> Articles à trier
@@ -35,6 +37,7 @@
 
 <details>
 
+- [System Design Interview: A Step-By-Step Guide](https://youtu.be/42UP1fxi2SY)
 - [Stop Using Branches for Deploying to Different GitOps Environments](https://codefresh.io/blog/stop-using-branches-deploying-different-gitops-environments/)
 - [Infrastructure As Apps: The GitOps Future of Infra-as-code](https://codefresh.io/blog/infrastructure-as-apps-the-gitops-future-of-infra-as-code/)
 - [[Partie 1] La centralisation de logs ou comment donner de la valeur à vos logs](https://blog.octo.com/partie-1-la-centralisation-de-logs-ou-comment-donner-de-la-valeur-a-vos-logs/)

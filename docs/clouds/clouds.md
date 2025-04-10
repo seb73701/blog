@@ -33,6 +33,7 @@
 
 <details>
 
+- [Does the cloud really save costs?](https://blog.bytebytego.com/i/100794123/does-the-cloud-really-save-costs)
 - [10 Steps to Cloud Happiness(Step 10): Agile Cloud Service Integration](https://dzone.com/articles/10-steps-to-cloud-happiness-step-10-agile-cloud-se-1)
 - [13 Ways to Secure Your Cloud VPS](https://dzone.com/articles/13-ways-to-secure-your-cloud-vps)
 - [4 Metrics to Monitor When Scaling Up and Down in the Cloud](https://dzone.com/articles/4-metrics-to-monitor-when-scaling-up-and-down-in-t)

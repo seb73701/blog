@@ -51,6 +51,7 @@
 
 <details>
 
+- [A minimalist backend REST API in NodeJS](https://icepanel.io/blog/2022-11-22-a-minimalist-backend-rest-api-in-nodejs)
 - [Load balancing, threading, and scaling in Node.js](https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs)
 - [CI/CD best practices in Node.js](https://developers.redhat.com/articles/2023/11/01/cicd-best-practices-nodejs)
 - [Clean architecture - making Node.js API shine!](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)

@@ -62,10 +62,19 @@
 ## Web Design (UX)
 
 
+## <i class="fa-solid fa-glasses"></i> Articles
+
+<details open>
+
+- [Comment concevoir une application de chat comme WhatsApp, Facebook Messenger ou Discord ?](/developpement/comment_concevoir_une_application_de_chat_comme_whatsapp_facebook_messenger_ou_discord.md)
+
+</details>
+
 ## <i class="fa-solid fa-glasses"></i> Articles à trier
 
 <details open>
 
+- [Is microservice architecture the silver bullet?](https://blog.bytebytego.com/i/96603172/is-microservice-architecture-the-silver-bullet)
 - [11 steps to go from Junior to Senior Developer](atrier/dev/dev/dev_054.md)
 - [12 Websites You’ll Love As A Developer](atrier/dev/dev/dev_037.md)
 - [2 Form Design UX Tips](atrier/dev/dev/dev_029.md)
@@ -127,6 +136,31 @@
 
 <details>
 
+- [Why Is System Design Interview Important?](https://www.youtube.com/watch?v=EyMRZpgJUuc)
+- [Abstractions in system architecture design](https://icepanel.io/blog/2022-10-23-abstractions-in-system-architecture-design)
+- [C4 model for system architecture design](https://icepanel.io/blog/2022-10-03-c4-model-for-system-architecture-design)
+- [Level 0 for the C4 model](https://icepanel.io/blog/2022-10-10-level-0-for-the-c4-model)
+- [C4 model - how to define your system](https://icepanel.io/blog/2022-11-09-c4-model-how-to-define-your-system)
+- [The model code gap](https://icepanel.io/blog/2022-11-30-the-model-code-gap)
+- [C4 model - Best practice for whiteboard diagrams](https://icepanel.io/blog/2022-12-13-c4-model-best-practices-for-whiteboard-diagrams)
+- [Top 6 mistakes in software architecture diagrams](https://icepanel.io/blog/2023-02-21-top-6-mistakes-in-software-architecture-diagrams)
+- [Monolithic vs. microservices architectures](https://icepanel.io/blog/2023-03-07-monolithic-vs-microservices-architectures)
+- [Top 9 tools for C4 model diagrams](https://icepanel.io/blog/2023-03-09-top-9-tools-for-c4-model-diagrams)
+- [C4 model sticky notes](https://icepanel.io/blog/2023-03-14-c4-model-sticky-notes)
+- [Architecture decision records (ADRs)](https://icepanel.io/blog/2023-03-29-architecture-decision-records-adrs)
+- [AsyncAPI for event-driven architectures](https://icepanel.io/blog/2023-04-13-asyncapi-for-event-driven-architectures)
+- [Top 6 message queues for distributed architectures](https://icepanel.io/blog/2023-05-18-top-6-message-queues-for-distributed-architectures)
+- [Risk storming](https://icepanel.io/blog/2023-06-15-risk-storming)
+- [Top 6 tools for text-based UML sequence diagrams](https://icepanel.io/blog/2023-08-15-top-6-tools-for-text-based-uml-sequence-diagrams)
+- [What is the C4 model?](https://icepanel.io/blog/2024-07-18-what-is-the-c4-model)
+- [Comparison - C4 modelling vs diagramming](https://icepanel.io/blog/2024-08-06-comparison-c4-modelling-vs-diagramming)
+- [Deployment diagrams in the C4 model](https://icepanel.io/blog/2024-08-27-deployment-diagram-c4-model)
+- [Dynamic diagrams in the C4 model](https://icepanel.io/blog/2024-09-12-dynamic-diagrams-C4-model)
+- [Top 5 resources to get started with the C4 model](https://icepanel.io/blog/2024-09-17-top-5-resources-c4-model)
+- [Top 7 most common UML diagram types for software architecture](https://icepanel.io/blog/2024-11-05-top-7-most-common-UML-diagram-types)
+- [Top 5 tips for creating effective software architecture diagrams](https://icepanel.io/blog/2025-01-14-top-5-tips-for-creating-software-architecture-diagrams)
+- [How to create common architecture diagrams with the C4 model](https://icepanel.io/blog/2025-01-30-how-to-create-common-architecture-diagrams-with-the-c4-model)
+- [C4 model for software architecture](https://c4model.info/#what-is-the-c4-model)
 - [Text to Knowledge Graph Made Easy with Graph Maker](https://towardsdatascience.com/text-to-knowledge-graph-made-easy-with-graph-maker-f3f890c0dbe8)
 - [The UX of Threads’ downfall](https://uxdesign.cc/the-ux-of-threads-downfall-47e3dc64b51c)
 - [Why that subtle “More Icon •••” matters more than you think](https://bootcamp.uxdesign.cc/why-that-subtle-more-icon-matters-more-than-you-think-713af862e336)

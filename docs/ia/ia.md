@@ -26,6 +26,7 @@
 
 <details>
 
+- [How does ChatGPT work?](https://blog.bytebytego.com/i/100794123/how-does-chatgpt-work)
 - [Do Prompt Structures Improve Output Quality? Testing Zero-Shot Prompts with GPT-4, Claude 3 and Gemini 1.5](https://ai.gopubby.com/do-prompt-structures-improve-output-quality-testing-prompts-with-gpt-4-claude-3-and-gemini-1-5-4b0eaa286625)
 - [Local RAG From Scratch](https://towardsdatascience.com/local-rag-from-scratch-3afc6d3dea08)
 - [The Perfect Prompt: A Prompt Engineering Cheat Sheet](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)

@@ -52,6 +52,7 @@
 
 <details>
 
+- [Kubernetes Explained in 6 Minutes | k8s Architecture](https://www.youtube.com/watch?v=TlHvYWVUZyc)
 - ["kube-prompt" - Commands Auto Complete Shell for Kubernetes](https://linoxide.com/linux-how-to/kube-prompt-auto-complete-shell-kubernetes/)
 - [#70 – Gérer des clusters Kubernetes de plusieurs milliers de noeuds avec Laurent Bernaille](https://electro-monkeys.fr/70-gerer-des-clusters-kubernetes-de-plusieurs-milliers-de-noeuds-avec-laurent-bernaille/)
 - [#WeSpeakCloud : Apprendre à équiper un cluster Kubernetes pour la production.](https://blog.wescale.fr/2019/03/28/wespeakcloud-apprendre-a-equiper-un-cluster-kubernetes-pour-la-production/)
