@@ -45,6 +45,7 @@
 
 <details>
 
+- [How to Use Prometheus for APM](http://last9.io/blog/prometheus-apm/)
 - [[Tutoriel] Installer Prometheus/Grafana sans Docker](https://blog.zwindler.fr/2019/11/12/tutoriel-installer-prometheus-grafana-sans-docker/)
 - [5 examples of Prometheus monitoring success](https://opensource.com/article/18/9/prometheus-operational-advantage)
 - [5 steps to build a self-healing server with Alertmanager](https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager#the_concepts_of_event_driven_and_self_healing)

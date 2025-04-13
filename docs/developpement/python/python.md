@@ -35,6 +35,8 @@
 
 <details open>
 
+- [FastAPI Python for Infra and Ops, Made Simple](https://last9.io/blog/fastapi-python/)
+- [Debug Logging: A Comprehensive Guide for Developers](https://last9.io/blog/debug-logging/)
 - [10 Examples to Master Distribution Plots with Python Seaborn](atrier/dev/python/python_014.md)
 - [10 Powerful Python One-Liners](atrier/dev/python/python_028.md)
 - [10 Python Hacks in 30 Seconds](atrier/dev/python/python_022.md)

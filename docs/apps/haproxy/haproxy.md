@@ -31,6 +31,7 @@
 
 <details>
 
+- [HAProxy vs NGINX Performance: A Comprehensive Analysis](https://last9.io/blog/haproxy-vs-nginx-performance/?ref=dailydev)
 - [An Introduction to HAProxy and Load Balancing Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
 - [Cas d’usage d’Haproxy pour déporter du trafic en fonction de l’URI](https://blog.seboss666.info/2017/11/cas-dusage-dhaproxy-pour-deporter-du-trafic-en-fonction-de-luri/)
 - [Clusteriser vos bases de données MariaDB avec Galera Cluster et HaProxy](https://linuxfr.org/wiki/tuto-howto-debian-ubuntu-clusteriser-vos-bases-de-donnees-mariadb-avec-galera-cluster-et-haproxy)

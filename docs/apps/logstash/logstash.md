@@ -34,6 +34,7 @@
 
 <details>
 
+- [Logstash Grok Examples: A Detailed Guide to Pattern Matching](https://last9.io/blog/logstash-grok-examples/)
 - [Dois-je utiliser Logstash ou les nœuds d'ingestion Elasticsearch ?](https://www.elastic.co/fr/blog/should-i-use-logstash-or-elasticsearch-ingest-nodes)
 - [Getting started with Logstash](https://opensource.com/article/17/10/logstash-fundamentals)
 - [How to debug your Logstash configuration file](https://logz.io/blog/debug-logstash/)  

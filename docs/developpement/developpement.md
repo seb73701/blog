@@ -74,6 +74,7 @@
 
 <details open>
 
+- [Regex Optimization Techniques: 14 Methods for DevOps Performance](https://last9.io/blog/regex-optimization-techniques/)
 - [Is microservice architecture the silver bullet?](https://blog.bytebytego.com/i/96603172/is-microservice-architecture-the-silver-bullet)
 - [11 steps to go from Junior to Senior Developer](atrier/dev/dev/dev_054.md)
 - [12 Websites You’ll Love As A Developer](atrier/dev/dev/dev_037.md)

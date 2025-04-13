@@ -60,6 +60,13 @@
 
 <details>
 
+- [How to Use OpenTelemetry with Postgres](https://last9.io/blog/how-to-use-opentelemetry-with-postgres/)
+- [OpenTelemetry Visualization Setup: A Developer's Guide](https://last9.io/blog/opentelemetry-visualization-setup/)
+- [OpenTelemetry for Spring: Full Implementation Guide](https://last9.io/blog/opentelemetry-for-spring/)
+- [OpenTelemetry Backends: A Practical Implementation Guide](https://last9.io/blog/opentelemetry-backends/)
+- [A Practical Guide to the OpenTelemetry Java Agent](https://last9.io/blog/opentelemetry-java-agent/)
+- [Logging vs Monitoring: What’s the Real Difference?](https://last9.io/blog/logging-vs-monitoring/)
+- []()
 - [Associer vos traces OpenTelemetry à vos logs](https://docs.datadoghq.com/fr/tracing/other_telemetry/connect_logs_and_traces/opentelemetry/?tab=python)
 - [Beginner’s Guide to OpenTelemetry](https://logz.io/learn/opentelemetry-guide/)
 - [Comment OpenTelemetry peut transformer votre monitoring en unifiant vos logs ... (Vincent Behar)](https://www.youtube.com/watch?v=dGMN3keJuXA)(vidéo)
