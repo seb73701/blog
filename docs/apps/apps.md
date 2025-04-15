@@ -1,4 +1,4 @@
-# APPLICATIONS
+# <i class="fa-solid fa-list"></i> APPLICATIONS
 ---
 
 ## <i class="fa-solid fa-hashtag"></i> Information

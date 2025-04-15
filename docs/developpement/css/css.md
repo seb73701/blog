@@ -55,6 +55,8 @@
 
 <details>
 
+- [CSS Outer Glow](https://unused-css.com/blog/css-outer-glow/)
+- [Quick CSS Neon Border Animation | CSS Border Animation | Neon Effect](https://www.youtube.com/watch?v=S-nDwqBSQek)
 - [Recreating Baseball Scoreboards Out of Plain Old HTML and CSS](https://medium.com/on-building-software/recreating-baseball-scoreboards-out-of-plain-old-html-and-css-55576f771920)
 - [When “semantic tokens” are no longer semantic.](https://medium.com/@NateBaldwin/when-semantic-tokens-are-no-longer-semantic-d65ef16fadd7)
 - [Let’s Look at 50+ Interesting CSS Properties & Values](https://css-tricks.com/lets-look-50-interesting-css-properties-values/)

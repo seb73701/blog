@@ -1,13 +1,3 @@
-<details open>
-<summary>Anglais</summary>
-
-* [<i class="fa-solid fa-microphone"></i> L'anglais pour les Nuls](/anglais/langlaispourlesnuls/langlaispourlesnuls.md)
-* [<i class="fa-solid fa-language"></i> Lexique](/anglais/lexique.md)
-
-</details>
-
----
-
 * [<i class="fa-solid fa-list"></i> Applications](/apps/apps.md)
 * [<i class="fa-solid fa-database"></i> Base de données](/bdd/bdd.md)
 * [<i class="fa-brands fa-sellsy"></i> Big Data](/big-data/big_data.md)
@@ -38,5 +28,15 @@
 * [<i class="fa-solid fa-file-code"></i> Exemples](/exemple/exemples.md)
 * [<i class="fa-solid fa-book"></i> Glossaire](/glossaire/glossaire.md)
 * [<i class="fa-solid fa-globe"></i> Sites](/sites/sites.md)
+
+</details>
+
+---
+
+<details open>
+<summary>Anglais</summary>
+
+* [<i class="fa-solid fa-microphone"></i> L'anglais pour les Nuls](/anglais/langlaispourlesnuls/langlaispourlesnuls.md)
+* [<i class="fa-solid fa-language"></i> Lexique](/anglais/lexique.md)
 
 </details>
