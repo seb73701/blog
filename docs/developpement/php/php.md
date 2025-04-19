@@ -41,6 +41,7 @@
 
 <details>
 
+- [Laravel Developers: Stop Writing SQL or Eloquent](https://medium.com/software-grognard/laravel-developers-stop-writing-sql-or-eloquent-859779701a35)
 - [[Tutorial] PHPMailer SMTP Error: Could not connect to SMTP host.](https://dzone.com/articles/tutorial-phpmailer-smtp-error-could-not-connect-to)
 - [10 bonnes pratiques en PHP](https://www.arthurweill.fr/guide-des-bonnes-pratiques-php/)
 - [10 Reasons Why Laravel Is the Best PHP Framework](https://dzone.com/articles/10-reasons-why-laravel-is-the-best-php-framework-1)
