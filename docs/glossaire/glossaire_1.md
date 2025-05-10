@@ -83,11 +83,15 @@ dateCreated: 2023-04-21T10:37:14.285Z
 
 **Fibre Optique** : fil en verre ou en plastique très fin qui a la propriété de conduire la lumière et sert dans les transmissions terrestres et océaniques de données. Elle offre un débit nettement supérieur à celui des câbles coaxiaux et à celui des paires de cuivre utilisées pour l'ADSL. Peuvent y transiter aussi bien la télévision, le téléphone, la visioconférence ou les données informatiques.
 
+**fingerprinting** : Identifie un appareil grâce à ses caractéristiques uniques
+
 **Firewall** : littéralement "pare feu", il s'agit d'un logiciel de sécurité qui permet de se protéger des intrusions sur son ordinateur.
 
 **Fréquences (ou bandes de fréquences)** : elles caractérisent les propriétés de propagation (distance, vitesse, capacité) des ondes électromagnétiques. L'unité est le Hertz (Hz).
 
 ## G
+
+**Geofencing** : Bloque ou autorise l'accès selon la localisation géographique
 
 **GPRS (General Packet Radio Service)** : évolution de la norme de téléphonie mobile GSM qui permet de naviguer sur Internet et d'échanger des MMS.
 
@@ -98,6 +102,8 @@ dateCreated: 2023-04-21T10:37:14.285Z
 **Haut Débit** : se dit de connexions, de liaisons ou de technologies permettant de disposer d'un accès à Internet offrant des débits descendants supérieurs à 128 Kbits/sec. La notion de haut débit est évolutive puisque les offres d'accès à Internet haut débit sont désormais fréquemment proposées avec des débits supérieurs à 512 Kbits/sec par l'ADSL et le réseau câblé.
 
 **HDMI (High-Definition Multimedia Interface**) : câble permettant de faire transister les signaux audio et vidéo en qualité numérique pour le transfert des flux audiovisuels non compressés entre différents équipements. Il est notamment utilisé dans une installation TVHD.
+
+**header fencing** : Cache les infos techniques envoyées par votre navigateur
 
 **Hot spots (Bornes wi-fi)** : points d'accès au WI-FI notamment dans les lieux publics.
 
