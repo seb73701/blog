@@ -105,3 +105,46 @@
 - [Utiliser PuppetMaster et Puppet agent pour maintenir son parc de machines Debian ou CentOS sous Debian/wheezy/Jessie](http://monblog.system-linux.net/blog/2014/04/06/utiliser-puppetmaster-et-puppet-agent-pour-maintenir-son-parc-de-machines-debian-ou-centos-sous-debianwheezyjessie/)
 
 </details>
+
+----
+
+# Installation de Puppet (Server)
+
+## Prérequis
+
+### Hardware
+
+Minimum requis : 
+
+|CPUs|GHz|GiB memory|OS|
+|:---|:--|:---------|:--|
+|1|2.4|0.5|Amazon Linux 2 AMI|
+|1|2.5|1|Windows Server 2019|
+
+Les exigences imposées au serveur  (master) varient considérablement d'un déploiement à l'autre. Les besoins en ressources dépendent du nombre d'agents desservis, de la fréquence d'enregistrement des agents, du nombre de ressources gérées par chaque agent et de la complexité des manifestes et des modules utilisés.
+
+|Node volume|Cores|Heap|ReservedCodeCache|
+|:----------|:----|:---|:----------------|
+|Dozens|2|1GB|Not applicable|
+|1000|2-4|4GB|512m|
+
+
+- [source](https://help.puppet.com/osp/current/Content/PuppetCore/hardware_requirements.htm?tocpath=Set%20up%20Puppet%7CInstall%20Puppet%7CSystem%20requirements%7C_____1)
+
+
+## Installation du repository
+
+- Mettre à jour les paquets existants :
+
+```shell
+apt update && apt upgrade
+```
+
+- Installer le paquet `puppet-release` qui contient le dépôt officiel Puppet :
+
+```shell
+wget https://apt.puppet.com
+```
+
+test
+https://apt-puppetcore.puppet.com/public/index.html
