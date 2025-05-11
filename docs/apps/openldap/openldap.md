@@ -32,6 +32,7 @@
 
 <details>
 
+- [https://github.com/p0dalirius/LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor)
 - [How to Install and Configure OpenLDAP and phpLDAPadmin on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-and-configure-openldap-phpldapadmin-on-ubuntu-2004/)
 - [How to set up OpenLDAP Client on Debian 10](https://www.howtoforge.com/set-up-openldap-client-on-debian-10/)
 - [LDAP user authentication explained](https://connect2id.com/products/ldapauth/auth-explained)

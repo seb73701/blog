@@ -71,6 +71,7 @@
 
 <details>
 
+- [Detect and respond to security threats in near real-time using Amazon Managed Grafana](https://aws.amazon.com/fr/blogs/mt/detect-and-respond-to-security-threats-in-near-real-time-using-amazon-managed-grafana/)
 - [The Beginner’s Guide To Create Amazon EC2 Instances](https://dzone.com/articles/the-beginners-guide-to-create-amazon-ec2-instances)
 - [Amazon EventBridge](https://aws.plainenglish.io/amazon-eventbridge-158b941e3926)
 - [Amazon RDS for PostgreSQL Alternatives - ClusterControl for PostgreSQL](https://severalnines.com/database-blog/amazon-rds-postgresql-alternatives-clustercontrol-postgresql)

@@ -52,6 +52,8 @@
 
 <details>
 
+- [Se former à Kubernetes avec Minikube](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/minikube/)
+- [Decoding the pod termination lifecycle in Kubernetes: a comprehensive guide](https://www.cncf.io/blog/2024/12/19/decoding-the-pod-termination-lifecycle-in-kubernetes-a-comprehensive-guide/)
 - [Kubernetes Explained in 6 Minutes | k8s Architecture](https://www.youtube.com/watch?v=TlHvYWVUZyc)
 - ["kube-prompt" - Commands Auto Complete Shell for Kubernetes](https://linoxide.com/linux-how-to/kube-prompt-auto-complete-shell-kubernetes/)
 - [#70 – Gérer des clusters Kubernetes de plusieurs milliers de noeuds avec Laurent Bernaille](https://electro-monkeys.fr/70-gerer-des-clusters-kubernetes-de-plusieurs-milliers-de-noeuds-avec-laurent-bernaille/)

@@ -41,6 +41,7 @@
 
 <details>
 
+- [InfluxDB backup on localhost fails with error: failed copy backup to file: err=](https://www.claudiokuenzler.com/blog/839/influxdb-backup-localhost-fails-error-failed-copy-backup-to-file-err-nil)
 - [A UX Review of Flux Joins vs. Pandas Joins](https://dzone.com/articles/a-ux-review-of-flux-joins-vs-pandas-joins)
 - [Data Visualizations with InfluxDB: Integrating plotly.js](https://www.influxdata.com/blog/data-visualizations-with-influxdb-integrating-plotly-js/)
 - [Exporting Custom Metrics To Influxdb](https://blog.pythian.com/exporting-custom-metrics-influxdb/)

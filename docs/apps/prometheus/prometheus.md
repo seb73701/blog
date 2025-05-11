@@ -44,7 +44,8 @@
 ## <i class="fa-solid fa-glasses"></i> Articles externes
 
 <details>
-
+- [Monitor BIND DNS server with Prometheus and Grafana](https://computingforgeeks.com/how-to-monitor-bind-dns-server-with-prometheus-and-grafana/)
+- [How to Setup Prometheus Monitoring On Kubernetes Cluster](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/)
 - [How to Use Prometheus for APM](http://last9.io/blog/prometheus-apm/)
 - [[Tutoriel] Installer Prometheus/Grafana sans Docker](https://blog.zwindler.fr/2019/11/12/tutoriel-installer-prometheus-grafana-sans-docker/)
 - [5 examples of Prometheus monitoring success](https://opensource.com/article/18/9/prometheus-operational-advantage)

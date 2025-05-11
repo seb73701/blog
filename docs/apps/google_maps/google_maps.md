@@ -27,6 +27,7 @@
 
 <details>
 
+- [Google Maps : cette astuce vous permet de suivre un proche en temps réel](https://www.clubic.com/actualite-548156-google-maps-cette-astuce-vous-permet-de-suivre-un-proche-en-temps-reel.html)
 - [8 Tricks to Help You Use Google Maps Like a Pro](https://www.makeuseof.com/8-tricks-to-use-google-maps-like-a-pro/)
 - [Google Maps: Navigate Like a Pro With These Keyboard Shortcuts](https://www.makeuseof.com/google-maps-keyboard-shortcuts/)
 - [How to Drop a Pin on Google Maps (Mobile and Desktop)](https://www.makeuseof.com/tag/drop-pin-google-maps-android-ios/)

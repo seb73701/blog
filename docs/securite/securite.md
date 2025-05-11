@@ -42,6 +42,8 @@
 
 <details>
 
+- [Vous utilisez encore des mots de passe ? C'est sûrement parce que vous êtes vieux](https://www.clubic.com/actualite-542291-vous-utilisez-encore-des-mots-de-passe-c-est-surement-parce-que-vous-etes-vieux.html)
+- [Securing CI/CD: Why OpenID Connect is Better Than Long-Lived API Tokens](http://amplify.security/blog/securing-ci/cd-dont-use-long-lived-api-tokens-use-openid-connect-instead)
 - [How does Google Authenticator (or other types of 2-factor authenticators) work?](https://blog.bytebytego.com/i/96603172/how-does-google-authenticator-or-other-types-of-factor-authenticators-work)
 - [Le “Zero Trust”](https://fgtech.medium.com/le-zero-trust-fcd6de6e8d5a)
 - [90-Day Cybersecurity Study Plan](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)

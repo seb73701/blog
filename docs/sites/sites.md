@@ -30,6 +30,9 @@
 - https://learnk8s.io/issues/31
 - https://codefresh.io/blog/
 - https://www.be-root.com/
+- https://www.devopsbulletin.com/
+- https://xavki.blog/
+- https://www.claudiokuenzler.com/
 
 ## CHAINES YOUTUBES
 

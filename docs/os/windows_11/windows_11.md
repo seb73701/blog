@@ -34,6 +34,15 @@
 
 <details>
 
+- [Réparer Windows 11 sans perdre ses données](https://lecrabeinfo.net/reparer-windows-11-sans-perdre-ses-donnees.html)
+- [Mise à niveau Windows 10 vers Windows 11 sur un PC non compatible](https://www.it-connect.fr/mise-a-niveau-windows-10-vers-windows-11-sur-un-pc-non-compatible/)
+- [Windows 11 : forcer la mise à jour 24H2 sur un PC non compatible](https://lecrabeinfo.net/windows-11-forcer-la-mise-a-jour-24h2-sur-un-pc-non-compatible.html)
+- [Installer Windows 11 sur un PC non compatible (grâce à une simple ligne de commande !)](https://lecrabeinfo.net/installer-windows-11-sur-un-pc-non-compatible-grace-a-une-simple-ligne-de-commande.html)
+- [Forcer la mise à niveau vers Windows 11 sur un PC non compatible](https://lecrabeinfo.net/forcer-la-mise-a-niveau-vers-windows-11-sur-un-pc-non-compatible.html)
+- [Méthodes d’installation de Windows 11](https://support.microsoft.com/fr-fr/windows/m%C3%A9thodes-d-installation-de-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)
+- [Rufus : créer une clé USB de Windows 11 pour PC non compatibles (contourner TPM, CPU, compte Microsoft…)](https://lecrabeinfo.net/rufus-creer-une-cle-usb-de-windows-11-pour-pc-non-compatibles-contourner-tpm-cpu-compte-microsoft.html)
+- [Win 11 FiX KiT : créer un ISO de Windows 11 24H2 pour les PC non compatibles](https://lecrabeinfo.net/win-11-fix-kit-creer-un-iso-de-windows-11-24h2-pour-les-pc-non-compatibles.html)
+- [[Windows 11/10] Comment désactiver le démarrage rapide sous Windows](https://www.asus.com/fr/support/faq/1045548/)
 - [Windows 11 : vous ne comprenez plus rien aux mises à jour ? Microsoft déploie (enfin) un guide pour y voir plus clair !](https://www.clubic.com/actualite-559308-windows-11-vous-ne-comprenez-plus-rien-aux-mises-a-jour-microsoft-deploie-enfin-un-guide-pour-y-voir-plus-clair.html)
 - [Windows 11 24H2 : Microsoft ajoute un outil de récupération rapide pour les PC en panne de démarrage](https://www.clubic.com/actualite-559647-windows-11-24h2-microsoft-ajoute-un-outil-de-recuperation-rapide-pour-les-pc-en-panne-de-demarrage.html)
 - [4 Ways to Access the Task Manager on Windows 11](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/)

@@ -59,6 +59,8 @@
 
 <details>
 
+- [Terraform S3 Backend Setup: Skip the Table](https://kieranlowe.io/terraform-s3-backend-setup-skip-the-table)
+- [Terraform with GitHub Actions CI/CD Pipeline](https://www.techielass.com/terraform-with-github-actions-ci-cd-pipeline/)
 - [[DevFest Nantes 2018] L'infrastructure as code avec Terraform](https://www.youtube.com/watch?v=cqPinR5QGSA)
 - [250 Practice Questions For Terraform Associate Certification](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)
 - [5 Key Best Practices for Sane and Usable Terraform Setups](https://dzone.com/articles/best-practices-terraform-setup)

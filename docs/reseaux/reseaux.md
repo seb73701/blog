@@ -35,6 +35,9 @@
 
 <details>
 
+- [Les meilleurs serveurs DNS en 2025 (rapides et gratuits)](https://lecrabeinfo.net/les-meilleurs-serveurs-dns-rapides-et-gratuits.html)
+- [VPN : 7 astuces pour repousser les limites de votre confidentialité](https://www.clubic.com/actualite-548891-astuces-pour-repousser-les-limites-de-la-confidentialite-avec-votre-vpn.html)
+- [How to Handle Sudden Bursts of Traffic or "Thundering Herd Problem"?](https://newsletter.scalablethread.com/p/how-to-handle-sudden-bursts-of-traffic)
 - [“HTTP 404 Not Found” Error Code and Solutions](https://www.poftut.com/http-404-not-found-error-code-and-solutions/)
 - [“HTTP 502 Bad Gateway” Error and Solution](https://www.poftut.com/http-502-bad-gateway-error-and-solution/)
 - [[Qu’es aquò ?] Le protocole ESNI](https://www.pofilo.fr/post/20201028-esni/)

@@ -37,6 +37,7 @@
 
 <details>
 
+- [Become A DevOps Engineer in 2025: [A Practical Roadmap]](https://devopscube.com/become-devops-engineer/)
 - [System Design Interview: A Step-By-Step Guide](https://youtu.be/42UP1fxi2SY)
 - [Stop Using Branches for Deploying to Different GitOps Environments](https://codefresh.io/blog/stop-using-branches-deploying-different-gitops-environments/)
 - [Infrastructure As Apps: The GitOps Future of Infra-as-code](https://codefresh.io/blog/infrastructure-as-apps-the-gitops-future-of-infra-as-code/)

@@ -60,6 +60,8 @@
 
 <details>
 
+- [OpenTelemetry Is expanding into CI/CD observability](https://www.cncf.io/blog/2024/11/04/opentelemetry-is-expanding-into-ci-cd-observability/)
+- [OpenTelemetry Semantic Conventions](https://github.com/open-telemetry/semantic-conventions)
 - [How to Use OpenTelemetry with Postgres](https://last9.io/blog/how-to-use-opentelemetry-with-postgres/)
 - [OpenTelemetry Visualization Setup: A Developer's Guide](https://last9.io/blog/opentelemetry-visualization-setup/)
 - [OpenTelemetry for Spring: Full Implementation Guide](https://last9.io/blog/opentelemetry-for-spring/)

@@ -36,6 +36,7 @@
 
 <details>
 
+- [Errors, Errors Everywhere: How We Centralized and Structured Error Handling](https://olivernguyen.io/w/namespace.error/)
 - [7 Code Patterns in Go I Can’t Live Without](https://betterprogramming.pub/7-code-patterns-in-go-i-cant-live-without-f46f72f58c4b)
 - [Code Challenge: using maps in Go to find a non repeating element in a slice](https://medium.com/@mirhasanov/code-challenge-using-maps-in-go-to-find-a-non-repeating-element-in-a-slice-eb7b4a61e231)
 - [How to Go From Project Manager to Project Leader](https://medium.com/swlh/how-to-go-from-project-manager-to-project-leader-4ea7c09f4102)

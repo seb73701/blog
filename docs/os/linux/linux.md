@@ -34,6 +34,8 @@
 
 <details>
 
+- [GRUB : Utiliser le mode rescue shell pour corriger les erreurs de démarrage Linux](https://www.malekal.com/grub-utiliser-le-rescue-shell-pour-corriger-les-erreurs-de-demarrage-linux/)
+- [pv : Avoir des informations sur le temps d'une tâche](https://www.linuxtricks.fr/wiki/pv-avoir-des-informations-sur-le-temps-d-une-tache)
 - [We deserve a better life outside of Figma. It’s time to design our time.](https://uxdesign.cc/we-deserve-a-better-life-outside-of-figma-its-time-to-design-our-time-82da4beab50b)
 - [I Built a Reusable Dashboard for Read the Docs Traffic Analytics Using Vizro-AI](https://towardsdatascience.com/i-built-a-reusable-dashboard-for-read-the-docs-traffic-analytics-using-vizro-47dc15dc04f8)
 - [The Perfect Prompt: A Prompt Engineering Cheat Sheet](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)
