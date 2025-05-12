@@ -77,6 +77,7 @@
 - [Affichage de la liste des paramètres de bureau](atrier/dev/powershell/powershell_003.md)
 - [Get-Date : Manipuler la date en PowerShell](atrier/dev/powershell/powershell_001.md)
 - [Trouver la version de powershell](atrier/dev/powershell/powershell_002.md)
+- [Manipulation dates](atrier/dev/powershell/powershell_006.md)
 
 </details>
 

@@ -35,6 +35,8 @@
 - [Installation et configuration de l'IDO (Icinga Data Output) MySQL](/atrier/apps/icinga_002.md)
 - [Installation Icinga2 (master) sur Rocky 8](/atrier/apps/icinga_003.md)
 - [installation_icinga2_sur_centos_8](/atrier/apps/icinga_004.md)
+- [Package "nagios_plugins_all"](/atrier/apps/icinga_006.md)
+- [Création d'une sonde "check_ping_vpn" pour Linux](/atrier/apps/icinga_007.md)
 
 </details>
 

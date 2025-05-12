@@ -19,6 +19,7 @@
 - <i class="fa-solid fa-book"></i> **Documentation** : https://docs.python.org/
 - <i class="fa-solid fa-file-circle-question"></i> **Changelog** : https://docs.python.org/release/3.12.0/whatsnew/index.html
 - <i class="fa-brands fa-github"></i> **Github** : https://github.com/python
+- <i class="fa-brands fa-dev"></i> **Glossaire Python (officiel)** : https://docs.python.org/3.13/glossary.html
 
 ---
 
@@ -28,6 +29,7 @@
 
 - [Le Zen de Python](developpement/python/le_zen_de_python.md)
 - [Création d'environnements virtuels (python3 -m venv xxx)](developpement/python/creation_d_environnements_virtuels.md)
+- [Comment installer Python 3 sur Rocky Linux 8](developpement/python/comment_installer_python3_rocky_8.md)
 
 </details>
 

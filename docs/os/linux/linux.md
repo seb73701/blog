@@ -26,6 +26,10 @@
 
 <details open>
 
+- [Aide-mémoire des principales commandes](atrier/os/linux_010.md)
+- [Démarrage Système](atrier/os/linux_011.md)
+- [Partitions et système de fichiers](atrier/os/linux_012.md)
+
 </details>
 
 ---

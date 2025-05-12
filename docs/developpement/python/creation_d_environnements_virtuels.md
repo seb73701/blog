@@ -16,11 +16,11 @@ Différentes applications peuvent alors utiliser des environnements virtuels dif
 
 ![python_virtual_env_02.png](../../_media/developpement/python/python_virtual_env_02.png ':size=x300')
 
-?> Un environnement virtuel est un environnement Python semi-isolé qui autorise les paquets à être installés pour une application particulière, plutôt que d'être installés au niveau du système.
+Un environnement virtuel est un environnement Python semi-isolé qui autorise les paquets à être installés pour une application particulière, plutôt que d'être installés au niveau du système.
 
-?> `venv` est l'outil standard pour créer des environnements virtuels, et est intégré à Python depuis la version 3.3. Depuis Python 3.4, il installe aussi `pip` dans tous les environnements virtuels créés.
+`venv` est l'outil standard pour créer des environnements virtuels, et est intégré à Python depuis la version 3.3. Depuis Python 3.4, il installe aussi `pip` dans tous les environnements virtuels créés.
 
-?> `virtualenv` est une alternative tierce à `venv` (*et son prédécesseur*). Elle permet la création d'environnements virtuels pour les versions de Python antérieures à 3.4, qui ne fournissent pas de `venv`, ou ne sont pas capables d'installer automatiquement `pip` dans les environnements créés.
+`virtualenv` est une alternative tierce à `venv` (*et son prédécesseur*). Elle permet la création d'environnements virtuels pour les versions de Python antérieures à 3.4, qui ne fournissent pas de `venv`, ou ne sont pas capables d'installer automatiquement `pip` dans les environnements créés.
 
 ---
 
