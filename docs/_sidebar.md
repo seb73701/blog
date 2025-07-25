@@ -22,7 +22,7 @@
 
 <details>
 <summary>Autres</summary>
-
+* [<i class="fa-solid fa-list"></i> Applications](/apps/apps1.md)
 * [<i class="fa-solid fa-file-code"></i> Anglais](/atrier/anglais.md)
 * [<i class="fa-solid fa-file-code"></i> Templates](/tpl/page-app.md)
 * [<i class="fa-solid fa-file-code"></i> Exemples](/exemple/exemples.md)

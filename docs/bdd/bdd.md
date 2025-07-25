@@ -1,4 +1,4 @@
-# BASES DE DONNEES
+# <i class="fa-solid fa-database"></i> BASES DE DONNEES
 ---
 
 ## <i class="fa-solid fa-hashtag"></i> Information

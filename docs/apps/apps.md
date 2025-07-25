@@ -1,4 +1,5 @@
 # <i class="fa-solid fa-list"></i> APPLICATIONS
+
 ---
 
 ## <i class="fa-solid fa-hashtag"></i> Information
@@ -15,7 +16,7 @@
 - [Adode Acrobat](/apps/adobe_acrobat/adobe_acrobat.md)
 - [Adode Photoshop](/apps/adobe_photoshop/adobe_photoshop.md)
 - [Android Studio](/apps/android_studio/android_studio.md)
-- [Ansible](/apps/ansible/ansible.md)
+- [Ansible](/apps/ansible/ansible.md) <i class="fa-regular fa-circle-check fa-xs" style="color: #63E6BE;"></i>
 - [Apache ActiveMQ](/apps/apache_activemq/apache_activemq.md)
 - [Apache Airflow](/apps/apache_airflow/apache_airflow.md)
 - [Apache Cordova](/apps/apache_cordova/apache_cordova.md)

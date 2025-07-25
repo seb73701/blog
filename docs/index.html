@@ -7,7 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css">
   <!-- docsify-darklight-theme - docsify-themeable styles-->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/style.min.css" type="text/css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="light">
@@ -112,9 +112,9 @@
       // docsify-updated plugin
       timeUpdater: {
         //text: ">Last update time: {docsify-updated}",
-        text: "<div align='left' width='200px' style='color:gray;font-size:12px;padding-top:20px;'>Modified @ {docsify-updated}</div>",
+        text: "<div align='left' width='100%' style='color:gray;font-size:12px;padding-top:20px;text-align:right;'><i class='fa-regular fa-pen-to-square' style='color: grey;'></i> {docsify-updated}</div>",
         formatUpdated: "{YYYY}-{MM}-{DD} {HH}:{mm}",
-        whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
+        whereToPlace: "top",  // "top" or "bottom", default to "bottom"
       },
 
       darklightTheme: {
