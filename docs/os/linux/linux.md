@@ -22,6 +22,16 @@
 
 ---
 
+## <i class="fa-regular fa-newspaper"></i> Commandes Linux
+
+<details open>
+
+- [Commandes Linux](os/linux/commandes/commandes.md)
+
+</details>
+
+---
+
 ## <i class="fa-regular fa-newspaper"></i> Articles
 
 <details open>
