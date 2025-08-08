@@ -8,7 +8,7 @@
 
 > <i class="fa-solid fa-quote-left"></i> Liste des **commandes** classé par ordre alphabétique. <i class="fa-solid fa-quote-left fa-rotate-180"></i>
 
----
+----
 
 <span>
 

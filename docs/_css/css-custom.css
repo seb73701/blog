@@ -1,3 +1,5 @@
 .table_custom {}
 
 .table_custom tr {border: 2px lightcoral solid;}
+
+.sidebar>h1 img {width: 50%;}
