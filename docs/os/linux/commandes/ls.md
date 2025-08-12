@@ -1,4 +1,4 @@
-# LS
+# `LS`
 
 ----
 
@@ -11,6 +11,20 @@ C’est le cas de l’alias `ll` :
 
 ```shell
 alias ll='ls -l --color=auto'
+```
+
+ou taper la commande :
+
+```shell
+$ alias="ls -l"
+```
+
+En tapant la commande `ls`, l'affichage renverra comme si l'on avait taper la commande `ls -l`.
+
+Pour supprimer un alias ajouter, il suffit de taper :
+
+```shell
+$ unalias ls
 ```
 
 ## MAN
@@ -43,6 +57,30 @@ $ ls -lia /home
 |`4096`|Pour les fichiers, il affiche la taille du fichier. Pour les répertoires, il montre la valeur fixe de 4096 octets occupée par le nom du fichier. Pour calculer la taille totale d'un répertoire, utilisez `du -sh rockstar/`|
 |`25 oct. 08:10`|Date de dernière modification.|
 |`rockstar`|Nom du fichier (ou du répertoire).|
+
+</details>
+
+----
+
+### Lister les fichiers en ordre inversé (nom)
+
+<details>
+
+```shell
+$ ls -r
+```
+
+</details>
+
+----
+
+### Lister les fichiers cachés
+
+<details>
+
+```shell
+$ ls -a
+```
 
 </details>
 
@@ -124,7 +162,7 @@ ls -lhS
 
 ----
 
-### format heure/date avec `-l`
+### Formater l'heure/date
 
 <details>
 
@@ -283,5 +321,165 @@ drwxr-xr-x 2 root root  1MB févr. 11  2020 hd-media
 -r-------- 1 root root 17MB mai   31  2019 nuc_buster_luksheader_BU
 -r-------- 1 root root  2MB mai   31  2019 nuc_data_luksheader_BU
 ```
+
+</details>
+
+----
+
+### Ajouter de la couleur dans `ls`
+
+<details>
+
+#### Mise en place
+
+Editer le fichier `~/.bashrc` et y ajoutez :
+
+```shell
+alias ls='ls --color'
+```
+
+#### Code Couleur
+
+| Couleur | Signification |
+|:--------|:--------------|
+| Couleur par défaut du shell | Fichier standard |
+| <span style="color:blue;">Bleu</span> | Répertoire |
+| <span style="color:cyan;">Cyan</span> | Lien symbolique |
+| <span style="color:yellow;">Jaune</span> | Fichier FIFO et block. |
+| <span style="color:magenta;">Magenta</span> | Socket, fichier image (.jpg, .gif, .png, .tiff) et audio (.mp3, .ogg, .wav) |
+| <span style="color:red;">Rouge</span> | Archive (.tar, .zip, .deb, .rpm) |
+| <span style="color:green;">Vert</span> | Exécutable |
+
+#### Personnalisation du code couleur
+
+Il est possible de customiser les couleurs, lancer cette commande :
+
+```shell
+dircolors -p > ~/.ls_couleur
+```
+
+`~/` correspond à `/home/utilisateur/`
+
+Editer le fichier `~/.bashrc` et ajouter la ligne :
+
+```shell
+export LS_COLORS="/home/utilisateur/.ls_couleur"
+```
+
+Modifier le fichier :
+
+```shell
+~/.ls_couleur
+```
+
+#### Modifier la couleur
+
+| Code | Signification | | Code | Couleur d'avant plan | | Code | Couleur d'arrière plan |
+|:----:|:--------------|:--|:---:|:--------------------|:--|:----:|:---------------------|
+| **00** | aucun | | **30** | noir | | **40** | noir |
+| **01** | gras | | **31** | rouge | | **41** | rouge |
+| **04** | souligné | | **32** | vert | | **42** | vert |
+| **05** | clignotant | | **33** | jaune | | **43** | jaune |
+| **07** | inversé | | **34** | bleu | | **44** | bleu |
+| **08** | caché | | **35** | magenta | | **45** | magenta |
+| | | | **36** | cyan | | **46** | cyan |
+| | | | **37** | blanc | | **47** | blanc |
+
+#### Signification des termes
+
+- `NORMAL` : il ne s'agit pas d'un type mais plus exactement de la valeur par défaut
+- `FILE` : fichier normal
+- `DIR` : répertoire
+- `LINK` : lien symbolique
+- `FIFO` : tuyaux
+- `SOCK` : socket
+- `BLK` : fichier périphérique en mode bloc
+- `CHR` : fichier périphérique en mode caractères
+- `ORPHAN` : lien symbolique orphelin (pointant vers un fichier inexistant)
+- `EXEC` : fichier possédant une permission d'exécution
+
+#### Exemples
+
+La ligne `DIR` signifie que le dossier est de couleur **bleu** et **gras**.
+
+```shell
+DIR 01;34 # directory
+```
+
+#### Activer les paramètres
+
+Dès que les modifications sont faites, taper la commande :
+
+```shell
+eval `dircolors /home/utilisateur/.ls_couleur`
+```
+
+Bien sûr, pour prendre en compte ces choix à chaque démarrage, cette ligne devra être incluse dans le fichier `~/.bashrc`.
+
+Si on veut que les modifications se fassent pour tous les utilisateurs, il faudra créer un fichier dans un dossier root par exemple `/etc/` et modifier comme ceci :
+
+```shell
+dircolors -p > /etc/ls_couleur
+```
+
+Ajouter dans le fichier `/etc/profile` :
+
+```shell
+export LS_COLORS="/etc/ls_couleur"
+eval `dircolors /etc/ls_couleur`
+```
+
+Et mettre à jour le profile.
+
+```shell
+source /etc/profile
+```
+
+#### Tableau récapitulatif des codes couleurs
+
+Créer un fichier texte :
+
+```shell
+vim ~/code_couleurs.sh
+```
+
+Copiez/Coller le code ci-dessous :
+
+```shell
+#!/bin/bash 
+esc="\033[" 
+echo -n "      40      41      42      43" 
+echo "      44      45      46      47   " 
+for fore in 30 31 32 33 34 35 36 37; do 
+line1="$fore " 
+line2=" " 
+for back in 40 41 42 43 44 45 46 47; do 
+line1="${line1}${esc}${back};${fore}m Normal ${esc}0m" 
+line2="${line2}${esc}${back};${fore};1m  Bold  ${esc}0m" 
+done 
+echo -e "$line1\n  $line2" 
+done
+```
+
+Ajouter le droit d'exécution :
+
+```shell
+chmod +x ~/code_couleurs.sh
+```
+
+Exécuter le script : 
+
+```shell
+sh ~/code_couleurs.sh
+```
+
+On doit obtenir ceci :
+
+![ls_couleurs](../../../_media/os/linux/ls-couleur.png ':no-zoom')
+
+Sources : 
+- https://doc.ubuntu-fr.org/ls_couleur
+- https://chl.be/glmf/www.linuxmag-france.org/old/lm6/lscoul.html
+- https://itsfoss.com/ls-color-output/
 
 </details>
