@@ -40,6 +40,7 @@
 
 <details>
 
+- [How to use SQL to learn more about your Grafana usage](https://grafana.com/blog/2025/08/08/how-to-use-slq-to-learn-more-about-your-grafana-usage/)
 - [Alerting Engine and Rules Guide on Grafana](https://www.thegeekslearn.com/alerting-engine-and-rules-guide-on-grafana/)
 - [Best Practices for Monitoring Kubernetes using Grafana](https://logz.io/blog/best-practices-for-monitoring-kubernetes-using-grafana/)
 - [Boom Table Panel for Grafana](https://sriramajeyam.com/yesoreyeram-boomtable-panel/)

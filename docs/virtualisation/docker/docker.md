@@ -36,6 +36,7 @@
 
 <details>
 
+- [7 Docker Compose Tricks to Level Up Your Development Workflow](https://dev.to/shrsv/7-docker-compose-tricks-to-level-up-your-development-workflow-14f5?ref=dailydev)
 - [Création d’une image docker: principes et bonnes pratiques](https://xavki.blog/creer-image-docker-bonnes-pratiques/)
 - [Analyses de vulnérabilités des images Docker depuis son Docker Desktop](https://fgtech.medium.com/analyses-de-vuln%C3%A9rabilit%C3%A9s-des-images-docker-depuis-son-docker-desktop-10b9a6b7df8b)
 - [How does Docker ACTUALLY work? The Hard Way: A Comprehensive Technical Deep Diving](https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422)
