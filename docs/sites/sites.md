@@ -155,6 +155,7 @@
 
 ### ADMINISTRATIF
 
+- https://gdpr.eu/
 - http://www.nord.gouv.fr/
 - https://www.gouvernement.fr/
 - https://www.legifrance.gouv.fr/
@@ -188,6 +189,8 @@
 - https://www.cert.ssi.gouv.fr/
 
 ### A TRIER
+- https://www.hirensbootcd.org/download/
+- https://www.ventoy.net/en/index.html
 - https://cssreference.io/
 - https://www.recompile.se/mandos
 - https://manpages.ubuntu.com/manpages/xenial/man8/mandos-ctl.8.html
