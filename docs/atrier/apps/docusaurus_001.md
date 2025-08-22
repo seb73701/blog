@@ -133,4 +133,24 @@ npm start
 
 client (webpack 5.101.3) compiled successfully
 ```
-    
+
+----
+
+### Moteur de recherche
+
+```shell
+npm run swizzle @docusaurus/theme-classic SearchBar
+```
+
+```shell
+root@docusaurus:~/doc-it# npm run swizzle @docusaurus/theme-classic SearchBar
+
+> doc-it@0.0.0 swizzle
+> docusaurus swizzle @docusaurus/theme-classic SearchBar
+
+✔ Which language do you want to use? › JavaScript
+✔ Which swizzle action do you want to do? › Wrap (Safe)
+[SUCCESS] 
+Created wrapper of SearchBar from @docusaurus/theme-classic in 
+- "/root/doc-it/src/theme/SearchBar.js"
+```
