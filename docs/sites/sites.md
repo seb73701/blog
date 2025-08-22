@@ -1,6 +1,11 @@
 # SITES
 
+- https://www.tecmint.com/
+- https://favicon.io/
 - https://last9.io/blog/
+- https://netblocks.org/
+- https://www.theregister.com/
+- https://pikimov.com/
 - https://blog.microlinux.fr/
 - https://developers.redhat.com/blog
 - https://docker-mailserver.github.io/docker-mailserver/latest/
