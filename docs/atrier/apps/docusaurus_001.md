@@ -154,3 +154,15 @@ root@docusaurus:~/doc-it# npm run swizzle @docusaurus/theme-classic SearchBar
 Created wrapper of SearchBar from @docusaurus/theme-classic in 
 - "/root/doc-it/src/theme/SearchBar.js"
 ```
+
+----
+
+## PLUGINS
+
+- https://github.com/flexanalytics/plugin-image-zoom
+- https://github.com/praveenn77/docusaurus-lunr-search
+- https://medium.com/@techwritershub/set-up-and-customize-a-documentation-site-with-docusaurus-ca7e00a398d3
+- https://www.builtatlightspeed.com/category/docusaurus
+- https://github.com/webbertakken/awesome-docusaurus
+- https://docusaurus.io/fr/docs/search#using-local-search
+- https://github.com/webbertakken/awesome-docusaurus#readme
