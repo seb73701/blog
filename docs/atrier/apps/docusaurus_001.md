@@ -166,3 +166,63 @@ Created wrapper of SearchBar from @docusaurus/theme-classic in
 - https://github.com/webbertakken/awesome-docusaurus
 - https://docusaurus.io/fr/docs/search#using-local-search
 - https://github.com/webbertakken/awesome-docusaurus#readme
+
+## FONT AWESOME
+
+Source : https://docs.fontawesome.com/web/use-with/react
+
+Installation des packages :
+
+```shell
+npm i --save @fortawesome/react-fontawesome@latest
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+npm i --save @fortawesome/free-brands-svg-icons
+```
+
+Code à intégrer sur la page : `doc-it/src/components/HomepageFeatures/index.js`
+
+```javascript
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { library } from '@fortawesome/fontawesome-svg-core'
+
+/* import all the icons in Free Solid, Free Regular, and Brands styles */
+import { fas } from '@fortawesome/free-solid-svg-icons'
+import { far } from '@fortawesome/free-regular-svg-icons'
+import { fab } from '@fortawesome/free-brands-svg-icons'
+
+library.add(fas, far, fab)
+```
+
+Pour utiliser des icônes, il faut mettre : 
+
+```javascript
+      <div>
+        <FontAwesomeIcon icon="fa-solid fa-dog" />
+        <FontAwesomeIcon icon="fa-regular fa-circle-user" />
+        <FontAwesomeIcon icon="fa-brands fa-threads" />
+      </div>
+```
+
+Pour la partie customisation, voir ce lien : https://docs.fontawesome.com/web/use-with/react/style
+
+Pour mettre de la couleur, il faut utiliser du code React :
+
+```javascript
+<FontAwesomeIcon icon="fa-solid fa-circle" style={{ color: "red" }} />
+```
+
+ou si l'on souhaite utiliser une feuille de style personnalisée : 
+
+```javascript
+<FontAwesomeIcon icon="fa-solid fa-dog" className={styles.red} />
+```
+
+Mais il faut mettre dans le CSS : 
+
+```css
+.red {
+  color:red;
+}
+```
